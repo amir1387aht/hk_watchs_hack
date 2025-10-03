@@ -1,0 +1,9 @@
+from building import *
+
+cwd = GetCurrentDir()
+inc = [cwd]
+src = Glob('*.c')
+CPPPATH = [cwd + '/../common', cwd]
+group = DefineGroup('Drivers', src, depend = ['LCD_USING_OPM060E9_V10'], CPPPATH = CPPPATH)
+
+Return('group')

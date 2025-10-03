@@ -1,0 +1,11 @@
+Import('RTT_ROOT')
+Import('rtconfig')
+from building import *
+
+cwd = GetCurrentDir()
+src = Glob('*.c')
+CPPPATH = [cwd]
+
+group = DefineGroup('audio', src,depend = ['PKG_USING_VBE_DRC'],CPPPATH = CPPPATH)
+
+Return('group')

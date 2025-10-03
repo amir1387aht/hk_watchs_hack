@@ -1,0 +1,16 @@
+menuconfig RGB_SK6812MINI_HS_ENABLE
+    bool "Enable rgbled"
+    default n
+    if RGB_SK6812MINI_HS_ENABLE
+        config RGB_USING_SK6812MINI_HS_DEV_NAME
+            bool "Enable_RGB_SK6812MINI-HS"
+            default n
+        config RGB_USING_SK6812MINI_HS_PWM_DEV_NAME
+            string "pwm device name"
+            default "pwm4"
+        depends on RGB_USING_SK6812MINI_HS_DEV_NAME
+        config BSP_USING_RGBLED_CH
+            int "Channel"
+            default "4"
+        depends on RGB_USING_SK6812MINI_HS_DEV_NAME
+    endif

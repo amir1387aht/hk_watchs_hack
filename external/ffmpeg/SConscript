@@ -1,0 +1,397 @@
+import os
+from building import *
+import rtconfig
+
+# ---compile config for code size
+# ---compile config, no using menuconfig now
+CONFIG_H263_DECODER_SUPPORT = 0
+CONFIG_AUDIO_USING_FLOAT = 1
+CONFIG_AUDIO_USING_FIXED = 0
+CONFIG_AAC_ENCODER = 0
+CONFIG_FLAC_DECODER = 0
+CONFIG_AAC_DECODER_SUPPORT = 1
+CONFIG_OGG_DECODER_SUPPORT = 0
+
+
+src = []
+inc = []
+common_src = []
+http_src = []
+h263_src = []
+h264_src = []
+audio_src = []
+aac_encoder_src = []
+flac_decoder_src = []
+ogg_decoder_src = []
+# get current directory
+
+cwd = GetCurrentDir()
+inc    += [cwd]
+inc    += [cwd + "/compat"]
+
+common_src  = Glob('./libavutil/*.c')
+common_src += Glob('./compat/*.c')
+common_src += ['./libavcodec/avpacket.c']
+common_src += ['./libavcodec/codec_desc.c']
+common_src += ['./libavcodec/bitstream.c']
+common_src += ['./libavcodec/options_codec.c']
+common_src += ['./libavcodec/parser.c']
+common_src += ['./libavcodec/profiles.c']
+common_src += ['./libavcodec/utils_codec.c']
+common_src += ['./libavcodec/mathtables.c']
+common_src += ['./libavcodec/me_cmp.c']
+common_src += ['./libavcodec/simple_idct.c']
+common_src += ['./libavcodec/ezipdec.c']
+common_src += ['./libavcodec/exif.c']
+common_src += ['./libavcodec/tiff_common.c']
+common_src += ['./libavformat/avidec.c']
+common_src += ['./yuv2rgb/yuv420rgb565c.c']
+common_src += ['./yuv2rgb/yuv2rgb16tab.c']
+common_src += ['./yuv2rgb/yuv420rgb888c.c']
+common_src += ['./yuv2rgb/yuv420rgb8888c.c']
+
+aac_decoder_src = []
+
+aac_decoder_src += ['./libavcodec/aac_ac3_parser.c']
+aac_decoder_src += ['./libavcodec/aac_parser.c']
+aac_decoder_src += ['./libavcodec/aacsbr.c']
+aac_decoder_src += ['./libavcodec/aactab.c']
+aac_decoder_src += ['./libavcodec/sbrdsp.c']
+aac_decoder_src += ['./libavcodec/aacadtsdec.c']
+aac_decoder_src += ['./libavcodec/aacdec.c']
+aac_decoder_src += ['./libavcodec/aacpsdsp_float.c']
+aac_decoder_src += ['./libavcodec/aacps_float.c']
+aac_decoder_src += ['./libavcodec/kbdwin.c']
+aac_decoder_src += ['./libavformat/aacdec_fmt.c']
+aac_decoder_src += ['./libavformat/ape.c']
+aac_decoder_src += ['./libavformat/apetag.c']
+aac_decoder_src += ['./libavformat/img2.c']
+
+if (CONFIG_AUDIO_USING_FIXED==1):
+    aac_decoder_src += ['./libavcodec/aacdec_fixed.c']
+    aac_decoder_src += ['./libavcodec/aacsbr_fixed.c']
+    aac_decoder_src += ['./libavcodec/aacps_fixed.c']
+    aac_decoder_src += ['./libavcodec/sbrdsp_fixed.c']
+    aac_decoder_src += ['./libavcodec/aacpsdsp_fixed.c']
+
+h263_src += ['./libavcodec/hpeldsp.c']
+h263_src += ['./libavcodec/idctdsp.c']
+h263_src += ['./libavcodec/imgconvert.c']
+h263_src += ['./libavcodec/jrevdct.c']
+h263_src += ['./libavcodec/blockdsp.c']
+h263_src += ['./libavcodec/intrax8.c']
+h263_src += ['./libavcodec/intrax8dsp.c']
+h263_src += ['./libavcodec/wmv2dsp.c']
+h263_src += ['./libavcodec/dv_profile.c']
+h263_src += ['./libavcodec/flvdec.c']
+h263_src += ['./libavcodec/h261.c']
+h263_src += ['./libavcodec/h261data.c']
+h263_src += ['./libavcodec/h261dec.c']
+h263_src += ['./libavcodec/h261_parser.c']
+h263_src += ['./libavcodec/h263.c']
+h263_src += ['./libavcodec/h263data.c']
+h263_src += ['./libavcodec/h263dec.c']
+h263_src += ['./libavcodec/h263dsp.c']
+h263_src += ['./libavcodec/h263_parser.c']
+h263_src += ['./libavcodec/intelh263dec.c']
+h263_src += ['./libavcodec/ituh263dec.c']
+h263_src += ['./libavcodec/mpeg4video.c']
+h263_src += ['./libavcodec/mpeg4videodec.c']
+h263_src += ['./libavcodec/mpeg4video_parser.c']
+h263_src += ['./libavcodec/mpegpicture.c']
+h263_src += ['./libavcodec/mpegutils.c']
+h263_src += ['./libavcodec/mpegvideo.c']
+h263_src += ['./libavcodec/mpegvideodata.c']
+h263_src += ['./libavcodec/mpegvideodsp.c']
+h263_src += ['./libavcodec/mpegvideo_motion.c']
+h263_src += ['./libavcodec/mpeg_er.c']
+h263_src += ['./libavcodec/msmpeg4.c']
+h263_src += ['./libavcodec/msmpeg4data.c']
+h263_src += ['./libavcodec/msmpeg4dec.c']
+h263_src += ['./libavcodec/qpeldsp.c']
+h263_src += ['./libavcodec/rl.c']
+h263_src += ['./libavcodec/rv10.c']
+h263_src += ['./libavcodec/wmv2.c']
+h263_src += ['./libavcodec/wmv2dec.c']
+h263_src += ['./libavformat/dv.c']
+h263_src += ['./libavformat/h263dec_fmt.c']
+
+
+
+
+h264_src += ['./libavcodec/cabac.c']
+h264_src += ['./libavcodec/golomb.c']
+h264_src += ['./libavcodec/h264.c']
+h264_src += ['./libavcodec/h264chroma.c']
+h264_src += ['./libavcodec/h264dsp.c']
+h264_src += ['./libavcodec/h264idct.c']
+h264_src += ['./libavcodec/h264pred.c']
+h264_src += ['./libavcodec/h264_cavlc.c']
+h264_src += ['./libavcodec/h264_cabac.c']
+h264_src += ['./libavcodec/h264_direct.c']
+h264_src += ['./libavcodec/h264_loopfilter.c']
+h264_src += ['./libavcodec/h264_mb.c']
+h264_src += ['./libavcodec/h264qpel.c']
+h264_src += ['./libavcodec/h264_parser.c']
+h264_src += ['./libavcodec/h264_picture.c']
+h264_src += ['./libavcodec/h264_ps.c']
+h264_src += ['./libavcodec/h264_refs.c']
+h264_src += ['./libavcodec/h264_sei.c']
+h264_src += ['./libavcodec/h264_slice.c']
+h264_src += ['./libavcodec/startcode.c']
+h264_src += ['./libavcodec/videodsp.c']
+h264_src += ['./libavcodec/error_resilience.c']
+
+
+scale_src = []
+scale_src += ['./libswscale/alphablend.c']
+scale_src += ['./libswscale/gamma.c']
+scale_src += ['./libswscale/hscale.c']
+scale_src += ['./libswscale/hscale_fast_bilinear.c']
+scale_src += ['./libswscale/rgb2rgb.c']
+scale_src += ['./libswscale/scale_utils.c']
+scale_src += ['./libswscale/slice.c']
+scale_src += ['./libswscale/swscale.c']
+scale_src += ['./libswscale/swscale_unscaled.c']
+scale_src += ['./libswscale/vscale.c']
+scale_src += ['./libswscale/yuv2rgb.c']
+scale_src += ['./libswscale/options.c']
+scale_src += ['./libswscale/input.c']
+scale_src += ['./libswscale/output.c']
+
+
+resample_src = []
+resample_src += Glob('./libswresample/audioconvert.c')
+resample_src += Glob('./libswresample/dither.c')
+resample_src += Glob('./libswresample/options_swresample.c')
+resample_src += Glob('./libswresample/rematrix.c')
+resample_src += Glob('./libswresample/resample.c')
+resample_src += Glob('./libswresample/resample_dsp.c')
+resample_src += Glob('./libswresample/swresample.c')
+
+audio_src += ['./libavcodec/mpeg4audio.c']
+audio_src += ['./libavcodec/mpegaudio.c']
+audio_src += ['./libavcodec/mpegaudiodata.c']
+audio_src += ['./libavcodec/mpegaudiodecheader.c']
+audio_src += ['./libavcodec/mpegaudiodsp.c']
+audio_src += ['./libavcodec/mpegaudiodsp_data.c']
+audio_src += ['./libavcodec/dct.c']
+audio_src += ['./libavcodec/mpegaudio_parser.c']
+audio_src += ['./libavcodec/mdct_float.c']
+audio_src += ['./libavcodec/rdft.c']
+audio_src += ['./libavcodec/fft_float.c']
+audio_src += ['./libavcodec/cos_tables.c']
+audio_src += ['./libavcodec/sin_tables.c']
+audio_src += ['./libavcodec/sinwin_tables.c']
+audio_src += ['./libavcodec/fft_init_table.c']
+audio_src += ['./libavcodec/imdct15.c']
+
+if (CONFIG_AUDIO_USING_FIXED==1):
+    audio_src += ['./libavcodec/mdct_fixed.c']
+    audio_src += ['./libavcodec/mdct_fixed_32.c']
+    audio_src += ['./libavcodec/sinwin_fixed_tables.c']
+    audio_src += ['./libavcodec/cos_fixed_tables.c']
+    audio_src += ['./libavcodec/fft_fixed.c']
+    audio_src += ['./libavcodec/fft_fixed_32.c']
+
+mjpeg_src = []
+mjpeg_src += ['./libavcodec/jpegls.c']
+mjpeg_src += ['./libavcodec/jpeglsdec.c']
+mjpeg_src += ['./libavcodec/jpegtables.c']
+mjpeg_src += ['./libavcodec/jrevdct.c']
+mjpeg_src += ['./libavcodec/mjpegdec.c']
+mjpeg_src += ['./libavcodec/mjpegbdec.c']
+mjpeg_src += ['./libavcodec/hpeldsp.c']
+mjpeg_src += ['./libavcodec/blockdsp.c']
+mjpeg_src += ['./libavcodec/idctdsp.c']
+mjpeg_src += ['./libavcodec/imgconvert.c']
+
+
+http_src += ['./libavformat/http.c']
+http_src += ['./libavformat/httpauth.c']
+http_src += ['./libavformat/network.c']
+http_src += ['./libavformat/urldecode.c']
+http_src += ['./libavformat/url.c']
+http_src += ['./libavformat/tcp.c']
+http_src += ['./libavformat/os_support.c']
+
+
+if (CONFIG_AUDIO_USING_FLOAT == 1):
+    audio_src += ['./libavcodec/dct32_float.c']
+    audio_src += ['./libavcodec/mpegaudiodec_float.c']
+    audio_src += ['./libavcodec/mpegaudiodsp_float.c']
+
+if (CONFIG_AUDIO_USING_FIXED == 1):
+    audio_src += ['./libavcodec/mpegaudiodec_fixed.c']
+    audio_src += ['./libavcodec/mpegaudiodsp_fixed.c']
+    audio_src += ['./libavcodec/dct32_fixed.c']
+
+
+
+if (CONFIG_AAC_ENCODER == 1):
+    aac_encoder_src += ['./libavcodec/kbdwin.c']
+    aac_encoder_src += ['./libavcodec/aacenc.c']
+    aac_encoder_src += ['./libavcodec/aaccoder.c']
+    aac_encoder_src += ['./libavcodec/aacenctab.c']
+    aac_encoder_src += ['./libavcodec/aacpsy.c']
+    aac_encoder_src += ['./libavcodec/aactab.c']
+    aac_encoder_src += ['./libavcodec/aacenc_is.c']
+    aac_encoder_src += ['./libavcodec/aacenc_tns.c']
+    aac_encoder_src += ['./libavcodec/aacenc_ltp.c']
+    aac_encoder_src += ['./libavcodec/aacenc_pred.c']
+    aac_encoder_src += ['./libavcodec/psymodel.c']
+    aac_encoder_src += ['./libavcodec/audio_frame_queue.c']
+    aac_encoder_src += ['./libavcodec/iirfilter.c']
+    aac_encoder_src += ['./libavcodec/lpc.c']
+    aac_encoder_src += ['./libavcodec/opus.c']
+    aac_encoder_src += ['./libavcodec/opus_silk.c']
+    aac_encoder_src += ['./libavcodec/opus_celt.c']
+    aac_encoder_src += ['./libavcodec/opusdec.c']
+    aac_encoder_src += ['./libavcodec/vorbis_data.c']
+
+
+ogg_decoder_src += ['./libavcodec/vorbis.c']
+ogg_decoder_src += ['./libavcodec/vorbisdsp.c']
+ogg_decoder_src += ['./libavcodec/vorbisdec.c']
+ogg_decoder_src += ['./libavcodec/vorbisenc.c']
+ogg_decoder_src += ['./libavcodec/vorbis_parser.c']
+ogg_decoder_src += ['./libavcodec/vorbis_data.c']
+
+if (CONFIG_FLAC_DECODER == 1):
+    flac_decoder_src += ['./libavcodec/flac.c']
+    flac_decoder_src += ['./libavcodec/flac_parser.c']
+    flac_decoder_src += ['./libavcodec/flacdata.c']
+    flac_decoder_src += ['./libavcodec/flacdec.c']
+    flac_decoder_src += ['./libavcodec/flacdsp.c']
+
+#demux supoort for play opus file
+demux_src = []
+demux_src += ['./libavformat/riff.c']
+demux_src += ['./libavformat/riffdec.c']
+demux_src += ['./libavcodec/dirac.c']
+demux_src += ['./libavcodec/xiph.c']
+demux_src += ['./libavcodec/raw.c']
+demux_src += ['./libavcodec/allcodecs.c']
+#demux_src += ['./libavcodec/mpeg12data.c']
+demux_src += ['./libavcodec/bitstream_filter.c']
+demux_src += ['./libavcodec/ac3tab.c']
+#demux_src += ['./libavcodec/opus_parser.c']
+
+demux_src += ['./libavformat/id3v2.c']
+demux_src += ['./libavformat/id3v1.c']
+#demux_src += ['./libavformat/riff.c']
+demux_src += ['./libavformat/avio.c']
+demux_src += ['./libavformat/options_avformat.c']
+demux_src += ['./libavformat/format.c']
+#demux_src += ['./libavformat/dump.c']
+demux_src += ['./libavformat/allformats.c']
+demux_src += ['./libavformat/file.c']
+demux_src += ['./libavformat/aviobuf.c']
+demux_src += ['./libavformat/utils_avformat.c']
+demux_src += ['./libavformat/flacdec_avformat.c']
+demux_src += ['./libavformat/rawdec.c']
+demux_src += ['./libavformat/flac_picture.c']
+demux_src += ['./libavformat/replaygain.c']
+demux_src += ['./libavformat/oggdec.c']
+demux_src += ['./libavformat/h264dec.c']
+demux_src += ['./libavformat/metadata.c']
+demux_src += ['./libavformat/mov.c']
+demux_src += ['./libavformat/mov_chan.c']
+demux_src += ['./libavformat/isom.c']
+demux_src += ['./libavformat/qtpalette.c']
+demux_src += ['./libavformat/mp3dec.c']
+demux_src += ['./libavformat/oggparsecelt.c']
+demux_src += ['./libavformat/oggparsedaala.c']
+demux_src += ['./libavformat/oggparsedirac.c']
+demux_src += ['./libavformat/oggparseflac.c']
+demux_src += ['./libavformat/oggparseogm.c']
+demux_src += ['./libavformat/oggparseopus.c']
+demux_src += ['./libavformat/oggparseskeleton.c']
+demux_src += ['./libavformat/oggparsespeex.c']
+demux_src += ['./libavformat/oggparsetheora.c']
+demux_src += ['./libavformat/oggparsevorbis.c']
+demux_src += ['./libavformat/oggparsevp8.c']
+demux_src += ['./libavformat/vorbiscomment.c']
+
+
+
+
+CPPDEFINES = []
+CPPDEFINES += ['HAVE_AV_CONFIG_H']
+CPPDEFINES += ['CONFIG_HARDCODED_TABLES']
+CPPDEFINES += ['CONFIG_NO_DOUBLE']
+
+if (CONFIG_AUDIO_USING_FIXED==0):
+    CPPDEFINES += ['CONFIG_MINI_H264CODE']
+
+# all h264 bit depth need more 150K code size
+#CPPDEFINES += ['CONFIG_LOG_OPEN']
+#CPPDEFINES += ['CONFIG_ALL_DEPTH']
+
+
+LOCAL_CCFLAGS = ''
+
+if not GetDepend('BSP_USING_PC_SIMULATOR'):
+    LOCAL_CCFLAGS += ' -Wno-switch'
+    LOCAL_CCFLAGS += ' -Wno-unused-value'
+    LOCAL_CCFLAGS += ' -Wno-pointer-sign'
+    LOCAL_CCFLAGS += ' -Wno-implicit-int-float-conversion'
+    LOCAL_CCFLAGS += ' -Wno-macro-redefined'
+    LOCAL_CCFLAGS += ' -Wno-string-plus-int'
+    LOCAL_CCFLAGS += ' -Wno-shift-op-parentheses'
+    LOCAL_CCFLAGS += ' -Wno-parentheses'
+    LOCAL_CCFLAGS += ' -Wno-parentheses-equality'
+    LOCAL_CCFLAGS += ' -Wno-constant-conversion'
+    LOCAL_CCFLAGS += ' -Wno-implicit-function-declaration'
+    LOCAL_CCFLAGS += ' -Wno-deprecated-declarations'
+    LOCAL_CCFLAGS += ' -Wno-incompatible-pointer-types-discards-qualifiers'
+    LOCAL_CCFLAGS += ' -Wno-incompatible-pointer-types'
+    LOCAL_CCFLAGS += ' -Wno-deprecated-declarations'
+    LOCAL_CCFLAGS += ' -Wno-int-conversion'
+
+src += common_src + h264_src + audio_src
+src += ogg_decoder_src
+
+#src += resample_src
+#src += aac_encoder_src
+#src += flac_decoder_src
+#src += scale_src
+if (CONFIG_H263_DECODER_SUPPORT == 1):
+    CPPDEFINES += ['CONFIG_H263_DECODER_SUPPORT']
+    src += h263_src
+
+if (CONFIG_AAC_DECODER_SUPPORT == 1):
+    src += aac_decoder_src
+    CPPDEFINES += ['CONFIG_AAC_DECODER_SUPPORT']
+    CPPDEFINES += ['CONFIG_AAC_DECODER']
+    CPPDEFINES += ['CONFIG_MDCT']
+
+if (CONFIG_OGG_DECODER_SUPPORT == 1):
+    CPPDEFINES += ['CONFIG_OGG_DECODER_SUPPORT']
+
+if not GetDepend(['SOC_SF32LB55X']) and GetDepend(['PKG_USING_FFMPEG']):
+    src += demux_src
+
+if GetDepend(['PKG_USING_FFMPEG_MJPEG']):
+    src += mjpeg_src
+    CPPDEFINES += ['CONFIG_MJPEG_DECODER']
+    CPPDEFINES += ['CONFIG_MJPEGB_DECODER']
+
+if GetDepend(['PKG_USING_FFMPEG_HTTP']):
+    CPPDEFINES += ['CONFIG_FFMPEG_HTTP']
+    CPPDEFINES += ['CONFIG_NETWORK']
+    CPPDEFINES += ['CONFIG_HTTP_PROTOCOL']
+    CPPDEFINES += ['CONFIG_TCP_PROTOCOL']
+    src += http_src
+
+if GetDepend(['SOLUTION_RES_BUILT_IN']):
+    CPPDEFINES += ['CONFIG_NAND_PROTOCOL']
+    src += ['./libavformat/nand.c']
+
+#demo
+#src += ['./api-h264-test.c']
+#src += ['./doc/examples/demuxing_decoding.c']
+
+group = DefineGroup('ffmpeg', src, depend = ['PKG_USING_FFMPEG'], CPPPATH = inc, LOCAL_CCFLAGS = LOCAL_CCFLAGS, CPPDEFINES = CPPDEFINES)
+
+Return('group')

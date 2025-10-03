@@ -1,0 +1,2 @@
+python pinmux_butterflipro.py --excel=pinmux.xlsx --type=c > ..\..\drivers\cmsis\butterflipro\bf0_pin_const.c
+python pinmux_butterflipro.py --excel=pinmux.xlsx --type=h > ..\..\drivers\cmsis\butterflipro\bf0_pin_const.h

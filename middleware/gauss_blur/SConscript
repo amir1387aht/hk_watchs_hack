@@ -1,0 +1,13 @@
+from building import * 
+import rtconfig
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd]
+lib = [GroupLibName("gauss")]
+
+obj = DefineGroup('lib_gauss', src, depend = ['USING_GAUSS_BLUR'], CPPPATH = inc, LIBS=lib, LIBPATH=inc)
+Return('obj')

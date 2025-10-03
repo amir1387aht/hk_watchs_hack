@@ -1,0 +1,5 @@
+si SWD
+speed 20000
+r
+loadbin bf0_ap.bin 0
+exit

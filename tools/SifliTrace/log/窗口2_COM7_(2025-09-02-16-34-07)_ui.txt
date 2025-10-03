@@ -1,0 +1,35 @@
+09-02 16:34:07:174    Boot count: 25
+09-02 16:34:07:179    [32m[9787] I/drv.rtc app_watc: Get initial cycles: 1058251 rtc=
+09-02 16:34:07:181    1735689627.0039
+09-02 16:34:07:181    
+09-02 16:34:07:182    [0m
+09-02 16:34:07:185    [32m[9843] I/drv.rtc app_watc: Get initial cycles: 1058251 rtc=1735689600.0039
+09-02 16:34:07:187    
+09-02 16:34:07:187    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+09-02 16:34:07:189    [32m[9878] I/drv.lcd lcd_task: set brightness 100
+09-02 16:34:07:190    [0m[32m[9884] I/drv.lcd lcd_task: display on
+09-02 16:34:07:192    [0m[32m[9889] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-02 16:34:07:193    [0m[9897] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1046.
+09-02 16:34:07:195    [32m[9907] I/APP.FWK.INT app_watc: [MainScreen]
+09-02 16:34:07:196    [0m
+09-02 16:34:07:224    [10186] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 16:34:07:225    [32m[10195] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1046
+09-02 16:34:07:226    [0m[32m[10203] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 200636f0
+09-02 16:34:07:228    [0m[32m[10211] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+09-02 16:34:07:229    [0m[10219] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-02 16:34:07:231    [32m[10227] I/APP.SCHE app_watc: app[MainScreen] do START, 200636f0
+09-02 16:34:07:232    [0m[32m[10234] I/APP.FWK.INT app_watc: [MainScreen]
+09-02 16:34:07:233    [0m[10240] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200636f0] to gui_app_mbx tick:1083.
+09-02 16:34:07:235    [32m[10250] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1083
+09-02 16:34:07:236    [0m[10259] D/APP.SCHE app_watc: app[MainScreen] create page[root] 200637bc
+09-02 16:34:07:237    [10266] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-02 16:34:07:238    [10275] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-02 16:34:07:238    [32m[10284] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 200637bc
+09-02 16:34:07:240    [0m
+09-02 16:34:07:241    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+09-02 16:34:07:243    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 m
+09-02 16:34:07:243    s, vol=70%)
+09-02 16:34:07:251    [32m[10440] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+09-02 16:34:07:253    [0m[32m[10448] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 16:34:07:254    [0m[32m[10454] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-02 16:34:07:256    [0m[10461] D/APP.SCHE app_watc: app_schedule_task done.

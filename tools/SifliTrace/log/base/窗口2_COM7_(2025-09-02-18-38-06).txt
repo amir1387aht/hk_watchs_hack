@@ -1,0 +1,1789 @@
+Get phy blk for 992 fail when read
+[32m[3055] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[3065] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[3076] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[3086] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[3096] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[3107] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[3117] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[3127] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[3138] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[3148] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[3159] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[3169] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[3179] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[3190] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[3200] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[3211] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[3221] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[3232] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[3242] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[3252] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[3263] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[3273] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[3284] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[3294] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[3304] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[3315] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[3325] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[3336] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[3346] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[3356] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[3367] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[3377] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[3388] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[3398] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[3409] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[3419] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 992 fail when read
+[32m[5857] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[5867] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[5877] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[5888] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[5898] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[5908] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[5919] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[5929] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[5940] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[5950] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[5960] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[5971] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[5981] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[5992] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[6002] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[6013] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[6023] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[6033] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[6044] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[6054] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[6065] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[6075] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[6086] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[6096] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[6107] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[6117] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[6127] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[6138] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[6148] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[6159] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[6169] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[6180] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[6190] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[6201] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[6211] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[6221] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[8488] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[8494] I/drv.lcd lcd_task: open
+[0m[32m[8499] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[8504] I/drv.lcd lcd_task: HW open
+[0m[32m[8516] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />[32m[10096] I/NO_TAG lcd_task: SH8603B_Init 
+
+[0mSH8603B_Init_Finish
+[32m[12079] I/NO_TAG lcd_task: 
+ lcd_error  SH8603B_ReadID 0x0 
+
+[0m[32m[12087] I/drv.lcd lcd_task: Found lcd SH8603B id:9c03h
+[0m[32m[12093] I/drv.lcd lcd_task: HW open done.
+[0m[32m[12099] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[12106] I/drv.lcd lcd_task: open done.
+[0m[32m[12111] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[12117] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[12126] I/TOUCH app_watc: Open
+[0m[32m[12131] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[12137] I/TOUCH tp_init: Probe 100078c5
+[0m[32m[12143] I/TOUCH tp_init: touch screen found driver  0x20037514, ft3169
+[0m[32m[12151] I/TOUCH app_watc: Opened.
+[0m[32m[12174] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+[31m[12935] E/drv.ft3169 tp_init: ft3169 id_H=64
+[0m[31m[12942] E/drv.ft3169 tp_init: ft3169 id_L=56
+[0mCrown device initialized successfully
+Boot count: 125
+[32m[14235] I/drv.rtc app_watc: Get initial cycles: 1036307 rtc=1735689625.0039
+
+[0m[32m[14293] I/drv.rtc app_watc: Get initial cycles: 1036307 rtc=1735689600.0039
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[14408] I/drv.lcd lcd_task: set brightness 100
+[0mlcd_debug run  SH8603B_SetBrightness br = 100, bright = 255
+[32m[14420] I/drv.lcd lcd_task: display on
+[0mlcd_debug  SH8603B_DisplayOn
+[32m[14428] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[14437] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:1514.
+[32m[14447] I/APP.FWK.INT app_watc: [Watchface]
+[0m[14733] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[14744] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1514
+[0m[32m[14757] I/APP.SCHE app_watc: app[Watchface] do LOAD, 20064370
+[0m[32m[14768] I/APP.FWK app_watc: finding Watchface in builtin apps...
+[0m[14778] D/APP.SCHE app_watc: app[Watchface] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[14786] I/APP.SCHE app_watc: app[Watchface] do START, 20064370
+[0m[32m[14794] I/APP.FWK.INT app_watc: [Watchface]
+[0m[14800] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20064370] to gui_app_mbx tick:1553.
+[32m[14811] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1553
+[0m[14820] D/APP.SCHE app_watc: app[Watchface] create page[root] 20063ea4
+[14827] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [CREATED] -> [RESUMED]
+[14836] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+[32m[14846] I/APP.SCHE app_watc: page[Watchface][root] do ONSTART, 20063ea4
+[0mencoder1_count:0
+[32m[14875] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063ea4
+[0m[32m[14884] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[14890] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[14897] D/APP.SCHE app_watc: app_schedule_task done.
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[307250] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainMenu] to gui_app_mbx tick:33087.
+[32m[307260] I/APP.FWK.INT timer: [MainMenu]
+[0m[307351] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[307360] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:33087
+[0m[32m[307369] I/APP.SCHE app_watc: app[MainMenu] do LOAD, 20065550
+[0m[32m[307376] I/APP.FWK app_watc: finding MainMenu in builtin apps...
+[0m[307384] D/APP.SCHE app_watc: app[MainMenu] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[307392] I/APP.SCHE app_watc: app[MainMenu] do START, 20065550
+[0m[32m[307400] I/APP.FWK.INT app_watc: [MainMenu]
+[0m[307406] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20065550] to gui_app_mbx tick:33103.
+[32m[307416] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:33103
+[0m[307425] D/APP.SCHE app_watc: app[MainMenu] create page[root] 200654b4
+[307433] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [CREATED] -> [RESUMED]
+[307442] D/APP.SCHE app_watc: Pause all app, and resume to MainMenu app
+[307449] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [RESUMED] -> [PAUSED]
+[32m[307458] I/APP.SCHE app_watc: page[Watchface][root] do ONPAUSE, 20063ea4
+[0m[32m[307468] I/APP.SCHE app_watc: page[MainMenu][root] do ONSTART, 200654b4
+[0m[32m[307486] I/APP.SCHE app_watc: page[MainMenu][root] do ONRESUME, 200654b4
+[0m[32m[307495] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+[32m[307508] I/APP.ANI app_watc: buf = 6052cc30
+[0m[32m[307519] I/APP.ANI app_watc: app_trans_animation_obj_create = 200664bc
+[0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+[32m[307534] I/APP.ANI app_watc: buf = 604c9dd8
+[0m[32m[307668] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066634
+[0m[32m[307677] I/APP.ANI app_watc: Start free run animation
+[0m[32m[307695] I/APP.ANI app_watc: app_trans_animation_setup end, cost=21ms
+
+[0m[32m[307703] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[307711] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[307717] D/APP.SCHE app_watc: app_schedule_task done.
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[32m[310563] I/APP.ANI app_watc: free_run_ready 0 
+
+[0mencoder1_count:-1
+[32m[310866] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[310874] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[310882] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[310892] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066634
+[0mapp_anim_buf_free: 0x604c9dd8
+[32m[310907] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200664bc
+[0mapp_anim_buf_free: 0x6052cc30
+[32m[310926] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[310935] D/APP.SCHE app_watc: --Resume app_schedule_task--
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[314018] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:33817.
+[32m[314029] I/APP.FWK.INT timer: [Watchface]
+[0m[314287] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[314296] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:33817
+[0m[314304] D/APP.SCHE app_watc: Found app[Watchface] in running list. Args are -
+[314313] D/APP.SCHE app_watc: - same. Resume it
+[314318] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+[314325] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [RESUMED] -> [PAUSED]
+[314334] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[314343] I/APP.SCHE app_watc: page[MainMenu][root] do ONPAUSE, 200654b4
+[0m[32m[314352] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063ea4
+[0m[32m[314361] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+[32m[314374] I/APP.ANI app_watc: buf = 6052cc30
+[0m[32m[314385] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+[0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+[32m[314399] I/APP.ANI app_watc: buf = 604c9dd8
+[0mencoder1_count:-1
+[32m[314534] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+[0m[32m[314543] I/APP.ANI app_watc: Start free run animation
+[0m[32m[314557] I/APP.ANI app_watc: app_trans_animation_setup end, cost=21ms
+
+[0m[32m[314566] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[314572] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[314578] D/APP.SCHE app_watc: app_schedule_task done.
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[32m[317433] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[317737] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[317745] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[317754] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[317762] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+[0mapp_anim_buf_free: 0x604c9dd8
+[32m[317778] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+[0mapp_anim_buf_free: 0x6052cc30
+[32m[317797] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[317804] D/APP.SCHE app_watc: --Resume app_schedule_task--
+encoder1_count:-1
+encoder1_count:-1
+[319833] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainMenu] to gui_app_mbx tick:34444.
+[32m[319843] I/APP.FWK.INT timer: [MainMenu]
+[0m[319954] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[319962] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:34444
+[0m[319971] D/APP.SCHE app_watc: Found app[MainMenu] in running list. Args are -
+[319979] D/APP.SCHE app_watc: - same. Resume it
+[319984] D/APP.SCHE app_watc: Pause all app, and resume to MainMenu app
+encoder1_count:-1
+[319996] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [RESUMED] -> [PAUSED]
+[320004] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[320013] I/APP.SCHE app_watc: page[Watchface][root] do ONPAUSE, 20063ea4
+[0m[32m[320022] I/APP.SCHE app_watc: page[MainMenu][root] do ONRESUME, 200654b4
+[0m[32m[320031] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+[32m[320044] I/APP.ANI app_watc: buf = 6052cc30
+[0m[32m[320055] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+[0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+[32m[320069] I/APP.ANI app_watc: buf = 604c9dd8
+[0m[32m[320201] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+[0m[32m[320210] I/APP.ANI app_watc: Start free run animation
+[0m[32m[320228] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[320237] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[320245] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[320251] D/APP.SCHE app_watc: app_schedule_task done.
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[32m[323103] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[323404] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[323411] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[323417] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[323425] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+[0mapp_anim_buf_free: 0x604c9dd8
+[32m[323437] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+[0mapp_anim_buf_free: 0x6052cc30
+[32m[323454] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[323463] D/APP.SCHE app_watc: --Resume app_schedule_task--
+encoder1_count:-1
+[324433] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:34940.
+[32m[324444] I/APP.FWK.INT timer: [Watchface]
+[0m[324449] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[324458] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:34940
+[0m[324467] D/APP.SCHE app_watc: Found app[Watchface] in running list. Args are -
+[324475] D/APP.SCHE app_watc: - same. Resume it
+[324480] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+[324488] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [RESUMED] -> [PAUSED]
+[324497] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[324505] I/APP.SCHE app_watc: page[MainMenu][root] do ONPAUSE, 200654b4
+[0m[32m[324514] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063ea4
+[0m[32m[324523] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+[32m[324536] I/APP.ANI app_watc: buf = 6052cc30
+[0m[32m[324547] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+[0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+[32m[324562] I/APP.ANI app_watc: buf = 604c9dd8
+[0mencoder1_count:-1
+[32m[324696] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+[0m[32m[324705] I/APP.ANI app_watc: Start free run animation
+[0m[32m[324719] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[324728] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[324735] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[324741] D/APP.SCHE app_watc: app_schedule_task done.
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[32m[327583] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[327884] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[327892] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[327901] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[327910] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+[0mapp_anim_buf_free: 0x604c9dd8
+[32m[327928] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+[0mapp_anim_buf_free: 0x6052cc30
+[32m[327942] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[327948] D/APP.SCHE app_watc: --Resume app_schedule_task--
+encoder1_count:-1
+encoder1_count:-1
+[329675] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainMenu] to gui_app_mbx tick:35505.
+[32m[329685] I/APP.FWK.INT timer: [MainMenu]
+[0m[329814] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[329822] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:35505
+[0m[329831] D/APP.SCHE app_watc: Found app[MainMenu] in running list. Args are -
+[329839] D/APP.SCHE app_watc: - same. Resume it
+[329845] D/APP.SCHE app_watc: Pause all app, and resume to MainMenu app
+[329852] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [RESUMED] -> [PAUSED]
+[329861] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[329870] I/APP.SCHE app_watc: page[Watchface][root] do ONPAUSE, 20063ea4
+[0m[32m[329879] I/APP.SCHE app_watc: page[MainMenu][root] do ONRESUME, 200654b4
+[0m[32m[329887] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+[32m[329900] I/APP.ANI app_watc: buf = 6052cc30
+[0m[32m[329911] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+[0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+[32m[329926] I/APP.ANI app_watc: buf = 604c9dd8
+[0m[32m[330058] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+[0m[32m[330067] I/APP.ANI app_watc: Start free run animation
+[0m[32m[330085] I/APP.ANI app_watc: app_trans_animation_setup end, cost=21ms
+
+[0m[32m[330093] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[330101] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[330108] D/APP.SCHE app_watc: app_schedule_task done.
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[32m[332951] I/APP.ANI app_watc: free_run_ready 0 
+
+[0mencoder1_count:-1
+[32m[333255] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[333262] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[333271] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[333281] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+[0mapp_anim_buf_free: 0x604c9dd8
+[32m[333297] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+[0mapp_anim_buf_free: 0x6052cc30
+[32m[333313] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[333323] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[333367] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:35903.
+[32m[333377] I/APP.FWK.INT timer: [Watchface]
+[0m[333403] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[333414] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:35903
+[0m[333425] D/APP.SCHE app_watc: Found app[Watchface] in running list. Args are -
+[333435] D/APP.SCHE app_watc: - same. Resume it
+[333441] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+[333452] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [RESUMED] -> [PAUSED]
+[333463] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[333475] I/APP.SCHE app_watc: page[MainMenu][root] do ONPAUSE, 200654b4
+[0m[32m[333486] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063ea4
+[0m[32m[333498] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+[32m[333516] I/APP.ANI app_watc: buf = 6052cc30
+[0m[32m[333531] I/APP.ANI app_watc: app_trans_animation_obj_create = 200666c4
+[0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+[32m[333550] I/APP.ANI app_watc: buf = 604c9dd8
+[0m[32m[333721] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006629c
+[0m[32m[333729] I/APP.ANI app_watc: Start free run animation
+[0m[32m[333744] I/APP.ANI app_watc: app_trans_animation_setup end, cost=25ms
+
+[0m[32m[333752] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[333759] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[333765] D/APP.SCHE app_watc: app_schedule_task done.
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[32m[336608] I/APP.ANI app_watc: free_run_ready 0 
+
+[0mencoder1_count:-1
+[32m[336910] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[336918] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[336926] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[336935] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006629c
+[0mapp_anim_buf_free: 0x604c9dd8
+[32m[336951] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200666c4
+[0mapp_anim_buf_free: 0x6052cc30
+[32m[336970] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[336977] D/APP.SCHE app_watc: --Resume app_schedule_task--
+encoder1_count:-1
+[338060] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainMenu] to gui_app_mbx tick:36409.
+[32m[338070] I/APP.FWK.INT timer: [MainMenu]
+[0m[338236] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[338244] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:36409
+[0m[338253] D/APP.SCHE app_watc: Found app[MainMenu] in running list. Args are -
+[338261] D/APP.SCHE app_watc: - same. Resume it
+[338266] D/APP.SCHE app_watc: Pause all app, and resume to MainMenu app
+[338274] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [RESUMED] -> [PAUSED]
+[338283] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[338292] I/APP.SCHE app_watc: page[Watchface][root] do ONPAUSE, 20063ea4
+[0m[32m[338300] I/APP.SCHE app_watc: page[MainMenu][root] do ONRESUME, 200654b4
+[0m[32m[338309] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+[32m[338322] I/APP.ANI app_watc: buf = 6052cc30
+[0m[32m[338333] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+[0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+[32m[338348] I/APP.ANI app_watc: buf = 604c9dd8
+[0m[32m[338480] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+[0m[32m[338489] I/APP.ANI app_watc: Start free run animation
+[0m[32m[338507] I/APP.ANI app_watc: app_trans_animation_setup end, cost=21ms
+
+[0m[32m[338515] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[338523] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[338529] D/APP.SCHE app_watc: app_schedule_task done.
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[32m[341381] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[341685] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[341694] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[341703] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[341711] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+[0mapp_anim_buf_free: 0x604c9dd8
+[32m[341726] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+[0mapp_anim_buf_free: 0x6052cc30
+[32m[341744] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[341754] D/APP.SCHE app_watc: --Resume app_schedule_task--
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[351061] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:37811.
+[32m[351071] I/APP.FWK.INT timer: [Watchface]
+[0m[351327] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[351336] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:37811
+[0m[351345] D/APP.SCHE app_watc: Found app[Watchface] in running list. Args are -
+[351355] D/APP.SCHE app_watc: - same. Resume it
+[351362] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+[351371] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [RESUMED] -> [PAUSED]
+[351381] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[351395] I/APP.SCHE app_watc: page[MainMenu][root] do ONPAUSE, 200654b4
+[0m[32m[351406] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063ea4
+[0m[32m[351418] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+[32m[351436] I/APP.ANI app_watc: buf = 6052cc30
+[0m[32m[351474] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006665c
+[0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+[32m[351488] I/APP.ANI app_watc: buf = 604c9dd8
+[0mencoder1_count:-1
+[32m[351640] I/APP.ANI app_watc: app_trans_animation_obj_create = 200663b4
+[0m[32m[351649] I/APP.ANI app_watc: Start free run animation
+[0m[32m[351662] I/APP.ANI app_watc: app_trans_animation_setup end, cost=25ms
+
+[0m[32m[351671] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[351678] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[351684] D/APP.SCHE app_watc: app_schedule_task done.
+encoder1_count:-1
+encoder1_count:-1
+[32m[354133] I/APP.ANI app_watc: free_run_ready 0 
+
+[0mencoder1_count:-1
+[32m[354437] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[354443] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[354450] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[354457] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200663b4
+[0mapp_anim_buf_free: 0x604c9dd8
+[32m[354470] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006665c
+[0mapp_anim_buf_free: 0x6052cc30
+[32m[354487] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[354495] D/APP.SCHE app_watc: --Resume app_schedule_task--
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:0
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+[32m[934121] I/TEST.GPIO tshell: PIN 0, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934132] I/TEST.GPIO tshell: PIN 1, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934143] I/TEST.GPIO tshell: PIN 2, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934155] I/TEST.GPIO tshell: PIN 3, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934165] I/TEST.GPIO tshell: PIN 4, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934176] I/TEST.GPIO tshell: PIN 5, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934187] I/TEST.GPIO tshell: PIN 6, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934197] I/TEST.GPIO tshell: PIN 7, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934208] I/TEST.GPIO tshell: PIN 8, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934218] I/TEST.GPIO tshell: PIN 9, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934229] I/TEST.GPIO tshell: PIN 10, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934240] I/TEST.GPIO tshell: PIN 11, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934251] I/TEST.GPIO tshell: PIN 12, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934262] I/TEST.GPIO tshell: PIN 13, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934272] I/TEST.GPIO tshell: PIN 14, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934283] I/TEST.GPIO tshell: PIN 15, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934294] I/TEST.GPIO tshell: PIN 16, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934305] I/TEST.GPIO tshell: PIN 17, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934316] I/TEST.GPIO tshell: PIN 18, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934327] I/TEST.GPIO tshell: PIN 19, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934338] I/TEST.GPIO tshell: PIN 20, FUNC=0, VAL=0, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934349] I/TEST.GPIO tshell: PIN 21, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934360] I/TEST.GPIO tshell: PIN 22, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934370] I/TEST.GPIO tshell: PIN 23, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934381] I/TEST.GPIO tshell: PIN 24, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934391] I/TEST.GPIO tshell: PIN 25, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=19
+[0m[32m[934404] I/TEST.GPIO tshell: PIN 26, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=1a
+[0m[32m[934417] I/TEST.GPIO tshell: PIN 27, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934428] I/TEST.GPIO tshell: PIN 28, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934439] I/TEST.GPIO tshell: PIN 29, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934450] I/TEST.GPIO tshell: PIN 30, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934461] I/TEST.GPIO tshell: PIN 31, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934471] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934482] I/TEST.GPIO tshell: PIN 33, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934493] I/TEST.GPIO tshell: PIN 34, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=22
+[0m[32m[934506] I/TEST.GPIO tshell: PIN 35, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934517] I/TEST.GPIO tshell: PIN 36, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934528] I/TEST.GPIO tshell: PIN 37, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934538] I/TEST.GPIO tshell: PIN 38, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934549] I/TEST.GPIO tshell: PIN 39, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934560] I/TEST.GPIO tshell: PIN 40, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934571] I/TEST.GPIO tshell: PIN 41, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934581] I/TEST.GPIO tshell: PIN 42, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934592] I/TEST.GPIO tshell: PIN 43, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_IT_FALLING, irqhdr=10007909, arg=0
+[0m[32m[934604] I/TEST.GPIO tshell: PIN 44, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934615] I/TEST.GPIO tshell: PIN 45, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934625] I/TEST.GPIO tshell: PIN 46, FUNC=-1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934636] I/TEST.GPIO tshell: PIN 47, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934647] I/TEST.GPIO tshell: PIN 48, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934657] I/TEST.GPIO tshell: PIN 49, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934668] I/TEST.GPIO tshell: PIN 50, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934678] I/TEST.GPIO tshell: PIN 51, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934689] I/TEST.GPIO tshell: PIN 52, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934700] I/TEST.GPIO tshell: PIN 53, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934711] I/TEST.GPIO tshell: PIN 54, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934721] I/TEST.GPIO tshell: PIN 55, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934732] I/TEST.GPIO tshell: PIN 56, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934743] I/TEST.GPIO tshell: PIN 57, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934754] I/TEST.GPIO tshell: PIN 58, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934765] I/TEST.GPIO tshell: PIN 59, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934775] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934786] I/TEST.GPIO tshell: PIN 61, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934797] I/TEST.GPIO tshell: PIN 62, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934808] I/TEST.GPIO tshell: PIN 63, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934818] I/TEST.GPIO tshell: PIN 64, FUNC=1, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934829] I/TEST.GPIO tshell: PIN 65, FUNC=7, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934840] I/TEST.GPIO tshell: PIN 66, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934851] I/TEST.GPIO tshell: PIN 67, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934861] I/TEST.GPIO tshell: PIN 68, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934872] I/TEST.GPIO tshell: PIN 69, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934883] I/TEST.GPIO tshell: PIN 70, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934894] I/TEST.GPIO tshell: PIN 71, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934904] I/TEST.GPIO tshell: PIN 72, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mencoder1_count:-1
+[32m[934919] I/TEST.GPIO tshell: PIN 73, FUNC=5, VAL=1, UNKNOW, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934930] I/TEST.GPIO tshell: PIN 74, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934940] I/TEST.GPIO tshell: PIN 75, FUNC=5, VAL=1, UNKNOW, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[934951] I/TEST.GPIO tshell: PIN 76, FUNC=5, VAL=1, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934962] I/TEST.GPIO tshell: PIN 77, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934972] I/TEST.GPIO tshell: PIN 78, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934983] I/TEST.GPIO tshell: PIN 79, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[934994] I/TEST.GPIO tshell: PIN 80, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935004] I/TEST.GPIO tshell: PIN 81, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935015] I/TEST.GPIO tshell: PIN 82, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935025] I/TEST.GPIO tshell: PIN 83, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935036] I/TEST.GPIO tshell: PIN 84, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[935064] I/TEST.GPIO tshell: PIN 85, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935084] I/TEST.GPIO tshell: PIN 86, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935095] I/TEST.GPIO tshell: PIN 87, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935106] I/TEST.GPIO tshell: PIN 88, FUNC=1, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935116] I/TEST.GPIO tshell: PIN 89, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[935129] I/TEST.GPIO tshell: PIN 90, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[935140] I/TEST.GPIO tshell: PIN 91, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935151] I/TEST.GPIO tshell: PIN 92, FUNC=4, VAL=1, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935162] I/TEST.GPIO tshell: PIN 93, FUNC=6, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935172] I/TEST.GPIO tshell: PIN 94, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[935183] I/TEST.GPIO tshell: PIN 95, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935194] I/TEST.GPIO tshell: PIN 96, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935205] I/TEST.GPIO tshell: PIN 97, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935216] I/TEST.GPIO tshell: PIN 98, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935226] I/TEST.GPIO tshell: PIN 99, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935237] I/TEST.GPIO tshell: PIN 100, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935248] I/TEST.GPIO tshell: PIN 101, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935259] I/TEST.GPIO tshell: PIN 102, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935270] I/TEST.GPIO tshell: PIN 103, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935281] I/TEST.GPIO tshell: PIN 104, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935292] I/TEST.GPIO tshell: PIN 105, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935303] I/TEST.GPIO tshell: PIN 106, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935314] I/TEST.GPIO tshell: PIN 107, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935325] I/TEST.GPIO tshell: PIN 108, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935336] I/TEST.GPIO tshell: PIN 109, FUNC=4, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935347] I/TEST.GPIO tshell: PIN 110, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935358] I/TEST.GPIO tshell: PIN 111, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935369] I/TEST.GPIO tshell: PIN 112, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935380] I/TEST.GPIO tshell: PIN 113, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935390] I/TEST.GPIO tshell: PIN 114, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935401] I/TEST.GPIO tshell: PIN 115, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935412] I/TEST.GPIO tshell: PIN 116, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935423] I/TEST.GPIO tshell: PIN 117, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935434] I/TEST.GPIO tshell: PIN 118, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935444] I/TEST.GPIO tshell: PIN 119, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935455] I/TEST.GPIO tshell: PIN 120, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935466] I/TEST.GPIO tshell: PIN 121, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935477] I/TEST.GPIO tshell: PIN 122, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935488] I/TEST.GPIO tshell: PIN 123, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935499] I/TEST.GPIO tshell: PIN 124, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935509] I/TEST.GPIO tshell: PIN 125, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935520] I/TEST.GPIO tshell: PIN 126, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935531] I/TEST.GPIO tshell: PIN 127, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935542] I/TEST.GPIO tshell: PIN 128, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935552] I/TEST.GPIO tshell: PIN 129, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935563] I/TEST.GPIO tshell: PIN 130, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935574] I/TEST.GPIO tshell: PIN 131, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935585] I/TEST.GPIO tshell: PIN 132, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935595] I/TEST.GPIO tshell: PIN 133, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935606] I/TEST.GPIO tshell: PIN 134, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935617] I/TEST.GPIO tshell: PIN 135, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935628] I/TEST.GPIO tshell: PIN 136, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935639] I/TEST.GPIO tshell: PIN 137, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935650] I/TEST.GPIO tshell: PIN 138, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935661] I/TEST.GPIO tshell: PIN 139, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935672] I/TEST.GPIO tshell: PIN 140, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935683] I/TEST.GPIO tshell: PIN 141, FUNC=4, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935693] I/TEST.GPIO tshell: PIN 142, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935704] I/TEST.GPIO tshell: PIN 143, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935715] I/TEST.GPIO tshell: PIN 144, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935726] I/TEST.GPIO tshell: PIN 145, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935736] I/TEST.GPIO tshell: PIN 146, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935747] I/TEST.GPIO tshell: PIN 147, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935758] I/TEST.GPIO tshell: PIN 148, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935769] I/TEST.GPIO tshell: PIN 149, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935780] I/TEST.GPIO tshell: PIN 150, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935791] I/TEST.GPIO tshell: PIN 151, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935802] I/TEST.GPIO tshell: PIN 152, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935812] I/TEST.GPIO tshell: PIN 153, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935823] I/TEST.GPIO tshell: PIN 154, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935834] I/TEST.GPIO tshell: PIN 155, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935845] I/TEST.GPIO tshell: PIN 156, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mencoder1_count:-1
+[32m[935859] I/TEST.GPIO tshell: PIN 157, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935870] I/TEST.GPIO tshell: PIN 158, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935881] I/TEST.GPIO tshell: PIN 159, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935892] I/TEST.GPIO tshell: PIN 160, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935902] I/TEST.GPIO tshell: PIN 161, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935913] I/TEST.GPIO tshell: PIN 162, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[935924] I/TEST.GPIO tshell: PIN 163, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1
+encoder1_count:-1

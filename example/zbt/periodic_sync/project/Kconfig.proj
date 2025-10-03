@@ -1,0 +1,12 @@
+#APP specific configuration.
+config CUSTOM_MEM_MAP
+    bool 
+	select custom_mem_map
+	default y    
+
+config PER_ADV_NAME
+	string "Target Periodic Advertising Name"
+	default ""
+	help
+	  Name of target advertising for Periodic Advertising Synchronization.
+      

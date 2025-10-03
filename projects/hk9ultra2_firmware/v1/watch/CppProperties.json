@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "inheritEnvironments": [
+        "msvc_x86"
+      ],
+      "name": "x86-Debug",
+      "includePath": [
+        "${workspaceRoot}\\..\\..\\..\\..\\external\\FlashDB\\inc",
+        "${workspaceRoot}\\..\\..\\..\\..\\rtos\\rtthread\\components\\dfs\\include",
+        "${workspaceRoot}\\..\\..\\..\\..\\customer\\boards\\eh-lb52xu",
+        "${workspaceRoot}\\..\\..\\..\\..\\middleware\\cell_transform",
+        "${workspaceRoot}\\..\\..\\..\\..\\rtos\\rtthread\\components\\drivers\\include",
+        "${workspaceRoot}\\..\\..\\..\\..\\middleware\\include",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\rtos\\rtthread\\bsp\\sifli\\drivers",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\middleware\\lvgl\\lvsf",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\middleware\\lvgl",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\customer\\boards\\include",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\drivers\\Include",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\rtos\\rtthread\\include",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\external\\lvgl_v8",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\external\\lvgl_v8\\src",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\middleware\\lvgl\\lvsf",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\middleware\\bluetooth\\include",
+        "${workspaceRoot}\\..\\..\\..\\..\\..\\SiFli-SDK\\external\\state_machine-latest\\inc",
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\**"
+      ],
+      "defines": [
+        "WIN32",
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "windows-msvc-x86"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+from building import * 
+import rtconfig
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd]
+lib = []
+if GetDepend("DISABLE_LVGL_V9"):
+    lib = [GroupLibName("gif_dec")]
+else:
+    lib = [GroupLibName("gif_dec_v9")]
+
+obj = DefineGroup('lib_gif_dec', src, depend = [''], CPPPATH = inc, LIBS=lib, LIBPATH=inc)
+Return('obj')

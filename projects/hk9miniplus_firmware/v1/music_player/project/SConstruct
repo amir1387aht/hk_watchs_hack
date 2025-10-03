@@ -1,0 +1,52 @@
+import os
+import sys
+import rtconfig
+from building import *
+
+# SCons allow custom command-line options
+from SCons.Script import AddOption, GetOption, Variables
+
+# Add a --add-disk flag
+AddOption(
+    '--add-disk',
+    action='store_true',
+    dest='add_disk',
+    default=False,
+    help='Build and include the filesystem disk image'
+)
+
+# Check SDK
+SIFLI_SDK = os.getenv('SIFLI_SDK')
+if not SIFLI_SDK:
+    print("Please run set_env.bat in root folder of SIFLI SDK to set environment.")
+    Exit(1)
+
+# Prepare environment.
+PrepareEnv()
+
+################################## change rtconfig.xxx to customize build ########################################
+# Add bootloader project
+AddBootLoader(SIFLI_SDK, rtconfig.CHIP)
+
+# Set default compile options
+SifliEnv()
+
+TARGET = rtconfig.OUTPUT_DIR + rtconfig.TARGET_NAME + '.' + rtconfig.TARGET_EXT
+# Prepare building environment
+objs = PrepareBuilding(None)
+env = GetCurrentEnv()
+
+# Build application.
+DoBuilding(TARGET, objs)
+
+# Add flash table build.
+AddFTAB(SIFLI_SDK, rtconfig.CHIP)
+
+# Optionally add filesystem image when --add-disk is passed
+if GetOption('add_disk'):
+    print("[SConscript] --add-disk flag detected, generating filesystem image...")
+    fs_bin = FileSystemBuild("../../disk", env)
+    AddCustomImg("fs_root", bin=[fs_bin])
+
+# Generate download .bat script
+GenDownloadScript(env)

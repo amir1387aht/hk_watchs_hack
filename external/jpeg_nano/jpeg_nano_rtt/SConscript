@@ -1,0 +1,17 @@
+import os
+from building import * 
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = []
+
+if GetDepend('USING_JPEG_NANODEC'):
+    src += ['jpeg_nanod_rtt.c']
+
+# add group to IDE project
+objs = DefineGroup('JpegNano2RTT', src, depend = [''], CPPPATH = inc)
+
+Return('objs')

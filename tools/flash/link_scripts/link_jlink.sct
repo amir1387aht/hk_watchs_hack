@@ -1,0 +1,20 @@
+; Linker Control File (scatter-loading)
+;
+
+PRG 0x20000000            ; Programming Functions
+{
+  PrgCode 0x20000000 +0           ; Code
+  {
+    * (+RO)
+  }
+  PrgData +0           ; Data
+  {
+    * (+RW,+ZI)
+  }
+  DevDscr 0x20030000
+  {
+    FlashDev.o
+  }
+}
+
+

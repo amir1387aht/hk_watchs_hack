@@ -1,0 +1,5 @@
+si SWD
+speed 20000
+w4 0x10000000 0
+r
+exit

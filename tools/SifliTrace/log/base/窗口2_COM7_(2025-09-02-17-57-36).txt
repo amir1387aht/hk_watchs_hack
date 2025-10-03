@@ -1,0 +1,371 @@
+[32m[137853] I/TEST.GPIO tshell: Invalid parameter
+
+[0mmsh />msh />[32m[193191] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[221366] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[232269] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[242048] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[264927] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[275932] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[314665] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[325781] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[338837] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[376705] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[405081] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[430455] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[452004] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[459755] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[480381] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[529294] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[605817] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[640074] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[656405] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[665998] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[674306] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[732739] I/TEST.GPIO tshell: Unknow cmd!
+[0mmsh />msh />[32m[788733] I/TEST.GPIO tshell: Unknow cmd!
+[0mmsh />msh />[32m[851662] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[894207] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[930490] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[956517] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1227158] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1246729] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1258370] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1267908] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1276538] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1283243] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1291250] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1302723] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1318723] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1332107] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1351718] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1395486] I/TEST.GPIO tshell: PIN 0, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1395497] I/TEST.GPIO tshell: PIN 1, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1395508] I/TEST.GPIO tshell: PIN 2, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395519] I/TEST.GPIO tshell: PIN 3, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395529] I/TEST.GPIO tshell: PIN 4, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395540] I/TEST.GPIO tshell: PIN 5, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395551] I/TEST.GPIO tshell: PIN 6, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395561] I/TEST.GPIO tshell: PIN 7, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395572] I/TEST.GPIO tshell: PIN 8, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395582] I/TEST.GPIO tshell: PIN 9, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1395593] I/TEST.GPIO tshell: PIN 10, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395604] I/TEST.GPIO tshell: PIN 11, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1395615] I/TEST.GPIO tshell: PIN 12, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395625] I/TEST.GPIO tshell: PIN 13, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395636] I/TEST.GPIO tshell: PIN 14, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395647] I/TEST.GPIO tshell: PIN 15, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395658] I/TEST.GPIO tshell: PIN 16, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395669] I/TEST.GPIO tshell: PIN 17, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395680] I/TEST.GPIO tshell: PIN 18, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395691] I/TEST.GPIO tshell: PIN 19, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395702] I/TEST.GPIO tshell: PIN 20, FUNC=0, VAL=0, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1395713] I/TEST.GPIO tshell: PIN 21, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395724] I/TEST.GPIO tshell: PIN 22, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395735] I/TEST.GPIO tshell: PIN 23, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395746] I/TEST.GPIO tshell: PIN 24, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395756] I/TEST.GPIO tshell: PIN 25, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=19
+[0m[32m[1395769] I/TEST.GPIO tshell: PIN 26, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=1a
+[0m[32m[1395782] I/TEST.GPIO tshell: PIN 27, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395793] I/TEST.GPIO tshell: PIN 28, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395804] I/TEST.GPIO tshell: PIN 29, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395815] I/TEST.GPIO tshell: PIN 30, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1395826] I/TEST.GPIO tshell: PIN 31, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395837] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395848] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395859] I/TEST.GPIO tshell: PIN 34, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=22
+[0m[32m[1395872] I/TEST.GPIO tshell: PIN 35, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395883] I/TEST.GPIO tshell: PIN 36, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395894] I/TEST.GPIO tshell: PIN 37, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395905] I/TEST.GPIO tshell: PIN 38, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395916] I/TEST.GPIO tshell: PIN 39, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395926] I/TEST.GPIO tshell: PIN 40, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395937] I/TEST.GPIO tshell: PIN 41, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395948] I/TEST.GPIO tshell: PIN 42, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395959] I/TEST.GPIO tshell: PIN 43, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_IT_FALLING, irqhdr=10007909, arg=0
+[0m[32m[1395971] I/TEST.GPIO tshell: PIN 44, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1395982] I/TEST.GPIO tshell: PIN 45, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1395992] I/TEST.GPIO tshell: PIN 46, FUNC=-1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396003] I/TEST.GPIO tshell: PIN 47, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396014] I/TEST.GPIO tshell: PIN 48, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396024] I/TEST.GPIO tshell: PIN 49, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396035] I/TEST.GPIO tshell: PIN 50, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396046] I/TEST.GPIO tshell: PIN 51, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396057] I/TEST.GPIO tshell: PIN 52, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396068] I/TEST.GPIO tshell: PIN 53, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396079] I/TEST.GPIO tshell: PIN 54, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396090] I/TEST.GPIO tshell: PIN 55, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396100] I/TEST.GPIO tshell: PIN 56, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396111] I/TEST.GPIO tshell: PIN 57, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396122] I/TEST.GPIO tshell: PIN 58, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396133] I/TEST.GPIO tshell: PIN 59, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396144] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396155] I/TEST.GPIO tshell: PIN 61, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396165] I/TEST.GPIO tshell: PIN 62, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396176] I/TEST.GPIO tshell: PIN 63, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396187] I/TEST.GPIO tshell: PIN 64, FUNC=3, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1396199] I/TEST.GPIO tshell: PIN 65, FUNC=7, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1396211] I/TEST.GPIO tshell: PIN 66, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396221] I/TEST.GPIO tshell: PIN 67, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396232] I/TEST.GPIO tshell: PIN 68, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396243] I/TEST.GPIO tshell: PIN 69, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396254] I/TEST.GPIO tshell: PIN 70, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396264] I/TEST.GPIO tshell: PIN 71, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396275] I/TEST.GPIO tshell: PIN 72, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396286] I/TEST.GPIO tshell: PIN 73, FUNC=5, VAL=1, DIG_IO_PD, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1396297] I/TEST.GPIO tshell: PIN 74, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396308] I/TEST.GPIO tshell: PIN 75, FUNC=5, VAL=1, DIG_IO_PD, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1396319] I/TEST.GPIO tshell: PIN 76, FUNC=5, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396330] I/TEST.GPIO tshell: PIN 77, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396352] I/TEST.GPIO tshell: PIN 78, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396367] I/TEST.GPIO tshell: PIN 79, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396384] I/TEST.GPIO tshell: PIN 80, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396395] I/TEST.GPIO tshell: PIN 81, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396406] I/TEST.GPIO tshell: PIN 82, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396417] I/TEST.GPIO tshell: PIN 83, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396427] I/TEST.GPIO tshell: PIN 84, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1396438] I/TEST.GPIO tshell: PIN 85, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396449] I/TEST.GPIO tshell: PIN 86, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396460] I/TEST.GPIO tshell: PIN 87, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396471] I/TEST.GPIO tshell: PIN 88, FUNC=1, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396482] I/TEST.GPIO tshell: PIN 89, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[1396494] I/TEST.GPIO tshell: PIN 90, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[1396506] I/TEST.GPIO tshell: PIN 91, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396517] I/TEST.GPIO tshell: PIN 92, FUNC=4, VAL=1, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396529] I/TEST.GPIO tshell: PIN 93, FUNC=6, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396539] I/TEST.GPIO tshell: PIN 94, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1396550] I/TEST.GPIO tshell: PIN 95, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396561] I/TEST.GPIO tshell: PIN 96, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396572] I/TEST.GPIO tshell: PIN 97, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396583] I/TEST.GPIO tshell: PIN 98, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396594] I/TEST.GPIO tshell: PIN 99, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396604] I/TEST.GPIO tshell: PIN 100, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396615] I/TEST.GPIO tshell: PIN 101, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396626] I/TEST.GPIO tshell: PIN 102, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396638] I/TEST.GPIO tshell: PIN 103, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396649] I/TEST.GPIO tshell: PIN 104, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396660] I/TEST.GPIO tshell: PIN 105, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396671] I/TEST.GPIO tshell: PIN 106, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396682] I/TEST.GPIO tshell: PIN 107, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396693] I/TEST.GPIO tshell: PIN 108, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396704] I/TEST.GPIO tshell: PIN 109, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396715] I/TEST.GPIO tshell: PIN 110, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396726] I/TEST.GPIO tshell: PIN 111, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396737] I/TEST.GPIO tshell: PIN 112, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396748] I/TEST.GPIO tshell: PIN 113, FUNC=3, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396759] I/TEST.GPIO tshell: PIN 114, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396770] I/TEST.GPIO tshell: PIN 115, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396781] I/TEST.GPIO tshell: PIN 116, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396792] I/TEST.GPIO tshell: PIN 117, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396803] I/TEST.GPIO tshell: PIN 118, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396814] I/TEST.GPIO tshell: PIN 119, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396824] I/TEST.GPIO tshell: PIN 120, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396835] I/TEST.GPIO tshell: PIN 121, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396846] I/TEST.GPIO tshell: PIN 122, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396857] I/TEST.GPIO tshell: PIN 123, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396868] I/TEST.GPIO tshell: PIN 124, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396879] I/TEST.GPIO tshell: PIN 125, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396891] I/TEST.GPIO tshell: PIN 126, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396901] I/TEST.GPIO tshell: PIN 127, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396912] I/TEST.GPIO tshell: PIN 128, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396923] I/TEST.GPIO tshell: PIN 129, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396934] I/TEST.GPIO tshell: PIN 130, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396945] I/TEST.GPIO tshell: PIN 131, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396956] I/TEST.GPIO tshell: PIN 132, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396967] I/TEST.GPIO tshell: PIN 133, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396978] I/TEST.GPIO tshell: PIN 134, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1396989] I/TEST.GPIO tshell: PIN 135, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397000] I/TEST.GPIO tshell: PIN 136, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397011] I/TEST.GPIO tshell: PIN 137, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397022] I/TEST.GPIO tshell: PIN 138, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397033] I/TEST.GPIO tshell: PIN 139, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397044] I/TEST.GPIO tshell: PIN 140, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397055] I/TEST.GPIO tshell: PIN 141, FUNC=4, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397065] I/TEST.GPIO tshell: PIN 142, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397076] I/TEST.GPIO tshell: PIN 143, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397087] I/TEST.GPIO tshell: PIN 144, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397098] I/TEST.GPIO tshell: PIN 145, FUNC=3, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397109] I/TEST.GPIO tshell: PIN 146, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397120] I/TEST.GPIO tshell: PIN 147, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397131] I/TEST.GPIO tshell: PIN 148, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397142] I/TEST.GPIO tshell: PIN 149, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397153] I/TEST.GPIO tshell: PIN 150, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397164] I/TEST.GPIO tshell: PIN 151, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397175] I/TEST.GPIO tshell: PIN 152, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397185] I/TEST.GPIO tshell: PIN 153, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397196] I/TEST.GPIO tshell: PIN 154, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397207] I/TEST.GPIO tshell: PIN 155, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397218] I/TEST.GPIO tshell: PIN 156, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397230] I/TEST.GPIO tshell: PIN 157, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397241] I/TEST.GPIO tshell: PIN 158, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397252] I/TEST.GPIO tshell: PIN 159, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397263] I/TEST.GPIO tshell: PIN 160, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397274] I/TEST.GPIO tshell: PIN 161, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397285] I/TEST.GPIO tshell: PIN 162, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1397296] I/TEST.GPIO tshell: PIN 163, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1622864] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1637324] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1667581] I/TEST.GPIO tshell: PIN 0, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1667592] I/TEST.GPIO tshell: PIN 1, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1667602] I/TEST.GPIO tshell: PIN 2, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667613] I/TEST.GPIO tshell: PIN 3, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667624] I/TEST.GPIO tshell: PIN 4, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667635] I/TEST.GPIO tshell: PIN 5, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667646] I/TEST.GPIO tshell: PIN 6, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667656] I/TEST.GPIO tshell: PIN 7, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667667] I/TEST.GPIO tshell: PIN 8, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667677] I/TEST.GPIO tshell: PIN 9, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1667688] I/TEST.GPIO tshell: PIN 10, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667699] I/TEST.GPIO tshell: PIN 11, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1667710] I/TEST.GPIO tshell: PIN 12, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667720] I/TEST.GPIO tshell: PIN 13, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667731] I/TEST.GPIO tshell: PIN 14, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667742] I/TEST.GPIO tshell: PIN 15, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667753] I/TEST.GPIO tshell: PIN 16, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667764] I/TEST.GPIO tshell: PIN 17, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667775] I/TEST.GPIO tshell: PIN 18, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667786] I/TEST.GPIO tshell: PIN 19, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667797] I/TEST.GPIO tshell: PIN 20, FUNC=0, VAL=0, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1667808] I/TEST.GPIO tshell: PIN 21, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667819] I/TEST.GPIO tshell: PIN 22, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667830] I/TEST.GPIO tshell: PIN 23, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667841] I/TEST.GPIO tshell: PIN 24, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667851] I/TEST.GPIO tshell: PIN 25, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=19
+[0m[32m[1667864] I/TEST.GPIO tshell: PIN 26, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=1a
+[0m[32m[1667877] I/TEST.GPIO tshell: PIN 27, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667888] I/TEST.GPIO tshell: PIN 28, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667899] I/TEST.GPIO tshell: PIN 29, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667910] I/TEST.GPIO tshell: PIN 30, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1667921] I/TEST.GPIO tshell: PIN 31, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667932] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667943] I/TEST.GPIO tshell: PIN 33, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667954] I/TEST.GPIO tshell: PIN 34, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=22
+[0m[32m[1667967] I/TEST.GPIO tshell: PIN 35, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667978] I/TEST.GPIO tshell: PIN 36, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1667989] I/TEST.GPIO tshell: PIN 37, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668000] I/TEST.GPIO tshell: PIN 38, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668010] I/TEST.GPIO tshell: PIN 39, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668021] I/TEST.GPIO tshell: PIN 40, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668032] I/TEST.GPIO tshell: PIN 41, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668043] I/TEST.GPIO tshell: PIN 42, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668054] I/TEST.GPIO tshell: PIN 43, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_IT_FALLING, irqhdr=10007909, arg=0
+[0m[32m[1668066] I/TEST.GPIO tshell: PIN 44, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1668077] I/TEST.GPIO tshell: PIN 45, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668087] I/TEST.GPIO tshell: PIN 46, FUNC=-1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668098] I/TEST.GPIO tshell: PIN 47, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668109] I/TEST.GPIO tshell: PIN 48, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668120] I/TEST.GPIO tshell: PIN 49, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668130] I/TEST.GPIO tshell: PIN 50, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668141] I/TEST.GPIO tshell: PIN 51, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668152] I/TEST.GPIO tshell: PIN 52, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668163] I/TEST.GPIO tshell: PIN 53, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668174] I/TEST.GPIO tshell: PIN 54, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668184] I/TEST.GPIO tshell: PIN 55, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668195] I/TEST.GPIO tshell: PIN 56, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668206] I/TEST.GPIO tshell: PIN 57, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668217] I/TEST.GPIO tshell: PIN 58, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668228] I/TEST.GPIO tshell: PIN 59, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668239] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668250] I/TEST.GPIO tshell: PIN 61, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668261] I/TEST.GPIO tshell: PIN 62, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668271] I/TEST.GPIO tshell: PIN 63, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668282] I/TEST.GPIO tshell: PIN 64, FUNC=3, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1668293] I/TEST.GPIO tshell: PIN 65, FUNC=7, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1668304] I/TEST.GPIO tshell: PIN 66, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668315] I/TEST.GPIO tshell: PIN 67, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668326] I/TEST.GPIO tshell: PIN 68, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668336] I/TEST.GPIO tshell: PIN 69, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668347] I/TEST.GPIO tshell: PIN 70, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668358] I/TEST.GPIO tshell: PIN 71, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668369] I/TEST.GPIO tshell: PIN 72, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668380] I/TEST.GPIO tshell: PIN 73, FUNC=5, VAL=1, DIG_IO_PD, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1668391] I/TEST.GPIO tshell: PIN 74, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668402] I/TEST.GPIO tshell: PIN 75, FUNC=5, VAL=1, DIG_IO_PD, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1668413] I/TEST.GPIO tshell: PIN 76, FUNC=5, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668424] I/TEST.GPIO tshell: PIN 77, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668435] I/TEST.GPIO tshell: PIN 78, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668445] I/TEST.GPIO tshell: PIN 79, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668456] I/TEST.GPIO tshell: PIN 80, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668467] I/TEST.GPIO tshell: PIN 81, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668478] I/TEST.GPIO tshell: PIN 82, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668488] I/TEST.GPIO tshell: PIN 83, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668499] I/TEST.GPIO tshell: PIN 84, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1668510] I/TEST.GPIO tshell: PIN 85, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668521] I/TEST.GPIO tshell: PIN 86, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668532] I/TEST.GPIO tshell: PIN 87, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668543] I/TEST.GPIO tshell: PIN 88, FUNC=1, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668554] I/TEST.GPIO tshell: PIN 89, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[1668566] I/TEST.GPIO tshell: PIN 90, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[1668578] I/TEST.GPIO tshell: PIN 91, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668589] I/TEST.GPIO tshell: PIN 92, FUNC=4, VAL=1, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668600] I/TEST.GPIO tshell: PIN 93, FUNC=6, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668610] I/TEST.GPIO tshell: PIN 94, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[1668621] I/TEST.GPIO tshell: PIN 95, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668632] I/TEST.GPIO tshell: PIN 96, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668643] I/TEST.GPIO tshell: PIN 97, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668654] I/TEST.GPIO tshell: PIN 98, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668664] I/TEST.GPIO tshell: PIN 99, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668675] I/TEST.GPIO tshell: PIN 100, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668686] I/TEST.GPIO tshell: PIN 101, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668697] I/TEST.GPIO tshell: PIN 102, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668708] I/TEST.GPIO tshell: PIN 103, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668719] I/TEST.GPIO tshell: PIN 104, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668730] I/TEST.GPIO tshell: PIN 105, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668741] I/TEST.GPIO tshell: PIN 106, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668752] I/TEST.GPIO tshell: PIN 107, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668763] I/TEST.GPIO tshell: PIN 108, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668773] I/TEST.GPIO tshell: PIN 109, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668785] I/TEST.GPIO tshell: PIN 110, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668795] I/TEST.GPIO tshell: PIN 111, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668807] I/TEST.GPIO tshell: PIN 112, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668817] I/TEST.GPIO tshell: PIN 113, FUNC=3, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668829] I/TEST.GPIO tshell: PIN 114, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668840] I/TEST.GPIO tshell: PIN 115, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668851] I/TEST.GPIO tshell: PIN 116, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668861] I/TEST.GPIO tshell: PIN 117, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668872] I/TEST.GPIO tshell: PIN 118, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668883] I/TEST.GPIO tshell: PIN 119, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668894] I/TEST.GPIO tshell: PIN 120, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668905] I/TEST.GPIO tshell: PIN 121, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668916] I/TEST.GPIO tshell: PIN 122, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668927] I/TEST.GPIO tshell: PIN 123, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668938] I/TEST.GPIO tshell: PIN 124, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668949] I/TEST.GPIO tshell: PIN 125, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668960] I/TEST.GPIO tshell: PIN 126, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668971] I/TEST.GPIO tshell: PIN 127, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668982] I/TEST.GPIO tshell: PIN 128, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1668993] I/TEST.GPIO tshell: PIN 129, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669004] I/TEST.GPIO tshell: PIN 130, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669015] I/TEST.GPIO tshell: PIN 131, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669026] I/TEST.GPIO tshell: PIN 132, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669036] I/TEST.GPIO tshell: PIN 133, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669047] I/TEST.GPIO tshell: PIN 134, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669059] I/TEST.GPIO tshell: PIN 135, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669069] I/TEST.GPIO tshell: PIN 136, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669080] I/TEST.GPIO tshell: PIN 137, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669091] I/TEST.GPIO tshell: PIN 138, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669103] I/TEST.GPIO tshell: PIN 139, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669113] I/TEST.GPIO tshell: PIN 140, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669124] I/TEST.GPIO tshell: PIN 141, FUNC=4, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669135] I/TEST.GPIO tshell: PIN 142, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669146] I/TEST.GPIO tshell: PIN 143, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669157] I/TEST.GPIO tshell: PIN 144, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669168] I/TEST.GPIO tshell: PIN 145, FUNC=3, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669179] I/TEST.GPIO tshell: PIN 146, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669190] I/TEST.GPIO tshell: PIN 147, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669201] I/TEST.GPIO tshell: PIN 148, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669212] I/TEST.GPIO tshell: PIN 149, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669222] I/TEST.GPIO tshell: PIN 150, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669233] I/TEST.GPIO tshell: PIN 151, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669244] I/TEST.GPIO tshell: PIN 152, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669255] I/TEST.GPIO tshell: PIN 153, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669266] I/TEST.GPIO tshell: PIN 154, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669277] I/TEST.GPIO tshell: PIN 155, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669288] I/TEST.GPIO tshell: PIN 156, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669299] I/TEST.GPIO tshell: PIN 157, FUNC=5, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669311] I/TEST.GPIO tshell: PIN 158, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669321] I/TEST.GPIO tshell: PIN 159, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669332] I/TEST.GPIO tshell: PIN 160, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669343] I/TEST.GPIO tshell: PIN 161, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669354] I/TEST.GPIO tshell: PIN 162, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[1669366] I/TEST.GPIO tshell: PIN 163, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />

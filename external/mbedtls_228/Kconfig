@@ -1,0 +1,19 @@
+
+config PKG_USING_MBEDTLS
+    bool "Seleted MBedTLS"
+    default n
+
+config PKG_USING_MBEDTLS_DEBUG
+    bool "Seleted MBedTLS Debug function"
+    depends on PKG_USING_MBEDTLS
+    default n
+
+config PKG_USING_MBEDTLS_USE_ALL_CERTS
+    bool "Use All cert provided by Mbedtls"
+    depends on PKG_USING_MBEDTLS
+    default n
+    
+config PKG_USING_MBEDTLS_USER_CERTS
+    bool "User provided cert"
+    depends on PKG_USING_MBEDTLS
+    default n

@@ -1,0 +1,25 @@
+import os
+from building import * 
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd + '/common',
+       cwd + '/config',
+       cwd + '/inc',
+       cwd + '/jpeg',
+       cwd + '/../include'
+]
+
+# add driver basic code
+src = src + Glob('./adaptor/*.c')
+
+lib = [GroupLibName("JpegNanoD")]
+libpath = [cwd + '/lib']
+
+# add group to IDE project
+objs = DefineGroup('JpegNanoD', src, depend = ['USING_JPEG_NANODEC'], CPPPATH = inc, LIBS=lib, LIBPATH=libpath)
+
+Return('objs')

@@ -1,0 +1,124 @@
+08-29 13:07:36:676    SFBL
+08-29 13:07:38:607    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+08-29 13:07:38:607    NAND ID 0x21aaef
+08-29 13:07:38:607    det bbm table with 1, 1, 2
+08-29 13:07:38:607    detect result 2
+08-29 13:07:38:607    V1 1 in block 992, V2 0 in block 994
+08-29 13:07:38:607    Latest version 1
+08-29 13:07:38:607    V1 1 in block 993, V2 0 in block 995
+08-29 13:07:38:607    Latest version 1
+08-29 13:07:38:607    v1 1 in blk 992, v2 1 in block 993
+08-29 13:07:38:607    BBM MEM: ctx 2000b204, map1 2000adf4, map2 2000affc 
+08-29 13:07:38:607    sif_bbm_init done
+08-29 13:07:38:607    
+08-29 13:07:38:607     \ | /
+08-29 13:07:38:607    - SiFli Corporation
+08-29 13:07:38:607     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+08-29 13:07:38:607     2020 - 2022 Copyright by SiFli team
+08-29 13:07:38:607    mount /dev sucess
+08-29 13:07:38:607    [I/drv.rtc] PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+08-29 13:07:38:607    [I/drv.rtc] RC10K Freq=9kHz, cycle=1058231, rtc ppm=0
+08-29 13:07:38:622    
+08-29 13:07:38:622    [I/drv.rtc] DIVA=35, DIVA_FRA=7152, DIVB=256
+08-29 13:07:38:622    
+08-29 13:07:38:622    [I/drv.rtc] Init RTC, wake = 0
+08-29 13:07:38:622    
+08-29 13:07:38:622    NAND factory magic error 0xffffffff vs 0x53450617
+08-29 13:07:38:622    [I/drv.audprc] init 00 ADC_PATH_CFG0 0x606
+08-29 13:07:38:622    
+08-29 13:07:38:622    [I/drv.audprc] HAL_AUDPRC_Init res 0
+08-29 13:07:38:622    
+08-29 13:07:38:622    [I/drv.audcodec] HAL_AUDCODEC_Init res 0
+08-29 13:07:38:622    
+08-29 13:07:38:622    [32m[I/TOUCH] Regist touch screen driver, probe=10006491 [0m
+08-29 13:07:38:622    call par CFG1(3313)
+08-29 13:07:38:622    fc 9, xtal 2000, pll 2019
+08-29 13:07:38:622    call par CFG1(3313)
+08-29 13:07:38:622    fc 9, xtal 2000, pll 2019
+08-29 13:07:38:638    msh />
+08-29 13:07:40:830 TX:pin status 32
+08-29 13:07:40:830    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:40:830    msh />msh />
+08-29 13:07:44:866 TX:pin status 32
+08-29 13:07:44:866    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:44:881    msh />msh />
+08-29 13:07:46:175 TX:pin status 32
+08-29 13:07:46:183    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:46:186    msh />msh />
+08-29 13:07:47:309 TX:pin status 32
+08-29 13:07:47:309    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:47:319    msh />msh />
+08-29 13:07:48:633 TX:pin status 32
+08-29 13:07:48:647    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:48:647    msh />msh />
+08-29 13:07:49:163 TX:pin status 32
+08-29 13:07:49:174    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:49:174    msh />msh />
+08-29 13:07:50:110 TX:pin status 32
+08-29 13:07:50:110    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:50:110    msh />msh />
+08-29 13:07:50:507 TX:pin status 32
+08-29 13:07:50:517    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:50:521    msh />msh />
+08-29 13:07:50:923 TX:pin status 32
+08-29 13:07:50:933    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:50:933    msh />msh />
+08-29 13:07:53:194 TX:pin status 32
+08-29 13:07:53:194    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:53:210    msh />msh />
+08-29 13:07:54:253 TX:
+08-29 13:07:54:263    msh />msh />
+08-29 13:07:54:685 TX:pin status 32
+08-29 13:07:54:694    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:54:694    msh />msh />
+08-29 13:07:56:538 TX:pin status 32
+08-29 13:07:56:538    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:56:553    msh />msh />
+08-29 13:07:57:458 TX:pin status 32
+08-29 13:07:57:458    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:57:467    msh />msh />
+08-29 13:07:59:021 TX:pin status 32
+08-29 13:07:59:021    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:07:59:032    msh />msh />
+08-29 13:08:01:497 TX:pin status 32
+08-29 13:08:01:497    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:01:497    msh />msh />
+08-29 13:08:02:913 TX:pin status 32
+08-29 13:08:02:913    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:02:923    msh />msh />
+08-29 13:08:04:030 TX:pin status 32
+08-29 13:08:04:030    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:04:040    msh />msh />
+08-29 13:08:05:074 TX:pin status 32
+08-29 13:08:05:074    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:05:083    msh />msh />
+08-29 13:08:06:012 TX:pin status 32
+08-29 13:08:06:021    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:06:025    msh />msh />
+08-29 13:08:07:570 TX:pin status 32
+08-29 13:08:07:570    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:07:585    msh />msh />
+08-29 13:08:09:094 TX:pin status 32
+08-29 13:08:09:109    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:09:109    msh />msh />
+08-29 13:08:10:830 TX:pin status 32
+08-29 13:08:10:830    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:10:841    msh />msh />
+08-29 13:08:12:411 TX:pin status 32
+08-29 13:08:12:427    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:12:427    msh />msh />
+08-29 13:08:13:990 TX:pin status 32
+08-29 13:08:13:990    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:13:990    msh />msh />
+08-29 13:08:16:234 TX:pin status 32
+08-29 13:08:16:234    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:16:234    msh />msh />
+08-29 13:08:17:573 TX:pin status 32
+08-29 13:08:17:579    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:17:583    msh />msh />
+08-29 13:08:19:047 TX:pin status 32
+08-29 13:08:19:047    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:19:047    msh />msh />
+08-29 13:08:20:242 TX:pin status 32
+08-29 13:08:20:251    [I/TEST.GPIO] PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+08-29 13:08:20:257    msh />msh />

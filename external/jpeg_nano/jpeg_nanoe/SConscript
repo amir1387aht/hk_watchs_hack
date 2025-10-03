@@ -1,0 +1,22 @@
+import os
+from building import * 
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd + '/inc',
+       cwd + '/../include'
+]
+
+# add driver basic code
+src = src + Glob('./adaptor/*.c')
+
+lib = [GroupLibName("JpegNanoE")]
+libpath = [cwd + '/lib']
+
+# add group to IDE project
+objs = DefineGroup('JpegNanoE', src, depend = ['USING_JPEG_NANOENC'], CPPPATH = inc, LIBS=lib, LIBPATH=libpath)
+
+Return('objs')

@@ -1,0 +1,2159 @@
+08-28 21:25:02:454    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000080
+08-28 21:25:02:455    NAND ID 0x7171cd
+08-28 21:25:02:456    det bbm table with 1, 1, 2
+08-28 21:25:02:456    detect result 2
+08-28 21:25:02:457    V1 1 in block 992, V2 0 in block 994
+08-28 21:25:02:458    Latest version 1
+08-28 21:25:02:458    V1 1 in block 993, V2 0 in block 995
+08-28 21:25:02:459    Latest version 1
+08-28 21:25:02:460    v1 1 in blk 992, v2 1 in block 993
+08-28 21:25:02:461    BBM MEM: ctx 20036a04, map1 200365f4, map2 200367fc 
+08-28 21:25:02:461    sif_bbm_init done
+08-28 21:25:02:462    
+08-28 21:25:02:462     \ | /
+08-28 21:25:02:463    - SiFli Corporation
+08-28 21:25:02:463     / | \     build on Aug 28 2025, 2.4.0 build 34b93d96
+08-28 21:25:02:465     2020 - 2022 Copyright by SiFli team
+08-28 21:25:02:465    cal data cc_mn:10 cc_mp:18 cv_vctrl:36 prog_vlp2:9
+08-28 21:25:02:466    mount /dev sucess
+08-28 21:25:02:466    [32m[401] I/drv.rtc main: PSCLR=0x25402500 DivAI=37 DivAF=4105 B=256
+08-28 21:25:02:467    [0m[32m[409] I/drv.rtc main: RC10K Freq=9kHz, cycle=1006712, rtc ppm=0
+08-28 21:25:02:468    
+08-28 21:25:02:469    [0m[32m[417] I/drv.rtc main: DIVA=37, DIVA_FRA=4096, DIVB=256
+08-28 21:25:02:470    
+08-28 21:25:02:471    [0m[32m[424] I/drv.rtc main: Init RTC, wake = 1
+08-28 21:25:02:472    
+08-28 21:25:02:472    [0mNAND factory magic error 0xffffffff vs 0x53450617
+08-28 21:25:02:474    [32m[439] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+08-28 21:25:02:475    
+08-28 21:25:02:475    [0m[32m[445] I/drv.audprc main: HAL_AUDPRC_Init res 0
+08-28 21:25:02:476    
+08-28 21:25:02:477    [0m[32m[452] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+08-28 21:25:02:478    
+08-28 21:25:02:478    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+08-28 21:25:02:480    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-28 21:25:02:481    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-28 21:25:02:483    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-28 21:25:02:486    [32m[500] I/TOUCH main: Regist touch screen driver, probe=0x10007765 
+08-28 21:25:02:487    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+08-28 21:25:02:487    call par CFG1(3313)
+08-28 21:25:02:488    fc 9, xtal 2000, pll 2090
+08-28 21:25:02:488    call par CFG1(3313)
+08-28 21:25:02:488    fc 7, xtal 2000, pll 1675
+08-28 21:25:02:489    mount fs[yaffs] on / failed.
+08-28 21:25:02:489    [32m[569] I/drv.lcd app_watc: [NONE] -> [OPENING]
+08-28 21:25:02:489    [0m[32m[575] I/drv.lcd lcd_task: open
+08-28 21:25:02:490    [0m[32m[580] I/drv.epic lcd_task: drv_gpu opened.
+08-28 21:25:02:490    [0m[32m[586] I/drv.lcd lcd_task: HW open
+08-28 21:25:02:490    [0m[32m[597] I/drv.lcd lcd_task: Try registered LCD driver...
+08-28 21:25:02:491    [0mmsh />
+08-28 21:25:02:553    
+08-28 21:25:02:554    CO5300_ReadID 0x0 
+08-28 21:25:02:555    
+08-28 21:25:02:555    CO5300_ReadID 0x0 
+08-28 21:25:02:556    [32m[1268] I/drv.lcd lcd_task: Try lcd co5300, read id:0h, expect:331100h
+08-28 21:25:02:556    [0m[33m[1277] W/drv.lcd lcd_task: unknow lcd!
+08-28 21:25:02:556    [0m[32m[1282] I/drv.lcd lcd_task: HW open done.
+08-28 21:25:02:557    [0m[32m[1287] I/drv.lcd lcd_task: Close LCD to save power
+08-28 21:25:02:557    [0m[32m[1294] I/drv.lcd lcd_task: HW close
+08-28 21:25:02:558    [0m[32m[1299] I/drv.lcd lcd_task: HW close done.
+08-28 21:25:02:558    [0m[32m[1304] I/drv.lcd lcd_task: [OPENING] -> [NOT_FIND]
+08-28 21:25:02:559    [0m[32m[1311] I/drv.lcd lcd_task: open done.
+08-28 21:25:02:559    [0m[32m[1316] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+08-28 21:25:02:560    [0m[32m[1323] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+08-28 21:25:02:560    [0m[32m[1331] I/TOUCH app_watc: Open
+08-28 21:25:02:561    [0m[32m[1336] I/TOUCH tp_init: Find touch screen driver...
+08-28 21:25:02:562    [0m[32m[1343] I/TOUCH tp_init: Probe 10007765
+08-28 21:25:02:562    [0m[32m[1348] I/drv.chsc6417 tp_init: chsc6417 probe OK
+08-28 21:25:02:563    [0m[32m[1354] I/TOUCH tp_init: touch screen found driver  0x20036444, chsc6417
+08-28 21:25:02:564    [0m[1363] D/drv.chsc6417 tp_init: chsc6417 init
+08-28 21:25:02:564    chsc6417 id=0x0
+08-28 21:25:02:565    [32m[1371] I/drv.chsc6417 tp_init: chsc6417 probe OK
+08-28 21:25:02:565    [0m[1377] D/drv.chsc6417 tp_init: chsc6417 init OK
+08-28 21:25:02:567    [32m[1383] I/TOUCH app_watc: Opened.
+08-28 21:25:02:568    [0m[32m[1406] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+08-28 21:25:02:570    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+08-28 21:25:02:571    
+08-28 21:25:02:771    [3336] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:310.
+08-28 21:25:02:773    [32m[3346] I/APP.FWK.INT app_watc: [MainScreen]
+08-28 21:25:02:774    [0m
+08-28 21:25:02:802    [3637] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-28 21:25:02:803    [32m[3646] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:310
+08-28 21:25:02:804    [0m[32m[3654] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20048370
+08-28 21:25:02:804    [0m[32m[3662] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+08-28 21:25:02:806    [0m[3670] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+08-28 21:25:02:806    [32m[3679] I/APP.SCHE app_watc: app[MainScreen] do START, 20048370
+08-28 21:25:02:807    [0m[32m[3686] I/APP.FWK.INT app_watc: [MainScreen]
+08-28 21:25:02:808    [0m[3692] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20048370] to gui_app_mbx tick:347.
+08-28 21:25:02:809    [32m[3703] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:347
+08-28 21:25:02:810    [0m[3712] D/APP.SCHE app_watc: app[MainScreen] create page[root] 2004843c
+08-28 21:25:02:811    [3719] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+08-28 21:25:02:812    [3728] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-28 21:25:02:813    [32m[3738] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 2004843c
+08-28 21:25:02:815    [0m
+08-28 21:25:02:816    [Music] Track Set: Default Song T - Demo Artist (150 sec)
+08-28 21:25:02:817    [Music] Playing: Default Song T - Dem
+08-28 21:25:02:818    o Artist
+08-28 21:25:02:824    [32m[3845] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 2004843c
+08-28 21:25:02:825    [0m[32m[3854] I/APP.SCHE app_watc: Try setup trans-anim
+08-28 21:25:02:826    [0m[32m[3860] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+08-28 21:25:02:827    [0m[3867] D/APP.SCHE app_watc: app_schedule_task do
+08-28 21:25:02:827    ne.
+08-28 21:25:09:711    [69526] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:712    
+08-28 21:25:09:713    [69533] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:713    event=2, X=175, Y=199
+08-28 21:25:09:724    [69647] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:724    
+08-28 21:25:09:725    [69653] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:725    event=2, X=175, 
+08-28 21:25:09:726    Y=199
+08-28 21:25:09:736    [69767] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:737    
+08-28 21:25:09:738    [69774] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:739    event=2, X=175, Y=199
+08-28 21:25:09:749    [69888] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:750    
+08-28 21:25:09:751    [69894] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:752    event=2, X=175, Y=198
+08-28 21:25:09:762    [70009] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:763    
+08-28 21:25:09:763    [70015] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:764    event=2, X=175, Y=198
+08-28 21:25:09:775    [70130] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:775    
+08-28 21:25:09:776    [70136] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:776    event=2, X=175, 
+08-28 21:25:09:777    Y=198
+08-28 21:25:09:787    [70250] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:787    
+08-28 21:25:09:788    [70257] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:788    event=2, X=175, 
+08-28 21:25:09:789    Y=198
+08-28 21:25:09:800    [70371] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:801    
+08-28 21:25:09:801    [70377] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:802    event=2, X=175, 
+08-28 21:25:09:802    Y=197
+08-28 21:25:09:813    [70492] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:813    
+08-28 21:25:09:814    [70498] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:815    event=2, X=175, 
+08-28 21:25:09:815    Y=195
+08-28 21:25:09:825    [70612] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:825    
+08-28 21:25:09:826    [70619] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:827    event=2, X=176, 
+08-28 21:25:09:828    Y=191
+08-28 21:25:09:837    [70733] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:838    
+08-28 21:25:09:838    [70739] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:839    event=2, X=177, 
+08-28 21:25:09:841    Y=186
+08-28 21:25:09:851    [70853] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:851    
+08-28 21:25:09:851    [70860] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:852    event=2, X=178, 
+08-28 21:25:09:853    Y=179
+08-28 21:25:09:863    [70974] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:863    
+08-28 21:25:09:864    [70980] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:864    event=2, X=179, 
+08-28 21:25:09:865    Y=172
+08-28 21:25:09:876    [71094] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:876    
+08-28 21:25:09:877    [71101] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:878    event=2, X=179, 
+08-28 21:25:09:878    Y=165
+08-28 21:25:09:888    [71215] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:889    
+08-28 21:25:09:890    [71221] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:890    event=2, X=180, Y=159
+08-28 21:25:09:901    [71335] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:901    
+08-28 21:25:09:902    [71342] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:903    event=2, X=180, Y=153
+08-28 21:25:09:914    [71456] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:914    
+08-28 21:25:09:915    [71462] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:915    event=2, X=180, 
+08-28 21:25:09:916    Y=147
+08-28 21:25:09:930    [71576] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:933    
+08-28 21:25:09:933    [71583] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:934    event=2, X=180, Y=143
+08-28 21:25:09:939    [71697] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:939    
+08-28 21:25:09:939    [71703] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:940    event=2, X=181, 
+08-28 21:25:09:940    Y=138
+08-28 21:25:09:951    [71817] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:951    
+08-28 21:25:09:952    [71824] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:952    event=2, X=181, 
+08-28 21:25:09:954    Y=135
+08-28 21:25:09:963    [71938] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:965    
+08-28 21:25:09:965    [71945] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:967    event=2, X=181, Y=132
+08-28 21:25:09:976    [72058] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:978    
+08-28 21:25:09:978    [72065] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:979    event=2, X=181, 
+08-28 21:25:09:979    Y=129
+08-28 21:25:09:989    [72179] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:09:990    
+08-28 21:25:09:990    [72185] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:09:991    event=2, X=181, 
+08-28 21:25:09:991    Y=126
+08-28 21:25:10:002    [72299] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:002    
+08-28 21:25:10:003    [72306] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:004    event=2, X=180, 
+08-28 21:25:10:004    Y=124
+08-28 21:25:10:014    [72420] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:015    
+08-28 21:25:10:015    [72426] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:016    event=2, X=180, 
+08-28 21:25:10:017    Y=121
+08-28 21:25:10:027    [72540] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:028    
+08-28 21:25:10:028    [72547] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:029    event=2, X=180, 
+08-28 21:25:10:029    Y=120
+08-28 21:25:10:039    [72661] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:041    
+08-28 21:25:10:041    [72667] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:042    event=2, X=180, Y=118
+08-28 21:25:10:052    [72781] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:052    
+08-28 21:25:10:053    [72788] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:054    event=2, X=180, 
+08-28 21:25:10:055    Y=117
+08-28 21:25:10:065    [72902] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:066    
+08-28 21:25:10:066    [72908] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:067    event=2, X=180, 
+08-28 21:25:10:068    Y=116
+08-28 21:25:10:078    [73022] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:078    
+08-28 21:25:10:079    [73029] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:079    event=2, X=180, 
+08-28 21:25:10:080    Y=115
+08-28 21:25:10:090    [73142] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:091    
+08-28 21:25:10:091    [73149] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:092    event=2, X=180, 
+08-28 21:25:10:092    Y=114
+08-28 21:25:10:103    [73263] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:103    
+08-28 21:25:10:104    [73269] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:105    event=2, X=180, 
+08-28 21:25:10:105    Y=114
+08-28 21:25:10:115    [73383] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:116    
+08-28 21:25:10:116    [73389] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:118    event=2, X=180, 
+08-28 21:25:10:118    Y=114
+08-28 21:25:10:129    [73503] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:129    
+08-28 21:25:10:130    [73509] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:130    event=2, X=180, 
+08-28 21:25:10:131    Y=114
+08-28 21:25:10:141    [73623] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:142    
+08-28 21:25:10:142    [73629] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:143    event=2, X=180, 
+08-28 21:25:10:143    Y=114
+08-28 21:25:10:153    [73743] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:154    
+08-28 21:25:10:154    [73749] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:156    event=2, X=180, Y=115
+08-28 21:25:10:166    [73863] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:167    
+08-28 21:25:10:167    [73870] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:168    event=2, X=181, 
+08-28 21:25:10:168    Y=116
+08-28 21:25:10:178    [73983] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:179    
+08-28 21:25:10:179    [73990] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:180    event=2, X=181, Y=118
+08-28 21:25:10:191    [74104] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:191    
+08-28 21:25:10:192    [74110] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:193    event=2, X=182, 
+08-28 21:25:10:193    Y=121
+08-28 21:25:10:203    [74224] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:205    
+08-28 21:25:10:205    [74230] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:206    event=2, X=183, 
+08-28 21:25:10:206    Y=126
+08-28 21:25:10:216    [74344] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:216    
+08-28 21:25:10:217    [74350] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:217    event=2, X=185, 
+08-28 21:25:10:219    Y=131
+08-28 21:25:10:228    [74464] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:230    
+08-28 21:25:10:230    [74470] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:231    event=2, X=187, 
+08-28 21:25:10:231    Y=137
+08-28 21:25:10:242    [74584] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:242    
+08-28 21:25:10:243    [74590] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:243    event=2, X=189, 
+08-28 21:25:10:244    Y=143
+08-28 21:25:10:253    [74704] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:255    
+08-28 21:25:10:255    [74711] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:256    event=2, X=190, 
+08-28 21:25:10:256    Y=149
+08-28 21:25:10:266    [74824] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:266    
+08-28 21:25:10:268    [74831] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:268    event=2, X=192, 
+08-28 21:25:10:269    Y=155
+08-28 21:25:10:280    [74944] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:280    
+08-28 21:25:10:281    [74950] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:282    event=2, X=193, 
+08-28 21:25:10:282    Y=159
+08-28 21:25:10:292    [75064] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:292    
+08-28 21:25:10:293    [75071] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:294    event=2, X=195, 
+08-28 21:25:10:294    Y=164
+08-28 21:25:10:305    [75185] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:305    
+08-28 21:25:10:305    [75191] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:306    event=2, X=196, 
+08-28 21:25:10:307    Y=168
+08-28 21:25:10:317    [75305] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:318    
+08-28 21:25:10:318    [75311] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:319    event=2, X=197, 
+08-28 21:25:10:319    Y=171
+08-28 21:25:10:329    [75425] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:330    
+08-28 21:25:10:330    [75431] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:332    event=2, X=198, Y=174
+08-28 21:25:10:342    [75545] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:343    
+08-28 21:25:10:343    [75552] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:344    event=2, X=199, 
+08-28 21:25:10:344    Y=176
+08-28 21:25:10:355    [75665] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:356    
+08-28 21:25:10:357    [75672] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:357    event=2, X=200, Y=178
+08-28 21:25:10:367    [75786] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:367    
+08-28 21:25:10:368    [75792] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:369    event=2, X=201, 
+08-28 21:25:10:369    Y=180
+08-28 21:25:10:380    [75906] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:380    
+08-28 21:25:10:381    [75912] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:382    event=2, X=201, 
+08-28 21:25:10:382    Y=182
+08-28 21:25:10:393    [76026] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:393    
+08-28 21:25:10:394    [76032] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:394    event=2, X=202, 
+08-28 21:25:10:395    Y=183
+08-28 21:25:10:405    [76146] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:406    
+08-28 21:25:10:406    [76153] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:406    event=2, X=202, 
+08-28 21:25:10:408    Y=184
+08-28 21:25:10:418    [76267] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:418    
+08-28 21:25:10:419    [76273] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:419    event=2, X=203, 
+08-28 21:25:10:420    Y=185
+08-28 21:25:10:430    [76387] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:431    
+08-28 21:25:10:431    [76393] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:432    event=2, X=203, 
+08-28 21:25:10:433    Y=186
+08-28 21:25:10:443    [76507] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:444    
+08-28 21:25:10:444    [76513] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:445    event=2, X=203, 
+08-28 21:25:10:445    Y=187
+08-28 21:25:10:456    [76627] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:457    
+08-28 21:25:10:457    [76633] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:458    event=2, X=203, Y=188
+08-28 21:25:10:468    [76747] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:468    
+08-28 21:25:10:469    [76754] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:471    event=2, X=203, Y=188
+08-28 21:25:10:481    [76867] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:481    
+08-28 21:25:10:482    [76874] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:482    event=2, X=203, 
+08-28 21:25:10:483    Y=189
+08-28 21:25:10:493    [76987] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:494    
+08-28 21:25:10:494    [76994] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:495    event=2, X=203, 
+08-28 21:25:10:495    Y=190
+08-28 21:25:10:506    [77108] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:506    
+08-28 21:25:10:507    [77114] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:507    event=2, X=203, 
+08-28 21:25:10:508    Y=190
+08-28 21:25:10:518    [77228] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:520    
+08-28 21:25:10:520    [77234] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:521    event=2, X=203, 
+08-28 21:25:10:521    Y=190
+08-28 21:25:10:531    [77348] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:532    
+08-28 21:25:10:532    [77354] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:534    event=2, X=203, 
+08-28 21:25:10:534    Y=191
+08-28 21:25:10:543    [77468] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:544    
+08-28 21:25:10:544    [77475] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:545    event=2, X=203, 
+08-28 21:25:10:547    Y=191
+08-28 21:25:10:557    [77588] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:557    
+08-28 21:25:10:558    [77595] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:558    event=2, X=203, 
+08-28 21:25:10:558    Y=191
+08-28 21:25:10:570    [77709] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:570    
+08-28 21:25:10:571    [77715] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:571    event=2, X=203, Y=191
+08-28 21:25:10:582    [77829] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:583    
+08-28 21:25:10:583    [77835] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:584    event=2, X=203, 
+08-28 21:25:10:584    Y=191
+08-28 21:25:10:594    [77949] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:595    
+08-28 21:25:10:595    [77955] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:596    event=2, X=203, 
+08-28 21:25:10:596    Y=192
+08-28 21:25:10:607    [78069] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:608    
+08-28 21:25:10:608    [78076] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:609    event=2, X=203, Y=192
+08-28 21:25:10:620    [78190] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:620    
+08-28 21:25:10:621    [78196] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:622    event=2, X=203, 
+08-28 21:25:10:622    Y=192
+08-28 21:25:10:632    [78310] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:633    
+08-28 21:25:10:633    [78316] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:634    event=2, X=203, 
+08-28 21:25:10:635    Y=192
+08-28 21:25:10:645    [78430] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:646    
+08-28 21:25:10:646    [78436] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:647    event=2, X=203, 
+08-28 21:25:10:647    Y=192
+08-28 21:25:10:657    [78550] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:658    
+08-28 21:25:10:658    [78557] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:659    event=2, X=203, 
+08-28 21:25:10:659    Y=192
+08-28 21:25:10:670    [78670] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:671    
+08-28 21:25:10:671    [78677] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:672    event=2, X=202, Y=191
+08-28 21:25:10:683    [78791] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:683    
+08-28 21:25:10:684    [78797] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:685    event=2, X=202, Y=191
+08-28 21:25:10:695    [78911] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:696    
+08-28 21:25:10:696    [78917] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:697    event=2, X=202, 
+08-28 21:25:10:697    Y=191
+08-28 21:25:10:708    [79031] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:709    
+08-28 21:25:10:709    [79037] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:710    event=2, X=202, 
+08-28 21:25:10:710    Y=190
+08-28 21:25:10:721    [79151] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:722    
+08-28 21:25:10:722    [79158] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:722    event=2, X=202, 
+08-28 21:25:10:723    Y=190
+08-28 21:25:10:733    [79271] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:733    
+08-28 21:25:10:734    [79278] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:735    event=2, X=202, 
+08-28 21:25:10:735    Y=190
+08-28 21:25:10:745    [79392] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:746    
+08-28 21:25:10:746    [79398] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:747    event=2, X=202, 
+08-28 21:25:10:748    Y=189
+08-28 21:25:10:758    [79512] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:759    
+08-28 21:25:10:759    [79518] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:760    event=2, X=201, 
+08-28 21:25:10:760    Y=188
+08-28 21:25:10:771    [79632] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:772    
+08-28 21:25:10:772    [79638] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:773    event=2, X=201, Y=188
+08-28 21:25:10:783    [79752] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:784    
+08-28 21:25:10:784    [79759] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:785    event=2, X=201, 
+08-28 21:25:10:785    Y=187
+08-28 21:25:10:796    [79872] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:796    
+08-28 21:25:10:797    [79879] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:797    event=2, X=201, 
+08-28 21:25:10:799    Y=186
+08-28 21:25:10:809    [79993] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:810    
+08-28 21:25:10:810    [79999] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:811    event=2, X=201, 
+08-28 21:25:10:812    Y=185
+08-28 21:25:10:821    [80113] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:822    
+08-28 21:25:10:822    [80119] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:823    event=2, X=200, 
+08-28 21:25:10:823    Y=183
+08-28 21:25:10:834    [80233] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:835    
+08-28 21:25:10:835    [80239] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:836    event=2, X=200, 
+08-28 21:25:10:836    Y=181
+08-28 21:25:10:846    [80353] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:847    
+08-28 21:25:10:847    [80359] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:848    event=2, X=199, 
+08-28 21:25:10:849    Y=179
+08-28 21:25:10:859    [80473] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:859    
+08-28 21:25:10:860    [80479] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:860    event=2, X=197, 
+08-28 21:25:10:861    Y=177
+08-28 21:25:10:872    [80593] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:872    
+08-28 21:25:10:873    [80600] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:873    event=2, X=195, 
+08-28 21:25:10:874    Y=175
+08-28 21:25:10:884    [80713] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:884    
+08-28 21:25:10:885    [80720] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:886    event=2, X=192, 
+08-28 21:25:10:886    Y=173
+08-28 21:25:10:896    [80834] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:897    
+08-28 21:25:10:897    [80840] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:898    event=2, X=188, 
+08-28 21:25:10:899    Y=171
+08-28 21:25:10:909    [80954] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:909    
+08-28 21:25:10:911    [80960] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:912    event=2, X=182, Y=169
+08-28 21:25:10:922    [81074] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:922    
+08-28 21:25:10:923    [81080] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:924    event=2, X=176, 
+08-28 21:25:10:924    Y=167
+08-28 21:25:10:934    [81194] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:935    
+08-28 21:25:10:935    [81201] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:936    event=2, X=168, 
+08-28 21:25:10:936    Y=166
+08-28 21:25:10:947    [81314] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:948    
+08-28 21:25:10:948    [81321] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:949    event=2, X=159, Y=167
+08-28 21:25:10:959    [81435] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:961    
+08-28 21:25:10:961    [81441] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:962    event=2, X=149, Y=167
+08-28 21:25:10:972    [81555] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:978    
+08-28 21:25:10:979    [81561] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:979    event=2, X=139, Y=169
+08-28 21:25:10:985    [81675] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:985    
+08-28 21:25:10:986    [81681] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:10:986    event=2, X=129, 
+08-28 21:25:10:988    Y=171
+08-28 21:25:10:998    [81795] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:10:999    
+08-28 21:25:10:999    [81802] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:000    event=2, X=119, 
+08-28 21:25:11:000    Y=175
+08-28 21:25:11:010    [81916] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:011    
+08-28 21:25:11:011    [81922] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:011    event=2, X=110, 
+08-28 21:25:11:013    Y=179
+08-28 21:25:11:022    [82036] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:024    
+08-28 21:25:11:024    [82042] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:025    event=2, X=102, 
+08-28 21:25:11:025    Y=184
+08-28 21:25:11:035    [82156] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:036    
+08-28 21:25:11:036    [82162] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:037    event=2, X=95, Y=189
+08-28 21:25:11:048    [82276] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:049    
+08-28 21:25:11:049    [82283] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:050    event=2, X=88, Y
+08-28 21:25:11:050    =195
+08-28 21:25:11:061    [82396] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:062    
+08-28 21:25:11:062    [82403] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:063    event=2, X=82, Y
+08-28 21:25:11:063    =200
+08-28 21:25:11:074    [82517] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:074    
+08-28 21:25:11:075    [82523] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:075    event=2, X=77, Y
+08-28 21:25:11:076    =206
+08-28 21:25:11:086    [82637] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:087    
+08-28 21:25:11:087    [82644] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:087    event=2, X=73, Y
+08-28 21:25:11:089    =211
+08-28 21:25:11:098    [82758] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:100    
+08-28 21:25:11:100    [82764] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:101    event=2, X=69, Y
+08-28 21:25:11:101    =217
+08-28 21:25:11:111    [82878] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:112    
+08-28 21:25:11:112    [82885] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:113    event=2, X=66, Y
+08-28 21:25:11:113    =222
+08-28 21:25:11:124    [82999] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:124    
+08-28 21:25:11:125    [83005] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:125    event=2, X=64, Y
+08-28 21:25:11:126    =227
+08-28 21:25:11:136    [83120] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:137    
+08-28 21:25:11:137    [83126] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:138    event=2, X=61, Y
+08-28 21:25:11:138    =232
+08-28 21:25:11:149    [83240] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:149    
+08-28 21:25:11:150    [83246] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:151    event=2, X=59, Y
+08-28 21:25:11:151    =237
+08-28 21:25:11:162    [83361] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:165    
+08-28 21:25:11:169    [83367] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:169    event=2, X=57, Y=241
+08-28 21:25:11:175    [83481] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:175    
+08-28 21:25:11:176    [83487] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:177    event=2, X=56, Y=246
+08-28 21:25:11:187    [83601] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:188    
+08-28 21:25:11:188    [83608] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:189    event=2, X=54, Y
+08-28 21:25:11:189    =250
+08-28 21:25:11:199    [83722] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:200    
+08-28 21:25:11:201    [83728] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:201    event=2, X=54, Y=254
+08-28 21:25:11:212    [83842] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:212    
+08-28 21:25:11:213    [83849] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:214    event=2, X=53, Y
+08-28 21:25:11:214    =258
+08-28 21:25:11:225    [83963] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:225    
+08-28 21:25:11:226    [83969] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:226    event=2, X=52, Y
+08-28 21:25:11:227    =262
+08-28 21:25:11:238    [84083] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:239    
+08-28 21:25:11:240    [84090] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:240    event=2, X=52, Y=266
+08-28 21:25:11:250    [84204] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:251    
+08-28 21:25:11:251    [84210] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:252    event=2, X=52, Y
+08-28 21:25:11:253    =269
+08-28 21:25:11:263    [84324] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:263    
+08-28 21:25:11:264    [84330] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:264    event=2, X=51, Y
+08-28 21:25:11:265    =273
+08-28 21:25:11:275    [84445] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:276    
+08-28 21:25:11:276    [84451] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:277    event=2, X=51, Y
+08-28 21:25:11:277    =276
+08-28 21:25:11:288    [84565] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:288    
+08-28 21:25:11:289    [84572] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:289    event=2, X=51, Y
+08-28 21:25:11:291    =280
+08-28 21:25:11:300    [84686] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:301    
+08-28 21:25:11:301    [84692] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:302    event=2, X=51, Y
+08-28 21:25:11:302    =283
+08-28 21:25:11:313    [84806] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:314    
+08-28 21:25:11:315    [84813] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:316    event=2, X=51, Y
+08-28 21:25:11:316    =286
+08-28 21:25:11:326    [84927] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:327    
+08-28 21:25:11:327    [84933] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:328    event=2, X=51, Y
+08-28 21:25:11:329    =289
+08-28 21:25:11:339    [85047] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:340    
+08-28 21:25:11:340    [85054] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:341    event=2, X=51, Y
+08-28 21:25:11:341    =292
+08-28 21:25:11:352    [85167] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:352    
+08-28 21:25:11:353    [85174] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:353    event=2, X=51, Y
+08-28 21:25:11:354    =295
+08-28 21:25:11:364    [85288] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:365    
+08-28 21:25:11:365    [85294] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:366    event=2, X=51, Y
+08-28 21:25:11:366    =298
+08-28 21:25:11:377    [85408] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:378    
+08-28 21:25:11:378    [85414] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:378    event=2, X=52, Y
+08-28 21:25:11:379    =300
+08-28 21:25:11:389    [85529] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:389    
+08-28 21:25:11:390    [85535] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:391    event=2, X=52, Y=303
+08-28 21:25:11:401    [85649] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:402    
+08-28 21:25:11:402    [85656] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:403    event=2, X=52, Y
+08-28 21:25:11:404    =306
+08-28 21:25:11:414    [85770] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:415    
+08-28 21:25:11:415    [85776] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:416    event=2, X=52, Y
+08-28 21:25:11:417    =309
+08-28 21:25:11:427    [85890] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:427    
+08-28 21:25:11:428    [85897] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:429    event=2, X=53, Y
+08-28 21:25:11:429    =312
+08-28 21:25:11:439    [86011] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:440    
+08-28 21:25:11:440    [86017] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:441    event=2, X=53, Y
+08-28 21:25:11:442    =314
+08-28 21:25:11:452    [86131] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:453    
+08-28 21:25:11:453    [86138] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:454    event=2, X=53, Y
+08-28 21:25:11:454    =317
+08-28 21:25:11:465    [86252] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:465    
+08-28 21:25:11:466    [86258] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:467    event=2, X=54, Y
+08-28 21:25:11:467    =319
+08-28 21:25:11:477    [86372] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:478    
+08-28 21:25:11:478    [86379] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:479    event=2, X=54, Y
+08-28 21:25:11:479    =322
+08-28 21:25:11:490    [86493] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:490    
+08-28 21:25:11:491    [86499] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:492    event=2, X=55, Y
+08-28 21:25:11:492    =324
+08-28 21:25:11:503    [86613] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:503    
+08-28 21:25:11:504    [86620] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:504    event=2, X=55, Y
+08-28 21:25:11:505    =326
+08-28 21:25:11:515    [86734] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:516    
+08-28 21:25:11:516    [86740] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:518    event=2, X=56, Y
+08-28 21:25:11:518    =328
+08-28 21:25:11:528    [86854] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:529    
+08-28 21:25:11:530    [86860] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:531    event=2, X=57, Y=330
+08-28 21:25:11:541    [86974] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:542    
+08-28 21:25:11:542    [86981] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:543    event=2, X=58, Y
+08-28 21:25:11:544    =332
+08-28 21:25:11:553    [87095] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:554    
+08-28 21:25:11:554    [87101] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:554    event=2, X=58, Y
+08-28 21:25:11:556    =334
+08-28 21:25:11:566    [87216] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:567    
+08-28 21:25:11:567    [87222] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:568    event=2, X=59, Y=335
+08-28 21:25:11:579    [87336] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:579    
+08-28 21:25:11:580    [87342] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:580    event=2, X=61, Y
+08-28 21:25:11:581    =337
+08-28 21:25:11:592    [87457] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:592    
+08-28 21:25:11:592    [87463] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:593    event=2, X=62, Y
+08-28 21:25:11:594    =338
+08-28 21:25:11:604    [87577] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:604    
+08-28 21:25:11:606    [87583] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:606    event=2, X=64, Y=339
+08-28 21:25:11:616    [87698] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:617    
+08-28 21:25:11:617    [87704] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:618    event=2, X=66, Y
+08-28 21:25:11:618    =340
+08-28 21:25:11:629    [87818] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:633    
+08-28 21:25:11:636    [87824] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:636    event=2, X=69, Y=341
+08-28 21:25:11:642    [87939] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:643    
+08-28 21:25:11:643    [87945] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:644    event=2, X=72, Y
+08-28 21:25:11:644    =342
+08-28 21:25:11:655    [88059] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:655    
+08-28 21:25:11:656    [88065] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:657    event=2, X=76, Y
+08-28 21:25:11:657    =342
+08-28 21:25:11:667    [88180] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:668    
+08-28 21:25:11:669    [88186] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:670    event=2, X=81, Y=342
+08-28 21:25:11:680    [88300] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:680    
+08-28 21:25:11:681    [88306] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:682    event=2, X=86, Y=342
+08-28 21:25:11:692    [88421] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:692    
+08-28 21:25:11:693    [88427] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:694    event=2, X=91, Y
+08-28 21:25:11:694    =342
+08-28 21:25:11:705    [88541] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:706    
+08-28 21:25:11:706    [88548] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:707    event=2, X=97, Y
+08-28 21:25:11:708    =341
+08-28 21:25:11:718    [88662] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:718    
+08-28 21:25:11:719    [88668] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:719    event=2, X=103, 
+08-28 21:25:11:720    Y=340
+08-28 21:25:11:730    [88782] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:731    
+08-28 21:25:11:732    [88789] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:732    event=2, X=109, 
+08-28 21:25:11:733    Y=339
+08-28 21:25:11:743    [88903] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:744    
+08-28 21:25:11:745    [88909] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:745    event=2, X=115, 
+08-28 21:25:11:746    Y=338
+08-28 21:25:11:756    [89023] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:756    
+08-28 21:25:11:757    [89030] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:758    event=2, X=121, 
+08-28 21:25:11:758    Y=336
+08-28 21:25:11:768    [89144] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:769    
+08-28 21:25:11:769    [89150] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:770    event=2, X=127, 
+08-28 21:25:11:771    Y=333
+08-28 21:25:11:781    [89264] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:781    
+08-28 21:25:11:782    [89271] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:782    event=2, X=132, 
+08-28 21:25:11:783    Y=331
+08-28 21:25:11:794    [89385] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:794    
+08-28 21:25:11:795    [89391] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:795    event=2, X=138, 
+08-28 21:25:11:795    Y=328
+08-28 21:25:11:806    [89505] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:806    
+08-28 21:25:11:807    [89512] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:807    event=2, X=143, 
+08-28 21:25:11:809    Y=325
+08-28 21:25:11:819    [89626] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:819    
+08-28 21:25:11:820    [89632] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:820    event=2, X=148, Y=321
+08-28 21:25:11:831    [89746] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:832    
+08-28 21:25:11:832    [89753] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:833    event=2, X=152, 
+08-28 21:25:11:833    Y=318
+08-28 21:25:11:844    [89867] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:844    
+08-28 21:25:11:845    [89873] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:845    event=2, X=157, 
+08-28 21:25:11:850    Y=314
+08-28 21:25:11:856    [89987] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:857    
+08-28 21:25:11:857    [89993] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:858    event=2, X=160, 
+08-28 21:25:11:859    Y=311
+08-28 21:25:11:869    [90107] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:870    
+08-28 21:25:11:871    [90114] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:871    event=2, X=164, 
+08-28 21:25:11:872    Y=307
+08-28 21:25:11:882    [90228] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:883    
+08-28 21:25:11:883    [90234] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:884    event=2, X=167, 
+08-28 21:25:11:884    Y=304
+08-28 21:25:11:894    [90348] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:895    
+08-28 21:25:11:895    [90354] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:897    event=2, X=169, Y=301
+08-28 21:25:11:907    [90468] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:908    
+08-28 21:25:11:908    [90475] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:909    event=2, X=171, 
+08-28 21:25:11:909    Y=297
+08-28 21:25:11:920    [90589] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:920    
+08-28 21:25:11:921    [90595] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:921    event=2, X=173, 
+08-28 21:25:11:922    Y=294
+08-28 21:25:11:932    [90709] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:933    
+08-28 21:25:11:933    [90715] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:934    event=2, X=175, 
+08-28 21:25:11:934    Y=291
+08-28 21:25:11:945    [90829] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:945    
+08-28 21:25:11:946    [90835] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:947    event=2, X=176, 
+08-28 21:25:11:947    Y=287
+08-28 21:25:11:957    [90949] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:957    
+08-28 21:25:11:958    [90956] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:959    event=2, X=177, 
+08-28 21:25:11:959    Y=284
+08-28 21:25:11:970    [91069] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:971    
+08-28 21:25:11:971    [91076] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:972    event=2, X=178, Y=281
+08-28 21:25:11:983    [91190] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:983    
+08-28 21:25:11:984    [91196] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:984    event=2, X=179, 
+08-28 21:25:11:985    Y=277
+08-28 21:25:11:996    [91310] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:11:996    
+08-28 21:25:11:996    [91316] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:11:998    event=2, X=179, 
+08-28 21:25:11:998    Y=274
+08-28 21:25:12:008    [91430] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:009    
+08-28 21:25:12:009    [91436] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:010    event=2, X=180, 
+08-28 21:25:12:010    Y=270
+08-28 21:25:12:021    [91550] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:022    
+08-28 21:25:12:022    [91556] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:023    event=2, X=180, 
+08-28 21:25:12:023    Y=266
+08-28 21:25:12:033    [91670] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:034    
+08-28 21:25:12:035    [91677] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:036    event=2, X=180, Y=261
+08-28 21:25:12:046    [91790] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:047    
+08-28 21:25:12:047    [91797] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:048    event=2, X=180, 
+08-28 21:25:12:048    Y=256
+08-28 21:25:12:059    [91911] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:060    
+08-28 21:25:12:060    [91917] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:061    event=2, X=180, Y=250
+08-28 21:25:12:071    [92031] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:072    
+08-28 21:25:12:072    [92037] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:072    event=2, X=180, 
+08-28 21:25:12:072    Y=245
+08-28 21:25:12:084    [92151] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:084    
+08-28 21:25:12:085    [92157] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:085    event=2, X=180, 
+08-28 21:25:12:086    Y=239
+08-28 21:25:12:096    [92271] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:097    
+08-28 21:25:12:098    [92278] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:098    event=2, X=180, Y=234
+08-28 21:25:12:109    [92391] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:109    
+08-28 21:25:12:110    [92398] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:111    event=2, X=180, 
+08-28 21:25:12:111    Y=228
+08-28 21:25:12:122    [92511] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:122    
+08-28 21:25:12:122    [92518] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:124    event=2, X=180, 
+08-28 21:25:12:124    Y=223
+08-28 21:25:12:134    [92632] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:135    
+08-28 21:25:12:135    [92638] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:136    event=2, X=180, 
+08-28 21:25:12:136    Y=218
+08-28 21:25:12:147    [92752] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:147    
+08-28 21:25:12:148    [92758] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:149    event=2, X=180, 
+08-28 21:25:12:149    Y=213
+08-28 21:25:12:159    [92872] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:160    
+08-28 21:25:12:160    [92878] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:161    event=2, X=180, 
+08-28 21:25:12:162    Y=208
+08-28 21:25:12:172    [92992] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:172    
+08-28 21:25:12:173    [92998] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:174    event=2, X=180, 
+08-28 21:25:12:174    Y=203
+08-28 21:25:12:185    [93112] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:185    
+08-28 21:25:12:186    [93119] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:186    event=2, X=180, 
+08-28 21:25:12:187    Y=198
+08-28 21:25:12:197    [93232] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:197    
+08-28 21:25:12:198    [93239] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:198    event=2, X=180, 
+08-28 21:25:12:199    Y=193
+08-28 21:25:12:209    [93353] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:210    
+08-28 21:25:12:210    [93359] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:211    event=2, X=181, 
+08-28 21:25:12:211    Y=188
+08-28 21:25:12:222    [93473] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:223    
+08-28 21:25:12:224    [93479] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:224    event=2, X=181, Y=184
+08-28 21:25:12:235    [93593] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:236    
+08-28 21:25:12:236    [93599] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:237    event=2, X=182, Y=179
+08-28 21:25:12:248    [93713] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:248    
+08-28 21:25:12:249    [93719] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:250    event=2, X=183, Y=176
+08-28 21:25:12:260    [93833] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:261    
+08-28 21:25:12:261    [93840] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:262    event=2, X=184, 
+08-28 21:25:12:262    Y=172
+08-28 21:25:12:273    [93953] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:274    
+08-28 21:25:12:275    [93960] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:275    event=2, X=185, Y=169
+08-28 21:25:12:285    [94074] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:286    
+08-28 21:25:12:286    [94080] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:287    event=2, X=186, 
+08-28 21:25:12:288    Y=166
+08-28 21:25:12:298    [94193] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:299    
+08-28 21:25:12:299    [94200] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:300    event=1, X=186, 
+08-28 21:25:12:300    Y=166
+08-28 21:25:12:702    [98049] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:703    
+08-28 21:25:12:704    [98055] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:704    event=2, X=323, Y=208
+08-28 21:25:12:715    [98169] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:715    
+08-28 21:25:12:715    [98175] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:716    event=2, X=323, 
+08-28 21:25:12:716    Y=208
+08-28 21:25:12:727    [98289] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:727    
+08-28 21:25:12:729    [98296] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:729    event=2, X=323, 
+08-28 21:25:12:730    Y=208
+08-28 21:25:12:740    [98410] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:741    
+08-28 21:25:12:741    [98416] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:742    event=2, X=323, 
+08-28 21:25:12:742    Y=208
+08-28 21:25:12:752    [98530] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:753    
+08-28 21:25:12:753    [98537] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:755    event=2, X=323, 
+08-28 21:25:12:755    Y=208
+08-28 21:25:12:765    [98651] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:766    
+08-28 21:25:12:766    [98657] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:767    event=2, X=323, 
+08-28 21:25:12:767    Y=208
+08-28 21:25:12:778    [98772] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:779    
+08-28 21:25:12:779    [98778] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:780    event=2, X=323, 
+08-28 21:25:12:780    Y=208
+08-28 21:25:12:790    [98892] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:791    
+08-28 21:25:12:791    [98899] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:791    event=2, X=323, 
+08-28 21:25:12:792    Y=208
+08-28 21:25:12:802    [99013] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:804    
+08-28 21:25:12:804    [99020] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:805    event=2, X=323, 
+08-28 21:25:12:805    Y=208
+08-28 21:25:12:815    [99133] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:817    
+08-28 21:25:12:817    [99140] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:818    event=2, X=323, Y=208
+08-28 21:25:12:829    [99254] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:829    
+08-28 21:25:12:829    [99260] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:830    event=2, X=323, 
+08-28 21:25:12:831    Y=208
+08-28 21:25:12:841    [99374] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:841    
+08-28 21:25:12:842    [99381] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:842    event=2, X=323, 
+08-28 21:25:12:843    Y=208
+08-28 21:25:12:854    [99494] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:854    
+08-28 21:25:12:855    [99500] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:855    event=2, X=323, 
+08-28 21:25:12:856    Y=208
+08-28 21:25:12:867    [99614] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:867    
+08-28 21:25:12:868    [99620] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:868    event=2, X=323, 
+08-28 21:25:12:869    Y=208
+08-28 21:25:12:879    [99735] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:880    
+08-28 21:25:12:880    [99741] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:881    event=2, X=323, Y=208
+08-28 21:25:12:891    [99856] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:892    
+08-28 21:25:12:892    [99862] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:893    event=2, X=323, 
+08-28 21:25:12:894    Y=208
+08-28 21:25:12:904    [99976] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:905    
+08-28 21:25:12:905    [99983] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:906    event=2, X=323, 
+08-28 21:25:12:906    Y=208
+08-28 21:25:12:917    [100097] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:917    
+08-28 21:25:12:918    [100104] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:918    event=2, X=323
+08-28 21:25:12:919    , Y=208
+08-28 21:25:12:929    [100218] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:930    
+08-28 21:25:12:930    [100224] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:931    event=2, X=323
+08-28 21:25:12:931    , Y=208
+08-28 21:25:12:942    [100338] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:943    
+08-28 21:25:12:943    [100344] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:944    event=2, X=323
+08-28 21:25:12:945    , Y=208
+08-28 21:25:12:955    [100458] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:956    
+08-28 21:25:12:956    [100464] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:957    event=2, X=323
+08-28 21:25:12:957    , Y=208
+08-28 21:25:12:967    [100578] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:968    
+08-28 21:25:12:968    [100584] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:969    event=2, X=323, Y=208
+08-28 21:25:12:980    [100698] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:980    
+08-28 21:25:12:980    [100704] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:981    event=2, X=323
+08-28 21:25:12:982    , Y=208
+08-28 21:25:12:992    [100818] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:12:992    
+08-28 21:25:12:993    [100824] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:12:994    event=2, X=323
+08-28 21:25:12:994    , Y=208
+08-28 21:25:13:005    [100939] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:005    
+08-28 21:25:13:006    [100945] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:006    event=2, X=323
+08-28 21:25:13:008    , Y=208
+08-28 21:25:13:018    [101060] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:018    
+08-28 21:25:13:019    [101066] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:020    event=2, X=323
+08-28 21:25:13:020    , Y=209
+08-28 21:25:13:030    [101180] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:031    
+08-28 21:25:13:032    [101187] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:033    event=2, X=323
+08-28 21:25:13:033    , Y=209
+08-28 21:25:13:043    [101301] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:044    
+08-28 21:25:13:044    [101307] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:045    event=2, X=323
+08-28 21:25:13:046    , Y=210
+08-28 21:25:13:056    [101421] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:056    
+08-28 21:25:13:057    [101428] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:057    event=2, X=323
+08-28 21:25:13:058    , Y=211
+08-28 21:25:13:068    [101542] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:069    
+08-28 21:25:13:069    [101548] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:070    event=2, X=323
+08-28 21:25:13:070    , Y=212
+08-28 21:25:13:081    [101662] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:081    
+08-28 21:25:13:082    [101668] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:082    event=2, X=323
+08-28 21:25:13:084    , Y=213
+08-28 21:25:13:094    [101782] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:094    
+08-28 21:25:13:094    [101789] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:095    event=2, X=324
+08-28 21:25:13:095    , Y=214
+08-28 21:25:13:106    [101902] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:106    
+08-28 21:25:13:106    [101908] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:108    event=2, X=324
+08-28 21:25:13:108    , Y=216
+08-28 21:25:13:118    [102022] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:119    
+08-28 21:25:13:119    [102029] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:120    event=2, X=324
+08-28 21:25:13:120    , Y=217
+08-28 21:25:13:133    [102143] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:133    
+08-28 21:25:13:133    [102150] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:134    event=2, X=325, Y=219
+08-28 21:25:13:144    [102264] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:145    
+08-28 21:25:13:145    [102270] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:146    event=2, X=325
+08-28 21:25:13:146    , Y=221
+08-28 21:25:13:157    [102385] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:157    
+08-28 21:25:13:158    [102391] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:158    event=2, X=325
+08-28 21:25:13:159    , Y=223
+08-28 21:25:13:169    [102505] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:170    
+08-28 21:25:13:170    [102512] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:171    event=2, X=325, Y=225
+08-28 21:25:13:184    [102626] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:186    
+08-28 21:25:13:187    [102633] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:187    event=2, X=326, Y=227
+08-28 21:25:13:195    [102746] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:195    
+08-28 21:25:13:196    [102753] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:197    event=2, X=326
+08-28 21:25:13:197    , Y=228
+08-28 21:25:13:207    [102866] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:207    
+08-28 21:25:13:209    [102873] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:209    event=2, X=326, Y=230
+08-28 21:25:13:219    [102986] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:221    
+08-28 21:25:13:221    [102993] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:222    event=2, X=327
+08-28 21:25:13:222    , Y=232
+08-28 21:25:13:233    [103107] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:233    
+08-28 21:25:13:234    [103113] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:234    event=2, X=327
+08-28 21:25:13:235    , Y=234
+08-28 21:25:13:245    [103227] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:246    
+08-28 21:25:13:246    [103233] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:247    event=2, X=327
+08-28 21:25:13:248    , Y=235
+08-28 21:25:13:258    [103348] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:258    
+08-28 21:25:13:259    [103354] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:259    event=2, X=327
+08-28 21:25:13:260    , Y=237
+08-28 21:25:13:270    [103468] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:271    
+08-28 21:25:13:271    [103475] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:271    event=2, X=327
+08-28 21:25:13:273    , Y=238
+08-28 21:25:13:282    [103589] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:284    
+08-28 21:25:13:284    [103595] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:285    event=2, X=328
+08-28 21:25:13:285    , Y=239
+08-28 21:25:13:295    [103710] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:296    
+08-28 21:25:13:296    [103716] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:297    event=2, X=328
+08-28 21:25:13:298    , Y=240
+08-28 21:25:13:308    [103831] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:309    
+08-28 21:25:13:309    [103837] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:310    event=2, X=328
+08-28 21:25:13:310    , Y=241
+08-28 21:25:13:321    [103951] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:321    
+08-28 21:25:13:322    [103957] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:323    event=2, X=328, Y=243
+08-28 21:25:13:333    [104071] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:334    
+08-28 21:25:13:334    [104077] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:335    event=2, X=328
+08-28 21:25:13:335    , Y=244
+08-28 21:25:13:346    [104191] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:350    
+08-28 21:25:13:353    [104197] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:353    event=2, X=328, Y=245
+08-28 21:25:13:358    [104311] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:359    
+08-28 21:25:13:359    [104317] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:360    event=2, X=328
+08-28 21:25:13:360    , Y=246
+08-28 21:25:13:371    [104431] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:371    
+08-28 21:25:13:372    [104438] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:372    event=2, X=328
+08-28 21:25:13:374    , Y=247
+08-28 21:25:13:383    [104552] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:384    
+08-28 21:25:13:385    [104558] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:385    event=2, X=328
+08-28 21:25:13:386    , Y=248
+08-28 21:25:13:396    [104673] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:397    
+08-28 21:25:13:397    [104679] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:398    event=2, X=328
+08-28 21:25:13:399    , Y=248
+08-28 21:25:13:409    [104793] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:409    
+08-28 21:25:13:410    [104800] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:411    event=2, X=328
+08-28 21:25:13:411    , Y=249
+08-28 21:25:13:421    [104914] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:422    
+08-28 21:25:13:422    [104920] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:423    event=2, X=328
+08-28 21:25:13:424    , Y=250
+08-28 21:25:13:434    [105034] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:435    
+08-28 21:25:13:435    [105041] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:436    event=2, X=328
+08-28 21:25:13:436    , Y=250
+08-28 21:25:13:447    [105154] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:447    
+08-28 21:25:13:448    [105161] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:448    event=2, X=328
+08-28 21:25:13:449    , Y=251
+08-28 21:25:13:459    [105274] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:460    
+08-28 21:25:13:461    [105281] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:461    event=2, X=328
+08-28 21:25:13:462    , Y=251
+08-28 21:25:13:472    [105394] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:473    
+08-28 21:25:13:473    [105401] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:474    event=2, X=328
+08-28 21:25:13:475    , Y=252
+08-28 21:25:13:485    [105515] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:485    
+08-28 21:25:13:486    [105521] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:487    event=2, X=328
+08-28 21:25:13:487    , Y=252
+08-28 21:25:13:498    [105635] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:498    
+08-28 21:25:13:499    [105641] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:499    event=2, X=328
+08-28 21:25:13:500    , Y=253
+08-28 21:25:13:511    [105756] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:511    
+08-28 21:25:13:512    [105762] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:512    event=2, X=328
+08-28 21:25:13:513    , Y=253
+08-28 21:25:13:523    [105876] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:524    
+08-28 21:25:13:524    [105883] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:525    event=2, X=328, Y=254
+08-28 21:25:13:535    [105997] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:536    
+08-28 21:25:13:537    [106003] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:538    event=2, X=328, Y=254
+08-28 21:25:13:548    [106118] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:549    
+08-28 21:25:13:549    [106124] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:550    event=2, X=327
+08-28 21:25:13:551    , Y=254
+08-28 21:25:13:561    [106238] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:561    
+08-28 21:25:13:562    [106245] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:563    event=2, X=327
+08-28 21:25:13:563    , Y=255
+08-28 21:25:13:573    [106358] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:574    
+08-28 21:25:13:574    [106365] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:575    event=2, X=327
+08-28 21:25:13:575    , Y=255
+08-28 21:25:13:586    [106478] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:586    
+08-28 21:25:13:587    [106485] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:588    event=2, X=327
+08-28 21:25:13:588    , Y=255
+08-28 21:25:13:599    [106598] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:600    
+08-28 21:25:13:600    [106605] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:601    event=2, X=327
+08-28 21:25:13:601    , Y=256
+08-28 21:25:13:611    [106719] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:612    
+08-28 21:25:13:612    [106725] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:613    event=2, X=327
+08-28 21:25:13:614    , Y=256
+08-28 21:25:13:623    [106839] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:625    
+08-28 21:25:13:625    [106845] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:625    event=2, X=327
+08-28 21:25:13:626    , Y=257
+08-28 21:25:13:636    [106960] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:637    
+08-28 21:25:13:637    [106966] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:638    event=2, X=326
+08-28 21:25:13:638    , Y=257
+08-28 21:25:13:649    [107080] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:650    
+08-28 21:25:13:650    [107087] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:650    event=2, X=326
+08-28 21:25:13:651    , Y=257
+08-28 21:25:13:662    [107201] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:662    
+08-28 21:25:13:663    [107208] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:663    event=2, X=326
+08-28 21:25:13:664    , Y=258
+08-28 21:25:13:674    [107322] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:675    
+08-28 21:25:13:676    [107329] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:676    event=2, X=326, Y=258
+08-28 21:25:13:687    [107443] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:687    
+08-28 21:25:13:688    [107449] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:688    event=2, X=326
+08-28 21:25:13:689    , Y=259
+08-28 21:25:13:699    [107563] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:700    
+08-28 21:25:13:700    [107569] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:701    event=2, X=326
+08-28 21:25:13:702    , Y=259
+08-28 21:25:13:713    [107683] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:713    
+08-28 21:25:13:714    [107690] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:714    event=2, X=326
+08-28 21:25:13:715    , Y=260
+08-28 21:25:13:725    [107803] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:725    
+08-28 21:25:13:726    [107810] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:726    event=2, X=147
+08-28 21:25:13:727    , Y=260
+08-28 21:25:13:738    [107924] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:738    
+08-28 21:25:13:738    [107930] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:739    event=2, X=82,
+08-28 21:25:13:739     Y=261
+08-28 21:25:13:750    [108044] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:751    
+08-28 21:25:13:751    [108051] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:756    event=2, X=54, Y=262
+08-28 21:25:13:763    [108165] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:763    
+08-28 21:25:13:763    [108171] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:764    event=2, X=39,
+08-28 21:25:13:764     Y=264
+08-28 21:25:13:776    [108286] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:777    
+08-28 21:25:13:777    [108293] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:778    event=2, X=30,
+08-28 21:25:13:778     Y=266
+08-28 21:25:13:789    [108407] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:789    
+08-28 21:25:13:790    [108414] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:790    event=2, X=24,
+08-28 21:25:13:791     Y=268
+08-28 21:25:13:801    [108528] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:802    
+08-28 21:25:13:802    [108534] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:803    event=2, X=20,
+08-28 21:25:13:803     Y=269
+08-28 21:25:13:814    [108649] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:814    
+08-28 21:25:13:815    [108656] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:815    event=2, X=17, Y=270
+08-28 21:25:13:826    [108770] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:826    
+08-28 21:25:13:827    [108776] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:828    event=2, X=15,
+08-28 21:25:13:828     Y=271
+08-28 21:25:13:838    [108890] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:839    
+08-28 21:25:13:839    [108896] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:840    event=2, X=13,
+08-28 21:25:13:840     Y=272
+08-28 21:25:13:851    [109010] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:852    
+08-28 21:25:13:852    [109017] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:853    event=2, X=12,
+08-28 21:25:13:853     Y=273
+08-28 21:25:13:864    [109130] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:864    
+08-28 21:25:13:865    [109137] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:865    event=2, X=10,
+08-28 21:25:13:866     Y=273
+08-28 21:25:13:876    [109250] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:877    
+08-28 21:25:13:877    [109257] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:878    event=2, X=8, 
+08-28 21:25:13:878    Y=274
+08-28 21:25:13:889    [109371] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:13:890    
+08-28 21:25:13:890    [109377] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:13:891    event=1, X=8, Y=274
+08-28 21:25:15:078    [120700] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:079    
+08-28 21:25:15:080    [120706] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:080    event=2, X=99, Y=200
+08-28 21:25:15:090    [120820] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:090    
+08-28 21:25:15:091    [120827] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:091    event=2, X=99,
+08-28 21:25:15:092     Y=200
+08-28 21:25:15:102    [120940] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:103    
+08-28 21:25:15:103    [120947] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:104    event=2, X=99,
+08-28 21:25:15:105     Y=200
+08-28 21:25:15:116    [121061] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:116    
+08-28 21:25:15:117    [121067] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:117    event=2, X=99,
+08-28 21:25:15:118     Y=200
+08-28 21:25:15:127    [121181] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:129    
+08-28 21:25:15:129    [121187] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:130    event=2, X=99, Y=200
+08-28 21:25:15:140    [121301] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:140    
+08-28 21:25:15:141    [121307] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:141    event=2, X=99,
+08-28 21:25:15:143     Y=200
+08-28 21:25:15:153    [121421] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:153    
+08-28 21:25:15:153    [121427] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:155    event=2, X=99,
+08-28 21:25:15:155     Y=200
+08-28 21:25:15:165    [121541] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:166    
+08-28 21:25:15:166    [121548] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:167    event=2, X=99,
+08-28 21:25:15:167     Y=200
+08-28 21:25:15:178    [121661] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:178    
+08-28 21:25:15:179    [121668] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:179    event=2, X=99,
+08-28 21:25:15:180     Y=200
+08-28 21:25:15:190    [121782] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:191    
+08-28 21:25:15:192    [121788] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:192    event=2, X=99,
+08-28 21:25:15:193     Y=200
+08-28 21:25:15:204    [121902] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:205    
+08-28 21:25:15:205    [121908] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:208    event=2, X=99, Y=200
+08-28 21:25:15:216    [122022] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:216    
+08-28 21:25:15:216    [122029] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:217    event=2, X=99,
+08-28 21:25:15:218     Y=200
+08-28 21:25:15:230    [122142] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:230    
+08-28 21:25:15:231    [122149] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:231    event=2, X=100, Y=200
+08-28 21:25:15:241    [122263] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:241    
+08-28 21:25:15:242    [122269] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:243    event=2, X=100
+08-28 21:25:15:243    , Y=200
+08-28 21:25:15:254    [122383] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:254    
+08-28 21:25:15:255    [122389] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:255    event=2, X=101
+08-28 21:25:15:256    , Y=200
+08-28 21:25:15:266    [122503] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:267    
+08-28 21:25:15:267    [122509] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:268    event=2, X=102
+08-28 21:25:15:269    , Y=201
+08-28 21:25:15:281    [122623] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:282    
+08-28 21:25:15:282    [122630] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:282    event=2, X=103, Y=201
+08-28 21:25:15:292    [122743] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:292    
+08-28 21:25:15:293    [122750] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:294    event=2, X=104, Y=202
+08-28 21:25:15:304    [122864] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:304    
+08-28 21:25:15:305    [122870] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:305    event=2, X=106
+08-28 21:25:15:307    , Y=203
+08-28 21:25:15:316    [122984] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:318    
+08-28 21:25:15:318    [122990] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:319    event=2, X=108
+08-28 21:25:15:319    , Y=204
+08-28 21:25:15:329    [123104] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:330    
+08-28 21:25:15:330    [123111] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:331    event=2, X=110
+08-28 21:25:15:331    , Y=205
+08-28 21:25:15:342    [123224] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:342    
+08-28 21:25:15:343    [123231] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:343    event=2, X=113
+08-28 21:25:15:345    , Y=207
+08-28 21:25:15:354    [123345] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:355    
+08-28 21:25:15:355    [123351] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:356    event=2, X=115
+08-28 21:25:15:356    , Y=210
+08-28 21:25:15:367    [123465] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:368    
+08-28 21:25:15:368    [123471] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:369    event=2, X=118
+08-28 21:25:15:370    , Y=213
+08-28 21:25:15:380    [123585] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:381    
+08-28 21:25:15:381    [123591] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:382    event=2, X=121
+08-28 21:25:15:382    , Y=216
+08-28 21:25:15:394    [123705] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:395    
+08-28 21:25:15:395    [123711] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:396    event=2, X=124, Y=218
+08-28 21:25:15:405    [123825] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:405    
+08-28 21:25:15:406    [123832] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:407    event=2, X=127, Y=222
+08-28 21:25:15:418    [123945] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:418    
+08-28 21:25:15:419    [123952] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:419    event=2, X=129
+08-28 21:25:15:420    , Y=225
+08-28 21:25:15:430    [124066] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:430    
+08-28 21:25:15:431    [124072] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:431    event=2, X=132
+08-28 21:25:15:433    , Y=228
+08-28 21:25:15:443    [124186] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:443    
+08-28 21:25:15:444    [124192] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:444    event=2, X=134
+08-28 21:25:15:444    , Y=232
+08-28 21:25:15:456    [124306] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:456    
+08-28 21:25:15:459    [124312] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:460    event=2, X=137, Y=235
+08-28 21:25:15:468    [124426] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:469    
+08-28 21:25:15:470    [124432] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:470    event=2, X=139, Y=239
+08-28 21:25:15:481    [124546] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:485    
+08-28 21:25:15:486    [124553] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:486    event=2, X=141, Y=242
+08-28 21:25:15:493    [124666] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:493    
+08-28 21:25:15:494    [124673] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:494    event=2, X=143
+08-28 21:25:15:495    , Y=246
+08-28 21:25:15:505    [124786] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:506    
+08-28 21:25:15:506    [124793] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:507    event=2, X=146
+08-28 21:25:15:508    , Y=250
+08-28 21:25:15:518    [124907] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:519    
+08-28 21:25:15:519    [124913] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:520    event=2, X=148
+08-28 21:25:15:520    , Y=253
+08-28 21:25:15:533    [125027] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:536    
+08-28 21:25:15:536    [125033] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:537    event=2, X=150, Y=258
+08-28 21:25:15:543    [125147] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:544    
+08-28 21:25:15:544    [125154] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:545    event=2, X=152
+08-28 21:25:15:546    , Y=262
+08-28 21:25:15:556    [125267] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:556    
+08-28 21:25:15:557    [125274] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:557    event=2, X=154
+08-28 21:25:15:558    , Y=267
+08-28 21:25:15:569    [125388] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:569    
+08-28 21:25:15:570    [125394] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:571    event=2, X=156
+08-28 21:25:15:571    , Y=271
+08-28 21:25:15:582    [125508] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:582    
+08-28 21:25:15:583    [125514] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:583    event=2, X=158
+08-28 21:25:15:584    , Y=276
+08-28 21:25:15:594    [125628] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:594    
+08-28 21:25:15:595    [125634] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:595    event=2, X=160
+08-28 21:25:15:596    , Y=280
+08-28 21:25:15:607    [125748] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:607    
+08-28 21:25:15:611    [125755] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:611    event=2, X=161, Y=285
+08-28 21:25:15:619    [125868] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:619    
+08-28 21:25:15:620    [125875] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:622    event=2, X=163, Y=289
+08-28 21:25:15:632    [125989] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:633    
+08-28 21:25:15:633    [125995] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:634    event=2, X=164
+08-28 21:25:15:634    , Y=293
+08-28 21:25:15:645    [126109] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:645    
+08-28 21:25:15:646    [126115] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:646    event=2, X=165
+08-28 21:25:15:647    , Y=297
+08-28 21:25:15:657    [126229] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:658    
+08-28 21:25:15:658    [126236] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:659    event=2, X=166
+08-28 21:25:15:660    , Y=301
+08-28 21:25:15:669    [126349] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:670    
+08-28 21:25:15:671    [126356] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:671    event=2, X=167
+08-28 21:25:15:672    , Y=305
+08-28 21:25:15:683    [126469] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:683    
+08-28 21:25:15:684    [126476] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:689    event=2, X=168, Y=308
+08-28 21:25:15:696    [126590] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:696    
+08-28 21:25:15:696    [126596] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:697    event=2, X=169, Y=312
+08-28 21:25:15:707    [126709] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:708    
+08-28 21:25:15:708    [126716] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:709    event=2, X=169
+08-28 21:25:15:709    , Y=315
+08-28 21:25:15:720    [126830] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:721    
+08-28 21:25:15:721    [126836] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:722    event=2, X=170
+08-28 21:25:15:723    , Y=318
+08-28 21:25:15:733    [126950] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:734    
+08-28 21:25:15:734    [126956] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:735    event=2, X=171
+08-28 21:25:15:735    , Y=321
+08-28 21:25:15:746    [127070] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:746    
+08-28 21:25:15:747    [127076] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:748    event=2, X=171
+08-28 21:25:15:748    , Y=324
+08-28 21:25:15:758    [127190] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:759    
+08-28 21:25:15:759    [127197] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:760    event=2, X=171
+08-28 21:25:15:760    , Y=327
+08-28 21:25:15:770    [127310] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:770    
+08-28 21:25:15:771    [127317] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:771    event=2, X=172
+08-28 21:25:15:773    , Y=330
+08-28 21:25:15:782    [127431] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:784    
+08-28 21:25:15:785    [127437] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:785    event=2, X=172
+08-28 21:25:15:786    , Y=332
+08-28 21:25:15:796    [127551] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:797    
+08-28 21:25:15:797    [127557] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:798    event=2, X=172
+08-28 21:25:15:798    , Y=334
+08-28 21:25:15:809    [127671] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:809    
+08-28 21:25:15:809    [127677] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:810    event=2, X=172
+08-28 21:25:15:811    , Y=336
+08-28 21:25:15:821    [127791] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:822    
+08-28 21:25:15:822    [127798] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:823    event=2, X=172, Y=338
+08-28 21:25:15:834    [127911] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:834    
+08-28 21:25:15:835    [127918] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:836    event=2, X=172
+08-28 21:25:15:836    , Y=339
+08-28 21:25:15:846    [128031] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:847    
+08-28 21:25:15:847    [128038] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:848    event=2, X=172, Y=340
+08-28 21:25:15:858    [128152] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:859    
+08-28 21:25:15:859    [128158] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:860    event=2, X=172
+08-28 21:25:15:861    , Y=341
+08-28 21:25:15:871    [128272] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:871    
+08-28 21:25:15:872    [128278] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:872    event=2, X=172
+08-28 21:25:15:873    , Y=341
+08-28 21:25:15:884    [128392] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:884    
+08-28 21:25:15:885    [128399] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:885    event=2, X=171
+08-28 21:25:15:889    , Y=341
+08-28 21:25:15:896    [128512] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:897    
+08-28 21:25:15:897    [128519] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:899    event=2, X=171, Y=341
+08-28 21:25:15:909    [128632] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:909    
+08-28 21:25:15:911    [128639] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:912    event=2, X=170, Y=340
+08-28 21:25:15:922    [128752] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:922    
+08-28 21:25:15:923    [128759] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:924    event=2, X=169
+08-28 21:25:15:924    , Y=339
+08-28 21:25:15:935    [128873] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:935    
+08-28 21:25:15:936    [128879] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:936    event=2, X=168
+08-28 21:25:15:937    , Y=338
+08-28 21:25:15:947    [128993] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:948    
+08-28 21:25:15:948    [128999] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:949    event=2, X=168
+08-28 21:25:15:949    , Y=337
+08-28 21:25:15:960    [129113] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:961    
+08-28 21:25:15:961    [129120] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:962    event=2, X=167
+08-28 21:25:15:962    , Y=336
+08-28 21:25:15:972    [129233] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:972    
+08-28 21:25:15:973    [129240] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:974    event=2, X=166
+08-28 21:25:15:975    , Y=335
+08-28 21:25:15:985    [129354] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:985    
+08-28 21:25:15:986    [129360] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:986    event=2, X=166
+08-28 21:25:15:987    , Y=333
+08-28 21:25:15:997    [129474] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:15:998    
+08-28 21:25:15:998    [129480] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:15:999    event=2, X=165
+08-28 21:25:16:000    , Y=331
+08-28 21:25:16:010    [129594] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:010    
+08-28 21:25:16:012    [129600] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:012    event=2, X=164, Y=330
+08-28 21:25:16:022    [129714] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:023    
+08-28 21:25:16:023    [129720] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:024    event=2, X=164
+08-28 21:25:16:024    , Y=327
+08-28 21:25:16:035    [129834] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:035    
+08-28 21:25:16:036    [129841] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:037    event=2, X=163
+08-28 21:25:16:037    , Y=325
+08-28 21:25:16:048    [129954] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:049    
+08-28 21:25:16:049    [129961] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:050    event=2, X=162
+08-28 21:25:16:050    , Y=321
+08-28 21:25:16:061    [130075] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:061    
+08-28 21:25:16:062    [130081] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:062    event=2, X=161
+08-28 21:25:16:063    , Y=318
+08-28 21:25:16:074    [130195] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:074    
+08-28 21:25:16:075    [130201] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:075    event=2, X=160, Y=315
+08-28 21:25:16:086    [130315] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:086    
+08-28 21:25:16:087    [130321] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:091    event=2, X=160, Y=311
+08-28 21:25:16:098    [130435] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:099    
+08-28 21:25:16:099    [130441] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:100    event=2, X=159, Y=307
+08-28 21:25:16:110    [130555] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:112    
+08-28 21:25:16:112    [130562] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:113    event=2, X=158
+08-28 21:25:16:113    , Y=303
+08-28 21:25:16:123    [130675] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:124    
+08-28 21:25:16:124    [130682] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:125    event=2, X=158
+08-28 21:25:16:125    , Y=299
+08-28 21:25:16:136    [130796] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:137    
+08-28 21:25:16:137    [130802] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:138    event=2, X=157
+08-28 21:25:16:138    , Y=295
+08-28 21:25:16:148    [130916] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:149    
+08-28 21:25:16:149    [130922] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:150    event=2, X=157
+08-28 21:25:16:150    , Y=291
+08-28 21:25:16:160    [131036] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:162    
+08-28 21:25:16:162    [131042] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:163    event=2, X=156
+08-28 21:25:16:164    , Y=287
+08-28 21:25:16:174    [131156] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:174    
+08-28 21:25:16:175    [131162] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:176    event=2, X=155
+08-28 21:25:16:176    , Y=283
+08-28 21:25:16:186    [131276] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:186    
+08-28 21:25:16:187    [131283] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:187    event=2, X=155
+08-28 21:25:16:189    , Y=279
+08-28 21:25:16:199    [131396] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:199    
+08-28 21:25:16:200    [131403] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:201    event=2, X=154
+08-28 21:25:16:201    , Y=275
+08-28 21:25:16:212    [131517] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:212    
+08-28 21:25:16:212    [131523] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:214    event=2, X=154
+08-28 21:25:16:214    , Y=271
+08-28 21:25:16:224    [131637] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:224    
+08-28 21:25:16:225    [131643] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:225    event=2, X=153
+08-28 21:25:16:225    , Y=267
+08-28 21:25:16:236    [131757] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:237    
+08-28 21:25:16:238    [131764] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:238    event=2, X=153
+08-28 21:25:16:238    , Y=263
+08-28 21:25:16:249    [131877] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:249    
+08-28 21:25:16:250    [131884] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:252    event=2, X=152, Y=258
+08-28 21:25:16:262    [131997] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:263    
+08-28 21:25:16:263    [132004] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:264    event=2, X=152
+08-28 21:25:16:264    , Y=254
+08-28 21:25:16:275    [132118] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:275    
+08-28 21:25:16:276    [132124] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:277    event=2, X=151
+08-28 21:25:16:277    , Y=250
+08-28 21:25:16:287    [132238] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:288    
+08-28 21:25:16:288    [132244] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:289    event=2, X=151
+08-28 21:25:16:290    , Y=247
+08-28 21:25:16:300    [132358] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:301    
+08-28 21:25:16:301    [132364] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:302    event=2, X=151
+08-28 21:25:16:302    , Y=243
+08-28 21:25:16:313    [132478] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:316    
+08-28 21:25:16:316    [132485] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:317    event=2, X=150, Y=240
+08-28 21:25:16:325    [132598] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:325    
+08-28 21:25:16:326    [132605] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:326    event=2, X=150
+08-28 21:25:16:327    , Y=237
+08-28 21:25:16:337    [132719] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:338    
+08-28 21:25:16:338    [132725] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:340    event=2, X=149
+08-28 21:25:16:340    , Y=235
+08-28 21:25:16:350    [132839] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:350    
+08-28 21:25:16:351    [132845] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:352    event=2, X=149
+08-28 21:25:16:352    , Y=233
+08-28 21:25:16:362    [132959] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:362    
+08-28 21:25:16:364    [132966] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:365    event=2, X=149
+08-28 21:25:16:365    , Y=230
+08-28 21:25:16:375    [133079] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:376    
+08-28 21:25:16:376    [133086] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:378    event=2, X=149
+08-28 21:25:16:378    , Y=229
+08-28 21:25:16:388    [133199] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:388    
+08-28 21:25:16:389    [133206] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:390    event=2, X=148
+08-28 21:25:16:390    , Y=227
+08-28 21:25:16:400    [133319] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:402    
+08-28 21:25:16:402    [133326] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:403    event=2, X=148
+08-28 21:25:16:403    , Y=225
+08-28 21:25:16:414    [133440] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:414    
+08-28 21:25:16:415    [133446] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:415    event=2, X=148
+08-28 21:25:16:416    , Y=224
+08-28 21:25:16:426    [133560] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:427    
+08-28 21:25:16:427    [133566] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:428    event=2, X=148
+08-28 21:25:16:428    , Y=223
+08-28 21:25:16:438    [133680] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:439    
+08-28 21:25:16:439    [133686] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:440    event=2, X=148
+08-28 21:25:16:440    , Y=222
+08-28 21:25:16:451    [133800] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:452    
+08-28 21:25:16:452    [133807] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:453    event=2, X=148
+08-28 21:25:16:453    , Y=221
+08-28 21:25:16:464    [133920] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:464    
+08-28 21:25:16:465    [133927] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:465    event=2, X=148
+08-28 21:25:16:465    , Y=220
+08-28 21:25:16:476    [134040] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:477    
+08-28 21:25:16:477    [134047] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:478    event=2, X=147
+08-28 21:25:16:479    , Y=219
+08-28 21:25:16:489    [134161] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:489    
+08-28 21:25:16:490    [134167] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:490    event=2, X=147
+08-28 21:25:16:491    , Y=218
+08-28 21:25:16:501    [134281] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:502    
+08-28 21:25:16:502    [134287] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:503    event=2, X=147
+08-28 21:25:16:503    , Y=217
+08-28 21:25:16:514    [134401] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:517    
+08-28 21:25:16:518    [134407] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:518    event=2, X=147, Y=216
+08-28 21:25:16:527    [134521] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:527    
+08-28 21:25:16:528    [134528] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:529    event=2, X=147, Y=216
+08-28 21:25:16:539    [134641] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:540    
+08-28 21:25:16:540    [134648] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:541    event=2, X=147
+08-28 21:25:16:541    , Y=215
+08-28 21:25:16:551    [134761] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:553    
+08-28 21:25:16:553    [134768] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:554    event=2, X=147
+08-28 21:25:16:554    , Y=215
+08-28 21:25:16:564    [134882] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:565    
+08-28 21:25:16:565    [134888] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:566    event=2, X=146
+08-28 21:25:16:566    , Y=214
+08-28 21:25:16:577    [135002] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:578    
+08-28 21:25:16:578    [135008] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:579    event=2, X=146
+08-28 21:25:16:579    , Y=213
+08-28 21:25:16:590    [135122] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:590    
+08-28 21:25:16:591    [135129] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:591    event=2, X=146, Y=213
+08-28 21:25:16:602    [135242] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:603    
+08-28 21:25:16:603    [135249] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:604    event=2, X=146, Y=212
+08-28 21:25:16:615    [135362] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:615    
+08-28 21:25:16:616    [135369] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:616    event=2, X=146
+08-28 21:25:16:617    , Y=212
+08-28 21:25:16:627    [135483] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:627    
+08-28 21:25:16:628    [135489] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:629    event=2, X=146
+08-28 21:25:16:630    , Y=212
+08-28 21:25:16:639    [135603] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:641    
+08-28 21:25:16:641    [135609] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:642    event=2, X=145
+08-28 21:25:16:642    , Y=211
+08-28 21:25:16:653    [135723] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:653    
+08-28 21:25:16:653    [135729] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:654    event=2, X=145
+08-28 21:25:16:654    , Y=210
+08-28 21:25:16:665    [135843] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:665    
+08-28 21:25:16:666    [135849] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:667    event=2, X=144
+08-28 21:25:16:667    , Y=208
+08-28 21:25:16:678    [135963] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:678    
+08-28 21:25:16:678    [135969] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:679    event=2, X=143
+08-28 21:25:16:681    , Y=206
+08-28 21:25:16:691    [136082] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+08-28 21:25:16:691    
+08-28 21:25:16:691    [136089] D/drv.chsc6417 tpread: chsc6417 read_point
+08-28 21:25:16:692    event=1, X=143
+08-28 21:25:16:692    , Y=206

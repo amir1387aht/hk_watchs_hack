@@ -1,0 +1,22 @@
+from building import *
+Import('rtconfig')
+
+src = Glob('*.c')
+cwd = GetCurrentDir()
+group = []
+
+CPPPATH = [cwd]
+# only enable POSIX.1b-1993 Real-time extensions
+CPPDEFINES = ['RT_USING_NEWLIB', '_POSIX_C_SOURCE=199309L']
+
+# link with libc and libm:
+# libm is a frequently used lib. Newlib is compiled with -ffunction-sections in
+# recent GCC tool chains. The linker would just link in the functions that have
+# been referenced. So setting this won't result in bigger text size.
+LIBS = ['c', 'm']
+
+if rtconfig.PLATFORM == 'gcc':
+    group = DefineGroup('newlib', src, depend = ['RT_USING_LIBC'], 
+        CPPPATH = CPPPATH, CPPDEFINES = CPPDEFINES, LIBS = LIBS)
+
+Return('group')

@@ -1,0 +1,702 @@
+09-06 23:59:37:714    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+09-06 23:59:37:716    NAND ID 0x21aaef
+09-06 23:59:37:717    det bbm table with 1, 1, 2
+09-06 23:59:37:717    detect result 2
+09-06 23:59:37:718    V1 1 in block 992, V2 0 in block 994
+09-06 23:59:37:719    Latest version 1
+09-06 23:59:37:720    V1 1 in block 993, V2 0 in block 995
+09-06 23:59:37:721    Latest version 1
+09-06 23:59:37:721    v1 1 in blk 992, v2 1 in block 993
+09-06 23:59:37:722    BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+09-06 23:59:37:722    sif_bbm_init done
+09-06 23:59:37:723    
+09-06 23:59:37:723     \ | /
+09-06 23:59:37:724    - SiFli Corporation
+09-06 23:59:37:724     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+09-06 23:59:37:725     2020 - 2022 Copyright by SiFli team
+09-06 23:59:37:726    cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+09-06 23:59:37:726    mount /dev sucess
+09-06 23:59:37:727    [32m[393] I/drv.rtc main: PSCLR=0x236f4500 DivAI=35 DivAF=7121 B=256
+09-06 23:59:37:728    [0m[32m[401] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058322, rtc ppm=0
+09-06 23:59:37:729    
+09-06 23:59:37:730    [0m[32m[409] I/drv.rtc main: DIVA=35, DIVA_FRA=7102, DIVB=256
+09-06 23:59:37:731    
+09-06 23:59:37:731    [0m[32m[415] I/drv.rtc main: Init RTC, wake = 1
+09-06 23:59:37:733    
+09-06 23:59:37:733    [0mNAND factory magic error 0xffffffff vs 0x53450617
+09-06 23:59:37:734    [32m[429] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+09-06 23:59:37:735    
+09-06 23:59:37:736    [0m[32m[436] I/drv.audprc main: HAL_AUDPRC_Init res 0
+09-06 23:59:37:737    
+09-06 23:59:37:738    [0m[31m[442] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+09-06 23:59:37:739    [0m[32m[449] I/drv.encoder main: encoder1 init success!!
+09-06 23:59:37:741    [0m[31m[455] E/drv.encoder main: encoder1 register success
+09-06 23:59:37:742    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+09-06 23:59:37:743    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-06 23:59:37:745    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-06 23:59:37:749    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-06 23:59:37:750    [32m[501] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+09-06 23:59:37:750    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+09-06 23:59:37:750    mount fs[yaffs] on / failed.
+09-06 23:59:37:751    Register root to mtd device with base addr 0x62580000
+09-06 23:59:37:751    mount dev: 44, 983
+09-06 23:59:37:923    Get phy blk for 992 fail when read
+09-06 23:59:37:923    [32m[2212] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:931    
+09-06 23:59:37:954    [0mGet phy blk for 993 fail when read
+09-06 23:59:37:954    [32m[2222] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:955    
+09-06 23:59:37:955    [0mGet phy blk for 994 fail when read
+09-06 23:59:37:956    [32m[2233] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:956    
+09-06 23:59:37:956    [0mGet phy blk for 995 fail when read
+09-06 23:59:37:957    [32m[2243] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:957    
+09-06 23:59:37:958    [0mGet phy blk for 996 fail when read
+09-06 23:59:37:958    [32m[2253] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:958    
+09-06 23:59:37:958    [0mGet phy blk for 997 fail when read
+09-06 23:59:37:959    [32m[2263] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:959    
+09-06 23:59:37:959    [0mGet phy blk for 998 fail when read
+09-06 23:59:37:960    [32m[2273] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:960    
+09-06 23:59:37:960    [0mGet phy blk for 999 fail when read
+09-06 23:59:37:960    [32m[2283] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:961    
+09-06 23:59:37:962    [0mGet phy blk for 1000 fail when read
+09-06 23:59:37:962    [32m[2294] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:963    
+09-06 23:59:37:963    [0mGet phy blk for 1001 fail when read
+09-06 23:59:37:963    [32m[2304] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:964    
+09-06 23:59:37:964    [0mGet phy blk for 1002 fail when read
+09-06 23:59:37:964    [32m[2314] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:965    
+09-06 23:59:37:965    [0mGet phy blk for 1003 fail when read
+09-06 23:59:37:965    [32m[2324] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:965    
+09-06 23:59:37:966    [0mGet phy blk for 1004 fail when read
+09-06 23:59:37:966    [32m[2335] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:966    
+09-06 23:59:37:967    [0mGet phy blk for 1005 fail when read
+09-06 23:59:37:967    [32m[2345] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:967    
+09-06 23:59:37:967    [0mGet phy blk for 1006 fail when read
+09-06 23:59:37:968    [32m[2355] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:968    
+09-06 23:59:37:969    [0mGet phy blk for 1007 fail when read
+09-06 23:59:37:969    [32m[2365] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:969    
+09-06 23:59:37:970    [0mGet phy blk for 1008 fail when read
+09-06 23:59:37:970    [32m[2376] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:970    
+09-06 23:59:37:970    [0mGet phy blk for 1009 fail when read
+09-06 23:59:37:971    [32m[2386] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:971    
+09-06 23:59:37:971    [0mGet phy blk for 1010 fail when read
+09-06 23:59:37:972    [32m[2396] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:972    
+09-06 23:59:37:972    [0mGet phy blk for 1011 fail when read
+09-06 23:59:37:972    [32m[2406] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:973    
+09-06 23:59:37:973    [0mGet phy blk for 1012 fail when read
+09-06 23:59:37:973    [32m[2416] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:974    
+09-06 23:59:37:974    [0mGet phy blk for 1013 fail when read
+09-06 23:59:37:974    [32m[2427] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:975    
+09-06 23:59:37:975    [0mGet phy blk for 1014 fail when read
+09-06 23:59:37:975    [32m[2437] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:976    
+09-06 23:59:37:976    [0mGet phy blk for 1015 fail when read
+09-06 23:59:37:976    [32m[2447] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:976    
+09-06 23:59:37:977    [0mGet phy blk for 1016 fail when read
+09-06 23:59:37:977    [32m[2457] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:977    
+09-06 23:59:37:978    [0mGet phy blk for 1017 fail when read
+09-06 23:59:37:978    [32m[2468] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:978    
+09-06 23:59:37:979    [0mGet phy blk for 1018 fail when read
+09-06 23:59:37:979    [32m[2478] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:979    
+09-06 23:59:37:980    [0mGet phy blk for 1019 fail when read
+09-06 23:59:37:980    [32m[2488] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:980    
+09-06 23:59:37:980    [0mGet phy blk for 1020 fail when read
+09-06 23:59:37:981    [32m[2498] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:981    
+09-06 23:59:37:981    [0mGet phy blk for 1021 fail when read
+09-06 23:59:37:982    [32m[2509] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:982    
+09-06 23:59:37:982    [0mGet phy blk for 1022 fail when read
+09-06 23:59:37:983    [32m[2519] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:983    
+09-06 23:59:37:983    [0mGet phy blk for 1023 fail when read
+09-06 23:59:37:984    [32m[2529] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:984    
+09-06 23:59:37:984    [0mGet phy blk for 1024 fail when read
+09-06 23:59:37:985    [32m[2539] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:985    
+09-06 23:59:37:985    [0mGet phy blk for 1025 fail when read
+09-06 23:59:37:986    [32m[2550] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:37:986    
+09-06 23:59:38:005    [0mGet phy blk for 1026 fail when read
+09-06 23:59:38:006    [32m[2560] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:006    
+09-06 23:59:38:007    [0mGet phy blk for 1027 fail when read
+09-06 23:59:38:007    [32m[2570] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:007    
+09-06 23:59:38:008    [0m
+09-06 23:59:38:150    Get phy blk for 992 fail when read
+09-06 23:59:38:152    [32m[4271] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:152    
+09-06 23:59:38:152    [0mGet phy blk for 993 fail when read
+09-06 23:59:38:153    [32m[4281] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:153    
+09-06 23:59:38:154    [0mGet phy blk for 994 fail when read
+09-06 23:59:38:154    [32m[4291] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:154    
+09-06 23:59:38:155    [0mGet phy blk for 995 fail when read
+09-06 23:59:38:156    [32m[4301] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:156    
+09-06 23:59:38:156    [0mGet phy blk for 996 fail when read
+09-06 23:59:38:157    [32m[4311] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:157    
+09-06 23:59:38:157    [0mGet phy blk for 997 fail when read
+09-06 23:59:38:158    [32m[4322] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:158    
+09-06 23:59:38:159    [0mGet phy blk for 998 fail when read
+09-06 23:59:38:159    [32m[4332] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:159    
+09-06 23:59:38:160    [0mGet phy blk for 999 fail when read
+09-06 23:59:38:160    [32m[4342] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:161    
+09-06 23:59:38:161    [0mGet phy blk for 1000 fail when read
+09-06 23:59:38:161    [32m[4352] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:162    
+09-06 23:59:38:162    [0mGet phy blk for 1001 fail when read
+09-06 23:59:38:163    [32m[4362] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:164    
+09-06 23:59:38:164    [0mGet phy blk for 1002 fail when read
+09-06 23:59:38:164    [32m[4373] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:164    
+09-06 23:59:38:165    [0mGet phy blk for 1003 fail when read
+09-06 23:59:38:165    [32m[4383] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:165    
+09-06 23:59:38:166    [0mGet phy blk for 1004 fail when read
+09-06 23:59:38:167    [32m[4393] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:167    
+09-06 23:59:38:167    [0mGet phy blk for 1005 fail when read
+09-06 23:59:38:167    [32m[4404] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:168    
+09-06 23:59:38:168    [0mGet phy blk for 1006 fail when read
+09-06 23:59:38:169    [32m[4414] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:170    
+09-06 23:59:38:170    [0mGet phy blk for 1007 fail when read
+09-06 23:59:38:170    [32m[4424] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:170    
+09-06 23:59:38:171    [0mGet phy blk for 1008 fail when read
+09-06 23:59:38:171    [32m[4434] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:172    
+09-06 23:59:38:172    [0mGet phy blk for 1009 fail when read
+09-06 23:59:38:173    [32m[4445] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:173    
+09-06 23:59:38:173    [0mGet phy blk for 1010 fail when read
+09-06 23:59:38:174    [32m[4455] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:174    
+09-06 23:59:38:174    [0mGet phy blk for 1011 fail when read
+09-06 23:59:38:175    [32m[4465] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:175    
+09-06 23:59:38:175    [0mGet phy blk for 1012 fail when read
+09-06 23:59:38:176    [32m[4475] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:177    
+09-06 23:59:38:177    [0mGet phy blk for 1013 fail when read
+09-06 23:59:38:177    [32m[4486] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:177    
+09-06 23:59:38:178    [0mGet phy blk for 1014 fail when read
+09-06 23:59:38:178    [32m[4496] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:179    
+09-06 23:59:38:179    [0mGet phy blk for 1015 fail when read
+09-06 23:59:38:180    [32m[4506] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:180    
+09-06 23:59:38:180    [0mGet phy blk for 1016 fail when read
+09-06 23:59:38:181    [32m[4516] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:181    
+09-06 23:59:38:181    [0mGet phy blk for 1017 fail when read
+09-06 23:59:38:182    [32m[4527] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:182    
+09-06 23:59:38:182    [0mGet phy blk for 1018 fail when read
+09-06 23:59:38:183    [32m[4537] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:184    
+09-06 23:59:38:184    [0mGet phy blk for 1019 fail when read
+09-06 23:59:38:184    [32m[4547] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:185    
+09-06 23:59:38:185    [0mGet phy blk for 1020 fail when read
+09-06 23:59:38:185    [32m[4558] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:186    
+09-06 23:59:38:186    [0mGet phy blk for 1021 fail when read
+09-06 23:59:38:187    [32m[4568] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:187    
+09-06 23:59:38:188    [0mGet phy blk for 1022 fail when read
+09-06 23:59:38:188    [32m[4578] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:188    
+09-06 23:59:38:205    [0mGet phy blk for 1023 fail when read
+09-06 23:59:38:205    [32m[4588] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:206    
+09-06 23:59:38:206    [0mGet phy blk for 1024 fail when read
+09-06 23:59:38:206    [32m[4599] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:207    
+09-06 23:59:38:207    [0mGet phy blk for 1025 fail when read
+09-06 23:59:38:208    [32m[4609] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:208    
+09-06 23:59:38:208    [0mGet phy blk for 1026 fail when read
+09-06 23:59:38:209    [32m[4619] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:209    
+09-06 23:59:38:209    [0mGet phy blk for 1027 fail when read
+09-06 23:59:38:210    [32m[4629] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 23:59:38:210    
+09-06 23:59:38:211    [0m
+09-06 23:59:38:258    mount:0
+09-06 23:59:38:259    mount fs on flash to root success
+09-06 23:59:38:260    [FlashDB] Starting initialization...
+09-06 23:59:38:261    [FlashDB] Mutex initialized
+09-06 23:59:38:261    [FlashDB] KVDB Config:
+09-06 23:59:38:262      Path: /sys/db/fdb_kvdb
+09-06 23:59:38:262      Sector Size: 4096
+09-06 23:59:38:262      Max Size: 16384 (0x4000)
+09-06 23:59:38:263      File Mode: true
+09-06 23:59:38:271    [FlashDB] KVDB initialized successfully
+09-06 23:59:38:272    [FlashDB] TSDB Config:
+09-06 23:59:38:272      Path: /sys/db/fdb_tsdb
+09-06 23:59:38:273      Max Size: 16384
+09-06 23:59:38:275    [FlashDB] TSDB initialized successfully
+09-06 23:59:38:275    [FlashDB] All initialization complete
+09-06 23:59:38:276    [32m[5407] I/drv.lcd app_watc: [NONE] -> [OPENING]
+09-06 23:59:38:277    [0m[32m[5413] I/drv.lcd lcd_task: open
+09-06 23:59:38:277    [0m[32m[5417] I/drv.epic lcd_task: drv_gpu opened.
+09-06 23:59:38:278    [0m[32m[5423] I/drv.lcd lcd_task: HW open
+09-06 23:59:38:279    [0m[32m[5434] I/drv.lcd lcd_task: Try registered LCD driver...
+09-06 23:59:38:280    [0mmsh
+09-06 23:59:38:281     />
+09-06 23:59:38:349    
+09-06 23:59:38:349    CO5300_ReadID 0x331100 
+09-06 23:59:38:350    [32m[6077] I/co5300 lcd_task: LCD mo
+09-06 23:59:38:351    dule use CO5300 IC 
+09-06 23:59:38:351    
+09-06 23:59:38:352    [0m
+09-06 23:59:38:540    
+09-06 23:59:38:541    CO5300_ReadID 0x331100 
+09-06 23:59:38:542    [32m[7815] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-06 23:59:38:543    
+09-06 23:59:38:543    [0m[32m[7822] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+09-06 23:59:38:544    [0m[32m[7829] I/drv.lcd lcd_task: HW open done.
+09-06 23:59:38:544    [0m[32m[7834] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+09-06 23:59:38:545    [0m[32m[7840] I/drv.lcd lcd_task: open done.
+09-06 23:59:38:545    [0m[32m[7846] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+09-06 23:59:38:546    [0m[32m[7852] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+09-06 23:59:38:547    [0m[32m[7860] I/TOUCH app_watc: Open
+09-06 23:59:38:547    [0m[32m[7864] I/TOUCH tp_init: Find touch screen driver...
+09-06 23:59:38:548    [0m[32m[7871] I/TOUCH tp_init: Probe 10007795
+09-06 23:59:38:549    [0m[32m[7876] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-06 23:59:38:549    [0m[32m[7882] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+09-06 23:59:38:550    [0m[7890] D/drv.chsc6417 tp_init: chsc6417 init
+09-06 23:59:38:550    chsc6417 id=0x0
+09-06 23:59:38:551    [32m[7898] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-06 23:59:38:551    [0m[7904] D/drv.chsc6417 tp_init: chsc6417 init OK
+09-06 23:59:38:551    [32m[7909] I/TOUCH app_watc: Opened.
+09-06 23:59:38:552    [0m
+09-06 23:59:38:554    [32m[7931] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+09-06 23:59:38:555    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+09-06 23:59:38:556    
+09-06 23:59:38:770    Boot count: 55
+09-06 23:59:38:775    [32m[9934] I/drv.rtc app_watc: Get initial cycles: 1058322 rtc=
+09-06 23:59:38:776    1735689703.0000
+09-06 23:59:38:776    
+09-06 23:59:38:778    [0m
+09-06 23:59:38:781    [32m[9990] I/drv.rtc app_watc: Get initial cycles: 1058322 rtc=1735689600.0000
+09-06 23:59:38:782    
+09-06 23:59:38:784    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+09-06 23:59:38:787    [32m[10044] I/drv.lcd lcd_task: set brightness 100
+09-06 23:59:38:788    [0m[32m[10050] I/drv.lcd lcd_task: display on
+09-06 23:59:38:789    [0m[32m[10055] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-06 23:59:38:790    [0m[10064] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1065.
+09-06 23:59:38:790    [32m[10074] I/APP.FWK.INT app_watc: [MainScreen]
+09-06 23:59:38:792    [0m
+09-06 23:59:38:821    [10352] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-06 23:59:38:822    [32m[10361] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1065
+09-06 23:59:38:823    [0m[32m[10369] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 2006375c
+09-06 23:59:38:824    [0m[32m[10377] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+09-06 23:59:38:825    [0m[10384] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-06 23:59:38:825    [32m[10393] I/APP.SCHE app_watc: app[MainScreen] do START, 2006375c
+09-06 23:59:38:826    [0m[32m[10400] I/APP.FWK.INT app_watc: [MainScreen]
+09-06 23:59:38:827    [0m[10406] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x2006375c] to gui_app_mbx tick:1102.
+09-06 23:59:38:828    [32m[10416] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1102
+09-06 23:59:38:829    [0m[10425] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063828
+09-06 23:59:38:830    [10432] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-06 23:59:38:830    [10441] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-06 23:59:38:832    [32m[10450] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART
+09-06 23:59:38:832    , 20063828
+09-06 23:59:38:833    [0m
+09-06 23:59:38:843    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+09-06 23:59:38:844    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 m
+09-06 23:59:38:845    s, vol=70%)
+09-06 23:59:38:853    [32m[10641] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063828
+09-06 23:59:38:854    [0m[32m[10650] I/APP.SCHE app_watc: Try setup trans-anim
+09-06 23:59:38:855    [0m[32m[10656] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-06 23:59:38:856    [0m[10663] D/APP.SCHE app_watc: app_schedule_tas
+09-06 23:59:38:856    k done.
+09-06 23:59:40:257    [Music] Volume set to 75%
+09-06 23:59:40:377    [Music] Volume set to 80%
+09-06 23:59:41:250    [Music] Volume set to 75%
+09-06 23:59:41:642    [Music] Volume set to 70%
+09-06 23:59:41:762    [Music] Volume set to 65%
+09-06 23:59:41:883    [Music] Volume set to 60%
+09-06 23:59:41:943    [Music] Volume set to 65%
+09-06 23:59:42:514    [Music] Volume set to 60%
+09-06 23:59:42:634    [Music] Volume set to 65%
+09-06 23:59:42:695    [Music] Volume set to 60%
+09-06 23:59:42:785    [Music] Volume set to 55%
+09-06 23:59:42:845    [Music] Volume set to 50%
+09-06 23:59:43:266    [Music] Volume set to 45%
+09-06 23:59:43:328    [Music] Volume set to 40%
+09-06 23:59:43:387    [Music] Volume set to 35%
+09-06 23:59:43:508    [Music] Volume set to 30%
+09-06 23:59:43:598    [Music] Volume set to 25%
+09-06 23:59:43:931    [Music] Volume set to 30%
+09-06 23:59:43:991    [Music] Volume set to 35%
+09-06 23:59:44:292    [Music] Volume set to 30%
+09-06 23:59:44:382    [Music] Volume set to 25%
+09-06 23:59:44:441    [Music] Volume set to 20%
+09-06 23:59:44:472    [Music] Volume set to 15%
+09-06 23:59:44:504    [Music] Volume set to 10%
+09-06 23:59:44:533    [Music] Volume set to 5%
+09-06 23:59:44:592    [Music] Volume set to 0%
+09-06 23:59:44:802    [Music] Volume set to 5%
+09-06 23:59:44:863    [Music] Volume set to 10%
+09-06 23:59:44:894    [Music] Volume set to 15%
+09-06 23:59:44:953    [Music] Volume set to 20%
+09-06 23:59:45:224    [Music] Volume set to 15%
+09-06 23:59:45:284    [Music] Volume set to 10%
+09-06 23:59:45:344    [Music] Volume set to 5%
+09-06 23:59:45:374    [Music] Volume set to 0%
+09-06 23:59:45:887    [Music] Volume set to 5%
+09-06 23:59:45:977    [Music] Volume set to 10%
+09-06 23:59:46:037    [Music] Volume set to 15%
+09-06 23:59:46:066    [Music] Volume set to 20%
+09-06 23:59:46:488    [Music] Volume set to 25%
+09-06 23:59:46:518    [Music] Volume set to 30%
+09-06 23:59:46:548    [Music] Volume set to 35%
+09-06 23:59:46:608    [Music] Volume set to 40%
+09-06 23:59:47:030    [Music] Volume set to 45%
+09-06 23:59:47:090    [Music] Volume set to 50%
+09-06 23:59:47:150    [Music] Volume set to 55%
+09-06 23:59:47:210    [Music] Volume set to 60%
+09-06 23:59:47:331    [Music] Volume set to 55%
+09-06 23:59:47:691    [Music] Volume set to 60%
+09-06 23:59:47:751    [Music] Volume set to 65%
+09-06 23:59:47:811    [Music] Volume set to 70%
+09-06 23:59:47:841    [Music] Volume set to 75%
+09-06 23:59:47:932    [Music] Volume set to 80%
+09-06 23:59:48:143    [Music] Volume set to 75%
+09-06 23:59:48:475    [Music] Volume set to 80%
+09-06 23:59:48:534    [Music] Volume set to 85%
+09-06 23:59:48:624    [Music] Volume set to 90%
+09-06 23:59:48:684    [Music] Volume set to 95%
+09-06 23:59:48:805    [Music] Volume set to 100%
+09-06 23:59:49:256    [Music] Volume set to 95%
+09-06 23:59:49:346    [Music] Volume set to 90%
+09-06 23:59:49:406    [Music] Volume set to 85%
+09-06 23:59:49:466    [Music] Volume set to 80%
+09-06 23:59:49:829    [Music] Volume set to 85%
+09-06 23:59:50:072    [Music] Volume set to 80%
+09-06 23:59:50:222    [Music] Volume set to 75%
+09-06 23:59:50:764    [Music] Volume set to 70%
+09-06 23:59:50:885    [Music] Volume set to 65%
+09-06 23:59:51:095    [Music] Volume set to 60%
+09-06 23:59:52:540    [Music] Volume set to 55%
+09-06 23:59:52:601    [Music] Volume set to 50%
+09-06 23:59:52:662    [Music] Volume set to 45%
+09-06 23:59:52:720    [Music] Volume set to 40%
+09-06 23:59:57:206    [Music] Volume set to 45%
+09-06 23:59:57:355    [Music] Volume set to 50%
+09-06 23:59:57:476    [Music] Volume set to 55%
+09-06 23:59:57:566    [Music] Volume set to 60%
+09-06 23:59:57:657    [Music] Volume set to 65%
+09-06 23:59:57:928    [Music] Volume set to 70%
+09-06 23:59:57:958    [Music] Volume set to 65%
+09-06 23:59:58:049    [Music] Volume set to 60%
+09-06 23:59:58:078    [Music] Volume set to 55%
+09-06 23:59:58:138    [Music] Volume set to 50%
+09-06 23:59:58:199    [Music] Volume set to 45%
+09-06 23:59:58:319    [Music] Volume set to 40%
+09-06 23:59:58:561    [Music] Volume set to 35%
+09-06 23:59:58:620    [Music] Volume set to 30%
+09-06 23:59:58:650    [Music] Volume set to 25%
+09-06 23:59:58:951    [Music] Volume set to 30%
+09-06 23:59:59:013    [Music] Volume set to 35%
+09-06 23:59:59:102    [Music] Volume set to 40%
+09-06 23:59:59:584    [Music] Volume set to 45%
+09-06 23:59:59:644    [Music] Volume set to 50%
+09-07 00:00:00:005    [Music] Volume set to 55%
+09-07 00:00:00:065    [Music] Volume set to 60%
+09-07 00:00:00:306    [Music] Volume set to 55%
+09-07 00:00:00:396    [Music] Volume set to 50%
+09-07 00:00:00:726    [Music] Volume set to 45%
+09-07 00:00:00:998    [Music] Volume set to 40%
+09-07 00:00:01:058    [Music] Volume set to 35%
+09-07 00:00:01:359    [Music] Volume set to 30%
+09-07 00:00:01:451    [Music] Volume set to 25%
+09-07 00:00:01:749    [Music] Volume set to 20%
+09-07 00:00:01:811    [Music] Volume set to 15%
+09-07 00:00:01:871    [Music] Volume set to 10%
+09-07 00:00:02:232    [Music] Volume set to 5%
+09-07 00:00:02:593    [Music] Volume set to 0%
+09-07 00:00:02:803    [Music] Volume set to 5%
+09-07 00:00:02:894    [Music] Volume set to 10%
+09-07 00:00:02:985    [Music] Volume set to 5%
+09-07 00:00:03:105    [Music] Volume set to 0%
+09-07 00:00:04:911    [Music] Volume set to 5%
+09-07 00:00:05:032    [Music] Volume set to 10%
+09-07 00:00:05:062    [Music] Volume set to 15%
+09-07 00:00:05:122    [Music] Volume set to 20%
+09-07 00:00:05:212    [Music] Volume set to 25%
+09-07 00:00:05:303    [Music] Volume set to 30%
+09-07 00:00:05:964    [Music] Volume set to 35%
+09-07 00:00:05:995    [Music] Volume set to 40%
+09-07 00:00:06:085    [Music] Volume set to 45%
+09-07 00:00:06:175    [Music] Volume set to 50%
+09-07 00:00:06:265    [Music] Volume set to 55%
+09-07 00:00:06:930    [Music] Volume set to 60%
+09-07 00:00:06:958    [Music] Volume set to 55%
+09-07 00:00:07:139    [Music] Volume set to 50%
+09-07 00:00:07:350    [Music] Volume set to 45%
+09-07 00:00:07:982    [Music] Volume set to 50%
+09-07 00:00:08:103    [Music] Volume set to 45%
+09-07 00:00:08:132    [Music] Volume set to 50%
+09-07 00:00:08:434    [Music] Volume set to 55%
+09-07 00:00:09:125    [Music] Volume set to 50%
+09-07 00:00:09:366    [Music] Volume set to 55%
+09-07 00:00:09:396    [Music] Volume set to 60%
+09-07 00:00:09:547    [Music] Volume set to 55%
+09-07 00:00:09:939    [Music] Volume set to 50%
+09-07 00:00:10:119    [Music] Volume set to 55%
+09-07 00:00:10:149    [Music] Volume set to 50%
+09-07 00:00:10:269    [Music] Volume set to 55%
+09-07 00:00:10:301    [Music] Volume set to 50%
+09-07 00:00:10:450    [Music] Volume set to 45%
+09-07 00:00:10:931    [Music] Volume set to 40%
+09-07 00:00:11:322    [Music] Volume set to 35%
+09-07 00:00:11:353    [Music] Volume set to 30%
+09-07 00:00:11:413    [Music] Volume set to 25%
+09-07 00:00:11:443    [Music] Volume set to 20%
+09-07 00:00:11:533    [Music] Volume set to 15%
+09-07 00:00:11:774    [Music] Volume set to 20%
+09-07 00:00:11:895    [Music] Volume set to 25%
+09-07 00:00:11:924    [Music] Volume set to 30%
+09-07 00:00:12:286    [Music] Volume set to 35%
+09-07 00:00:12:526    [Music] Volume set to 40%
+09-07 00:00:12:617    [Music] Volume set to 45%
+09-07 00:00:12:857    [Music] Volume set to 50%
+09-07 00:00:12:917    [Music] Volume set to 55%
+09-07 00:00:13:158    [Music] Volume set to 60%
+09-07 00:00:13:249    [Music] Volume set to 65%
+09-07 00:00:13:520    [Music] Volume set to 70%
+09-07 00:00:13:549    [Music] Volume set to 75%
+09-07 00:00:13:791    [Music] Volume set to 80%
+09-07 00:00:13:821    [Music] Volume set to 85%
+09-07 00:00:13:851    [Music] Volume set to 90%
+09-07 00:00:13:880    [Music] Volume set to 95%
+09-07 00:00:13:972    [Music] Volume set to 100%
+09-07 00:00:17:160    [Music] Volume set to 95%
+09-07 00:00:18:815    [Music] Volume set to 100%
+09-07 00:00:19:327    [Music] Volume set to 95%
+09-07 00:00:19:508    [Music] Volume set to 100%
+09-07 00:00:19:688    [Music] Volume set to 95%
+09-07 00:00:19:868    [Music] Volume set to 100%
+09-07 00:00:19:958    [Music] Volume set to 95%
+09-07 00:00:20:169    [Music] Volume set to 100%
+09-07 00:00:20:229    [Music] Volume set to 95%
+09-07 00:00:20:530    [Music] Volume set to 90%
+09-07 00:00:21:343    [Music] Volume set to 85%
+09-07 00:00:21:524    [Music] Volume set to 90%
+09-07 00:00:21:675    [Music] Volume set to 85%
+09-07 00:00:21:975    [Music] Volume set to 80%
+09-07 00:00:22:156    [Music] Volume set to 75%
+09-07 00:00:22:306    [Music] Volume set to 80%
+09-07 00:00:22:728    [Music] Volume set to 75%
+09-07 00:00:22:908    [Music] Volume set to 70%
+09-07 00:00:23:119    [Music] Volume set to 65%
+09-07 00:00:27:768    [Music] Volume set to 70%
+09-07 00:00:27:978    [Music] Volume set to 65%
+09-07 00:00:32:904    [Music] Volume set to 70%
+09-07 00:00:32:994    [Music] Volume set to 65%
+09-07 00:00:38:421    [Music] Paused at 59 s (+292 ms)
+09-07 00:00:38:423    
+09-07 00:00:39:257    [Music] Playing: Default Song T - Demo Artist (pos=59 s, +292 ms
+09-07 00:00:39:258    , vol=65%)
+09-07 00:00:40:332    [Music] Volume set to 70%
+09-07 00:00:40:543    [Music] Volume set to 75%
+09-07 00:00:40:874    [Music] Volume set to 70%
+09-07 00:00:40:964    [Music] Volume set to 65%
+09-07 00:00:41:115    [Music] Volume set to 60%
+09-07 00:00:41:264    [Music] Volume set to 65%
+09-07 00:01:54:649    [Music] Volume set to 60%
+09-07 00:01:54:678    [Music] Volume set to 55%
+09-07 00:01:54:738    [Music] Volume set to 50%
+09-07 00:01:54:768    [Music] Volume set to 45%
+09-07 00:01:55:581    [Music] Volume set to 50%
+09-07 00:01:55:640    [Music] Volume set to 45%
+09-07 00:02:10:323    [Music] Stopped
+09-07 00:02:21:433    [Music] Volume set to 40%
+09-07 00:02:21:462    [Music] Volume set to 35%
+09-07 00:02:21:493    [Music] Volume set to 30%
+09-07 00:02:22:095    [Music] Volume set to 35%
+09-07 00:02:22:428    [Music] Volume set to 40%
+09-07 00:02:22:547    [Music] Volume set to 35%
+09-07 00:02:22:608    [Music] Volume set to 40%
+09-07 00:02:23:089    [Music] Volume set to 45%
+09-07 00:02:23:182    [Music] Volume set to 50%
+09-07 00:02:23:240    [Music] Volume set to 55%
+09-07 00:02:23:330    [Music] Volume set to 60%
+09-07 00:02:23:420    [Music] Volume set to 65%
+09-07 00:02:23:540    [Music] Volume set to 60%
+09-07 00:02:23:751    [Music] Volume set to 55%
+09-07 00:02:23:872    [Music] Volume set to 50%
+09-07 00:02:23:932    [Music] Volume set to 45%
+09-07 00:02:24:022    [Music] Volume set to 40%
+09-07 00:02:24:142    [Music] Volume set to 35%
+09-07 00:02:43:556    [Music] Volume set to 30%
+09-07 00:02:43:616    [Music] Volume set to 25%
+09-07 00:02:43:649    [Music] Volume set to 20%
+09-07 00:02:43:706    [Music] Volume set to 25%
+09-07 00:02:43:856    [Music] Volume set to 30%
+09-07 00:02:43:917    [Music] Volume set to 35%
+09-07 00:02:43:978    [Music] Volume set to 40%
+09-07 00:02:44:037    [Music] Volume set to 45%
+09-07 00:02:44:069    [Music] Volume set to 50%
+09-07 00:02:44:128    [Music] Volume set to 55%
+09-07 00:02:44:278    [Music] Volume set to 50%
+09-07 00:02:44:309    [Music] Volume set to 45%
+09-07 00:02:44:369    [Music] Volume set to 40%
+09-07 00:02:44:399    [Music] Volume set to 35%
+09-07 00:02:44:460    [Music] Volume set to 30%
+09-07 00:02:44:669    [Music] Volume set to 35%
+09-07 00:02:44:731    [Music] Volume set to 40%
+09-07 00:02:44:791    [Music] Volume set to 45%
+09-07 00:02:44:822    [Music] Volume set to 50%
+09-07 00:02:44:852    [Music] Volume set to 55%
+09-07 00:02:44:911    [Music] Volume set to 60%
+09-07 00:02:45:092    [Music] Volume set to 55%
+09-07 00:02:45:152    [Music] Volume set to 50%
+09-07 00:02:45:182    [Music] Volume set to 45%
+09-07 00:02:45:212    [Music] Volume set to 40%
+09-07 00:02:45:242    [Music] Volume set to 35%
+09-07 00:02:45:302    [Music] Volume set to 30%
+09-07 00:02:45:513    [Music] Volume set to 35%
+09-07 00:02:45:573    [Music] Volume set to 40%
+09-07 00:02:45:603    [Music] Volume set to 45%
+09-07 00:02:45:633    [Music] Volume set to 50%
+09-07 00:02:45:693    [Music] Volume set to 55%
+09-07 00:02:45:964    [Music] Volume set to 50%
+09-07 00:02:46:056    [Music] Volume set to 45%
+09-07 00:02:46:085    [Music] Volume set to 40%
+09-07 00:02:46:145    [Music] Volume set to 35%
+09-07 00:02:46:417    [Music] Volume set to 40%
+09-07 00:02:46:475    [Music] Volume set to 45%
+09-07 00:02:46:536    [Music] Volume set to 50%
+09-07 00:02:46:626    [Music] Volume set to 55%
+09-07 00:02:46:869    [Music] Volume set to 50%
+09-07 00:02:46:987    [Music] Volume set to 45%
+09-07 00:02:47:048    [Music] Volume set to 40%
+09-07 00:02:47:079    [Music] Volume set to 35%
+09-07 00:02:47:138    [Music] Volume set to 30%
+09-07 00:02:47:229    [Music] Volume set to 25%
+09-07 00:02:47:319    [Music] Volume set to 30%
+09-07 00:02:47:590    [Music] Volume set to 35%
+09-07 00:02:47:710    [Music] Volume set to 40%
+09-07 00:02:47:801    [Music] Volume set to 45%
+09-07 00:02:48:102    [Music] Volume set to 40%
+09-07 00:02:48:132    [Music] Volume set to 45%
+09-07 00:02:48:252    [Music] Volume set to 50%
+09-07 00:02:48:374    [Music] Volume set to 45%
+09-07 00:02:48:402    [Music] Volume set to 50%
+09-07 00:02:48:645    [Music] Volume set to 55%
+09-07 00:02:49:097    [Music] Volume set to 60%
+09-07 00:02:49:155    [Music] Volume set to 65%
+09-07 00:02:49:216    [Music] Volume set to 60%
+09-07 00:02:49:276    [Music] Volume set to 65%
+09-07 00:02:49:426    [Music] Volume set to 70%
+09-07 00:02:49:516    [Music] Volume set to 65%
+09-07 00:02:49:547    [Music] Volume set to 70%
+09-07 00:02:49:668    [Music] Volume set to 75%
+09-07 00:02:54:092    [Music] Volume set to 70%
+09-07 00:02:54:152    [Music] Volume set to 65%
+09-07 00:02:56:018    [Music] Volume set to 70%
+09-07 00:02:56:108    [Music] Volume set to 75%
+09-07 00:02:56:619    [Music] Volume set to 70%
+09-07 00:02:56:709    [Music] Volume set to 65%
+09-07 00:02:57:883    [Music] Volume set to 60%
+09-07 00:02:57:914    [Music] Volume set to 55%
+09-07 00:02:57:973    [Music] Volume set to 50%
+09-07 00:02:58:273    [Music] Volume set to 55%
+09-07 00:02:58:304    [Music] Volume set to 60%
+09-07 00:02:58:335    [Music] Volume set to 65%
+09-07 00:02:58:364    [Music] Volume set to 70%
+09-07 00:02:58:454    [Music] Volume set to 75%
+09-07 00:02:58:635    [Music] Volume set to 70%
+09-07 00:02:58:666    [Music] Volume set to 65%
+09-07 00:02:58:696    [Music] Volume set to 60%
+09-07 00:02:58:725    [Music] Volume set to 55%
+09-07 00:02:58:997    [Music] Volume set to 60%
+09-07 00:02:59:057    [Music] Volume set to 55%
+09-07 00:02:59:181    [Music] Volume set to 50%
+09-07 00:02:59:237    [Music] Volume set to 45%
+09-07 00:02:59:298    [Music] Volume set to 40%
+09-07 00:02:59:418    [Music] Volume set to 45%
+09-07 00:02:59:477    [Music] Volume set to 50%
+09-07 00:02:59:538    [Music] Volume set to 55%
+09-07 00:02:59:568    [Music] Volume set to 60%
+09-07 00:02:59:628    [Music] Volume set to 65%
+09-07 00:02:59:688    [Music] Volume set to 70%
+09-07 00:02:59:929    [Music] Volume set to 65%
+09-07 00:02:59:959    [Music] Volume set to 60%
+09-07 00:03:00:019    [Music] Volume set to 55%
+09-07 00:03:00:079    [Music] Volume set to 50%
+09-07 00:03:00:531    [Music] Volume set to 45%
+09-07 00:03:00:561    [Music] Volume set to 40%
+09-07 00:03:01:043    [Music] Volume set to 45%
+09-07 00:03:01:253    [Music] Volume set to 40%
+09-07 00:03:01:314    [Music] Volume set to 45%
+09-07 00:03:01:463    [Music] Volume set to 40%
+09-07 00:03:02:788    [Music] Volume set to 35%
+09-07 00:03:03:088    [Music] Volume set to 30%
+09-07 00:03:04:322    [Music] Volume set to 35%
+09-07 00:03:04:352    [Music] Volume set to 30%
+09-07 00:03:07:302    [Music] Volume set to 35%
+09-07 00:03:07:392    [Music] Volume set to 30%
+09-07 00:03:07:633    [Music] Volume set to 25%
+09-07 00:03:07:754    [Music] Volume set to 20%
+09-07 00:03:07:844    [Music] Volume set to 25%
+09-07 00:03:07:874    [Music] Volume set to 20%
+09-07 00:03:08:116    [Music] Volume set to 25%
+09-07 00:03:08:205    [Music] Volume set to 30%
+09-07 00:03:08:538    [Music] Volume set to 25%
+09-07 00:03:08:567    [Music] Volume set to 20%
+09-07 00:03:08:598    [Music] Volume set to 15%
+09-07 00:03:08:657    [Music] Volume set to 10%
+09-07 00:03:09:019    [Music] Volume set to 5%
+09-07 00:03:09:079    [Music] Volume set to 0%
+09-07 00:03:09:981    [Music] Volume set to 5%
+09-07 00:03:10:342    [Music] Volume set to 0%
+09-07 00:03:10:763    [Music] Volume set to 5%
+09-07 00:03:11:004    [Music] Volume set to 0%
+09-07 00:03:11:304    [Music] Volume set to 5%
+09-07 00:03:11:516    [Music] Volume set to 0%
+09-07 00:03:11:847    [Music] Volume set to 5%
+09-07 00:03:11:877    [Music] Volume set to 10%
+09-07 00:03:11:967    [Music] Volume set to 5%
+09-07 00:03:12:207    [Music] Volume set to 0%
+09-07 00:03:12:544    [Music] Volume set to 5%
+09-07 00:03:12:574    [Music] Volume set to 10%

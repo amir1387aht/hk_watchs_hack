@@ -1,0 +1,290 @@
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0xd1d13c
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20037adc, map1 200376cc, map2 200378d4 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 28 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:12 cc_mp:16 cv_vctrl:40 prog_vlp2:7
+mount /dev sucess
+[32m[433] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+[0m[32m[441] I/drv.rtc main: RC10K Freq=9kHz, cycle=1036275, rtc ppm=0
+
+[0m[32m[448] I/drv.rtc main: DIVA=36, DIVA_FRA=3069, DIVB=256
+
+[0m[32m[455] I/drv.rtc main: Init RTC, wake = 0
+
+[0mNAND factory magic error 0x6e11802 vs 0x53450617
+[32m[511] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[518] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[32m[524] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+
+[0m[31m[531] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[539] I/drv.encoder main: encoder1 init success!!
+[0m[31m[545] E/drv.encoder main: encoder1 register success
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[592] I/TOUCH main: Regist touch screen driver, probe=0x100078c5 
+[0mlvsf_font_load: faces 2 ft_cache_size 262500
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2133
+call par CFG1(3313)
+fc 7, xtal 2000, pll 1709
+[32m[653] I/audio audiosvr: audio server run
+[0m[32m[659] I/audio bt_downv: audio_btdownlink run
+[0mmount fs[yaffs] on / failed.
+Register root to mtd device with base addr 0x62580000
+mount dev: 44, 983
+Get phy blk for 992 fail when read
+[32m[3104] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[3114] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[3125] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[3135] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[3145] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[3156] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[3166] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[3176] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[3187] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[3197] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[3208] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[3218] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[3229] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[3239] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[3249] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[3260] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[3270] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[3281] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[3291] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[3302] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[3312] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[3322] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[3333] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[3343] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[3354] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[3364] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[3375] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[3385] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[3395] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[3406] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[3416] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[3427] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[3437] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[3448] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[3458] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[3468] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 992 fail when read
+[32m[5925] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[5935] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[5946] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[5956] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[5966] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[5977] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[5987] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[5997] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[6008] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[6018] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[6029] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[6039] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[6050] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[6060] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[6070] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[6081] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[6091] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[6102] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[6112] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[6123] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[6133] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[6144] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[6154] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[6164] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[6175] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[6185] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[6196] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[6206] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[6217] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[6227] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[6238] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[6248] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[6258] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[6269] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[6279] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[6290] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[8557] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[8563] I/drv.lcd lcd_task: open
+[0m[32m[8567] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[8573] I/drv.lcd lcd_task: HW open
+[0m[32m[8584] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />[32m[10163] I/NO_TAG lcd_task: SH8603B_Init 
+
+[0m

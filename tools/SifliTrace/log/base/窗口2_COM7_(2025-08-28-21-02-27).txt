@@ -1,0 +1,48 @@
+[32m[12290] I/NO_TAG lcd_task: 
+ lcd_error  SH8603B_ReadID 0x0 
+
+[0m[32m[12297] I/drv.lcd lcd_task: Found lcd SH8603B id:9c03h
+[0m[32m[12304] I/drv.lcd lcd_task: HW open done.
+[0m[32m[12310] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[12316] I/drv.lcd lcd_task: open done.
+[0m[32m[12322] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[12328] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[12337] I/TOUCH app_watc: Open
+[0m[32m[12341] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[12348] I/TOUCH tp_init: Probe 100078c5
+[0m[32m[12353] I/TOUCH tp_init: touch screen found driver  0x20037514, ft3169
+[0m[32m[12362] I/TOUCH app_watc: Opened.
+[0m[32m[12384] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+[31m[13146] E/drv.ft3169 tp_init: ft3169 id_H=64
+[0m[31m[13153] E/drv.ft3169 tp_init: ft3169 id_L=56
+[0mBoot count: 102
+[32m[14437] I/drv.rtc app_watc: Get initial cycles: 1036427 rtc=1735689679.0039
+
+[0m[32m[14495] I/drv.rtc app_watc: Get initial cycles: 1036427 rtc=1735689600.0039
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[14596] I/drv.lcd lcd_task: set brightness 100
+[0mlcd_debug run  SH8603B_SetBrightness br = 100, bright = 255
+[32m[14608] I/drv.lcd lcd_task: display on
+[0mlcd_debug  SH8603B_DisplayOn
+[32m[14616] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[14625] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:1534.
+[32m[14635] I/APP.FWK.INT app_watc: [Watchface]
+[0m[14916] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[14925] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1534
+[0m[32m[14934] I/APP.SCHE app_watc: app[Watchface] do LOAD, 200640b0
+[0m[32m[14941] I/APP.FWK app_watc: finding Watchface in builtin apps...
+[0m[14949] D/APP.SCHE app_watc: app[Watchface] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[14958] I/APP.SCHE app_watc: app[Watchface] do START, 200640b0
+[0m[32m[14965] I/APP.FWK.INT app_watc: [Watchface]
+[0m[14971] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200640b0] to gui_app_mbx tick:1571.
+[32m[14982] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1571
+[0m[14991] D/APP.SCHE app_watc: app[Watchface] create page[root] 20063e78
+[14998] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [CREATED] -> [RESUMED]
+[15007] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+[32m[15016] I/APP.SCHE app_watc: page[Watchface][root] do ONSTART, 20063e78
+[0m[32m[15025] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063e78
+[0m[32m[15034] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[15040] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[15047] D/APP.SCHE app_watc: app_schedule_task done.

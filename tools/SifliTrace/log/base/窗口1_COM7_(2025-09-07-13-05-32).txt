@@ -1,0 +1,1872 @@
+Get phy blk for 992 fail when read
+[32m[4310] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[4320] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[4330] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[4340] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[4350] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[4360] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[4371] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[4381] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[4391] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[4401] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[4411] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[4422] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[4432] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[4442] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[4452] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[4463] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[4473] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[4483] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[4493] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[4504] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[4514] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[4524] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[4534] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[4545] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[4555] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[4565] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[4575] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[4586] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[4596] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[4606] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[4616] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[4627] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[4637] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[4647] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[4657] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[4668] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[5457] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[5463] I/drv.lcd lcd_task: open
+[0m[32m[5468] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[5473] I/drv.lcd lcd_task: HW open
+[0m[32m[5484] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[6130] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[7867] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[7874] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[7881] I/drv.lcd lcd_task: HW open done.
+[0m[32m[7886] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[7892] I/drv.lcd lcd_task: open done.
+[0m[32m[7898] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[7904] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[7912] I/TOUCH app_watc: Open
+[0m[32m[7916] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[7923] I/TOUCH tp_init: Probe 10007795
+[0m[32m[7928] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[7934] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+[0m[7942] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[7950] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[7956] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[7961] I/TOUCH app_watc: Opened.
+[0m[32m[7983] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+Boot count: 85
+[32m[9991] I/drv.rtc app_watc: Get initial cycles: 1058333 rtc=1735689601.0000
+
+[0m[32m[10047] I/drv.rtc app_watc: Get initial cycles: 1058333 rtc=1735689600.0000
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[10122] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[10128] I/drv.lcd lcd_task: display on
+[0m[32m[10133] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[10141] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1074.
+[32m[10151] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10430] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[10438] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1074
+[0m[32m[10447] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063754
+[0m[32m[10454] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[10462] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[10470] I/APP.SCHE app_watc: app[MainScreen] do START, 20063754
+[0m[32m[10478] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10484] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063754] to gui_app_mbx tick:1111.
+[32m[10494] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1111
+[0m[10502] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063820
+[10510] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[10518] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[10528] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 20063820
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[10693] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[10702] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[10708] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[10714] D/APP.SCHE app_watc: app_schedule_task done.
+[Music] Volume set to 65%
+[Music] Volume set to 60%
+[Music] Volume set to 55%
+[Music] Volume set to 50%
+[Music] Volume set to 55%
+[Music] Volume set to 50%
+[Music] Volume set to 45%
+[Music] Volume set to 40%
+[Music] Volume set to 35%
+[Music] Volume set to 30%
+[Music] Volume set to 25%
+[Music] Volume set to 20%
+[Music] Volume set to 15%
+[Music] Volume set to 10%
+[Music] Volume set to 5%
+[Music] Volume set to 0%
+[Music] Volume set to 5%
+[Music] Volume set to 10%
+[Music] Volume set to 5%
+[Music] Volume set to 0%
+[Music] Volume set to 5%
+[Music] Volume set to 0%
+[Music] Volume set to 5%
+[Music] Volume set to 10%
+[Music] Volume set to 15%
+[Music] Volume set to 20%
+[Music] Volume set to 25%
+[Music] Volume set to 30%
+[Music] Volume set to 35%
+[Music] Volume set to 40%
+[Music] Volume set to 45%
+[Music] Volume set to 50%
+[Music] Volume set to 45%
+[Music] Volume set to 50%
+[Music] Volume set to 55%
+[Music] Volume set to 0%
+[Music] Volume set to 20%
+[Music] Volume set to 0%
+[Music] Volume set to 5%
+[Music] Volume set to 10%
+[Music] Volume set to 15%
+[Music] Volume set to 20%
+[Music] Volume set to 25%
+[Music] Volume set to 30%
+[Music] Volume set to 35%
+[Music] Volume set to 40%
+[Music] Volume set to 35%
+[Music] Volume set to 40%
+[Music] Volume set to 45%
+[Music] Volume set to 50%
+[Music] Volume set to 55%
+[Music] Volume set to 60%
+[Music] Volume set to 55%
+[Music] Volume set to 50%
+[Music] Volume set to 45%
+[Music] Volume set to 40%
+[Music] Volume set to 100%
+[Music] Volume set to 98%
+[Music] Volume set to 91%
+[Music] Volume set to 83%
+[Music] Volume set to 75%
+[Music] Volume set to 66%
+[Music] Volume set to 58%
+[Music] Volume set to 51%
+[Music] Volume set to 45%
+[Music] Volume set to 38%
+[Music] Volume set to 33%
+[Music] Volume set to 30%
+[Music] Volume set to 26%
+[Music] Volume set to 22%
+[Music] Volume set to 20%
+[Music] Volume set to 17%
+[Music] Volume set to 15%
+[Music] Volume set to 13%
+[Music] Volume set to 12%
+[Music] Volume set to 11%
+[Music] Volume set to 10%
+[Music] Volume set to 8%
+[Music] Volume set to 7%
+[Music] Volume set to 6%
+[Music] Volume set to 51%
+[Music] Volume set to 62%
+[Music] Volume set to 61%
+[Music] Volume set to 58%
+[Music] Volume set to 57%
+[Music] Volume set to 55%
+[Music] Volume set to 51%
+[Music] Volume set to 47%
+[Music] Volume set to 43%
+[Music] Volume set to 40%
+[Music] Volume set to 35%
+[Music] Volume set to 30%
+[Music] Volume set to 26%
+[Music] Volume set to 21%
+[Music] Volume set to 17%
+[Music] Volume set to 12%
+[Music] Volume set to 8%
+[Music] Volume set to 3%
+[Music] Volume set to 0%
+[Music] Volume set to 12%
+[Music] Volume set to 30%
+[Music] Volume set to 45%
+[Music] Volume set to 58%
+[Music] Volume set to 72%
+[Music] Volume set to 82%
+[Music] Volume set to 92%
+[Music] Volume set to 100%
+[Music] Volume set to 82%
+[Music] Volume set to 57%
+[Music] Volume set to 30%
+[Music] Volume set to 1%
+[Music] Volume set to 0%
+[Music] Volume set to 7%
+[Music] Volume set to 32%
+[Music] Volume set to 53%
+[Music] Volume set to 72%
+[Music] Volume set to 87%
+[Music] Volume set to 100%
+[Music] Volume set to 86%
+[Music] Volume set to 60%
+[Music] Volume set to 28%
+[Music] Volume set to 0%
+[Music] Volume set to 17%
+[Music] Volume set to 41%
+[Music] Volume set to 61%
+[Music] Volume set to 77%
+[Music] Volume set to 92%
+[Music] Volume set to 100%
+[Music] Volume set to 97%
+[Music] Volume set to 66%
+[Music] Volume set to 31%
+[Music] Volume set to 0%
+[Music] Volume set to 6%
+[Music] Volume set to 18%
+[Music] Volume set to 31%
+[Music] Volume set to 42%
+[Music] Volume set to 55%
+[Music] Volume set to 65%
+[Music] Volume set to 75%
+[Music] Volume set to 83%
+[Music] Volume set to 91%
+[Music] Volume set to 97%
+[Music] Volume set to 100%
+[Music] Volume set to 82%
+[Music] Volume set to 53%
+[Music] Volume set to 22%
+[Music] Volume set to 0%
+[Music] Volume set to 10%
+[Music] Volume set to 31%
+[Music] Volume set to 48%
+[Music] Volume set to 65%
+[Music] Volume set to 77%
+[Music] Volume set to 90%
+[Music] Volume set to 98%
+[Music] Volume set to 100%
+[Music] Volume set to 93%
+[Music] Volume set to 82%
+[Music] Volume set to 72%
+[Music] Volume set to 63%
+[Music] Volume set to 55%
+[Music] Volume set to 46%
+[Music] Volume set to 38%
+[Music] Volume set to 32%
+[Music] Volume set to 26%
+[Music] Volume set to 20%
+[Music] Volume set to 13%
+[Music] Volume set to 8%
+[Music] Volume set to 2%
+[Music] Volume set to 0%
+[Music] Volume set to 6%
+[Music] Volume set to 13%
+[Music] Volume set to 18%
+[Music] Volume set to 23%
+[Music] Volume set to 28%
+[Music] Volume set to 32%
+[Music] Volume set to 35%
+[Music] Volume set to 38%
+[Music] Volume set to 41%
+[Music] Volume set to 43%
+[Music] Volume set to 45%
+[Music] Volume set to 46%
+[Music] Volume set to 48%
+[Music] Volume set to 50%
+[Music] Volume set to 51%
+[Music] Volume set to 52%
+[Music] Volume set to 53%
+[Music] Volume set to 55%
+[Music] Volume set to 56%
+[Music] Volume set to 57%
+[Music] Volume set to 58%
+[Music] Volume set to 60%
+[Music] Volume set to 58%
+[Music] Volume set to 57%
+[Music] Volume set to 56%
+[Music] Volume set to 55%
+[Music] Volume set to 53%
+[Music] Volume set to 52%
+[Music] Volume set to 50%
+[Music] Volume set to 48%
+[Music] Volume set to 46%
+[Music] Volume set to 43%
+[Music] Volume set to 41%
+[Music] Volume set to 38%
+[Music] Volume set to 36%
+[Music] Volume set to 33%
+[Music] Volume set to 30%
+[Music] Volume set to 27%
+[Music] Volume set to 25%
+[Music] Volume set to 21%
+[Music] Volume set to 18%
+[Music] Volume set to 16%
+[Music] Volume set to 13%
+[Music] Volume set to 10%
+[Music] Volume set to 6%
+[Music] Volume set to 2%
+[Music] Volume set to 0%
+[Music] Volume set to 5%
+[Music] Volume set to 10%
+[Music] Volume set to 15%
+[Music] Volume set to 20%
+[Music] Volume set to 25%
+[Music] Volume set to 30%
+[Music] Volume set to 35%
+[Music] Volume set to 40%
+[Music] Volume set to 45%
+[Music] Volume set to 50%
+[Music] Volume set to 55%
+[Music] Volume set to 60%
+[Music] Volume set to 65%
+[Music] Volume set to 70%
+[Music] Volume set to 75%
+[Music] Volume set to 80%
+[Music] Volume set to 85%
+[Music] Volume set to 90%
+[Music] Volume set to 95%
+[Music] Volume set to 100%
+[Music] Volume set to 95%
+[Music] Volume set to 100%
+[Music] Volume set to 95%
+[Music] Volume set to 90%
+[Music] Volume set to 85%
+[Music] Volume set to 80%
+[Music] Volume set to 75%
+[Music] Volume set to 70%
+[Music] Volume set to 65%
+[Music] Volume set to 60%
+[Music] Volume set to 65%
+[Music] Volume set to 60%
+[Music] Volume set to 55%
+[Music] Volume set to 50%
+[Music] Volume set to 36%
+[Music] Volume set to 47%
+[Music] Volume set to 52%
+[Music] Volume set to 50%
+[Music] Volume set to 42%
+[Music] Volume set to 28%
+[Music] Volume set to 6%
+[Music] Volume set to 0%
+[Music] Volume set to 13%
+[Music] Volume set to 37%
+[Music] Volume set to 57%
+[Music] Volume set to 83%
+[Music] Volume set to 100%
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+mount /dev sucess
+[32m[401] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+[0m[32m[408] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058340, rtc ppm=0
+
+[0m[32m[416] I/drv.rtc main: DIVA=35, DIVA_FRA=7092, DIVB=256
+
+[0m[32m[423] I/drv.rtc main: Init RTC, wake = 0
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[476] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[483] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[31m[489] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[497] I/drv.encoder main: encoder1 init success!!
+[0m[31m[503] E/drv.encoder main: encoder1 register success
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[548] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+mount fs[yaffs] on / failed.
+Register root to mtd device with base addr 0x62580000
+mount dev: 44, 983
+Get phy blk for 992 fail when read
+[32m[2260] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[2270] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[2280] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[2290] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[2301] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[2311] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[2321] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[2331] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[2341] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[2351] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[2362] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[2372] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[2382] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[2392] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[2403] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[2413] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[2423] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[2433] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[2443] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[2454] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[2464] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[2474] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[2484] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[2495] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[2505] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[2515] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[2525] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[2536] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[2546] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[2556] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[2566] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[2576] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[2587] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[2597] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[2607] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[2617] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 992 fail when read
+[32m[4316] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[4326] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[4336] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[4346] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[4356] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[4367] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[4377] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[4387] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[4397] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[4407] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[4418] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[4428] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[4438] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[4448] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[4459] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[4469] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[4479] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[4489] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[4500] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[4510] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[4520] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[4530] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[4541] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[4551] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[4561] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[4571] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[4582] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[4592] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[4602] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[4612] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[4623] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[4633] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[4643] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[4653] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[4664] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[4674] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[5465] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[5470] I/drv.lcd lcd_task: open
+[0m[32m[5475] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[5480] I/drv.lcd lcd_task: HW open
+[0m[32m[5491] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[6130] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[7868] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[7874] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[7881] I/drv.lcd lcd_task: HW open done.
+[0m[32m[7886] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[7893] I/drv.lcd lcd_task: open done.
+[0m[32m[7898] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[7904] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[7912] I/TOUCH app_watc: Open
+[0m[32m[7917] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[7923] I/TOUCH tp_init: Probe 10007795
+[0m[32m[7928] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[7934] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+[0m[7943] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[7950] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[7956] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[7962] I/TOUCH app_watc: Opened.
+[0m[32m[7983] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+Boot count: 86
+[32m[9992] I/drv.rtc app_watc: Get initial cycles: 1058340 rtc=1735689601.0000
+
+[0m[32m[10048] I/drv.rtc app_watc: Get initial cycles: 1058340 rtc=1735689600.0000
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[10123] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[10129] I/drv.lcd lcd_task: display on
+[0m[32m[10134] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[10143] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1073.
+[32m[10153] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10431] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[10439] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1073
+[0m[32m[10448] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063754
+[0m[32m[10455] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[10463] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[10471] I/APP.SCHE app_watc: app[MainScreen] do START, 20063754
+[0m[32m[10479] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10485] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063754] to gui_app_mbx tick:1110.
+[32m[10495] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1110
+[0m[10503] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063820
+[10511] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[10520] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[10529] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 20063820
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[10694] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[10703] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[10709] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[10716] D/APP.SCHE app_watc: app_schedule_task done.
+[80414] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:8797.
+[32m[80424] I/APP.FWK.INT timer: [MusicScreen]
+[0m[80660] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[80668] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:8797
+[0m[32m[80677] I/APP.SCHE app_watc: app[MusicScreen] do LOAD, 20064c3c
+[0m[32m[80684] I/APP.FWK app_watc: finding MusicScreen in builtin apps...
+[0m[80692] D/APP.SCHE app_watc: app[MusicScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[80700] I/APP.SCHE app_watc: app[MusicScreen] do START, 20064c3c
+[0m[32m[80708] I/APP.FWK.INT app_watc: [MusicScreen]
+[0m[80714] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20064c3c] to gui_app_mbx tick:8829.
+[32m[80724] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:8829
+[0m[80733] D/APP.SCHE app_watc: app[MusicScreen] create page[root] 20064ba0
+[80740] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [CREATED] -> [RESUMED]
+[80749] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+[80756] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[32m[80765] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+[0m[32m[80775] I/APP.SCHE app_watc: page[MusicScreen][root] do ONSTART, 20064ba0
+[0m[MusicApp] on_start
+[32m[80786] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+[0m[MusicApp] on_resume
+[32m[80797] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[80809] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[80820] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[80834] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[80943] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+[0m[32m[80951] I/APP.ANI app_watc: Start free run animation
+[0m[32m[80958] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+
+[0m[32m[80966] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[80973] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[80979] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[83759] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[84056] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[84063] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[84071] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[84079] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[84093] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[84108] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[84115] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[87268] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:9550.
+[32m[87277] I/APP.FWK.INT timer: [MainScreen]
+[0m[87395] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[87403] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:9550
+[0m[87412] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+[87420] D/APP.SCHE app_watc: - same. Resume it
+[87425] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[87432] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[87441] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[87449] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+[0m[MusicApp] on_pause
+[32m[87460] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[87469] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[87482] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[87492] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[87506] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[87634] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+[0m[32m[87643] I/APP.ANI app_watc: Start free run animation
+[0m[32m[87650] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[87658] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[87664] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[87670] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[90463] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[90754] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[90761] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[90767] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[90775] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[90789] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[90805] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[90814] D/APP.SCHE app_watc: --Resume app_schedule_task--
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+mount /dev sucess
+[32m[401] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+[0m[32m[408] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058332, rtc ppm=0
+
+[0m[32m[416] I/drv.rtc main: DIVA=35, DIVA_FRA=7096, DIVB=256
+
+[0m[32m[423] I/drv.rtc main: Init RTC, wake = 0
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[476] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[483] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[31m[489] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[497] I/drv.encoder main: encoder1 init success!!
+[0m[31m[503] E/drv.encoder main: encoder1 register success
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[548] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+mount fs[yaffs] on / failed.
+Register root to mtd device with base addr 0x62580000
+mount dev: 44, 983
+Get phy blk for 992 fail when read
+[32m[2260] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[2270] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[2280] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[2291] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[2301] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[2311] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[2321] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[2331] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[2341] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[2352] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[2362] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[2372] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[2382] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[2392] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[2403] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[2413] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[2423] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[2433] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[2444] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[2454] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[2464] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[2474] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[2484] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[2495] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[2505] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[2515] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[2525] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[2536] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[2546] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[2556] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[2566] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[2576] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[2587] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[2597] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[2607] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[2617] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 992 fail when read
+[32m[4316] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[4326] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[4337] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[4347] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[4357] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[4367] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[4377] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[4387] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[4398] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[4408] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[4418] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[4428] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[4439] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[4449] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[4459] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[4469] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[4480] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[4490] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[4500] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[4510] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[4521] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[4531] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[4541] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[4551] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[4562] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[4572] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[4582] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[4592] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[4603] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[4613] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[4623] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[4633] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[4644] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[4654] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[4664] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[4674] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[5467] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[5473] I/drv.lcd lcd_task: open
+[0m[32m[5477] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[5483] I/drv.lcd lcd_task: HW open
+[0m[32m[5494] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[6139] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[7876] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[7883] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[7889] I/drv.lcd lcd_task: HW open done.
+[0m[32m[7895] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[7901] I/drv.lcd lcd_task: open done.
+[0m[32m[7906] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[7913] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[7921] I/TOUCH app_watc: Open
+[0m[32m[7925] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[7932] I/TOUCH tp_init: Probe 10007795
+[0m[32m[7937] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[7943] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+[0m[7951] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[7959] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[7965] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[7970] I/TOUCH app_watc: Opened.
+[0m[32m[7992] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+Boot count: 87
+[32m[10000] I/drv.rtc app_watc: Get initial cycles: 1058332 rtc=1735689601.0000
+
+[0m[32m[10056] I/drv.rtc app_watc: Get initial cycles: 1058332 rtc=1735689600.0000
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[10132] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[10138] I/drv.lcd lcd_task: display on
+[0m[32m[10143] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[10151] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1074.
+[32m[10161] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10441] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[10449] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1074
+[0m[32m[10458] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063754
+[0m[32m[10465] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[10473] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[10481] I/APP.SCHE app_watc: app[MainScreen] do START, 20063754
+[0m[32m[10489] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10495] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063754] to gui_app_mbx tick:1111.
+[32m[10505] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1111
+[0m[10513] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063820
+[10521] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[10530] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[10539] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 20063820
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[10704] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[10713] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[10719] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[10725] D/APP.SCHE app_watc: app_schedule_task done.
+[22121] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:2389.
+[32m[22132] I/APP.FWK.INT timer: [MusicScreen]
+[0m[22158] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[22166] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:2389
+[0m[32m[22175] I/APP.SCHE app_watc: app[MusicScreen] do LOAD, 20064c3c
+[0m[32m[22182] I/APP.FWK app_watc: finding MusicScreen in builtin apps...
+[0m[22190] D/APP.SCHE app_watc: app[MusicScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[22198] I/APP.SCHE app_watc: app[MusicScreen] do START, 20064c3c
+[0m[32m[22206] I/APP.FWK.INT app_watc: [MusicScreen]
+[0m[22212] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20064c3c] to gui_app_mbx tick:2398.
+[32m[22222] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:2398
+[0m[22230] D/APP.SCHE app_watc: app[MusicScreen] create page[root] 20064ba0
+[22238] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [CREATED] -> [RESUMED]
+[22247] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+[22254] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[32m[22263] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+[0m[32m[22273] I/APP.SCHE app_watc: page[MusicScreen][root] do ONSTART, 20064ba0
+[0m[MusicApp] on_start
+[32m[22284] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+[0m[MusicApp] on_resume
+[32m[22295] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[22307] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[22318] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064dd4
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[22332] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[22441] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f4c
+[0m[32m[22449] I/APP.ANI app_watc: Start free run animation
+[0m[32m[22456] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+
+[0m[32m[22464] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[22471] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[22477] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[25264] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[25563] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[25571] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[25579] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[25587] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f4c
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[25602] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064dd4
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[25617] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[25626] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[27266] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:2954.
+[32m[27275] I/APP.FWK.INT timer: [MainScreen]
+[0m[27447] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[27456] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:2954
+[0m[27464] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+[27472] D/APP.SCHE app_watc: - same. Resume it
+[27477] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[27485] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[27493] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[27502] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+[0m[MusicApp] on_pause
+[32m[27513] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[27522] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[27534] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[27545] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064dd4
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[27559] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[27690] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+[0m[32m[27698] I/APP.ANI app_watc: Start free run animation
+[0m[32m[27705] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[27714] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[27720] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[27726] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[30525] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[30824] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[30831] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[30840] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[30847] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[30862] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064dd4
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[30877] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[30886] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[31953] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:3469.
+[32m[31962] I/APP.FWK.INT timer: [MusicScreen]
+[0m[32125] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[32134] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:3469
+[0m[32142] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+[32150] D/APP.SCHE app_watc: - same. Resume it
+[32155] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+[32163] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[32171] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[32180] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+[0m[32m[32189] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+[0m[MusicApp] on_resume
+[32m[32200] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[32213] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[32223] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064dd4
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[32237] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[32346] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f4c
+[0m[32m[32354] I/APP.ANI app_watc: Start free run animation
+[0m[32m[32361] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+
+[0m[32m[32369] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[32376] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[32382] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[35163] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[35458] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[35466] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[35473] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[35480] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f4c
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[35491] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064dd4
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[35504] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[35511] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[36551] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:3974.
+[32m[36561] I/APP.FWK.INT timer: [MainScreen]
+[0m[36787] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[36796] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:3974
+[0m[36804] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+[36812] D/APP.SCHE app_watc: - same. Resume it
+[36817] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[36825] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[36833] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[36842] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+[0m[MusicApp] on_pause
+[32m[36853] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[36862] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[36874] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[36885] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064dd4
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[36899] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[37030] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+[0m[32m[37038] I/APP.ANI app_watc: Start free run animation
+[0m[32m[37045] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[37054] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[37060] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[37066] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[39857] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[40148] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[40155] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[40162] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[40169] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[40183] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064dd4
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[40200] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[40210] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[47095] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:5132.
+[32m[47105] I/APP.FWK.INT timer: [MusicScreen]
+[0m[47304] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[47313] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:5132
+[0m[47321] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+[47329] D/APP.SCHE app_watc: - same. Resume it
+[47334] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+[47342] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[47351] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[47360] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+[0m[32m[47369] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+[0m[MusicApp] on_resume
+[32m[47380] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[47393] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[47403] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[47418] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[47526] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+[0m[32m[47535] I/APP.ANI app_watc: Start free run animation
+[0m[32m[47542] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+
+[0m[32m[47550] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[47556] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[47562] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[50339] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[50637] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[50645] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[50653] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[50661] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[50675] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[50691] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[50700] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[54215] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:5914.
+[32m[54224] I/APP.FWK.INT timer: [MainScreen]
+[0m[54296] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[54305] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:5914
+[0m[54313] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+[54321] D/APP.SCHE app_watc: - same. Resume it
+[54326] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[54334] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[54342] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[54351] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+[0m[MusicApp] on_pause
+[32m[54362] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[54371] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[54383] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[54394] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[54408] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[54536] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+[0m[32m[54544] I/APP.ANI app_watc: Start free run animation
+[0m[32m[54551] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[54560] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[54566] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[54572] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[57367] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[57666] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[57673] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[57681] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[57689] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[57700] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[57713] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[57720] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[59487] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:6493.
+[32m[59497] I/APP.FWK.INT timer: [MusicScreen]
+[0m[59560] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[59568] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:6493
+[0m[59578] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+[59586] D/APP.SCHE app_watc: - same. Resume it
+[59591] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+[59598] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[59607] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[59616] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+[0m[32m[59624] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+[0m[MusicApp] on_resume
+[32m[59635] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[59648] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[59659] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[59674] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[59782] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+[0m[32m[59791] I/APP.ANI app_watc: Start free run animation
+[0m[32m[59797] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+
+[0m[32m[59806] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[59812] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[59818] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[62595] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[62892] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[62901] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[62909] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[62917] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[62931] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[62947] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[62956] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[66589] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:7273.
+[32m[66600] I/APP.FWK.INT timer: [MainScreen]
+[0m[66843] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[66852] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:7273
+[0m[66860] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+[66868] D/APP.SCHE app_watc: - same. Resume it
+[66873] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[66881] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[66889] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[66898] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+[0m[MusicApp] on_pause
+[32m[66909] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[66917] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[66930] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[66941] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[66955] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[67084] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+[0m[32m[67092] I/APP.ANI app_watc: Start free run animation
+[0m[32m[67099] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[67107] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[67114] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[67120] D/APP.SCHE app_watc: app_schedule_task done.
+[Music] Volume set to 75%
+[32m[69922] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[70221] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[70227] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[70234] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[70241] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[70252] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[70265] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[70274] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[Music] Volume set to 70%
+[76887] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:8404.
+[32m[76897] I/APP.FWK.INT timer: [MusicScreen]
+[0m[77087] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[77095] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:8404
+[0m[77104] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+[77112] D/APP.SCHE app_watc: - same. Resume it
+[77117] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+[77124] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[77133] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[77142] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+[0m[32m[77151] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+[0m[MusicApp] on_resume
+[32m[77161] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[77174] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[77185] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[77199] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[77308] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f60
+[0m[32m[77316] I/APP.ANI app_watc: Start free run animation
+[0m[32m[77323] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+
+[0m[32m[77331] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[77338] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[77344] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[80122] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[80420] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[80429] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[80437] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[80445] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f60
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[80459] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[80477] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[80488] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[89195] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:9756.
+[32m[89204] I/APP.FWK.INT timer: [MainScreen]
+[0m[89321] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[89330] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:9756
+[0m[89338] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+[89347] D/APP.SCHE app_watc: - same. Resume it
+[89351] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[89359] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[89368] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[89376] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+[0m[MusicApp] on_pause
+[32m[89387] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[89396] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[89409] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[89419] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[89433] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[89565] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+[0m[32m[89573] I/APP.ANI app_watc: Start free run animation
+[0m[32m[89580] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[89589] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[89595] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[89601] D/APP.SCHE app_watc: app_schedule_task done.
+[Music] Volume set to 65%
+[32m[92390] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[92690] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[92697] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[92705] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[92715] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[92730] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[92743] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[92750] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[94492] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:10338.
+[32m[94502] I/APP.FWK.INT timer: [MusicScreen]
+[0m[94583] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[94591] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:10338
+[0m[94600] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+[94608] D/APP.SCHE app_watc: - same. Resume it
+[94613] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+[94620] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[94629] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[94638] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+[0m[32m[94647] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+[0m[MusicApp] on_resume
+[32m[94658] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[94670] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[94681] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[94695] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[94804] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f60
+[0m[32m[94812] I/APP.ANI app_watc: Start free run animation
+[0m[32m[94819] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+
+[0m[32m[94827] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[94834] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[94840] D/APP.SCHE app_watc: app_schedule_task done.
+[Music] Volume set to 60%
+[32m[97616] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[97914] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[97922] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[97930] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[97938] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f60
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[97952] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[97968] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[97977] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[98925] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:10825.
+[32m[98934] I/APP.FWK.INT timer: [MainScreen]
+[0m[98951] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[98960] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:10825
+[0m[98969] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+[98977] D/APP.SCHE app_watc: - same. Resume it
+[98982] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[98989] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[98998] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[99006] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+[0m[MusicApp] on_pause
+[32m[99017] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[99026] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[99039] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[99049] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[99063] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[99194] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+[0m[32m[99203] I/APP.ANI app_watc: Start free run animation
+[0m[32m[99210] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[99218] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[99224] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[99230] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[102023] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[102320] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[102329] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[102336] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[102345] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[102360] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[102376] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[102386] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[105698] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:11569.
+[32m[105708] I/APP.FWK.INT timer: [MusicScreen]
+[0m[105961] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[105970] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:11569
+[0m[105978] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+[105987] D/APP.SCHE app_watc: - same. Resume it
+[105992] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+[105999] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[106008] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[106017] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+[0m[32m[106026] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+[0m[MusicApp] on_resume
+[32m[106037] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[106050] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[106060] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[106074] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[106183] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f60
+[0m[32m[106192] I/APP.ANI app_watc: Start free run animation
+[0m[32m[106199] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+
+[0m[32m[106207] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[106213] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[106219] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[109012] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[109312] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[109320] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[109327] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[109336] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f60
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[109351] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[109364] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[109371] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[109585] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:11996.
+[32m[109595] I/APP.FWK.INT timer: [MainScreen]
+[0m[109776] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[109785] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:11996
+[0m[109793] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+[109801] D/APP.SCHE app_watc: - same. Resume it
+[109806] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[109814] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+[109823] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+[32m[109832] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+[0m[MusicApp] on_pause
+[32m[109843] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+[0m[32m[109851] I/APP.SCHE app_watc: Try setup trans-anim
+[0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+[32m[109864] I/APP.ANI app_watc: buf = 6051e8f0
+[0m[32m[109875] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+[0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+[32m[109889] I/APP.ANI app_watc: buf = 604c8dd8
+[0m[32m[110020] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+[0m[32m[110028] I/APP.ANI app_watc: Start free run animation
+[0m[32m[110036] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+
+[0m[32m[110044] I/APP.SCHE app_watc: Trans-anim setup done.
+[0m[110051] D/APP.SCHE app_watc: --Pause app_schedule_task--
+[110057] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[112854] I/APP.ANI app_watc: free_run_ready 0 
+
+[0m[32m[113154] I/APP.ANI app_watc: wait_refr_task_cb 0
+
+[0m[32m[113162] I/APP.ANI app_watc: anim_free_run_ready 0 
+
+[0m[32m[113170] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+
+[0m[32m[113179] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+[0mapp_anim_buf_free: 0x604c8dd8
+[32m[113193] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+[0mapp_anim_buf_free: 0x6051e8f0
+[32m[113210] I/APP.SCHE app_watc: Trans-anim finish, res=0
+[0m[113220] D/APP.SCHE app_watc: --Resume app_schedule_task--
+[Music] Volume set to 65%
+[Music] Volume set to 70%
+[Music] Volume set to 75%
+[Music] Volume set to 80%
+[Music] Volume set to 75%
+[Music] Volume set to 70%
+[Music] Volume set to 65%
+[Music] Volume set to 60%
+[Music] Volume set to 55%
+[Music] Volume set to 50%
+[Music] Volume set to 45%
+[Music] Volume set to 40%
+[Music] Volume set to 45%
+[Music] Volume set to 50%
+[Music] Volume set to 55%
+[Music] Volume set to 50%
+[Music] Volume set to 55%
+[Music] Volume set to 50%
+[Music] Volume set to 45%
+[Music] Volume set to 50%
+[Music] Volume set to 55%
+[Music] Volume set to 60%
+[Music] Volume set to 65%
+[Music] Volume set to 70%
+[Music] Volume set to 0%
+[Music] Volume set to 36%
+[Music] Volume set to 55%
+[Music] Volume set to 53%
+[Music] Volume set to 51%
+[Music] Volume set to 46%
+[Music] Volume set to 37%
+[Music] Volume set to 26%
+[Music] Volume set to 12%
+[Music] Volume set to 0%
+[Music] Volume set to 66%
+[Music] Volume set to 57%
+[Music] Volume set to 41%
+[Music] Volume set to 55%
+[Music] Volume set to 53%
+[Music] Volume set to 48%
+[Music] Volume set to 40%
+[Music] Volume set to 26%
+[Music] Volume set to 8%
+[Music] Volume set to 0%
+[Music] Volume set to 67%
+[Music] Volume set to 68%
+[Music] Volume set to 71%
+[Music] Volume set to 75%
+[Music] Volume set to 80%
+[Music] Volume set to 86%
+[Music] Volume set to 93%
+[Music] Volume set to 42%
+[Music] Volume set to 40%
+[Music] Volume set to 35%
+[Music] Volume set to 25%
+[Music] Volume set to 11%
+[Music] Volume set to 0%
+[Music] Volume set to 53%
+[Music] Volume set to 55%
+[Music] Volume set to 56%
+[Music] Volume set to 58%
+[Music] Volume set to 63%
+[Music] Volume set to 67%
+[Music] Volume set to 73%
+[Music] Volume set to 78%
+[Music] Volume set to 83%
+[Music] Volume set to 90%
+[Music] Volume set to 97%
+[Music] Volume set to 71%
+[Music] Volume set to 70%
+[Music] Volume set to 67%
+[Music] Volume set to 63%
+[Music] Volume set to 58%
+[Music] Volume set to 53%
+[Music] Volume set to 48%
+[Music] Volume set to 42%
+[Music] Volume set to 37%
+[Music] Volume set to 33%
+[Music] Volume set to 30%
+[Music] Volume set to 26%
+[Music] Volume set to 23%
+[Music] Volume set to 21%
+[Music] Volume set to 18%
+[Music] Volume set to 17%
+[Music] Volume set to 15%
+[Music] Volume set to 12%
+[Music] Volume set to 10%
+[Music] Volume set to 6%
+[Music] Volume set to 3%
+[Music] Volume set to 2%
+[Music] Volume set to 0%
+[Music] Volume set to 1%
+[Music] Volume set to 2%
+[Music] Volume set to 3%
+[Music] Volume set to 2%
+[Music] Volume set to 1%
+[Music] Volume set to 0%
+[Music] Volume set to 50%
+[Music] Volume set to 48%
+[Music] Volume set to 46%
+[Music] Volume set to 43%
+[Music] Volume set to 40%
+[Music] Volume set to 36%
+[Music] Volume set to 31%
+[Music] Volume set to 26%
+[Music] Volume set to 21%
+[Music] Volume set to 16%
+[Music] Volume set to 11%
+[Music] Volume set to 7%
+[Music] Volume set to 3%
+[Music] Volume set to 0%

@@ -1,0 +1,1555 @@
+09-06 22:36:53:342    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+09-06 22:36:53:344    NAND ID 0x21aaef
+09-06 22:36:53:345    det bbm table with 1, 1, 2
+09-06 22:36:53:345    detect result 2
+09-06 22:36:53:346    V1 1 in block 992, V2 0 in block 994
+09-06 22:36:53:350    Latest version 1
+09-06 22:36:53:351    V1 1 in block 993, V2 0 in block 995
+09-06 22:36:53:352    Latest version 1
+09-06 22:36:53:353    v1 1 in blk 992, v2 1 in block 993
+09-06 22:36:53:353    BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+09-06 22:36:53:354    sif_bbm_init done
+09-06 22:36:53:356    
+09-06 22:36:53:357     \ | /
+09-06 22:36:53:357    - SiFli Corporation
+09-06 22:36:53:358     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+09-06 22:36:53:359     2020 - 2022 Copyright by SiFli team
+09-06 22:36:53:359    cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+09-06 22:36:53:360    mount /dev sucess
+09-06 22:36:53:360    [32m[394] I/drv.rtc main: PSCLR=0x236f5100 DivAI=35 DivAF=7124 B=256
+09-06 22:36:53:365    [0m[32m[402] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058225, rtc ppm=0
+09-06 22:36:53:366    
+09-06 22:36:53:367    [0m[32m[410] I/drv.rtc main: DIVA=35, DIVA_FRA=7155, DIVB=256
+09-06 22:36:53:368    
+09-06 22:36:53:368    [0m[32m[416] I/drv.rtc main: Init RTC, wake = 1
+09-06 22:36:53:369    
+09-06 22:36:53:369    [0mNAND factory magic error 0xffffffff vs 0x53450617
+09-06 22:36:53:371    [32m[430] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+09-06 22:36:53:372    
+09-06 22:36:53:373    [0m[32m[436] I/drv.audprc main: HAL_AUDPRC_Init res 0
+09-06 22:36:53:374    
+09-06 22:36:53:374    [0m[31m[443] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+09-06 22:36:53:375    [0m[32m[450] I/drv.encoder main: encoder1 init success!!
+09-06 22:36:53:376    [0m[31m[456] E/drv.encoder main: encoder1 register success
+09-06 22:36:53:378    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+09-06 22:36:53:380    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-06 22:36:53:381    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-06 22:36:53:385    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-06 22:36:53:385    [32m[502] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+09-06 22:36:53:386    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+09-06 22:36:53:388    mount fs[yaffs] on / failed.
+09-06 22:36:53:388    Register root to mtd device with base addr 0x62580000
+09-06 22:36:53:389    mount dev: 44, 983
+09-06 22:36:53:551    Get phy blk for 992 fail when read
+09-06 22:36:53:559    [32m[2216] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:560    
+09-06 22:36:53:560    [0mGet phy blk for 993 fail when read
+09-06 22:36:53:560    [32m[2226] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:561    
+09-06 22:36:53:561    [0mGet phy blk for 994 fail when read
+09-06 22:36:53:561    [32m[2236] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:562    
+09-06 22:36:53:562    [0mGet phy blk for 995 fail when read
+09-06 22:36:53:562    [32m[2246] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:563    
+09-06 22:36:53:563    [0mGet phy blk for 996 fail when read
+09-06 22:36:53:564    [32m[2256] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:564    
+09-06 22:36:53:564    [0mGet phy blk for 997 fail when read
+09-06 22:36:53:565    [32m[2266] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:565    
+09-06 22:36:53:566    [0mGet phy blk for 998 fail when read
+09-06 22:36:53:566    [32m[2277] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:566    
+09-06 22:36:53:567    [0mGet phy blk for 999 fail when read
+09-06 22:36:53:567    [32m[2287] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:568    
+09-06 22:36:53:568    [0mGet phy blk for 1000 fail when read
+09-06 22:36:53:569    [32m[2297] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:569    
+09-06 22:36:53:569    [0mGet phy blk for 1001 fail when read
+09-06 22:36:53:570    [32m[2307] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:570    
+09-06 22:36:53:570    [0mGet phy blk for 1002 fail when read
+09-06 22:36:53:571    [32m[2318] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:572    
+09-06 22:36:53:572    [0mGet phy blk for 1003 fail when read
+09-06 22:36:53:572    [32m[2328] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:573    
+09-06 22:36:53:573    [0mGet phy blk for 1004 fail when read
+09-06 22:36:53:573    [32m[2338] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:574    
+09-06 22:36:53:574    [0mGet phy blk for 1005 fail when read
+09-06 22:36:53:575    [32m[2348] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:575    
+09-06 22:36:53:576    [0mGet phy blk for 1006 fail when read
+09-06 22:36:53:576    [32m[2359] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:576    
+09-06 22:36:53:577    [0mGet phy blk for 1007 fail when read
+09-06 22:36:53:577    [32m[2369] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:577    
+09-06 22:36:53:578    [0mGet phy blk for 1008 fail when read
+09-06 22:36:53:578    [32m[2379] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:578    
+09-06 22:36:53:578    [0mGet phy blk for 1009 fail when read
+09-06 22:36:53:579    [32m[2389] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:580    
+09-06 22:36:53:580    [0mGet phy blk for 1010 fail when read
+09-06 22:36:53:580    [32m[2400] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:581    
+09-06 22:36:53:581    [0mGet phy blk for 1011 fail when read
+09-06 22:36:53:581    [32m[2410] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:582    
+09-06 22:36:53:582    [0mGet phy blk for 1012 fail when read
+09-06 22:36:53:583    [32m[2420] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:583    
+09-06 22:36:53:583    [0mGet phy blk for 1013 fail when read
+09-06 22:36:53:584    [32m[2430] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:584    
+09-06 22:36:53:584    [0mGet phy blk for 1014 fail when read
+09-06 22:36:53:585    [32m[2441] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:585    
+09-06 22:36:53:585    [0mGet phy blk for 1015 fail when read
+09-06 22:36:53:586    [32m[2451] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:586    
+09-06 22:36:53:587    [0mGet phy blk for 1016 fail when read
+09-06 22:36:53:587    [32m[2461] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:588    
+09-06 22:36:53:588    [0mGet phy blk for 1017 fail when read
+09-06 22:36:53:588    [32m[2471] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:589    
+09-06 22:36:53:589    [0mGet phy blk for 1018 fail when read
+09-06 22:36:53:589    [32m[2482] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:590    
+09-06 22:36:53:590    [0mGet phy blk for 1019 fail when read
+09-06 22:36:53:590    [32m[2492] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:591    
+09-06 22:36:53:591    [0mGet phy blk for 1020 fail when read
+09-06 22:36:53:591    [32m[2502] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:592    
+09-06 22:36:53:592    [0mGet phy blk for 1021 fail when read
+09-06 22:36:53:593    [32m[2512] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:593    
+09-06 22:36:53:593    [0mGet phy blk for 1022 fail when read
+09-06 22:36:53:594    [32m[2522] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:594    
+09-06 22:36:53:594    [0mGet phy blk for 1023 fail when read
+09-06 22:36:53:595    [32m[2533] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:595    
+09-06 22:36:53:596    [0mGet phy blk for 1024 fail when read
+09-06 22:36:53:596    [32m[2543] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:596    
+09-06 22:36:53:596    [0mGet phy blk for 1025 fail when read
+09-06 22:36:53:597    [32m[2553] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:615    
+09-06 22:36:53:615    [0mGet phy blk for 1026 fail when read
+09-06 22:36:53:616    [32m[2563] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:616    
+09-06 22:36:53:616    [0mGet phy blk for 1027 fail when read
+09-06 22:36:53:616    [32m[2574] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:617    
+09-06 22:36:53:618    [0m
+09-06 22:36:53:780    Get phy blk for 992 fail when read
+09-06 22:36:53:781    [32m[4276] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:781    
+09-06 22:36:53:782    [0mGet phy blk for 993 fail when read
+09-06 22:36:53:782    [32m[4286] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:782    
+09-06 22:36:53:783    [0mGet phy blk for 994 fail when read
+09-06 22:36:53:783    [32m[4296] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:784    
+09-06 22:36:53:784    [0mGet phy blk for 995 fail when read
+09-06 22:36:53:784    [32m[4307] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:785    
+09-06 22:36:53:785    [0mGet phy blk for 996 fail when read
+09-06 22:36:53:786    [32m[4317] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:786    
+09-06 22:36:53:786    [0mGet phy blk for 997 fail when read
+09-06 22:36:53:787    [32m[4327] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:788    
+09-06 22:36:53:788    [0mGet phy blk for 998 fail when read
+09-06 22:36:53:789    [32m[4337] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:789    
+09-06 22:36:53:789    [0mGet phy blk for 999 fail when read
+09-06 22:36:53:790    [32m[4347] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:790    
+09-06 22:36:53:790    [0mGet phy blk for 1000 fail when read
+09-06 22:36:53:791    [32m[4358] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:791    
+09-06 22:36:53:791    [0mGet phy blk for 1001 fail when read
+09-06 22:36:53:792    [32m[4368] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:792    
+09-06 22:36:53:792    [0mGet phy blk for 1002 fail when read
+09-06 22:36:53:793    [32m[4378] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:794    
+09-06 22:36:53:794    [0mGet phy blk for 1003 fail when read
+09-06 22:36:53:795    [32m[4388] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:796    
+09-06 22:36:53:796    [0mGet phy blk for 1004 fail when read
+09-06 22:36:53:796    [32m[4399] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:797    
+09-06 22:36:53:797    [0mGet phy blk for 1005 fail when read
+09-06 22:36:53:797    [32m[4409] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:797    
+09-06 22:36:53:798    [0mGet phy blk for 1006 fail when read
+09-06 22:36:53:798    [32m[4419] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:799    
+09-06 22:36:53:799    [0mGet phy blk for 1007 fail when read
+09-06 22:36:53:799    [32m[4429] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:800    
+09-06 22:36:53:800    [0mGet phy blk for 1008 fail when read
+09-06 22:36:53:801    [32m[4440] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:801    
+09-06 22:36:53:802    [0mGet phy blk for 1009 fail when read
+09-06 22:36:53:802    [32m[4450] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:802    
+09-06 22:36:53:803    [0mGet phy blk for 1010 fail when read
+09-06 22:36:53:803    [32m[4460] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:804    
+09-06 22:36:53:804    [0mGet phy blk for 1011 fail when read
+09-06 22:36:53:804    [32m[4470] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:805    
+09-06 22:36:53:805    [0mGet phy blk for 1012 fail when read
+09-06 22:36:53:806    [32m[4481] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:824    
+09-06 22:36:53:824    [0mGet phy blk for 1013 fail when read
+09-06 22:36:53:825    [32m[4491] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:825    
+09-06 22:36:53:825    [0mGet phy blk for 1014 fail when read
+09-06 22:36:53:826    [32m[4501] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:826    
+09-06 22:36:53:826    [0mGet phy blk for 1015 fail when read
+09-06 22:36:53:827    [32m[4511] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:828    
+09-06 22:36:53:829    [0mGet phy blk for 1016 fail when read
+09-06 22:36:53:829    [32m[4522] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:829    
+09-06 22:36:53:829    [0mGet phy blk for 1017 fail when read
+09-06 22:36:53:830    [32m[4532] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:830    
+09-06 22:36:53:830    [0mGet phy blk for 1018 fail when read
+09-06 22:36:53:831    [32m[4542] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:831    
+09-06 22:36:53:831    [0mGet phy blk for 1019 fail when read
+09-06 22:36:53:832    [32m[4552] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:832    
+09-06 22:36:53:832    [0mGet phy blk for 1020 fail when read
+09-06 22:36:53:832    [32m[4563] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:833    
+09-06 22:36:53:833    [0mGet phy blk for 1021 fail when read
+09-06 22:36:53:833    [32m[4573] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:834    
+09-06 22:36:53:834    [0mGet phy blk for 1022 fail when read
+09-06 22:36:53:834    [32m[4583] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:836    
+09-06 22:36:53:836    [0mGet phy blk for 1023 fail when read
+09-06 22:36:53:837    [32m[4593] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:837    
+09-06 22:36:53:837    [0mGet phy blk for 1024 fail when read
+09-06 22:36:53:837    [32m[4604] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:838    
+09-06 22:36:53:838    [0mGet phy blk for 1025 fail when read
+09-06 22:36:53:838    [32m[4614] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:838    
+09-06 22:36:53:839    [0mGet phy blk for 1026 fail when read
+09-06 22:36:53:839    [32m[4624] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:839    
+09-06 22:36:53:840    [0mGet phy blk for 1027 fail when read
+09-06 22:36:53:840    [32m[4634] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:36:53:840    
+09-06 22:36:53:841    [0m
+09-06 22:36:53:873    mount:0
+09-06 22:36:53:874    mount fs on flash to root success
+09-06 22:36:53:877    [FlashDB] Starting initialization...
+09-06 22:36:53:877    [FlashDB] Mutex initialized
+09-06 22:36:53:877    [FlashDB] KVDB Config:
+09-06 22:36:53:878      Path: /sys/db/fdb_kvdb
+09-06 22:36:53:878      Sector Size: 4096
+09-06 22:36:53:879      Max Size: 16384 (0x4000)
+09-06 22:36:53:879      File Mode: true
+09-06 22:36:53:886    [FlashDB] KVDB initialized successfully
+09-06 22:36:53:887    [FlashDB] TSDB Config:
+09-06 22:36:53:887      Path: /sys/db/fdb_tsdb
+09-06 22:36:53:887      Max Size: 16384
+09-06 22:36:53:890    [FlashDB] TSDB initialized successfully
+09-06 22:36:53:891    [FlashDB] All initialization complete
+09-06 22:36:53:892    [32m[5285] I/drv.lcd app_watc: [NONE] -> [OPENING]
+09-06 22:36:53:892    [0m[32m[5291] I/drv.lcd lcd_task: open
+09-06 22:36:53:893    [0m[32m[5296] I/drv.epic lcd_task: drv_gpu opened.
+09-06 22:36:53:893    [0m[32m[5301] I/drv.lcd lcd_task: HW open
+09-06 22:36:53:894    [0m[32m[5312] I/drv.lcd lcd_task: Try registered LCD driver...
+09-06 22:36:53:894    [0mmsh
+09-06 22:36:53:895     />
+09-06 22:36:53:964    
+09-06 22:36:53:964    CO5300_ReadID 0x331100 
+09-06 22:36:53:965    [32m[5958] I/co5300 lcd_task: LCD mo
+09-06 22:36:53:966    dule use CO5300 IC 
+09-06 22:36:53:966    
+09-06 22:36:53:967    [0m
+09-06 22:36:54:156    
+09-06 22:36:54:157    CO5300_ReadID 0x331100 
+09-06 22:36:54:157    [32m[7696] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-06 22:36:54:158    
+09-06 22:36:54:158    [0m[32m[7702] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+09-06 22:36:54:159    [0m[32m[7709] I/drv.lcd lcd_task: HW open done.
+09-06 22:36:54:159    [0m[32m[7714] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+09-06 22:36:54:160    [0m[32m[7720] I/drv.lcd lcd_task: open done.
+09-06 22:36:54:160    [0m[32m[7726] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+09-06 22:36:54:161    [0m[32m[7732] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+09-06 22:36:54:161    [0m[32m[7740] I/TOUCH app_watc: Open
+09-06 22:36:54:161    [0m[32m[7745] I/TOUCH tp_init: Find touch screen driver...
+09-06 22:36:54:162    [0m[32m[7751] I/TOUCH tp_init: Probe 10007795
+09-06 22:36:54:163    [0m[32m[7756] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-06 22:36:54:164    [0m[32m[7762] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+09-06 22:36:54:165    [0m[7770] D/drv.chsc6417 tp_init: chsc6417 init
+09-06 22:36:54:165    chsc6417 id=0x0
+09-06 22:36:54:166    [32m[7778] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-06 22:36:54:166    [0m[7784] D/drv.chsc6417 tp_init: chsc6417 init OK
+09-06 22:36:54:167    [32m[7789] I/TOUCH app_watc: Opened.
+09-06 22:36:54:168    [0m
+09-06 22:36:54:169    [32m[7811] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+09-06 22:36:54:171    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+09-06 22:36:54:172    
+09-06 22:36:54:385    Boot count: 33
+09-06 22:36:54:390    [32m[9809] I/drv.rtc app_watc: Get initial cycles: 1058225 rtc=
+09-06 22:36:54:391    1735689701.0000
+09-06 22:36:54:391    
+09-06 22:36:54:392    [0m
+09-06 22:36:54:396    [32m[9865] I/drv.rtc app_watc: Get initial cycles: 1058225 rtc=1735689600.0000
+09-06 22:36:54:398    
+09-06 22:36:54:398    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+09-06 22:36:54:400    [32m[9906] I/drv.lcd lcd_task: set brightness 100
+09-06 22:36:54:401    [0m[32m[9911] I/drv.lcd lcd_task: display on
+09-06 22:36:54:402    [0m[32m[9916] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-06 22:36:54:404    [0m[9925] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1050.
+09-06 22:36:54:405    [32m[9935] I/APP.FWK.INT app_watc: [MainScreen]
+09-06 22:36:54:406    [0m
+09-06 22:36:54:435    [10213] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-06 22:36:54:436    [32m[10221] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1050
+09-06 22:36:54:437    [0m[32m[10230] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 200636fc
+09-06 22:36:54:438    [0m[32m[10237] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+09-06 22:36:54:439    [0m[10245] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-06 22:36:54:439    [32m[10253] I/APP.SCHE app_watc: app[MainScreen] do START, 200636fc
+09-06 22:36:54:440    [0m[32m[10261] I/APP.FWK.INT app_watc: [MainScreen]
+09-06 22:36:54:441    [0m[10266] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200636fc] to gui_app_mbx tick:1087.
+09-06 22:36:54:442    [32m[10277] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1087
+09-06 22:36:54:442    [0m[10285] D/APP.SCHE app_watc: app[MainScreen] create page[root] 200637c8
+09-06 22:36:54:443    [10293] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-06 22:36:54:445    [10301] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-06 22:36:54:446    [32m[10311] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART
+09-06 22:36:54:446    , 200637c8
+09-06 22:36:54:447    [0m
+09-06 22:36:54:452    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+09-06 22:36:54:453    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+09-06 22:36:54:462    [32m[10467] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637c8
+09-06 22:36:54:463    [0m[32m[10475] I/APP.SCHE app_watc: Try setup trans-anim
+09-06 22:36:54:464    [0m[32m[10481] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-06 22:36:54:465    [0m[10488] D/APP.SCHE app_watc: app_schedule_task done.
+09-06 22:36:57:204    Scroll UP pressed
+09-06 22:36:57:684    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:36:57:688    pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:36:57:691     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pr
+09-06 22:36:57:691    essedScroll UP pressedScroll UP 
+09-06 22:36:57:694    pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScro
+09-06 22:36:57:695    ll UP pressedScroll UP pressed
+09-06 22:36:57:700    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:36:57:701    ssedScroll UP pressed
+09-06 22:36:57:708    Scroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP presse
+09-06 22:36:57:710    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll U
+09-06 22:36:57:715    P pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll
+09-06 22:36:57:716     DOWN pressedScroll DOWN pressed
+09-06 22:36:57:721    Scroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll
+09-06 22:36:57:722     DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll 
+09-06 22:36:57:723    UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP 
+09-06 22:36:57:727    pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll
+09-06 22:36:57:730     DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScr
+09-06 22:36:57:734    oll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScrol
+09-06 22:36:57:735    l DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pres
+09-06 22:36:57:737    sedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScrol
+09-06 22:36:57:738    l DOWN pressedScroll UP pressedS
+09-06 22:36:57:741    croll UP pressed
+09-06 22:36:57:743    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN 
+09-06 22:36:57:744    pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN p
+09-06 22:36:57:748    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:36:57:750    ressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:36:57:751    Scroll DOWN pressedScroll DOWN p
+09-06 22:36:57:752    ressedScroll DOWN pressedScroll 
+09-06 22:36:57:755    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:36:57:759    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:36:57:761    l DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:36:57:763    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:36:57:765    roll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:36:57:766    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:36:57:771    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:36:57:776    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:36:57:777    ssed
+09-06 22:36:57:782    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:36:57:783    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:36:57:786    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:36:57:787     pressed
+09-06 22:36:57:872    Scroll UP pressedScroll UP press
+09-06 22:36:57:874    edScroll UP pressed
+09-06 22:36:57:874    Scroll UP pressedScroll UP press
+09-06 22:36:57:878    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:36:57:879    oll UP pressed
+09-06 22:36:57:891    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:36:57:892    sed
+09-06 22:36:57:909    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:36:57:911    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:36:57:914    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:36:57:915    edScroll DOWN pressed
+09-06 22:36:57:921    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:36:57:924    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:36:57:925    pressedScroll UP pressed
+09-06 22:36:57:929    Scroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:36:57:935    N pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pr
+09-06 22:36:57:935    essedScroll UP pressedScroll DOW
+09-06 22:36:57:938    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:36:57:939     pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN 
+09-06 22:36:57:941    pressed
+09-06 22:36:57:944    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:36:57:946    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:36:57:951    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN
+09-06 22:36:57:952     pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll D
+09-06 22:36:57:954    OWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:36:57:956    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:36:57:959    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP press
+09-06 22:36:57:962    edScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedS
+09-06 22:36:57:963    croll UP pressed
+09-06 22:36:57:967    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressed
+09-06 22:36:57:970    Scroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:36:57:971    croll DOWN pressedScroll DOWN pr
+09-06 22:36:57:973    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScr
+09-06 22:36:57:981    oll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:36:57:985    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:36:57:986    l DOWN pressed
+09-06 22:36:58:036    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:36:58:039    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:36:58:041    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:36:58:044    sedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll
+09-06 22:36:58:046     UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:36:58:049    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:36:58:052    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:36:58:054    sedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll
+09-06 22:36:58:055     UP pressed
+09-06 22:36:58:056    Scroll UP pressedScroll UP press
+09-06 22:36:58:057    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:36:58:059    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:36:58:060    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:36:58:062    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:36:58:067    pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:36:58:069    l UP pressed
+09-06 22:36:58:070    Scroll UP pressedScroll UP press
+09-06 22:36:58:071    ed
+09-06 22:36:58:074    Scroll UP pressedScroll UP press
+09-06 22:36:58:075    edScroll UP pressed
+09-06 22:36:58:076    Scroll UP pressedScroll UP press
+09-06 22:36:58:078    ed
+09-06 22:36:58:083    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:36:58:085    ssedScroll UP pressed
+09-06 22:36:58:091    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:36:58:093    ssedScroll UP pressedScroll UP p
+09-06 22:36:58:094    ressedScroll UP pressedScroll UP press
+09-06 22:36:58:096    edScroll UP pressed
+09-06 22:36:58:099    Scroll UP pressedScroll UP press
+09-06 22:36:58:101    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:36:58:110     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:36:58:137    Scroll UP pressed
+09-06 22:36:58:141    Scroll UP pressed
+09-06 22:36:58:284    Scroll UP pressed
+09-06 22:36:58:293    Scroll UP pressed
+09-06 22:36:58:298    Scroll UP pressed
+09-06 22:36:58:303    Scroll UP pressed
+09-06 22:36:58:308    Scroll UP pressedScroll UP press
+09-06 22:36:58:312    edScroll UP pressedScroll UP press
+09-06 22:36:58:320    ed
+09-06 22:36:58:326    Scroll UP pressed
+09-06 22:36:58:329    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:36:58:331    ssedScroll UP pressed
+09-06 22:36:58:335    Scroll UP pressed
+09-06 22:36:58:362    Scroll UP pressedScroll UP press
+09-06 22:36:58:364    edScroll UP pressed
+09-06 22:36:58:365    Scroll UP pressedScroll UP press
+09-06 22:36:58:366    edScroll UP pressed
+09-06 22:36:58:371    Scroll UP pressedScroll UP press
+09-06 22:36:58:372    ed
+09-06 22:36:58:375    Scroll UP pressed
+09-06 22:36:58:395    Scroll UP pressedScroll UP press
+09-06 22:36:58:397    ed
+09-06 22:36:58:405    Scroll UP pressedScroll UP press
+09-06 22:36:58:405    ed
+09-06 22:36:58:411    Scroll UP pressedScroll UP press
+09-06 22:36:58:413    edScroll UP pressed
+09-06 22:36:58:419    Scroll UP pressed
+09-06 22:36:59:414    Scroll UP pressed
+09-06 22:36:59:420    Scroll UP pressedScroll UP press
+09-06 22:36:59:421    ed
+09-06 22:36:59:422    Scroll UP pressedScroll UP press
+09-06 22:36:59:425    edScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:36:59:426    edScroll UP pressedScroll UP pre
+09-06 22:36:59:427    ssed
+09-06 22:36:59:432    Scroll UP pressedScroll UP press
+09-06 22:36:59:433    edScroll UP pressedScroll UP pre
+09-06 22:36:59:434    ssedScroll UP pressedScroll UP p
+09-06 22:36:59:436    ressedScroll UP pressedScroll UP
+09-06 22:36:59:437     pressedScroll UP pressedScroll 
+09-06 22:36:59:438    UP pressed
+09-06 22:36:59:440    Scroll UP pressed
+09-06 22:36:59:442    Scroll UP pressedScroll UP press
+09-06 22:36:59:443    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:36:59:446    ressedScroll UP pressedScroll UP
+09-06 22:36:59:446     pressedScroll UP pressedScroll 
+09-06 22:36:59:449    UP pressedScroll UP pressed
+09-06 22:36:59:451    Scroll UP pressed
+09-06 22:36:59:453    Scroll UP pressed
+09-06 22:36:59:456    Scroll UP pressed
+09-06 22:36:59:458    Scroll UP pressed
+09-06 22:36:59:462    Scroll UP pressedScroll UP press
+09-06 22:36:59:464    edScroll UP pressedScroll UP pre
+09-06 22:36:59:466    ssed
+09-06 22:36:59:467    Scroll UP pressed
+09-06 22:36:59:475    Scroll UP pressed
+09-06 22:36:59:479    Scroll UP pressedScroll UP press
+09-06 22:36:59:480    ed
+09-06 22:36:59:492    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:36:59:494    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:36:59:496    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:36:59:498    l UP pressed
+09-06 22:36:59:500    Scroll UP pressedScroll UP press
+09-06 22:36:59:501    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:36:59:503     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:36:59:504    oll UP pressed
+09-06 22:36:59:507    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:36:59:509     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:36:59:511    oll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:36:59:514    sedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN presse
+09-06 22:36:59:516    dScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedSc
+09-06 22:36:59:517    roll UP pressedScroll UP pressed
+09-06 22:36:59:519    Scroll UP pressed
+09-06 22:36:59:532    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:36:59:535    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:36:59:536    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN 
+09-06 22:36:59:539    pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:36:59:540    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:36:59:545    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:36:59:547    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:36:59:550    essedScroll DOWN pressed
+09-06 22:36:59:550    Scroll DOWN pressedScroll DOWN p
+09-06 22:36:59:552    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:36:59:555    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScr
+09-06 22:36:59:557    oll DOWN pressed
+09-06 22:36:59:558    Scroll DOWN pressedScroll DOWN p
+09-06 22:36:59:559    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:36:59:562    croll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:36:59:563    ressedScroll DOWN pressedScroll 
+09-06 22:36:59:567    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:36:59:569    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScro
+09-06 22:36:59:571    ll DOWN pressedScroll DOWN press
+09-06 22:36:59:572    edScroll DOWN pressed
+09-06 22:36:59:588    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:36:59:589    DOWN pressed
+09-06 22:36:59:591    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:36:59:593    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:36:59:594    essedScroll DOWN pressed
+09-06 22:36:59:597    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:36:59:598    croll DOWN pressedScroll DOWN pr
+09-06 22:36:59:600    essedScroll DOWN pressed
+09-06 22:36:59:602    Scroll DOWN pressedScroll DOWN p
+09-06 22:36:59:604    ressedScroll DOWN pressedScroll DOWN p
+09-06 22:36:59:605    ressedScroll DOWN pressedScroll 
+09-06 22:36:59:607    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:36:59:608    OWN pressed
+09-06 22:36:59:612    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:36:59:615    OWN pressedScroll DOWN pressed
+09-06 22:36:59:618    Scroll DOWN pressedScroll DOWN p
+09-06 22:36:59:620    ressedScroll DOWN pressed
+09-06 22:36:59:621    Scroll DOWN pressedScroll DOWN p
+09-06 22:36:59:622    ressedScroll DOWN pressedScroll 
+09-06 22:36:59:623    DOWN pressedScroll DOWN pressed
+09-06 22:36:59:632    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:36:59:634    Scroll DOWN pressedScroll DOWN p
+09-06 22:36:59:635    ressedScroll DOWN pressed
+09-06 22:36:59:645    Scroll DOWN pressedScroll DOWN p
+09-06 22:36:59:647    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:36:59:648    ssedScroll DOWN pressedScroll DO
+09-06 22:36:59:649    WN pressedScroll DOWN pressedScr
+09-06 22:36:59:650    oll DOWN pressed
+09-06 22:36:59:844    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:36:59:852     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:36:59:854    Scroll UP pressedScroll UP press
+09-06 22:36:59:855    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:36:59:856    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:36:59:858    UP pressedScroll UP pressed
+09-06 22:36:59:860    Scroll UP pressed
+09-06 22:36:59:863    Scroll UP pressedScroll UP press
+09-06 22:36:59:867    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:36:59:870    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:36:59:871    ssedScroll UP pressedScroll UP p
+09-06 22:36:59:872    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:36:59:875    UP pressedScroll UP pressed
+09-06 22:36:59:884    Scroll UP pressedScroll UP press
+09-06 22:36:59:886    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:36:59:888    l UP pressedScroll UP pressedScr
+09-06 22:36:59:889    oll UP pressed
+09-06 22:36:59:896    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:36:59:897    UP pressedScroll UP pressed
+09-06 22:36:59:901    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll U
+09-06 22:36:59:904    P pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP 
+09-06 22:36:59:906    pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DO
+09-06 22:36:59:909    WN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll
+09-06 22:36:59:911     UP pressedScroll UP pressedScro
+09-06 22:36:59:915    ll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll U
+09-06 22:36:59:917    P pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP presse
+09-06 22:36:59:923    dScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:36:59:924    edScroll DOWN pressedScroll DOWN
+09-06 22:36:59:925     pressed
+09-06 22:36:59:931    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:36:59:932    DOWN pressedScroll DOWN pressed
+09-06 22:36:59:936    Scroll DOWN pressedScroll DOWN p
+09-06 22:36:59:938    ressedScroll DOWN pressedScroll DOWN p
+09-06 22:36:59:940    ressedScroll DOWN pressedScroll DOWN p
+09-06 22:36:59:942    ressed
+09-06 22:36:59:945    Scroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:36:59:947    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:36:59:949    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScr
+09-06 22:36:59:950    oll DOWN pressedScroll DOWN pres
+09-06 22:36:59:951    sedScroll DOWN pressedScroll DOW
+09-06 22:36:59:952    N pressed
+09-06 22:36:59:960    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:36:59:965    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:36:59:967    essedScroll DOWN pressed
+09-06 22:37:00:044    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:00:048    oll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScro
+09-06 22:37:00:049    ll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:37:00:066    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:00:070    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN presse
+09-06 22:37:00:075    dScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP 
+09-06 22:37:00:076    pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScro
+09-06 22:37:00:082    ll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN presse
+09-06 22:37:00:088    dScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN press
+09-06 22:37:00:090    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:00:095     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScrol
+09-06 22:37:00:096    l UP pressedScroll DOWN pressed
+09-06 22:37:00:102    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:00:104    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScro
+09-06 22:37:00:109    ll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:00:111    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:00:112    OWN pressedScroll DOWN pressedSc
+09-06 22:37:00:114    roll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:00:115    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:00:120    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:00:124    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScro
+09-06 22:37:00:125    ll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:00:127     pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN 
+09-06 22:37:00:129    pressedScroll DOWN pressed
+09-06 22:37:00:131    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:00:133    DOWN pressedScroll DOWN pressed
+09-06 22:37:00:136    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:00:137    DOWN pressed
+09-06 22:37:00:148    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:00:149    ressedScroll DOWN pressed
+09-06 22:37:00:223    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:37:00:224    sedScroll UP pressed
+09-06 22:37:00:228    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:00:230    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:00:233     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pr
+09-06 22:37:00:235    essedScroll UP pressedScroll UP pressedScroll UP pressedScroll U
+09-06 22:37:00:239    P pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:00:242    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:243    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:00:250    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pres
+09-06 22:37:00:251    sedScroll DOWN pressedScroll DOW
+09-06 22:37:00:254    N pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll 
+09-06 22:37:00:256    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP 
+09-06 22:37:00:258    pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN p
+09-06 22:37:00:277    ressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN 
+09-06 22:37:00:279    pressedScroll DOWN pressed
+09-06 22:37:00:283    Scroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:00:284    l DOWN pressedScroll DOWN presse
+09-06 22:37:00:286    dScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:00:288    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:00:290    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:00:294    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:00:295    DOWN pressedScroll DOWN pressedS
+09-06 22:37:00:298    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:00:299    WN pressed
+09-06 22:37:00:302    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:00:303    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:00:308    roll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:00:309     pressed
+09-06 22:37:00:372    Scroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:37:00:381    Scroll UP pressedScroll UP press
+09-06 22:37:00:383    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:384    ressedScroll UP pressed
+09-06 22:37:00:390    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:393    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedS
+09-06 22:37:00:394    croll UP pressedScroll UP presse
+09-06 22:37:00:395    dScroll UP pressedScroll UP pres
+09-06 22:37:00:396    sedScroll UP pressed
+09-06 22:37:00:403    Scroll UP pressedScroll UP press
+09-06 22:37:00:408    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:00:411    pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:37:00:415    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:00:418    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll
+09-06 22:37:00:420     UP pressed
+09-06 22:37:00:421    Scroll UP pressedScroll UP press
+09-06 22:37:00:424    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:00:427    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll U
+09-06 22:37:00:428    P pressed
+09-06 22:37:00:431    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:00:432    UP pressedScroll UP pressedScrol
+09-06 22:37:00:434    l UP pressedScroll UP pressed
+09-06 22:37:00:445    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:00:446     pressedScroll DOWN pressedScrol
+09-06 22:37:00:448    l DOWN pressed
+09-06 22:37:00:452    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:00:454    OWN pressed
+09-06 22:37:00:457    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:00:458    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:00:459    OWN pressed
+09-06 22:37:00:465    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:00:467    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScr
+09-06 22:37:00:474    oll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:00:474    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:00:475    ssedScroll DOWN pressed
+09-06 22:37:00:490    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:00:493    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:00:497    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN presse
+09-06 22:37:00:497    d
+09-06 22:37:00:498    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:00:500    ressedScroll DOWN pressedScroll 
+09-06 22:37:00:502    DOWN pressed
+09-06 22:37:00:504    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:00:506    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:00:508    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:00:510    WN pressedScroll DOWN pressed
+09-06 22:37:00:513    Scroll DOWN pressed
+09-06 22:37:00:521    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:00:524    ressed
+09-06 22:37:00:607    Scroll UP pressedScroll UP press
+09-06 22:37:00:607    edScroll UP pressedScroll UP pre
+09-06 22:37:00:608    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:00:611    UP pressed
+09-06 22:37:00:615    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:616    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:00:617    UP pressedScroll UP pressed
+09-06 22:37:00:622    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:00:623    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pr
+09-06 22:37:00:625    essedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll
+09-06 22:37:00:628     UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:00:629     pressed
+09-06 22:37:00:635    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:636    ressedScroll UP pressedScroll UP
+09-06 22:37:00:638     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedS
+09-06 22:37:00:639    croll UP pressed
+09-06 22:37:00:656    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:657    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:00:660    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:00:665    pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:666    ressed
+09-06 22:37:00:676    Scroll UP pressedScroll UP press
+09-06 22:37:00:679    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:00:680    oll UP pressedScroll UP pressedS
+09-06 22:37:00:682    croll UP pressed
+09-06 22:37:00:683    Scroll UP pressedScroll UP press
+09-06 22:37:00:692    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:37:00:697    Scroll UP pressedScroll UP press
+09-06 22:37:00:698    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:699    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:00:700    UP pressedScroll UP pressedScrol
+09-06 22:37:00:702    l UP pressedScroll UP pressed
+09-06 22:37:00:706    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:707    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:00:708    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:00:712    oll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll
+09-06 22:37:00:713     UP pressedScroll UP pressedScroll UP pressedScroll UP pressedSc
+09-06 22:37:00:715    roll UP pressedScroll UP pressed
+09-06 22:37:00:718    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:00:721     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:00:722    pressedScroll UP pressedScroll U
+09-06 22:37:00:723    P pressedScroll UP pressedScroll UP pressedScroll UP pressedScro
+09-06 22:37:00:725    ll UP pressedScroll UP pressedSc
+09-06 22:37:00:726    roll UP pressed
+09-06 22:37:00:726    Scroll UP pressedScroll UP press
+09-06 22:37:00:727    edScroll UP pressedScroll UP pre
+09-06 22:37:00:729    ssedScroll UP pressed
+09-06 22:37:00:731    Scroll UP pressedScroll UP press
+09-06 22:37:00:733    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:00:734     pressedScroll UP pressed
+09-06 22:37:00:743    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:00:746    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:37:00:748    sedScroll UP pressed
+09-06 22:37:00:753    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:00:754    l UP pressedScroll UP pressedScr
+09-06 22:37:00:755    oll UP pressedScroll UP pressed
+09-06 22:37:00:771    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:00:773    DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pr
+09-06 22:37:00:774    essedScroll DOWN pressedScroll D
+09-06 22:37:00:775    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:00:776    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScr
+09-06 22:37:00:778    oll DOWN pressed
+09-06 22:37:00:782    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:00:784    roll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:00:789    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:00:792    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:00:798    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:00:801    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:00:805    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScr
+09-06 22:37:00:809    oll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:00:812    l DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:00:813    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:00:815    croll DOWN pressed
+09-06 22:37:00:816    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:00:817    DOWN pressedScroll DOWN pressedS
+09-06 22:37:00:820    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:00:823    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:00:824    edScroll DOWN pressedScroll DOWN
+09-06 22:37:00:828     pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:00:831    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:00:832    edScroll DOWN pressed
+09-06 22:37:00:834    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:00:837    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:00:838    WN pressedScroll DOWN pressedScr
+09-06 22:37:00:839    oll DOWN pressedScroll DOWN pres
+09-06 22:37:00:843    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll
+09-06 22:37:00:844     DOWN pressedScroll DOWN pressed
+09-06 22:37:00:849    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:00:850    roll DOWN pressed
+09-06 22:37:00:854    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:00:855    ressed
+09-06 22:37:00:856    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:00:859    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:00:860    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:00:863    WN pressedScroll DOWN pressed
+09-06 22:37:00:865    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:00:867    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:00:868    essed
+09-06 22:37:00:875    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:00:879    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN presse
+09-06 22:37:00:880    dScroll DOWN pressedScroll DOWN 
+09-06 22:37:00:882    pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:00:884    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:00:885    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:00:887    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:00:897    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:00:901    Scroll DOWN pressedScroll DOWN pressed
+09-06 22:37:00:903    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:00:906    ressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:00:907    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:00:910    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:00:914    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN presse
+09-06 22:37:00:916    dScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:00:916    Scroll DOWN pressed
+09-06 22:37:00:940    Scroll DOWN pressed
+09-06 22:37:00:943    Scroll DOWN pressed
+09-06 22:37:00:945    Scroll DOWN pressed
+09-06 22:37:01:417    Scroll DOWN pressed
+09-06 22:37:02:151    Scroll DOWN pressed
+09-06 22:37:02:196    Scroll DOWN pressed
+09-06 22:37:02:200    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:02:201    DOWN pressedScroll DOWN pressedS
+09-06 22:37:02:203    croll DOWN pressed
+09-06 22:37:02:308    Scroll UP pressedScroll UP press
+09-06 22:37:02:313    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:02:313    l UP pressed
+09-06 22:37:02:320    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:02:327    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:37:02:328    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:02:331     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:02:337    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:02:339     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:02:340    oll UP pressed
+09-06 22:37:02:348    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:02:349    l UP pressedScroll UP pressedScr
+09-06 22:37:02:351    oll UP pressedScroll UP pressed
+09-06 22:37:02:362    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:37:02:377    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:02:379    ressedScroll UP pressed
+09-06 22:37:02:382    Scroll UP pressedScroll UP press
+09-06 22:37:02:383    ed
+09-06 22:37:02:385    Scroll UP pressed
+09-06 22:37:02:388    Scroll UP pressed
+09-06 22:37:02:393    Scroll UP pressed
+09-06 22:37:02:411    Scroll UP pressedScroll UP press
+09-06 22:37:02:413    ed
+09-06 22:37:02:421    Scroll UP pressed
+09-06 22:37:02:424    Scroll UP pressedScroll UP press
+09-06 22:37:02:425    ed
+09-06 22:37:02:430    Scroll UP pressed
+09-06 22:37:02:437    Scroll UP pressedScroll UP press
+09-06 22:37:02:438    ed
+09-06 22:37:02:440    Scroll UP pressedScroll UP press
+09-06 22:37:02:441    ed
+09-06 22:37:02:444    Scroll UP pressed
+09-06 22:37:02:470    Scroll UP pressed
+09-06 22:37:02:487    Scroll UP pressed
+09-06 22:37:02:497    Scroll UP pressed
+09-06 22:37:02:502    Scroll UP pressed
+09-06 22:37:02:514    Scroll UP pressedScroll UP press
+09-06 22:37:02:516    ed
+09-06 22:37:02:969    Scroll UP pressed
+09-06 22:37:02:973    Scroll UP pressed
+09-06 22:37:02:975    Scroll UP pressed
+09-06 22:37:02:978    Scroll UP pressedScroll UP press
+09-06 22:37:02:979    ed
+09-06 22:37:02:984    Scroll UP pressedScroll UP press
+09-06 22:37:02:986    ed
+09-06 22:37:02:990    Scroll UP pressedScroll UP press
+09-06 22:37:02:991    ed
+09-06 22:37:02:993    Scroll UP pressed
+09-06 22:37:02:994    Scroll UP pressedScroll UP press
+09-06 22:37:02:995    ed
+09-06 22:37:02:998    Scroll UP pressed
+09-06 22:37:03:000    Scroll UP pressed
+09-06 22:37:03:008    Scroll UP pressedScroll UP press
+09-06 22:37:03:010    ed
+09-06 22:37:03:012    Scroll UP pressedScroll UP press
+09-06 22:37:03:013    edScroll UP pressedScroll UP pre
+09-06 22:37:03:014    ssedScroll UP pressedScroll UP p
+09-06 22:37:03:016    ressedScroll UP pressed
+09-06 22:37:03:018    Scroll UP pressed
+09-06 22:37:03:019    Scroll UP pressedScroll UP press
+09-06 22:37:03:020    edScroll UP pressedScroll UP pre
+09-06 22:37:03:022    ssedScroll UP pressedScroll UP p
+09-06 22:37:03:026    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:37:03:030    sedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedSc
+09-06 22:37:03:031    roll UP pressedScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:03:032    edScroll UP pressedScroll UP pre
+09-06 22:37:03:035    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:03:038    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pr
+09-06 22:37:03:042    essedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:03:045    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:03:048    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pr
+09-06 22:37:03:054    essedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:03:054    UP pressed
+09-06 22:37:03:059    Scroll UP pressedScroll UP press
+09-06 22:37:03:061    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:03:061    ressedScroll UP pressedScroll UP
+09-06 22:37:03:064     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:03:066    ssedScroll UP pressedScroll UP p
+09-06 22:37:03:067    ressedScroll UP pressed
+09-06 22:37:03:068    Scroll UP pressedScroll UP press
+09-06 22:37:03:069    edScroll UP pressed
+09-06 22:37:03:077    Scroll UP pressedScroll UP press
+09-06 22:37:03:079    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:03:081    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:03:084    oll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pr
+09-06 22:37:03:085    essedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll
+09-06 22:37:03:087     UP pressedScroll UP pressed
+09-06 22:37:03:090    Scroll UP pressedScroll UP press
+09-06 22:37:03:092    edScroll UP pressed
+09-06 22:37:03:095    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:03:096     pressedScroll UP pressed
+09-06 22:37:03:100    Scroll UP pressedScroll UP press
+09-06 22:37:03:101    edScroll UP pressedScroll UP pre
+09-06 22:37:03:112    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedSc
+09-06 22:37:03:116    roll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressed
+09-06 22:37:03:117    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:03:125    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:03:128    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:03:129    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:03:134    l DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:03:137    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:03:141    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:03:142    DOWN pressedScroll DOWN pressed
+09-06 22:37:03:145    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:147    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:03:149    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:03:151    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScro
+09-06 22:37:03:153    ll DOWN pressed
+09-06 22:37:03:157    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:03:159    roll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:03:161    sedScroll DOWN pressed
+09-06 22:37:03:163    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:165    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:03:166    croll DOWN pressedScroll DOWN pr
+09-06 22:37:03:170    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:03:183    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:03:188    Scroll DOWN pressed
+09-06 22:37:03:193    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:194    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:03:196    croll DOWN pressedScroll DOWN pr
+09-06 22:37:03:197    essedScroll DOWN pressedScroll D
+09-06 22:37:03:199    OWN pressed
+09-06 22:37:03:203    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:204    ressedScroll DOWN pressed
+09-06 22:37:03:209    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:210    ressedScroll DOWN pressed
+09-06 22:37:03:216    Scroll DOWN pressed
+09-06 22:37:03:221    Scroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:03:223    ressed
+09-06 22:37:03:227    Scroll DOWN pressed
+09-06 22:37:03:228    Scroll DOWN pressed
+09-06 22:37:03:231    Scroll DOWN pressed
+09-06 22:37:03:232    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:233    ressed
+09-06 22:37:03:241    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:242    ressed
+09-06 22:37:03:249    Scroll DOWN pressed
+09-06 22:37:03:254    Scroll DOWN pressed
+09-06 22:37:03:675    Scroll DOWN pressed
+09-06 22:37:03:688    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:689    ressedScroll DOWN pressedScroll 
+09-06 22:37:03:690    DOWN pressed
+09-06 22:37:03:697    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:03:699    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN presse
+09-06 22:37:03:700    d
+09-06 22:37:03:706    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:03:710    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:03:713    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:03:715    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:03:718    essedScroll DOWN pressed
+09-06 22:37:03:721    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:03:723    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:03:724    sedScroll DOWN pressedScroll DOW
+09-06 22:37:03:725    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:03:729    l DOWN pressed
+09-06 22:37:03:734    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:03:737    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:03:739    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN 
+09-06 22:37:03:743    pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:03:744    OWN pressed
+09-06 22:37:03:747    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:03:750    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:03:753    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll
+09-06 22:37:03:755     DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:03:756    DOWN pressedScroll DOWN pressed
+09-06 22:37:03:764    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:765    ressed
+09-06 22:37:03:766    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:03:768    ressedScroll DOWN pressed
+09-06 22:37:03:778    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:03:781    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:03:783    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:03:785    l DOWN pressed
+09-06 22:37:04:365    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:04:367     pressed
+09-06 22:37:04:381    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:04:383    ressedScroll UP pressedScroll UP
+09-06 22:37:04:384     pressed
+09-06 22:37:04:389    Scroll UP pressed
+09-06 22:37:04:397    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:04:398    ssedScroll UP pressedScroll UP p
+09-06 22:37:04:399    ressed
+09-06 22:37:04:400    Scroll UP pressedScroll UP press
+09-06 22:37:04:401    ed
+09-06 22:37:04:410    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:04:411    oll UP pressed
+09-06 22:37:04:417    Scroll UP pressedScroll UP press
+09-06 22:37:04:418    ed
+09-06 22:37:04:428    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:04:429    dScroll UP pressed
+09-06 22:37:04:430    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:04:431    ssed
+09-06 22:37:04:443    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:04:445    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:37:04:447    sedScroll UP pressed
+09-06 22:37:04:456    Scroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedS
+09-06 22:37:04:459    croll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pres
+09-06 22:37:04:461    sedScroll UP pressedScroll DOWN pre
+09-06 22:37:04:463    ssedScroll DOWN pressedScroll DO
+09-06 22:37:04:464    WN pressed
+09-06 22:37:04:467    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:04:468    ressedScroll DOWN pressedScroll 
+09-06 22:37:04:469    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:04:470    essedScroll DOWN pressedScroll D
+09-06 22:37:04:471    OWN pressed
+09-06 22:37:04:483    Scroll UP pressed
+09-06 22:37:04:509    Scroll DOWN pressed
+09-06 22:37:04:516    Scroll DOWN pressed
+09-06 22:37:04:818    Scroll DOWN pressed
+09-06 22:37:05:208    Scroll DOWN pressed
+09-06 22:37:05:251    Scroll DOWN pressed
+09-06 22:37:05:527    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScr
+09-06 22:37:05:531    oll DOWN pressedScroll UP pressedScroll UP press
+09-06 22:37:05:531    edScroll DOWN pressedScroll UP p
+09-06 22:37:05:532    ressedScroll UP pressedScroll UP
+09-06 22:37:05:538     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:05:540    l DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN 
+09-06 22:37:05:543    pressed
+09-06 22:37:05:544    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:05:545    ressed
+09-06 22:37:05:553    Scroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScrol
+09-06 22:37:05:554    l DOWN pressed
+09-06 22:37:05:557    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:05:559    ressedScroll DOWN pressed
+09-06 22:37:05:561    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:05:563    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:05:565    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:05:566    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:05:567    edScroll DOWN pressed
+09-06 22:37:05:572    Scroll DOWN pressed
+09-06 22:37:05:574    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:05:575    ressed
+09-06 22:37:05:587    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:05:589    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:05:591    WN pressed
+09-06 22:37:05:592    Scroll DOWN pressed
+09-06 22:37:05:603    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:05:605    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:05:607    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:05:610    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:05:612     pressed
+09-06 22:37:05:614    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:05:615    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:05:616    essedScroll DOWN pressedScroll D
+09-06 22:37:05:618    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:05:620    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:05:621    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScro
+09-06 22:37:05:623    ll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:05:624     pressedScroll DOWN pressed
+09-06 22:37:05:628    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:05:634    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:05:635    l DOWN pressed
+09-06 22:37:05:636    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:05:638    DOWN pressed
+09-06 22:37:05:642    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:05:643    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:05:644    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:05:647    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:06:291    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:06:293    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:06:294    essedScroll DOWN pressedScroll DOWN p
+09-06 22:37:06:295    ressed
+09-06 22:37:06:301    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:06:305    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:06:306    croll DOWN pressed
+09-06 22:37:06:310    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:06:312    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:06:313    roll DOWN pressed
+09-06 22:37:06:329    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScro
+09-06 22:37:06:330    ll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:06:333    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:06:335    UP pressedScroll UP pressed
+09-06 22:37:06:336    Scroll UP pressedScroll UP press
+09-06 22:37:06:338    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:06:339    ressed
+09-06 22:37:06:341    Scroll UP pressedScroll UP press
+09-06 22:37:06:345    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:06:347    dScroll UP pressed
+09-06 22:37:06:363    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:06:364    ressedScroll DOWN pressedScroll 
+09-06 22:37:06:365    DOWN pressedScroll DOWN pressed
+09-06 22:37:06:367    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:06:370    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:06:372    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:06:376    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:06:378    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:06:383    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN presse
+09-06 22:37:06:399    dScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:06:401    pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedSc
+09-06 22:37:06:402    roll UP pressedScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:06:406    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pr
+09-06 22:37:06:408    essedScroll UP pressedScroll UP pressedScroll UP pressedScroll U
+09-06 22:37:06:409    P pressedScroll UP pressedScroll UP pressedScroll UP pressedScro
+09-06 22:37:06:414    ll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:06:415    l UP pressedScroll UP pressed
+09-06 22:37:06:416    Scroll UP pressedScroll UP press
+09-06 22:37:06:418    ed
+09-06 22:37:06:454    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:06:456    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScro
+09-06 22:37:06:458    ll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:06:460     pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:06:467    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:06:471     pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:06:473    DOWN pressedScroll DOWN pressed
+09-06 22:37:06:518    Scroll DOWN pressedScroll DOWN pressed
+09-06 22:37:06:522    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:06:523    ressed
+09-06 22:37:06:525    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:06:527    ressed
+09-06 22:37:06:530    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:06:533    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:06:535    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:06:537    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:06:541     pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:06:542    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:06:544    DOWN pressedScroll DOWN pressed
+09-06 22:37:06:550    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:06:551    ressedScroll DOWN pressed
+09-06 22:37:06:554    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:06:555    croll DOWN pressedScroll DOWN pr
+09-06 22:37:06:560    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:06:561     pressedScroll DOWN pressed
+09-06 22:37:06:570    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DO
+09-06 22:37:06:571    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:06:572    sedScroll DOWN pressedScroll DOW
+09-06 22:37:06:573    N pressedScroll DOWN pressed
+09-06 22:37:06:580    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:06:589    roll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:06:592    pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:06:595    edScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:06:596    ed
+09-06 22:37:06:604    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll U
+09-06 22:37:06:605    P pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedSc
+09-06 22:37:06:607    roll UP pressed
+09-06 22:37:06:612    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedS
+09-06 22:37:06:613    croll UP pressedScroll UP presse
+09-06 22:37:06:614    dScroll UP pressed
+09-06 22:37:06:620    Scroll UP pressedScroll UP press
+09-06 22:37:06:624    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:37:06:625    sedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll U
+09-06 22:37:06:628    P pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:37:06:629    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:06:632    ssedScroll UP pressed
+09-06 22:37:06:644    Scroll UP pressedScroll UP press
+09-06 22:37:06:645    edScroll UP pressedScroll UP pre
+09-06 22:37:06:648    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:06:650    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:06:653    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:06:655    oll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:06:657    dScroll UP pressed
+09-06 22:37:06:664    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:06:666    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:06:667    UP pressedScroll UP pressedScrol
+09-06 22:37:06:669    l UP pressed
+09-06 22:37:06:672    Scroll UP pressed
+09-06 22:37:06:680    Scroll UP pressedScroll UP press
+09-06 22:37:06:681    ed
+09-06 22:37:06:687    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:06:692    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:06:693    ed
+09-06 22:37:06:696    Scroll UP pressedScroll UP press
+09-06 22:37:06:699    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:06:700     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:06:701    oll UP pressedScroll UP pressed
+09-06 22:37:06:710    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:06:711    ssedScroll UP pressed
+09-06 22:37:06:720    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:06:721    ssed
+09-06 22:37:06:799    Scroll DOWN pressed
+09-06 22:37:06:806    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:06:809    ressedScroll DOWN pressedScroll 
+09-06 22:37:06:810    DOWN pressedScroll DOWN pressed
+09-06 22:37:06:818    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:06:820     pressedScroll DOWN pressed
+09-06 22:37:06:832    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:06:838    l DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:06:839    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:06:840    ssedScroll DOWN pressedScroll DO
+09-06 22:37:06:842    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:06:844     pressedScroll DOWN pressed
+09-06 22:37:06:846    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:06:847    ressedScroll DOWN pressedScroll 
+09-06 22:37:06:857    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:06:861    essedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:06:863    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:06:865    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll
+09-06 22:37:06:867     UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:37:06:873    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pr
+09-06 22:37:06:874    essed
+09-06 22:37:06:881    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:06:883    oll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:37:06:884    sedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:06:885    pressedScroll UP pressedScroll U
+09-06 22:37:06:887    P pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:06:890    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:06:891    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:06:893    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:06:894    pressedScroll UP pressed
+09-06 22:37:06:898    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:06:901    oll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll U
+09-06 22:37:06:902    P pressed
+09-06 22:37:06:906    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:06:908    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:06:910    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:06:911    dScroll UP pressed
+09-06 22:37:06:914    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:06:915    ssed
+09-06 22:37:06:917    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:06:918    ssed
+09-06 22:37:06:920    Scroll UP pressedScroll UP press
+09-06 22:37:06:921    ed
+09-06 22:37:06:925    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:06:926    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:06:927    UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedS
+09-06 22:37:06:929    croll UP pressed
+09-06 22:37:07:000    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:07:002    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:07:005    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:07:006     pressed
+09-06 22:37:07:016    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:07:020    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:07:022    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:07:025     pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:07:026    ressed
+09-06 22:37:07:033    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:07:034    ressedScroll DOWN pressedScroll 
+09-06 22:37:07:036    DOWN pressedScroll DOWN pressed
+09-06 22:37:07:037    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:07:041    DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:07:042    edScroll UP pressed
+09-06 22:37:07:049    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScro
+09-06 22:37:07:050    ll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:07:051    ed
+09-06 22:37:07:053    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:07:055    DOWN pressedScroll DOWN pressed
+09-06 22:37:07:058    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:07:059    ressedScroll DOWN pressedScroll 
+09-06 22:37:07:063    UP pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:07:065    DOWN pressed
+09-06 22:37:07:075    Scroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:07:076    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pr
+09-06 22:37:07:078    essedScroll UP pressedScroll UP 
+09-06 22:37:07:079    pressed
+09-06 22:37:07:084    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:07:085    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:07:088    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:07:089    pressed
+09-06 22:37:07:094    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:07:096    ssedScroll UP pressed
+09-06 22:37:07:102    Scroll UP pressedScroll UP press
+09-06 22:37:07:104    edScroll UP pressed
+09-06 22:37:07:109    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:07:110    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:07:111    UP pressedScroll UP pressed
+09-06 22:37:07:115    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:07:116     pressed
+09-06 22:37:07:246    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:07:249    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:07:251    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:07:252    roll DOWN pressed
+09-06 22:37:07:264    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:07:265    OWN pressed
+09-06 22:37:07:269    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:07:272    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:07:274    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:07:279    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:07:281    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:07:283    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScr
+09-06 22:37:07:285    oll DOWN pressed
+09-06 22:37:07:287    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:07:288    ressed
+09-06 22:37:07:289    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:07:292    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:07:293    ssed
+09-06 22:37:07:298    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:07:299    DOWN pressedScroll DOWN pressed
+09-06 22:37:07:300    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:07:302    ressedScroll DOWN pressed
+09-06 22:37:07:308    Scroll DOWN pressed
+09-06 22:37:07:313    Scroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:07:317    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:07:318    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScr
+09-06 22:37:07:320    oll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:07:325    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP press
+09-06 22:37:07:328    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScrol
+09-06 22:37:07:329    l UP pressedScroll UP pressedScr
+09-06 22:37:07:333    oll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll UP press
+09-06 22:37:07:334    edScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:07:337    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:07:339    essedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedS
+09-06 22:37:07:347    croll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:07:352    ressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScr
+09-06 22:37:07:353    oll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:07:359    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN presse
+09-06 22:37:07:361    dScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:07:363    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:07:364    sedScroll DOWN pressedScroll DOW
+09-06 22:37:07:365    N pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:07:366    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:07:367    ressedScroll UP pressedScroll UP
+09-06 22:37:07:369     pressed
+09-06 22:37:07:371    Scroll UP pressedScroll UP press
+09-06 22:37:07:373    edScroll UP pressedScroll UP pre
+09-06 22:37:07:374    ssedScroll UP pressed
+09-06 22:37:07:375    Scroll UP pressedScroll UP press
+09-06 22:37:07:378    edScroll UP pressedScroll UP pre
+09-06 22:37:07:379    ssedScroll UP pressed
+09-06 22:37:07:387    Scroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll 
+09-06 22:37:07:392    DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScro
+09-06 22:37:07:397    ll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP 
+09-06 22:37:07:400    pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScr
+09-06 22:37:07:401    oll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pres
+09-06 22:37:07:404    sedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP presse
+09-06 22:37:07:407    dScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScro
+09-06 22:37:07:410    ll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll
+09-06 22:37:07:413     UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:07:416    sedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScr
+09-06 22:37:07:421    oll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:37:07:422    Scroll UP pressed
+09-06 22:37:07:426    Scroll UP pressed
+09-06 22:37:07:429    Scroll UP pressedScroll UP press
+09-06 22:37:07:430    edScroll UP pressed
+09-06 22:37:07:432    Scroll UP pressedScroll UP press
+09-06 22:37:07:434    edScroll UP pressedScroll UP pre
+09-06 22:37:07:436    ssedScroll UP pressed
+09-06 22:37:07:450    Scroll UP pressed
+09-06 22:37:08:297    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:08:300    ssedScroll UP pressedScroll UP pressed
+09-06 22:37:08:303    Scroll UP pressedScroll UP press
+09-06 22:37:08:304    edScroll UP pressedScroll DOWN p
+09-06 22:37:08:304    ressed
+09-06 22:37:08:307    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:08:308    ressed
+09-06 22:37:08:310    Scroll DOWN pressed
+09-06 22:37:08:313    Scroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:08:314    ressed
+09-06 22:37:08:317    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:08:320    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:08:322    oll UP pressedScroll DOWN presse
+09-06 22:37:08:327    dScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP 
+09-06 22:37:08:328    pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pre
+09-06 22:37:08:331    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll U
+09-06 22:37:08:334    P pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pre
+09-06 22:37:08:335    ssedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll 
+09-06 22:37:08:338    DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScr
+09-06 22:37:08:340    oll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedSc
+09-06 22:37:08:342    roll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:08:344    ssedScroll UP pressed
+09-06 22:37:08:346    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:08:348    ressedScroll UP pressedScroll UP pressedScroll DOWN pre
+09-06 22:37:08:350    ssedScroll UP pressed
+09-06 22:37:08:351    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:08:354    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pre
+09-06 22:37:08:355    ssedScroll UP pressedScroll DOWN
+09-06 22:37:08:358     pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScr
+09-06 22:37:08:358    oll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:08:360    N pressed
+09-06 22:37:08:363    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:08:364    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:08:369    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:08:371    roll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pr
+09-06 22:37:08:381    essedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedS
+09-06 22:37:08:384    croll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedSc
+09-06 22:37:08:387    roll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedS
+09-06 22:37:08:391    croll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:08:394    roll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScro
+09-06 22:37:08:395    ll DOWN pressed
+09-06 22:37:08:402    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:08:403    ressedScroll DOWN pressed
+09-06 22:37:08:408    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:08:409    ressedScroll DOWN pressed
+09-06 22:37:08:417    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:08:422    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN 
+09-06 22:37:08:424    pressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:08:426    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:08:429    roll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScro
+09-06 22:37:08:430    ll DOWN pressedScroll DOWN press
+09-06 22:37:08:432    edScroll DOWN pressed
+09-06 22:37:08:436    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:08:437    ressedScroll DOWN pressedScroll 
+09-06 22:37:08:438    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:08:442    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:08:444    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN 
+09-06 22:37:08:445    pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:08:447    Scroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:08:450    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:08:452    ssedScroll DOWN pressed
+09-06 22:37:08:458    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:08:461    sedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:08:462    l DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN 
+09-06 22:37:08:464    pressedScroll DOWN pressed
+09-06 22:37:09:120    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:09:123    ressed
+09-06 22:37:09:124    Scroll DOWN pressed
+09-06 22:37:09:132    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:09:133    ressed
+09-06 22:37:09:137    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:09:141    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:09:145    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:09:147    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:09:148    ressed
+09-06 22:37:09:152    Scroll DOWN pressed
+09-06 22:37:09:153    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:09:154    DOWN pressedScroll DOWN pressed
+09-06 22:37:09:158    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:09:159    ressed
+09-06 22:37:09:244    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:09:247     pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:09:248    oll UP pressed
+09-06 22:37:09:251    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:09:254    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:09:256     pressedScroll UP pressed
+09-06 22:37:09:269    Scroll UP pressedScroll UP press
+09-06 22:37:09:270    edScroll UP pressedScroll UP pre
+09-06 22:37:09:271    ssedScroll UP pressedScroll UP p
+09-06 22:37:09:272    ressed
+09-06 22:37:09:276    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:37:09:277    UP pressed
+09-06 22:37:09:285    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScro
+09-06 22:37:09:287    ll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:09:289    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:37:09:290    oll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pres
+09-06 22:37:09:291    sedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:09:297    pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:09:299    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:09:300    ressed
+09-06 22:37:09:303    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:09:306    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:09:309    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP 
+09-06 22:37:09:312    pressedScroll UP pressedScroll UP pressed
+09-06 22:37:09:339    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedSc
+09-06 22:37:09:344    roll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScr
+09-06 22:37:09:346    oll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll U
+09-06 22:37:09:347    P pressedScroll DOWN pressed
+09-06 22:37:09:350    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:09:351    essed
+09-06 22:37:09:352    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:09:354    DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:09:359    roll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScrol
+09-06 22:37:09:361    l DOWN pressed
+09-06 22:37:09:365    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:09:367    ressed
+09-06 22:37:09:369    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:09:372    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN press
+09-06 22:37:09:375    edScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:09:376    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:37:09:378    DOWN pressedScroll DOWN pressed
+09-06 22:37:09:380    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:09:387    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:09:389    Scroll DOWN pressedScroll DOWN p
+09-06 22:37:09:394    ressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOW
+09-06 22:37:09:396    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScrol
+09-06 22:37:09:398    l DOWN pressed
+09-06 22:37:09:402    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pre
+09-06 22:37:09:405    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN presse
+09-06 22:37:09:407    dScroll DOWN pressed
+09-06 22:37:09:461    Scroll UP pressed
+09-06 22:37:09:466    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:09:468    ssed
+09-06 22:37:09:470    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:09:473    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:09:474    l UP pressedScroll UP pressedScr
+09-06 22:37:09:476    oll UP pressedScroll UP pressed
+09-06 22:37:09:483    Scroll UP pressedScroll UP press
+09-06 22:37:09:484    ed
+09-06 22:37:09:488    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:09:489    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScrol
+09-06 22:37:09:491    l UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP presse
+09-06 22:37:09:494    dScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScro
+09-06 22:37:09:496    ll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:37:09:497    ssedScroll UP pressed
+09-06 22:37:09:500    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:37:09:502    ressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedS
+09-06 22:37:09:503    croll UP pressed
+09-06 22:37:09:505    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:09:507    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedSc
+09-06 22:37:09:508    roll DOWN pressedScroll DOWN pre
+09-06 22:37:09:510    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:37:09:511    sedScroll DOWN pressedScroll DOW
+09-06 22:37:09:514    N pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:37:09:517    essedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:37:09:518    WN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScro
+09-06 22:37:09:519    ll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN
+09-06 22:37:09:521     pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll
+09-06 22:37:09:525     DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed
+09-06 22:37:09:528    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedS
+09-06 22:37:09:529    croll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll D
+09-06 22:37:09:531    OWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:37:09:532    ressedScroll DOWN pressed
+09-06 22:37:09:535    Scroll DOWN pressed
+09-06 22:37:09:562    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:37:09:564     pressedScroll UP pressed
+09-06 22:37:09:685    Scroll UP pressedScroll UP press
+09-06 22:37:09:687    edScroll UP pressedScroll UP press
+09-06 22:37:09:688    ed
+09-06 22:37:09:690    Scroll UP pressed
+09-06 22:37:09:692    Scroll UP pressedScroll UP press
+09-06 22:37:09:693    edScroll UP pressed
+09-06 22:37:09:699    Scroll UP pressed
+09-06 22:37:09:705    Scroll UP pressedScroll UP press
+09-06 22:37:09:706    ed
+09-06 22:37:09:718    Scroll UP pressedScroll UP press
+09-06 22:37:09:720    ed
+09-06 22:37:09:799    Scroll UP pressed

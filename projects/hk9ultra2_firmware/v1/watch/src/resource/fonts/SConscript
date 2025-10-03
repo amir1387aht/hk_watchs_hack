@@ -1,0 +1,47 @@
+# for module compiling
+import os
+from building import *
+import rtconfig
+
+cwd = GetCurrentDir()
+
+CPPDEFINES = []
+
+# Default font used by FreeType
+default_font = 'SF_Pro_Display_Medium'
+CPPDEFINES += ["FREETYPE_FONT_NAME={}".format(default_font)]
+
+# Add the default font first
+default_font_path = os.path.join('freetype', default_font + '.ttf')
+default_objs = Glob(default_font_path)
+default_objs = Env.FontFile(default_objs)
+
+# Collect all .ttf files in freetype folder
+extra_objs = []
+freetype_dir = os.path.join(cwd, 'freetype')
+
+for filename in os.listdir(freetype_dir):
+    if filename.endswith('.ttf'):
+        font_name = os.path.splitext(filename)[0]
+        if font_name == default_font:
+            continue  # Skip default font; already added
+        font_path = os.path.join('freetype', filename)
+        font_objs = Glob(font_path)
+        font_objs = Env.FontFile(font_objs)
+        extra_objs += font_objs
+
+# Combine all object files
+all_objs = default_objs + extra_objs
+
+if GetOption('no_cc'):
+    all_objs = []
+
+# Define resource group
+objs = DefineGroup(
+    'resource',
+    all_objs,
+    depend=['PKG_USING_LITTLEVGL2RTT'],
+    CPPDEFINES=CPPDEFINES
+)
+
+Return ('objs')

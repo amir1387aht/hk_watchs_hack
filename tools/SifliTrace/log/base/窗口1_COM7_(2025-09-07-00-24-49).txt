@@ -1,0 +1,237 @@
+Get phy blk for 992 fail when read
+[32m[4323] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[4333] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[4343] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[4353] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[4363] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[4374] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[4384] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[4394] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[4404] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[4414] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[4425] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[4435] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[4445] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[4455] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[4466] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[4476] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[4486] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[4497] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[4507] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[4517] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[4527] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[4538] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[4548] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[4558] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[4568] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[4579] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[4589] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[4599] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[4609] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[4620] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[4630] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[4640] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[4650] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[4661] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[4671] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[4681] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[5461] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[5467] I/drv.lcd lcd_task: open
+[0m[32m[5472] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[5477] I/drv.lcd lcd_task: HW open
+[0m[32m[5488] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[6133] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[7872] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[7879] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[7885] I/drv.lcd lcd_task: HW open done.
+[0m[32m[7891] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[7897] I/drv.lcd lcd_task: open done.
+[0m[32m[7902] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[7908] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[7917] I/TOUCH app_watc: Open
+[0m[32m[7921] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[7928] I/TOUCH tp_init: Probe 10007795
+[0m[32m[7933] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[7939] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+[0m[7947] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[7955] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[7961] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[7966] I/TOUCH app_watc: Opened.
+[0m[32m[7988] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+Boot count: 61
+[32m[9993] I/drv.rtc app_watc: Get initial cycles: 1058252 rtc=1735689601.0000
+
+[0m[32m[10049] I/drv.rtc app_watc: Get initial cycles: 1058252 rtc=1735689600.0000
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[10108] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[10114] I/drv.lcd lcd_task: display on
+[0m[32m[10119] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[10127] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1070.
+[32m[10137] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10410] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[10419] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1070
+[0m[32m[10427] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063758
+[0m[32m[10435] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[10442] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[10451] I/APP.SCHE app_watc: app[MainScreen] do START, 20063758
+[0m[32m[10458] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10464] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063758] to gui_app_mbx tick:1107.
+[32m[10474] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1107
+[0m[10483] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063824
+[10490] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[10499] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[10508] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 20063824
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[10683] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063824
+[0m[32m[10692] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[10698] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[10705] D/APP.SCHE app_watc: app_schedule_task done.
+[Music] Volume set to 65%
+[Music] Volume set to 60%
+[Music] Volume set to 55%
+[Music] Volume set to 50%
+[Music] Volume set to 45%
+[Music] Volume set to 40%
+[Music] Volume set to 35%
+[Music] Volume set to 30%
+[Music] Volume set to 25%
+[Music] Volume set to 20%
+[Music] Volume set to 15%
+[Music] Volume set to 10%
+[Music] Volume set to 5%
+[Music] Volume set to 0%
+[Music] Volume set to 5%
+[Music] Volume set to 0%
+[Music] Volume set to 5%
+[Music] Volume set to 0%
+[Music] Volume set to 5%
+[Music] Volume set to 10%
+[Music] Volume set to 15%
+[Music] Volume set to 10%
+[Music] Volume set to 15%
+[Music] Volume set to 20%
+[Music] Volume set to 25%
+[Music] Volume set to 30%
+[Music] Volume set to 35%
+[Music] Volume set to 40%
+[Music] Volume set to 45%
+[Music] Volume set to 50%
+[Music] Volume set to 55%
+[Music] Volume set to 60%
+[Music] Volume set to 65%
+[Music] Volume set to 70%
+[Music] Volume set to 75%
+[Music] Volume set to 80%
+[Music] Volume set to 85%
+[Music] Volume set to 80%
+[Music] Volume set to 85%
+[Music] Volume set to 90%
+[Music] Volume set to 95%
+[Music] Volume set to 100%
+[Music] Volume set to 95%
+[Music] Volume set to 100%
+[Music] Volume set to 95%
+[Music] Volume set to 90%
+[Music] Volume set to 95%
+[Music] Volume set to 90%
+[Music] Volume set to 85%
+[Music] Paused at 15 s (+900 ms)
+[Music] Volume set to 80%
+[Music] Volume set to 85%
+[Music] Volume set to 80%

@@ -1,0 +1,335 @@
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+mount /dev sucess
+[32m[394] I/drv.rtc main: PSCLR=0x236f3d00 DivAI=35 DivAF=7119 B=256
+[0m[32m[402] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058213, rtc ppm=0
+
+[0m[32m[410] I/drv.rtc main: DIVA=35, DIVA_FRA=7161, DIVB=256
+
+[0m[32m[416] I/drv.rtc main: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[430] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[436] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[31m[443] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[450] I/drv.encoder main: encoder1 init success!!
+[0m[31m[456] E/drv.encoder main: encoder1 register success
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[502] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+mount fs[yaffs] on / failed.
+Register root to mtd device with base addr 0x62580000
+mount dev: 44, 983
+Get phy blk for 992 fail when read
+[32m[2221] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[2232] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[2242] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[2252] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[2262] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[2272] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[2282] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[2292] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[2303] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[2313] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[2323] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[2333] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[2344] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[2354] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[2364] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[2374] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[2385] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[2395] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[2405] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[2415] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[2426] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[2436] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[2446] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[2456] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[2467] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[2477] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[2487] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[2497] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[2508] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[2518] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[2528] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[2538] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[2549] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[2559] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[2569] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[2579] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 992 fail when read
+[32m[4284] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[4295] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[4305] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[4315] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[4325] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[4335] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[4346] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[4356] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[4366] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[4376] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[4386] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[4397] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[4407] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[4417] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[4428] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[4438] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[4448] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[4458] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[4469] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[4479] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[4489] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[4499] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[4510] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[4520] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[4530] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[4541] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[4551] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[4561] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[4571] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[4582] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[4592] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[4602] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[4612] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[4623] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[4633] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[4643] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[5298] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[5304] I/drv.lcd lcd_task: open
+[0m[32m[5308] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[5314] I/drv.lcd lcd_task: HW open
+[0m[32m[5325] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[5968] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[7707] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[7713] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[7720] I/drv.lcd lcd_task: HW open done.
+[0m[32m[7725] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[7731] I/drv.lcd lcd_task: open done.
+[0m[32m[7737] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[7743] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[7751] I/TOUCH app_watc: Open
+[0m[32m[7756] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[7762] I/TOUCH tp_init: Probe 10007795
+[0m[32m[7767] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[7773] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+[0m[7781] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[7789] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[7795] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[7800] I/TOUCH app_watc: Opened.
+[0m[32m[7822] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+Boot count: 41
+[32m[9822] I/drv.rtc app_watc: Get initial cycles: 1058213 rtc=1735689676.0039
+
+[0m[32m[9878] I/drv.rtc app_watc: Get initial cycles: 1058213 rtc=1735689600.0039
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[9923] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[9929] I/drv.lcd lcd_task: display on
+[0m[32m[9934] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[9942] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1051.
+[32m[9952] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10226] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[10234] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1051
+[0m[32m[10243] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063738
+[0m[32m[10250] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[10258] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[10266] I/APP.SCHE app_watc: app[MainScreen] do START, 20063738
+[0m[32m[10274] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10279] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063738] to gui_app_mbx tick:1088.
+[32m[10290] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1088
+[0m[10298] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063804
+[10306] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[10314] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[10324] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 20063804
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[10478] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063804
+[0m[32m[10487] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[10493] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[10500] D/APP.SCHE app_watc: app_schedule_task done.
+Scroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressed

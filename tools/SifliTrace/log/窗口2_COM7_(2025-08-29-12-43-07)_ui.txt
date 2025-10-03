@@ -1,0 +1,16 @@
+08-29 12:43:07:986    encoder2_count:0
+08-29 12:43:07:986    encoder1_count:0
+08-29 12:43:08:977    encoder2_count:0
+08-29 12:43:08:978    encoder1_count:0
+08-29 12:43:09:980    encoder2_count:0
+08-29 12:43:09:982    encoder1_count:0
+08-29 12:43:10:984    encoder2_count:0
+08-29 12:43:10:986    encoder1_count:0
+08-29 12:43:11:988    encoder2_count:0
+08-29 12:43:11:990    encoder1_count:0
+08-29 12:43:12:991    encoder2_count:0
+08-29 12:43:12:994    encoder1_count:0
+08-29 12:43:13:995    encoder2_count:0
+08-29 12:43:13:997    encoder1_count:0
+08-29 12:43:14:998    encoder2_count:0
+08-29 12:43:15:001    encoder1_count:0

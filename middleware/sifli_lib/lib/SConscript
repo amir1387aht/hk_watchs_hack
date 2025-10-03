@@ -1,0 +1,31 @@
+from building import * 
+import rtconfig
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd]
+obj = []
+lib = []
+
+# add LittlevGL common include
+if (GetDepend('PKG_USING_LITTLEVGL2RTT') and (GetDepend('LVGL_V8') or GetDepend('LVGL_V9')) and (GetDepend('BF0_HCPU') or GetDepend('BSP_USING_PC_SIMULATOR'))) or GetDepend('DFU_OTA_MANAGER'):
+    src = src + Glob('*.c')
+if  GetDepend('FREETYPE_TINY_FONT'):
+    if GetDepend('BSP_USING_PC_SIMULATOR'):
+        if os.path.isfile(os.path.join(cwd, 'Tiny_font_msvc.lib')):
+            lib=['Tiny_font_msvc']
+    elif rtconfig.PLATFORM=='gcc':
+        if os.path.isfile(os.path.join(cwd, 'libTiny_font_gcc.a')):
+            lib=['Tiny_font_gcc']    
+    else:
+        if os.path.isfile(os.path.join(cwd, 'Tiny_font_rvds.lib')):
+            lib=['Tiny_font_rvds']    
+    
+if GetDepend('PKG_USING_SOUNDPLUS'):
+    lib=lib+['soundplus_sve.lib']
+
+obj = DefineGroup('sifli_lib', src, depend = [''], CPPPATH = inc, LIBS=lib, LIBPATH=inc)
+Return('obj')

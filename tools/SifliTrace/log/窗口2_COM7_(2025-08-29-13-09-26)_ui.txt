@@ -1,0 +1,355 @@
+08-29 13:09:26:806    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+08-29 13:09:26:806    NAND ID 0x21
+08-29 13:09:26:806    aaef
+08-29 13:09:26:808    det bbm table with 1, 1, 2
+08-29 13:09:26:808    detect result 2
+08-29 13:09:26:809    V1 1 in block 992, V2 0 in block 994
+08-29 13:09:26:810    Latest version 1
+08-29 13:09:26:810    V1 1 in block 993, V2 0 in block 995
+08-29 13:09:26:811    Latest version 1
+08-29 13:09:26:811    v1 1 in blk 992, v2 1 in block 993
+08-29 13:09:26:812    BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+08-29 13:09:26:812    sif_bbm_init done
+08-29 13:09:26:814    
+08-29 13:09:26:814     \ | /
+08-29 13:09:26:814    - SiFli Corporation
+08-29 13:09:26:814     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+08-29 13:09:26:814     2020 - 2022 Copyright by SiFli team
+08-29 13:09:26:815    mount /dev sucess
+08-29 13:09:26:815    [32m[383] I/drv.rtc: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+08-29 13:09:26:815    [0m[32m[390] I/drv.rtc: RC10K Freq=9kHz, cycle=1058210, rtc ppm=0
+08-29 13:09:26:815    
+08-29 13:09:26:817    [0m[32m[397] I/drv.rtc: DIVA=35, DIVA_FRA=7163, DIVB=256
+08-29 13:09:26:817    
+08-29 13:09:26:818    [0m[32m[403] I/drv.rtc: Init RTC, wake = 0
+08-29 13:09:26:818    
+08-29 13:09:26:819    [0m
+08-29 13:09:26:820    NAND factory magic error 0xffffffff vs 0x53450617
+08-29 13:09:26:822    [32m[456] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+08-29 13:09:26:822    
+08-29 13:09:26:823    [0m[32m[462] I/drv.audprc: HAL_AUDPRC_Init res 0
+08-29 13:09:26:824    
+08-29 13:09:26:824    [0m[32m[468] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+08-29 13:09:26:824    
+08-29 13:09:26:824    [0m[31m[474] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+08-29 13:09:26:824    [0m[32m[481] I/drv.encoder: encoder1 init success!!
+08-29 13:09:26:826    [0m[31m[486] E/drv.encoder: encoder1 register success
+08-29 13:09:26:826    [0m[31m[492] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+08-29 13:09:26:827    [0m[32m[499] I/drv.encoder: encoder2 init success!!
+08-29 13:09:26:827    [0m[31m[504] E/drv.encoder: encoder2 register success
+08-29 13:09:26:829    [0m[32m[510] I/TOUCH: Regist touch screen driver
+08-29 13:09:26:830    , probe=100060d5 
+08-29 13:09:26:831    [0mcall par CFG1(3313)
+08-29 13:09:26:832    fc 9, xtal 2000, pll 2020
+08-29 13:09:26:832    call par CFG1(3313)
+08-29 13:09:26:833    fc 9, xtal 2000, pll 2020
+08-29 13:09:26:833    Found encoder devices: encoder1 and encoder2
+08-29 13:09:26:834    Encoder devices initialized successfully
+08-29 13:09:26:834    succeed encoder_example_init
+08-29 13:09:26:834    Start Get_count!
+08-29 13:09:26:835    encoder2_count:0
+08-29 13:09:26:835    encoder1_count:0
+08-29 13:09:26:836    msh />
+08-29 13:09:27:830    encoder2_count:0
+08-29 13:09:27:838    encoder1_count:0
+08-29 13:09:28:830    encoder2_count:0
+08-29 13:09:28:830    encoder1_count:0
+08-29 13:09:29:832    encoder2_count:0
+08-29 13:09:29:832    encoder1_count:0
+08-29 13:09:30:843    encoder2_count:20
+08-29 13:09:30:843    encoder1_count:0
+08-29 13:09:31:852    encoder2_count:20
+08-29 13:09:31:854    encoder1_count:0
+08-29 13:09:32:841    encoder2_count:23
+08-29 13:09:32:857    encoder1_count:0
+08-29 13:09:33:860    encoder2_count:24
+08-29 13:09:33:860    encoder1_count:0
+08-29 13:09:34:856    encoder2_count:43
+08-29 13:09:34:856    encoder1_count:0
+08-29 13:09:35:857    encoder2_count:86
+08-29 13:09:35:857    encoder1_count:0
+08-29 13:09:36:857    encoder2_count:104
+08-29 13:09:36:857    encoder1_count:0
+08-29 13:09:37:873    encoder2_count:173
+08-29 13:09:37:873    encoder1_count:0
+08-29 13:09:38:873    encoder2_count:216
+08-29 13:09:38:873    encoder1_count:0
+08-29 13:09:38:904    SFBL
+08-29 13:09:40:827    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+08-29 13:09:40:827    NAND ID 0x21aaef
+08-29 13:09:40:842    det bbm table with 1, 1, 2
+08-29 13:09:40:842    detect result 2
+08-29 13:09:40:842    V1 1 in block 992, V2 0 in block 994
+08-29 13:09:40:842    Latest version 1
+08-29 13:09:40:842    V1 1 in block 993, V2 0 in block 995
+08-29 13:09:40:842    Latest version 1
+08-29 13:09:40:842    v1 1 in blk 992, v2 1 in block 993
+08-29 13:09:40:842    BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+08-29 13:09:40:842    sif_bbm_init done
+08-29 13:09:40:842    
+08-29 13:09:40:842     \ | /
+08-29 13:09:40:842    - SiFli Corporation
+08-29 13:09:40:842     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+08-29 13:09:40:842     2020 - 2022 Copyright by SiFli team
+08-29 13:09:40:842    mount /dev sucess
+08-29 13:09:40:842    [32m[396] I/drv.rtc: PSCLR=0x236fed00 DivAI=35 DivAF=7163 B=256
+08-29 13:09:40:842    [0m[32m[403] I/drv.rtc: RC10K Freq=9kHz, cycle=1058208, rtc ppm=0
+08-29 13:09:40:842    
+08-29 13:09:40:842    [0m[32m[410] I/drv.rtc: DIVA=35, DIVA_FRA=7164, DIVB=256
+08-29 13:09:40:842    
+08-29 13:09:40:842    [0m[32m[416] I/drv.rtc: Init RTC, wake = 1
+08-29 13:09:40:842    
+08-29 13:09:40:842    [0mNAND factory magic error 0xffffffff vs 0x53450617
+08-29 13:09:40:842    [32m[429] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+08-29 13:09:40:842    
+08-29 13:09:40:842    [0m[32m[435] I/drv.audprc: HAL_AUDPRC_Init res 0
+08-29 13:09:40:842    
+08-29 13:09:40:842    [0m[32m[441] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+08-29 13:09:40:842    
+08-29 13:09:40:842    [0m[31m[446] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+08-29 13:09:40:842    [0m[32m[453] I/drv.encoder: encoder1 init success!!
+08-29 13:09:40:842    [0m[31m[459] E/drv.encoder: encoder1 register success
+08-29 13:09:40:842    [0m[31m[465] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+08-29 13:09:40:858    [0m[32m[471] I/drv.encoder: encoder2 init success!!
+08-29 13:09:40:858    [0m[31m[477] E/drv.encoder: encoder2 register success
+08-29 13:09:40:858    [0m[32m[483] I/TOUCH: Regist touch screen driver, probe=100060d5 
+08-29 13:09:40:858    [0mcall par CFG1(3313)
+08-29 13:09:40:858    fc 9, xtal 2000, pll 2020
+08-29 13:09:40:858    call par CFG1(3313)
+08-29 13:09:40:858    fc 9, xtal 2000, pll 2020
+08-29 13:09:40:858    Found encoder devices: encoder1 and encoder2
+08-29 13:09:40:858    Encoder devices initialized successfully
+08-29 13:09:40:858    succeed encoder_example_init
+08-29 13:09:40:858    Start Get_count!
+08-29 13:09:40:858    encoder2_count:0
+08-29 13:09:40:858    encoder1_count:0
+08-29 13:09:40:858    msh />
+08-29 13:09:41:858    encoder2_count:0
+08-29 13:09:41:858    encoder1_count:0
+08-29 13:09:42:859    encoder2_count:39
+08-29 13:09:42:859    encoder1_count:0
+08-29 13:09:43:843    encoder2_count:58
+08-29 13:09:43:859    encoder1_count:0
+08-29 13:09:44:843    encoder2_count:157
+08-29 13:09:44:843    encoder1_count:0
+08-29 13:09:45:843    encoder2_count:185
+08-29 13:09:45:843    encoder1_count:0
+08-29 13:09:46:844    encoder2_count:237
+08-29 13:09:46:844    encoder1_count:0
+08-29 13:09:47:845    encoder2_count:301
+08-29 13:09:47:845    encoder1_count:0
+08-29 13:09:48:845    encoder2_count:369
+08-29 13:09:48:845    encoder1_count:0
+08-29 13:09:49:846    encoder2_count:431
+08-29 13:09:49:846    encoder1_count:0
+08-29 13:09:50:830    encoder2_count:481
+08-29 13:09:50:846    encoder1_count:0
+08-29 13:09:51:830    encoder2_count:490
+08-29 13:09:51:830    encoder1_count:0
+08-29 13:09:52:831    encoder2_count:490
+08-29 13:09:52:831    encoder1_count:0
+08-29 13:09:52:940    SFBL
+08-29 13:09:54:866    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+08-29 13:09:54:868    NAND ID 0x21aaef
+08-29 13:09:54:869    det bbm table with 1, 1, 2
+08-29 13:09:54:871    detect result 2
+08-29 13:09:54:871    V1 1 in block 992, V2 0 in block 994
+08-29 13:09:54:872    Latest version 1
+08-29 13:09:54:872    V1 1 in block 993, V2 0 in block 995
+08-29 13:09:54:873    Latest version 1
+08-29 13:09:54:874    v1 1 in blk 992, v2 1 in block 993
+08-29 13:09:54:874    BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+08-29 13:09:54:874    sif_bbm_init done
+08-29 13:09:54:875    
+08-29 13:09:54:875     \ | /
+08-29 13:09:54:876    - SiFli Corporation
+08-29 13:09:54:876     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+08-29 13:09:54:876     2020 - 2022 Copyright by SiFli team
+08-29 13:09:54:876    mount /dev sucess
+08-29 13:09:54:876    [32m[390] I/drv.rtc: PSCLR=0x236fed00 DivAI=35 DivAF=7163 B=256
+08-29 13:09:54:876    [0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058221, rtc ppm=0
+08-29 13:09:54:876    
+08-29 13:09:54:876    [0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7157, DIVB=256
+08-29 13:09:54:876    
+08-29 13:09:54:876    [0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+08-29 13:09:54:876    
+08-29 13:09:54:880    [0mNAND factory magic error 0xffffffff vs 0x53450617
+08-29 13:09:54:880    [32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+08-29 13:09:54:880    
+08-29 13:09:54:882    [0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+08-29 13:09:54:882    
+08-29 13:09:54:882    [0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+08-29 13:09:54:883    
+08-29 13:09:54:883    [0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+08-29 13:09:54:883    [0m[32m[447] I/drv.encoder: encoder1 init success!!
+08-29 13:09:54:883    [0m[31m[453] E/drv.encoder: encoder1 register success
+08-29 13:09:54:883    [0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+08-29 13:09:54:883    [0m[32m[466] I/drv.encoder: encoder2 init success!!
+08-29 13:09:54:886    [0m[31m[471] E/drv.encoder: encoder2 register success
+08-29 13:09:54:886    [0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+08-29 13:09:54:887    [0m
+08-29 13:09:54:888    call par CFG1(3313)
+08-29 13:09:54:888    fc 9, xtal 2000, pll 2021
+08-29 13:09:54:889    call par CFG1(3313)
+08-29 13:09:54:889    fc 9, xtal 2000, pll 2020
+08-29 13:09:54:889    Found encoder devices: encoder1 and encoder2
+08-29 13:09:54:891    Encoder devices initialized successfully
+08-29 13:09:54:891    succeed encoder_example_init
+08-29 13:09:54:891    Start Get_count!
+08-29 13:09:54:893    encoder2_count:0
+08-29 13:09:54:893    encoder1_count:0
+08-29 13:09:54:894    msh />
+08-29 13:09:55:891    encoder2_count:0
+08-29 13:09:55:891    encoder1_count:0
+08-29 13:09:56:897    encoder2_count:0
+08-29 13:09:56:899    encoder1_count:0
+08-29 13:09:57:887    encoder2_count:0
+08-29 13:09:57:902    encoder1_count:0
+08-29 13:09:58:894    encoder2_count:0
+08-29 13:09:58:894    encoder1_count:0
+08-29 13:09:59:898    encoder2_count:0
+08-29 13:09:59:898    encoder1_count:0
+08-29 13:10:00:901    encoder2_count:0
+08-29 13:10:00:901    encoder1_count:0
+08-29 13:10:01:903    encoder2_count:0
+08-29 13:10:01:903    encoder1_count:0
+08-29 13:10:02:905    encoder2_count:0
+08-29 13:10:02:905    encoder1_count:0
+08-29 13:10:03:905    encoder2_count:0
+08-29 13:10:03:921    encoder1_count:0
+08-29 13:10:04:907    encoder2_count:0
+08-29 13:10:04:923    encoder1_count:0
+08-29 13:10:05:919    encoder2_count:0
+08-29 13:10:05:919    encoder1_count:0
+08-29 13:10:06:917    encoder2_count:0
+08-29 13:10:06:917    encoder1_count:0
+08-29 13:10:06:964    SFBL
+08-29 13:10:08:889    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+08-29 13:10:08:889    NAND ID 0x21aaef
+08-29 13:10:08:889    det bbm table with 1, 1, 2
+08-29 13:10:08:897    detect result 2
+08-29 13:10:08:897    V1 1 in block 992, V2 0 in block 994
+08-29 13:10:08:898    Latest version 1
+08-29 13:10:08:898    V1 1 in block 993, V2 0 in block 995
+08-29 13:10:08:898    Latest version 1
+08-29 13:10:08:898    v1 1 in blk 992, v2 1 in block 993
+08-29 13:10:08:898    BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+08-29 13:10:08:898    sif_bbm_init done
+08-29 13:10:08:901    
+08-29 13:10:08:901     \ | /
+08-29 13:10:08:901    - SiFli Corporation
+08-29 13:10:08:901     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+08-29 13:10:08:901     2020 - 2022 Copyright by SiFli team
+08-29 13:10:08:901    mount /dev sucess
+08-29 13:10:08:903    [32m[390] I/drv.rtc: PSCLR=0x236fed00 DivAI=35 DivAF=7163 B=256
+08-29 13:10:08:903    [0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058136, rtc ppm=0
+08-29 13:10:08:904    
+08-29 13:10:08:904    [0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7204, DIVB=256
+08-29 13:10:08:905    
+08-29 13:10:08:906    [0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+08-29 13:10:08:906    
+08-29 13:10:08:907    [0mNAND factory magic error 0xffffffff vs 0x53450617
+08-29 13:10:08:907    [32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+08-29 13:10:08:907    
+08-29 13:10:08:907    [0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+08-29 13:10:08:907    
+08-29 13:10:08:907    [0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+08-29 13:10:08:907    
+08-29 13:10:08:907    [0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+08-29 13:10:08:907    [0m[32m[447] I/drv.encoder: encoder1 init success!!
+08-29 13:10:08:911    [0m[31m[453] E/drv.encoder: encoder1 register success
+08-29 13:10:08:911    [0m[31m[458] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+08-29 13:10:08:912    [0m[32m[465] I/drv.encoder: encoder2 init success!!
+08-29 13:10:08:912    [0m[31m[471] E/drv.encoder: encoder2 register success
+08-29 13:10:08:913    [0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+08-29 13:10:08:913    [0mcall par CFG1(3313)
+08-29 13:10:08:915    fc 9, xtal 2000, pll 2020
+08-29 13:10:08:916    call par CFG1(3313)
+08-29 13:10:08:916    fc 9, xtal 2000, pll 2020
+08-29 13:10:08:916    Found encoder devices: encoder1 and encoder2
+08-29 13:10:08:917    Encoder devices initialized successfully
+08-29 13:10:08:917    succeed encoder_example_init
+08-29 13:10:08:918    Start Get_count!
+08-29 13:10:08:918    encoder2_count:0
+08-29 13:10:08:918    encoder1_count:0
+08-29 13:10:08:920    msh />
+08-29 13:10:09:915    encoder2_count:0
+08-29 13:10:09:922    encoder1_count:0
+08-29 13:10:10:922    encoder2_count:0
+08-29 13:10:10:922    encoder1_count:0
+08-29 13:10:11:925    encoder2_count:0
+08-29 13:10:11:925    encoder1_count:0
+08-29 13:10:12:928    encoder2_count:0
+08-29 13:10:12:928    encoder1_count:0
+08-29 13:10:13:932    encoder2_count:0
+08-29 13:10:13:932    encoder1_count:0
+08-29 13:10:14:930    encoder2_count:0
+08-29 13:10:14:930    encoder1_count:0
+08-29 13:10:15:938    encoder2_count:0
+08-29 13:10:15:938    encoder1_count:0
+08-29 13:10:16:937    encoder2_count:0
+08-29 13:10:16:945    encoder1_count:0
+08-29 13:10:17:943    encoder2_count:0
+08-29 13:10:17:947    encoder1_count:0
+08-29 13:10:18:945    encoder2_count:0
+08-29 13:10:18:950    encoder1_count:0
+08-29 13:10:19:952    encoder2_count:0
+08-29 13:10:19:955    encoder1_count:0
+08-29 13:10:20:952    encoder2_count:0
+08-29 13:10:20:952    encoder1_count:0
+08-29 13:10:20:993    SFBL
+08-29 13:10:22:919    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+08-29 13:10:22:921    NAND ID 0x21aaef
+08-29 13:10:22:925    det bbm table with 1, 1, 2
+08-29 13:10:22:925    detect result 2
+08-29 13:10:22:926    V1 1 in block 992, V2 0 in block 994
+08-29 13:10:22:926    Latest version 1
+08-29 13:10:22:927    V1 1 in block 993, V2 0 in block 995
+08-29 13:10:22:927    Latest version 1
+08-29 13:10:22:927    v1 1 in blk 992, v2 1 in block 993
+08-29 13:10:22:927    BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+08-29 13:10:22:927    sif_bbm_init done
+08-29 13:10:22:927    
+08-29 13:10:22:927     \ | /
+08-29 13:10:22:927    - SiFli Corporation
+08-29 13:10:22:927     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+08-29 13:10:22:927     2020 - 2022 Copyright by SiFli team
+08-29 13:10:22:930    mount /dev sucess
+08-29 13:10:22:932    [32m[390] I/drv.rtc: PSCLR=0x236fed00 DivAI=35 DivAF=7163 B=256
+08-29 13:10:22:932    [0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058147, rtc ppm=0
+08-29 13:10:22:932    
+08-29 13:10:22:932    [0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7198, DIVB=256
+08-29 13:10:22:932    
+08-29 13:10:22:932    [0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+08-29 13:10:22:932    
+08-29 13:10:22:935    [0mNAND factory magic error 0xffffffff vs 0x53450617
+08-29 13:10:22:935    [32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+08-29 13:10:22:935    
+08-29 13:10:22:935    [0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+08-29 13:10:22:935    
+08-29 13:10:22:935    [0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+08-29 13:10:22:937    
+08-29 13:10:22:937    [0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+08-29 13:10:22:937    [0m[32m[447] I/drv.encoder: encoder1 init success!!
+08-29 13:10:22:937    [0m[31m[453] E/drv.encoder: encoder1 register success
+08-29 13:10:22:938    [0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+08-29 13:10:22:938    [0m[32m[466] I/drv.encoder: encoder2 init success!!
+08-29 13:10:22:938    [0m[31m[471] E/drv.encoder: encoder2 register success
+08-29 13:10:22:938    [0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+08-29 13:10:22:940    [0mcall par CFG1(3313)
+08-29 13:10:22:942    fc 9, xtal 2000, pll 2020
+08-29 13:10:22:942    call par CFG1(3313)
+08-29 13:10:22:943    fc 9, xtal 2000, pll 2019
+08-29 13:10:22:943    Found encoder devices: encoder1 and encoder2
+08-29 13:10:22:944    Encoder devices initialized successfully
+08-29 13:10:22:944    succeed encoder_example_init
+08-29 13:10:22:945    Start Get_count!
+08-29 13:10:22:945    encoder2_count:0
+08-29 13:10:22:945    encoder1_count:0
+08-29 13:10:22:945    msh />
+08-29 13:10:23:943    encoder2_count:0
+08-29 13:10:23:949    encoder1_count:0
+08-29 13:10:24:950    encoder2_count:0
+08-29 13:10:24:951    encoder1_count:0
+08-29 13:10:25:951    encoder2_count:0
+08-29 13:10:25:951    encoder1_count:0

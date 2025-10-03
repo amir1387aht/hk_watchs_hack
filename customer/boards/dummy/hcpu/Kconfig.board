@@ -1,0 +1,5 @@
+config BSP_USING_BOARD_DUMMY
+    bool
+    default y
+
+rsource "../Kconfig.board"

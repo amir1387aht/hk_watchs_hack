@@ -1,0 +1,397 @@
+09-07 11:06:12:881    SFBL
+09-07 11:06:14:921    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+09-07 11:06:14:921    NAND ID 0x21aaef
+09-07 11:06:14:929    det bbm table with 1, 1, 2
+09-07 11:06:14:931    detect result 2
+09-07 11:06:14:931    V1 1 in block 992, V2 0 in block 994
+09-07 11:06:14:931    Latest version 1
+09-07 11:06:14:931    V1 1 in block 993, V2 0 in block 995
+09-07 11:06:14:931    Latest version 1
+09-07 11:06:14:931    v1 1 in blk 992, v2 1 in block 993
+09-07 11:06:14:931    BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+09-07 11:06:14:931    sif_bbm_init done
+09-07 11:06:14:931    
+09-07 11:06:14:931     \ | /
+09-07 11:06:14:936    - SiFli Corporation
+09-07 11:06:14:936     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+09-07 11:06:14:938     2020 - 2022 Copyright by SiFli team
+09-07 11:06:14:938    cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+09-07 11:06:14:938    mount /dev sucess
+09-07 11:06:14:938    [32m[400] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+09-07 11:06:14:938    [0m[32m[408] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058313, rtc ppm=0
+09-07 11:06:14:938    
+09-07 11:06:14:938    [0m[32m[416] I/drv.rtc main: DIVA=35, DIVA_FRA=7107, DIVB=256
+09-07 11:06:14:938    
+09-07 11:06:14:938    [0m[32m[423] I/drv.rtc main: Init RTC, wake = 0
+09-07 11:06:14:945    
+09-07 11:06:14:945    [0mNAND factory magic error 0xffffffff vs 0x53450617
+09-07 11:06:14:945    [32m[476] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+09-07 11:06:14:945    
+09-07 11:06:14:945    [0m[32m[483] I/drv.audprc main: HAL_AUDPRC_Init res 0
+09-07 11:06:14:952    
+09-07 11:06:14:952    [0m[31m[489] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+09-07 11:06:14:952    [0m[32m[497] I/drv.encoder main: encoder1 init success!!
+09-07 11:06:14:952    [0m[31m[503] E/drv.encoder main: encoder1 register success
+09-07 11:06:14:952    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+09-07 11:06:14:952    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-07 11:06:14:952    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-07 11:06:14:952    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-07 11:06:14:952    [32m[548] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+09-07 11:06:14:952    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+09-07 11:06:14:952    mount fs[yaffs] on / failed.
+09-07 11:06:14:952    Register root to mtd device with base addr 0x62580000
+09-07 11:06:14:952    mount dev: 44, 983
+09-07 11:06:15:130    Get phy blk for 992 fail when read
+09-07 11:06:15:142    [32m[2256] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:151    
+09-07 11:06:15:151    [0mGet phy blk for 993 fail when read
+09-07 11:06:15:151    [32m[2266] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:151    
+09-07 11:06:15:151    [0mGet phy blk for 994 fail when read
+09-07 11:06:15:151    [32m[2276] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:151    
+09-07 11:06:15:151    [0mGet phy blk for 995 fail when read
+09-07 11:06:15:151    [32m[2286] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:151    
+09-07 11:06:15:151    [0mGet phy blk for 996 fail when read
+09-07 11:06:15:151    [32m[2296] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:151    
+09-07 11:06:15:151    [0mGet phy blk for 997 fail when read
+09-07 11:06:15:151    [32m[2306] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:151    
+09-07 11:06:15:151    [0mGet phy blk for 998 fail when read
+09-07 11:06:15:151    [32m[2316] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:151    
+09-07 11:06:15:151    [0mGet phy blk for 999 fail when read
+09-07 11:06:15:151    [32m[2326] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:151    
+09-07 11:06:15:151    [0mGet phy blk for 1000 fail when read
+09-07 11:06:15:158    [32m[2337] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:158    
+09-07 11:06:15:158    [0mGet phy blk for 1001 fail when read
+09-07 11:06:15:158    [32m[2347] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:158    
+09-07 11:06:15:158    [0mGet phy blk for 1002 fail when read
+09-07 11:06:15:158    [32m[2357] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:158    
+09-07 11:06:15:161    [0mGet phy blk for 1003 fail when read
+09-07 11:06:15:161    [32m[2367] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:161    
+09-07 11:06:15:161    [0mGet phy blk for 1004 fail when read
+09-07 11:06:15:161    [32m[2378] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:161    
+09-07 11:06:15:161    [0mGet phy blk for 1005 fail when read
+09-07 11:06:15:161    [32m[2388] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:161    
+09-07 11:06:15:161    [0mGet phy blk for 1006 fail when read
+09-07 11:06:15:161    [32m[2398] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:161    
+09-07 11:06:15:161    [0mGet phy blk for 1007 fail when read
+09-07 11:06:15:161    [32m[2408] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:161    
+09-07 11:06:15:161    [0mGet phy blk for 1008 fail when read
+09-07 11:06:15:161    [32m[2418] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:161    
+09-07 11:06:15:161    [0mGet phy blk for 1009 fail when read
+09-07 11:06:15:161    [32m[2429] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:161    
+09-07 11:06:15:161    [0mGet phy blk for 1010 fail when read
+09-07 11:06:15:161    [32m[2439] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:161    
+09-07 11:06:15:161    [0mGet phy blk for 1011 fail when read
+09-07 11:06:15:161    [32m[2449] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:169    
+09-07 11:06:15:169    [0mGet phy blk for 1012 fail when read
+09-07 11:06:15:169    [32m[2459] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:169    
+09-07 11:06:15:169    [0mGet phy blk for 1013 fail when read
+09-07 11:06:15:169    [32m[2470] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:169    
+09-07 11:06:15:169    [0mGet phy blk for 1014 fail when read
+09-07 11:06:15:169    [32m[2480] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:169    
+09-07 11:06:15:169    [0mGet phy blk for 1015 fail when read
+09-07 11:06:15:169    [32m[2490] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:169    
+09-07 11:06:15:169    [0mGet phy blk for 1016 fail when read
+09-07 11:06:15:174    [32m[2500] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:174    
+09-07 11:06:15:174    [0mGet phy blk for 1017 fail when read
+09-07 11:06:15:175    [32m[2510] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:175    
+09-07 11:06:15:175    [0mGet phy blk for 1018 fail when read
+09-07 11:06:15:175    [32m[2521] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:175    
+09-07 11:06:15:177    [0mGet phy blk for 1019 fail when read
+09-07 11:06:15:177    [32m[2531] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:177    
+09-07 11:06:15:177    [0mGet phy blk for 1020 fail when read
+09-07 11:06:15:177    [32m[2541] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:177    
+09-07 11:06:15:177    [0mGet phy blk for 1021 fail when read
+09-07 11:06:15:177    [32m[2551] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:177    
+09-07 11:06:15:177    [0mGet phy blk for 1022 fail when read
+09-07 11:06:15:177    [32m[2562] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:177    
+09-07 11:06:15:177    [0mGet phy blk for 1023 fail when read
+09-07 11:06:15:177    [32m[2572] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:177    
+09-07 11:06:15:177    [0mGet phy blk for 1024 fail when read
+09-07 11:06:15:177    [32m[2582] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:177    
+09-07 11:06:15:177    [0mGet phy blk for 1025 fail when read
+09-07 11:06:15:183    [32m[2592] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:189    
+09-07 11:06:15:189    [0mGet phy blk for 1026 fail when read
+09-07 11:06:15:189    [32m[2602] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:189    
+09-07 11:06:15:189    [0mGet phy blk for 1027 fail when read
+09-07 11:06:15:189    [32m[2613] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:189    
+09-07 11:06:15:189    [0m
+09-07 11:06:15:363    Get phy blk for 992 fail when read
+09-07 11:06:15:363    [32m[4308] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:363    
+09-07 11:06:15:363    [0mGet phy blk for 993 fail when read
+09-07 11:06:15:363    [32m[4318] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:363    
+09-07 11:06:15:363    [0mGet phy blk for 994 fail when read
+09-07 11:06:15:363    [32m[4329] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:363    
+09-07 11:06:15:363    [0mGet phy blk for 995 fail when read
+09-07 11:06:15:363    [32m[4339] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:363    
+09-07 11:06:15:363    [0mGet phy blk for 996 fail when read
+09-07 11:06:15:363    [32m[4349] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:363    
+09-07 11:06:15:363    [0mGet phy blk for 997 fail when read
+09-07 11:06:15:363    [32m[4359] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:363    
+09-07 11:06:15:363    [0mGet phy blk for 998 fail when read
+09-07 11:06:15:363    [32m[4369] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:363    
+09-07 11:06:15:363    [0mGet phy blk for 999 fail when read
+09-07 11:06:15:363    [32m[4379] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:363    
+09-07 11:06:15:363    [0mGet phy blk for 1000 fail when read
+09-07 11:06:15:363    [32m[4390] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:378    
+09-07 11:06:15:379    [0mGet phy blk for 1001 fail when read
+09-07 11:06:15:379    [32m[4400] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:379    
+09-07 11:06:15:379    [0mGet phy blk for 1002 fail when read
+09-07 11:06:15:379    [32m[4410] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:379    
+09-07 11:06:15:379    [0mGet phy blk for 1003 fail when read
+09-07 11:06:15:379    [32m[4420] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:379    
+09-07 11:06:15:379    [0mGet phy blk for 1004 fail when read
+09-07 11:06:15:379    [32m[4431] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:379    
+09-07 11:06:15:379    [0mGet phy blk for 1005 fail when read
+09-07 11:06:15:379    [32m[4441] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:379    
+09-07 11:06:15:379    [0mGet phy blk for 1006 fail when read
+09-07 11:06:15:379    [32m[4451] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:379    
+09-07 11:06:15:379    [0mGet phy blk for 1007 fail when read
+09-07 11:06:15:385    [32m[4461] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:385    
+09-07 11:06:15:385    [0mGet phy blk for 1008 fail when read
+09-07 11:06:15:385    [32m[4472] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:385    
+09-07 11:06:15:385    [0mGet phy blk for 1009 fail when read
+09-07 11:06:15:385    [32m[4482] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:385    
+09-07 11:06:15:385    [0mGet phy blk for 1010 fail when read
+09-07 11:06:15:385    [32m[4492] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:385    
+09-07 11:06:15:385    [0mGet phy blk for 1011 fail when read
+09-07 11:06:15:385    [32m[4502] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:385    
+09-07 11:06:15:385    [0mGet phy blk for 1012 fail when read
+09-07 11:06:15:385    [32m[4513] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:385    
+09-07 11:06:15:385    [0mGet phy blk for 1013 fail when read
+09-07 11:06:15:385    [32m[4523] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:385    
+09-07 11:06:15:385    [0mGet phy blk for 1014 fail when read
+09-07 11:06:15:394    [32m[4533] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:410    
+09-07 11:06:15:410    [0mGet phy blk for 1015 fail when read
+09-07 11:06:15:410    [32m[4543] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:410    
+09-07 11:06:15:410    [0mGet phy blk for 1016 fail when read
+09-07 11:06:15:410    [32m[4554] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:410    
+09-07 11:06:15:410    [0mGet phy blk for 1017 fail when read
+09-07 11:06:15:410    [32m[4564] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:410    
+09-07 11:06:15:410    [0mGet phy blk for 1018 fail when read
+09-07 11:06:15:410    [32m[4574] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:418    
+09-07 11:06:15:418    [0mGet phy blk for 1019 fail when read
+09-07 11:06:15:418    [32m[4585] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:418    
+09-07 11:06:15:418    [0mGet phy blk for 1020 fail when read
+09-07 11:06:15:418    [32m[4595] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:418    
+09-07 11:06:15:418    [0mGet phy blk for 1021 fail when read
+09-07 11:06:15:418    [32m[4605] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:418    
+09-07 11:06:15:418    [0mGet phy blk for 1022 fail when read
+09-07 11:06:15:418    [32m[4615] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:418    
+09-07 11:06:15:418    [0mGet phy blk for 1023 fail when read
+09-07 11:06:15:418    [32m[4626] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:418    
+09-07 11:06:15:418    [0mGet phy blk for 1024 fail when read
+09-07 11:06:15:418    [32m[4636] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:418    
+09-07 11:06:15:418    [0mGet phy blk for 1025 fail when read
+09-07 11:06:15:418    [32m[4646] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:418    
+09-07 11:06:15:418    [0mGet phy blk for 1026 fail when read
+09-07 11:06:15:418    [32m[4656] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:418    
+09-07 11:06:15:418    [0mGet phy blk for 1027 fail when read
+09-07 11:06:15:426    [32m[4667] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 11:06:15:426    
+09-07 11:06:15:426    [0m
+09-07 11:06:15:458    mount:0
+09-07 11:06:15:474    mount fs on flash to root success
+09-07 11:06:15:476    [FlashDB] Starting initialization...
+09-07 11:06:15:476    [FlashDB] Mutex initialized
+09-07 11:06:15:476    [FlashDB] KVDB Config:
+09-07 11:06:15:477      Path: /sys/db/fdb_kvdb
+09-07 11:06:15:477      Sector Size: 4096
+09-07 11:06:15:477      Max Size: 16384 (0x4000)
+09-07 11:06:15:477      File Mode: true
+09-07 11:06:15:479    [FlashDB] KVDB initialized successfully
+09-07 11:06:15:488    [FlashDB] TSDB Config:
+09-07 11:06:15:490      Path: /sys/db/fdb_tsdb
+09-07 11:06:15:490      Max Size: 16384
+09-07 11:06:15:490    [FlashDB] TSDB initialized successfully
+09-07 11:06:15:492    [FlashDB] All initialization complete
+09-07 11:06:15:492    [32m[5455] I/drv.lcd app_watc: [NONE] -> [OPENING]
+09-07 11:06:15:492    [0m[32m[5461] I/drv.lcd lcd_task: open
+09-07 11:06:15:492    [0m[32m[5465] I/drv.epic lcd_task: drv_gpu opened.
+09-07 11:06:15:492    [0m[32m[5471] I/drv.lcd lcd_task: HW open
+09-07 11:06:15:492    [0m[32m[5482] I/drv.lcd lcd_task: Try registered LCD driver...
+09-07 11:06:15:492    [0mmsh
+09-07 11:06:15:492     />
+09-07 11:06:15:553    
+09-07 11:06:15:553    CO5300_ReadID 0x331100 
+09-07 11:06:15:553    [32m[6120] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-07 11:06:15:568    
+09-07 11:06:15:568    [0m
+09-07 11:06:15:743    
+09-07 11:06:15:743    CO5300_ReadID 0x331100 
+09-07 11:06:15:758    [32m[7858] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-07 11:06:15:758    
+09-07 11:06:15:758    [0m[32m[7864] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+09-07 11:06:15:758    [0m[32m[7871] I/drv.lcd lcd_task: HW open done.
+09-07 11:06:15:758    [0m[32m[7876] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+09-07 11:06:15:758    [0m[32m[7882] I/drv.lcd lcd_task: open done.
+09-07 11:06:15:758    [0m[32m[7888] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+09-07 11:06:15:758    [0m[32m[7894] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+09-07 11:06:15:758    [0m[32m[7902] I/TOUCH app_watc: Open
+09-07 11:06:15:758    [0m[32m[7907] I/TOUCH tp_init: Find touch screen driver...
+09-07 11:06:15:758    [0m[32m[7913] I/TOUCH tp_init: Probe 10007795
+09-07 11:06:15:758    [0m[32m[7918] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 11:06:15:758    [0m[32m[7924] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+09-07 11:06:15:766    [0m[7933] D/drv.chsc6417 tp_init: chsc6417 init
+09-07 11:06:15:766    chsc6417 id=0x0
+09-07 11:06:15:766    [32m[7940] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 11:06:15:766    [0m[7947] D/drv.chsc6417 tp_init: chsc6417 init OK
+09-07 11:06:15:766    [32m[7952] I/TOUCH app_watc: Opened.
+09-07 11:06:15:766    [0m
+09-07 11:06:15:766    [32m[7973] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+09-07 11:06:15:766    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+09-07 11:06:15:985    Boot count: 83
+09-07 11:06:15:995    [32m[9984] I/drv.rtc app_watc: Get initial cycles: 1058313 rtc=1735689601.0000
+09-07 11:06:16:010    
+09-07 11:06:16:010    [0m[32m[10040] I/drv.rtc app_watc: Get initial cycles: 1058313 rtc=1735689600.0000
+09-07 11:06:16:010    
+09-07 11:06:16:010    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+09-07 11:06:16:010    [32m[10113] I/drv.lcd lcd_task: set brightness 100
+09-07 11:06:16:010    [0m[32m[10119] I/drv.lcd lcd_task: display on
+09-07 11:06:16:010    [0m[32m[10124] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-07 11:06:16:010    [0m[10133] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1072.
+09-07 11:06:16:010    [32m[10143] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 11:06:16:010    [0m
+09-07 11:06:16:040    [10422] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 11:06:16:041    [32m[10431] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1072
+09-07 11:06:16:042    [0m[32m[10440] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063754
+09-07 11:06:16:043    [0m[32m[10447] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+09-07 11:06:16:044    [0m[10455] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-07 11:06:16:044    [32m[10463] I/APP.SCHE app_watc: app[MainScreen] do START, 20063754
+09-07 11:06:16:044    [0m[32m[10470] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 11:06:16:046    [0m[10476] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063754] to gui_app_mbx tick:1109.
+09-07 11:06:16:046    [32m[10486] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1109
+09-07 11:06:16:046    [0m[10495] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063820
+09-07 11:06:16:046    [10502] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-07 11:06:16:046    [10511] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 11:06:16:046    [32m[10520] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART
+09-07 11:06:16:046    , 20063820
+09-07 11:06:16:052    [0m
+09-07 11:06:16:058    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+09-07 11:06:16:058    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 m
+09-07 11:06:16:058    s, vol=70%)
+09-07 11:06:16:058    [32m[10685] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 11:06:16:058    [0m[32m[10693] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 11:06:16:058    [0m[32m[10700] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-07 11:06:16:058    [0m[10706] D/APP.SCHE app_watc: app_schedule_task done.
+09-07 11:06:17:052    [Music] Volume set to 65%
+09-07 11:06:17:098    [Music] Volume set to 60%
+09-07 11:06:17:303    [Music] Volume set to 55%
+09-07 11:06:17:507    [Music] Volume set to 50%
+09-07 11:06:17:555    [Music] Volume set to 45%
+09-07 11:06:18:264    [Music] Volume set to 40%
+09-07 11:06:18:961    [Music] Volume set to 35%
+09-07 11:06:19:056    [Music] Volume set to 30%
+09-07 11:06:19:214    [Music] Volume set to 35%
+09-07 11:06:19:357    [Music] Volume set to 40%
+09-07 11:06:19:467    [Music] Volume set to 45%
+09-07 11:06:19:562    [Music] Volume set to 50%
+09-07 11:06:19:767    [Music] Volume set to 45%
+09-07 11:06:19:862    [Music] Volume set to 40%
+09-07 11:06:19:919    [Music] Volume set to 35%
+09-07 11:06:20:122    [Music] Volume set to 40%
+09-07 11:06:20:322    [Music] Volume set to 35%
+09-07 11:06:20:369    [Music] Volume set to 30%
+09-07 11:06:20:417    [Music] Volume set to 25%
+09-07 11:06:20:621    [Music] Volume set to 30%
+09-07 11:06:20:668    [Music] Volume set to 35%
+09-07 11:06:20:921    [Music] Volume set to 30%
+09-07 11:06:21:064    [Music] Volume set to 35%
+09-07 11:06:21:173    [Music] Volume set to 40%
+09-07 11:06:21:221    [Music] Volume set to 45%
+09-07 11:06:21:476    [Music] Volume set to 40%
+09-07 11:06:21:775    [Music] Volume set to 35%
+09-07 11:06:21:823    [Music] Volume set to 30%
+09-07 11:06:21:870    [Music] Volume set to 35%
+09-07 11:06:21:980    [Music] Volume set to 40%
+09-07 11:06:22:076    [Music] Volume set to 35%
+09-07 11:06:22:171    [Music] Volume set to 30%
+09-07 11:06:22:268    [Music] Volume set to 25%
+09-07 11:06:22:331    [Music] Volume set to 30%
+09-07 11:06:22:521    [Music] Volume set to 25%
+09-07 11:06:22:882    [Music] Volume set to 20%
+09-07 11:06:22:977    [Music] Volume set to 15%
+09-07 11:06:23:278    [Music] Volume set to 10%
+09-07 11:06:23:373    [Music] Volume set to 15%
+09-07 11:06:23:724    [Music] Volume set to 10%
+09-07 11:06:23:833    [Music] Volume set to 5%
+09-07 11:06:23:881    [Music] Volume set to 0%
+09-07 11:06:24:735    [Music] Volume set to 5%
+09-07 11:06:24:789    [Music] Volume set to 10%
+09-07 11:06:24:830    [Music] Volume set to 15%
+09-07 11:06:24:940    [Music] Volume set to 10%
+09-07 11:06:24:988    [Music] Volume set to 15%
+09-07 11:06:25:188    [Music] Volume set to 10%
+09-07 11:06:25:240    [Music] Volume set to 5%
+09-07 11:06:25:288    [Music] Volume set to 0%
+09-07 11:06:25:636    [Music] Volume set to 5%
+09-07 11:06:25:685    [Music] Volume set to 10%

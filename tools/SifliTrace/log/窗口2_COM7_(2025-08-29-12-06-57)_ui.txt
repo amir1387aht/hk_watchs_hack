@@ -1,0 +1,2674 @@
+08-29 12:06:57:658    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+08-29 12:06:57:660    NAND ID 0x21aaef
+08-29 12:06:57:660    det bbm table with 1, 1, 2
+08-29 12:06:57:660    detect result 2
+08-29 12:06:57:660    V1 1 in block 992, V2 0 in block 994
+08-29 12:06:57:660    Latest version 1
+08-29 12:06:57:660    V1 1 in block 993, V2 0 in block 995
+08-29 12:06:57:660    Latest version 1
+08-29 12:06:57:660    v1 1 in blk 992, v2 1 in block 993
+08-29 12:06:57:660    BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+08-29 12:06:57:660    sif_bbm_init done
+08-29 12:06:57:660    
+08-29 12:06:57:660     \ | /
+08-29 12:06:57:660    - SiFli Corporation
+08-29 12:06:57:660     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+08-29 12:06:57:660     2020 - 2022 Copyright by SiFli team
+08-29 12:06:57:660    cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+08-29 12:06:57:660    mount /dev sucess
+08-29 12:06:57:660    [32m[394] I/drv.rtc main: PSCLR=0x236f3100 DivAI=35 DivAF=7116 B=256
+08-29 12:06:57:674    [0m[32m[402] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058236, rtc ppm=0
+08-29 12:06:57:674    
+08-29 12:06:57:674    [0m[32m[410] I/drv.rtc main: DIVA=35, DIVA_FRA=7149, DIVB=256
+08-29 12:06:57:674    
+08-29 12:06:57:674    [0m[32m[416] I/drv.rtc main: Init RTC, wake = 1
+08-29 12:06:57:674    
+08-29 12:06:57:674    [0mNAND factory magic error 0xffffffff vs 0x53450617
+08-29 12:06:57:674    [32m[430] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+08-29 12:06:57:674    
+08-29 12:06:57:689    [0m[32m[436] I/drv.audprc main: HAL_AUDPRC_Init res 0
+08-29 12:06:57:689    
+08-29 12:06:57:689    [0m[31m[443] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+08-29 12:06:57:689    [0m[32m[450] I/drv.encoder main: encoder1 init success!!
+08-29 12:06:57:689    [0m[31m[456] E/drv.encoder main: encoder1 register success
+08-29 12:06:57:689    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+08-29 12:06:57:689    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-29 12:06:57:689    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-29 12:06:57:689    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-29 12:06:57:689    [32m[502] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+08-29 12:06:57:689    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+08-29 12:06:57:689    mount fs[yaffs] on / failed.
+08-29 12:06:57:689    Register root to mtd device with base addr 0x62580000
+08-29 12:06:57:689    mount dev: 44, 983
+08-29 12:06:57:862    Get phy blk for 992 fail when read
+08-29 12:06:57:877    [32m[2213] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:877    
+08-29 12:06:57:877    [0mGet phy blk for 993 fail when read
+08-29 12:06:57:877    [32m[2223] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:877    
+08-29 12:06:57:877    [0mGet phy blk for 994 fail when read
+08-29 12:06:57:877    [32m[2233] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:877    
+08-29 12:06:57:877    [0mGet phy blk for 995 fail when read
+08-29 12:06:57:877    [32m[2243] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:877    
+08-29 12:06:57:877    [0mGet phy blk for 996 fail when read
+08-29 12:06:57:877    [32m[2253] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:877    
+08-29 12:06:57:877    [0mGet phy blk for 997 fail when read
+08-29 12:06:57:877    [32m[2264] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:877    
+08-29 12:06:57:877    [0mGet phy blk for 998 fail when read
+08-29 12:06:57:893    [32m[2274] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:893    
+08-29 12:06:57:895    [0mGet phy blk for 999 fail when read
+08-29 12:06:57:895    [32m[2284] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1000 fail when read
+08-29 12:06:57:895    [32m[2294] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1001 fail when read
+08-29 12:06:57:895    [32m[2304] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1002 fail when read
+08-29 12:06:57:895    [32m[2315] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1003 fail when read
+08-29 12:06:57:895    [32m[2325] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1004 fail when read
+08-29 12:06:57:895    [32m[2335] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1005 fail when read
+08-29 12:06:57:895    [32m[2345] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1006 fail when read
+08-29 12:06:57:895    [32m[2355] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1007 fail when read
+08-29 12:06:57:895    [32m[2366] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1008 fail when read
+08-29 12:06:57:895    [32m[2376] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1009 fail when read
+08-29 12:06:57:895    [32m[2386] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1010 fail when read
+08-29 12:06:57:895    [32m[2396] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1011 fail when read
+08-29 12:06:57:895    [32m[2407] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:895    [0mGet phy blk for 1012 fail when read
+08-29 12:06:57:895    [32m[2417] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:895    
+08-29 12:06:57:909    [0mGet phy blk for 1013 fail when read
+08-29 12:06:57:909    [32m[2427] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1014 fail when read
+08-29 12:06:57:909    [32m[2437] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1015 fail when read
+08-29 12:06:57:909    [32m[2447] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1016 fail when read
+08-29 12:06:57:909    [32m[2458] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1017 fail when read
+08-29 12:06:57:909    [32m[2468] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1018 fail when read
+08-29 12:06:57:909    [32m[2478] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1019 fail when read
+08-29 12:06:57:909    [32m[2488] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1020 fail when read
+08-29 12:06:57:909    [32m[2499] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1021 fail when read
+08-29 12:06:57:909    [32m[2509] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1022 fail when read
+08-29 12:06:57:909    [32m[2519] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1023 fail when read
+08-29 12:06:57:909    [32m[2529] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1024 fail when read
+08-29 12:06:57:909    [32m[2539] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:909    
+08-29 12:06:57:909    [0mGet phy blk for 1025 fail when read
+08-29 12:06:57:909    [32m[2550] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:925    
+08-29 12:06:57:925    [0mGet phy blk for 1026 fail when read
+08-29 12:06:57:925    [32m[2560] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:925    
+08-29 12:06:57:925    [0mGet phy blk for 1027 fail when read
+08-29 12:06:57:925    [32m[2570] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:57:925    
+08-29 12:06:57:925    [0m
+08-29 12:06:58:081    Get phy blk for 992 fail when read
+08-29 12:06:58:097    [32m[4269] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 993 fail when read
+08-29 12:06:58:097    [32m[4279] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 994 fail when read
+08-29 12:06:58:097    [32m[4289] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 995 fail when read
+08-29 12:06:58:097    [32m[4299] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 996 fail when read
+08-29 12:06:58:097    [32m[4309] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 997 fail when read
+08-29 12:06:58:097    [32m[4319] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 998 fail when read
+08-29 12:06:58:097    [32m[4330] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 999 fail when read
+08-29 12:06:58:097    [32m[4340] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 1000 fail when read
+08-29 12:06:58:097    [32m[4350] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 1001 fail when read
+08-29 12:06:58:097    [32m[4360] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:097    
+08-29 12:06:58:097    [0mGet phy blk for 1002 fail when read
+08-29 12:06:58:112    [32m[4370] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1003 fail when read
+08-29 12:06:58:112    [32m[4381] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1004 fail when read
+08-29 12:06:58:112    [32m[4391] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1005 fail when read
+08-29 12:06:58:112    [32m[4401] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1006 fail when read
+08-29 12:06:58:112    [32m[4411] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1007 fail when read
+08-29 12:06:58:112    [32m[4422] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1008 fail when read
+08-29 12:06:58:112    [32m[4432] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1009 fail when read
+08-29 12:06:58:112    [32m[4442] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1010 fail when read
+08-29 12:06:58:112    [32m[4452] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1011 fail when read
+08-29 12:06:58:112    [32m[4463] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1012 fail when read
+08-29 12:06:58:112    [32m[4473] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1013 fail when read
+08-29 12:06:58:112    [32m[4483] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1014 fail when read
+08-29 12:06:58:112    [32m[4493] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1015 fail when read
+08-29 12:06:58:112    [32m[4503] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1016 fail when read
+08-29 12:06:58:112    [32m[4514] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1017 fail when read
+08-29 12:06:58:112    [32m[4524] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:112    
+08-29 12:06:58:112    [0mGet phy blk for 1018 fail when read
+08-29 12:06:58:128    [32m[4534] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0mGet phy blk for 1019 fail when read
+08-29 12:06:58:144    [32m[4544] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0mGet phy blk for 1020 fail when read
+08-29 12:06:58:144    [32m[4555] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0mGet phy blk for 1021 fail when read
+08-29 12:06:58:144    [32m[4565] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0mGet phy blk for 1022 fail when read
+08-29 12:06:58:144    [32m[4575] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0mGet phy blk for 1023 fail when read
+08-29 12:06:58:144    [32m[4585] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0mGet phy blk for 1024 fail when read
+08-29 12:06:58:144    [32m[4596] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0mGet phy blk for 1025 fail when read
+08-29 12:06:58:144    [32m[4606] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0mGet phy blk for 1026 fail when read
+08-29 12:06:58:144    [32m[4616] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0mGet phy blk for 1027 fail when read
+08-29 12:06:58:144    [32m[4626] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-29 12:06:58:144    
+08-29 12:06:58:144    [0m
+08-29 12:06:58:175    mount:0
+08-29 12:06:58:175    mount fs on flash to root success
+08-29 12:06:58:175    [FlashDB] Starting initialization...
+08-29 12:06:58:175    [FlashDB] Mutex initialized
+08-29 12:06:58:175    [FlashDB] KVDB Config:
+08-29 12:06:58:175      Path: /sys/db/fdb_kvdb
+08-29 12:06:58:175      Sector Size: 4096
+08-29 12:06:58:175      Max Size: 16384 (0x4000)
+08-29 12:06:58:175      File Mode: true
+08-29 12:06:58:175    [FlashDB] KVDB initialized successfully
+08-29 12:06:58:175    [FlashDB] TSDB Config:
+08-29 12:06:58:175      Path: /sys/db/fdb_tsdb
+08-29 12:06:58:175      Max Size: 16384
+08-29 12:06:58:191    [FlashDB] TSDB initialized successfully
+08-29 12:06:58:191    [FlashDB] All initialization complete
+08-29 12:06:58:191    [32m[5148] I/drv.lcd app_watc: [NONE] -> [OPENING]
+08-29 12:06:58:191    [0m[32m[5153] I/drv.lcd lcd_task: open
+08-29 12:06:58:191    [0m[32m[5158] I/drv.epic lcd_task: drv_gpu opened.
+08-29 12:06:58:191    [0m[32m[5163] I/drv.lc
+08-29 12:06:58:191    d lcd_task: HW open
+08-29 12:06:58:191    [0m[32m[5174] I/drv.lcd lcd_task: Try registered LCD driver...
+08-29 12:06:58:191    [0mmsh />
+08-29 12:06:58:253    
+08-29 12:06:58:253    CO5300_ReadID 0x331100 
+08-29 12:06:58:253    [32m[5815] I/co5300 lcd_task: LCD module use CO5300 IC 
+08-29 12:06:58:253    
+08-29 12:06:58:253    [0m
+08-29 12:06:58:442    
+08-29 12:06:58:457    CO5300_ReadID 0x331100 
+08-29 12:06:58:457    [32m[7554] I/co5300 lcd_task: LCD module use CO5300 IC 
+08-29 12:06:58:457    
+08-29 12:06:58:457    [0m[32m[7560] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+08-29 12:06:58:457    [0m[32m[7567] I/drv.lcd lcd_task: HW open done.
+08-29 12:06:58:457    [0m[32m[7572] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+08-29 12:06:58:457    [0m[32m[7578] I/drv.lcd lcd_task: open done.
+08-29 12:06:58:457    [0m[32m[7584] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+08-29 12:06:58:457    [0m[32m[7590] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+08-29 12:06:58:457    [0m[32m[7598] I/TOUCH app_watc: Open
+08-29 12:06:58:457    [0m[32m[7603] I/TOUCH tp_init: Find touch screen driver...
+08-29 12:06:58:457    [0m[32m[7609] I/TOUCH tp_init: Probe 10007795
+08-29 12:06:58:457    [0m[32m[7614] I/drv.chsc6417 tp_init: chsc6417 probe OK
+08-29 12:06:58:457    [0m[32m[7620] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+08-29 12:06:58:457    [0m[7628] D/drv.chsc6417 tp_init: chsc6417 init
+08-29 12:06:58:457    chsc6417 id=0x0
+08-29 12:06:58:457    [32m[7636] I/drv.chsc6417 tp_init: chsc6417 probe OK
+08-29 12:06:58:457    [0m[7642] D/drv.chsc6417 tp_init: chsc6417 init OK
+08-29 12:06:58:457    [32m[7647] I/TOUCH app_watc: Opened.
+08-29 12:06:58:457    [0m
+08-29 12:06:58:457    [32m[7669] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+08-29 12:06:58:457    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+08-29 12:06:58:685    Boot count: 12
+08-29 12:06:58:692    [32m[9661] I/drv.rtc app_watc: Get initial cycles: 1058236 rtc=1735689725.0000
+08-29 12:06:58:692    
+08-29 12:06:58:692    [0m[32m[9717] I/drv.rtc app_watc: Get initial cycles: 1058236 rtc=1735689600.0000
+08-29 12:06:58:692    
+08-29 12:06:58:692    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+08-29 12:06:58:692    [32m[9743] I/drv.lcd lcd_task: set brightness 100
+08-29 12:06:58:692    [0m[32m[9749] I/drv.lcd lcd_task: display on
+08-29 12:06:58:692    [0m[32m[9754] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+08-29 12:06:58:692    [0m[9762] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1031.
+08-29 12:06:58:692    [32m[9772] I/APP.FWK.INT app_watc: [MainScreen]
+08-29 12:06:58:708    [0m
+08-29 12:06:58:723    [10045] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:06:58:723    [32m[10054] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1031
+08-29 12:06:58:723    [0m[32m[10062] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 200636f0
+08-29 12:06:58:723    [0m[32m[10070] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+08-29 12:06:58:723    [0m[10078] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+08-29 12:06:58:723    [32m[10086] I/APP.SCHE app_watc: app[MainScreen] do START, 200636f0
+08-29 12:06:58:723    [0m[32m[10093] I/APP.FWK.INT app_watc: [MainScreen]
+08-29 12:06:58:723    [0m[10099] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200636f0] to gui_app_mbx tick:1068.
+08-29 12:06:58:739    [32m[10109] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1068
+08-29 12:06:58:739    [0m[10118] D/APP.SCHE app_watc: app[MainScreen] create page[root] 200637bc
+08-29 12:06:58:739    [10125] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+08-29 12:06:58:739    [10134] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:06:58:739    [32m[10143] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART
+08-29 12:06:58:739    , 200637bc
+08-29 12:06:58:739    [0m
+08-29 12:06:58:739    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+08-29 12:06:58:739    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 m
+08-29 12:06:58:751    s, vol=70%)
+08-29 12:06:58:755    [32m[10299] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:06:58:755    [0m[32m[10308] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:06:58:755    [0m[32m[10314] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+08-29 12:06:58:755    [0m[10321] D/APP.SCHE app_watc: app_schedule_tas
+08-29 12:06:58:755    k done.
+08-29 12:07:18:260 TX:msh_ts_count
+08-29 12:07:18:260    msh_ts_count: command not found.
+08-29 12:07:18:260    msh />msh />
+08-29 12:07:20:569 TX:msh_ts_count_all
+08-29 12:07:20:585    Total logs: 0
+08-29 12:07:20:585    msh />msh />
+08-29 12:07:35:147 TX:msh_ts_add Hello
+08-29 12:07:35:164    Log added: "Hello"
+08-29 12:07:35:164    msh />msh />
+08-29 12:07:44:070 TX:msh_ts_add Hello World
+08-29 12:07:44:070    Usage: msh_ts_add "log_string"
+08-29 12:07:44:085    msh />msh />
+08-29 12:07:52:261 TX:msh_ts_add Hello-World
+08-29 12:07:52:263    Log added: "Hello-World"
+08-29 12:07:52:267    msh />msh />
+08-29 12:08:03:859 TX:msh_ts_add "Hello-World"
+08-29 12:08:03:859    Log added: "Hello-World"
+08-29 12:08:03:859    msh />msh />
+08-29 12:08:17:805 TX:msh_ts_count_all
+08-29 12:08:17:805    Total logs: 3
+08-29 12:08:17:805    msh />msh />
+08-29 12:08:23:245 TX:msh_ts_clean
+08-29 12:08:23:245    msh_ts_clean: command not found.
+08-29 12:08:23:261    msh />msh />
+08-29 12:08:27:190 TX:msh_ts_clear
+08-29 12:08:27:225    All logs deleted
+08-29 12:08:27:225    msh />msh />
+08-29 12:08:53:171    [1048197] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:115094.
+08-29 12:08:53:172    [32m[1048208] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:08:53:174    [0m
+08-29 12:08:53:193    [1048405] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:08:53:195    [32m[1048414] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:115094
+08-29 12:08:53:196    [0m[32m[1048423] I/APP.SCHE app_watc: app[MusicScreen] do LOAD, 2006463c
+08-29 12:08:53:197    [0m[32m[1048431] I/APP.FWK app_watc: finding MusicScreen in builtin apps...
+08-29 12:08:53:199    [0m[1048439] D/APP.SCHE app_watc: app[MusicScreen] tgt_state [LAUNCHED] -> [RUNNING]
+08-29 12:08:53:200    [32m[1048448] I/APP.SCHE app_watc: app[MusicScreen] do START, 2006463c
+08-29 12:08:53:201    [0m[32m[1048456] I/APP.FWK.INT app_watc: [MusicScreen]
+08-29 12:08:53:203    [0m[1048462] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x2006463c] to gui_app_mbx tick:115123.
+08-29 12:08:53:204    [32m[1048473] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:115123
+08-29 12:08:53:205    [0m[1048482] D/APP.SCHE app_watc: app[MusicScreen] create page[root] 200647b0
+08-29 12:08:53:206    [1048489] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [CREATED] -> [RESUMED]
+08-29 12:08:53:207    [1048498] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:08:53:208    [1048506] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:08:53:209    [32m[1048515] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:08:53:210    [0m[32m[1048525] I/APP.SCHE app_watc: page[MusicScreen][root] do ONSTART, 200647b0
+08-29 12:08:53:211    [0m[MusicApp] on_start
+08-29 12:08:53:212    [32m[1048536] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:08:53:213    [0m[MusicApp] on_resume
+08-29 12:08:53:214    [32m[1048547] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:08:53:215    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:08:53:216    [32m[1048560] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:08:53:217    [0m[32m[1048571] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:08:53:218    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:08:53:219    [32m[1048586] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:08:53:221    [0m
+08-29 12:08:53:225    [32m[1048694] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:08:53:226    [0m[32m[1048703] I/APP.ANI app_watc: Start free run animation
+08-29 12:08:53:228    [0m[32m[1048710] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:08:53:229    
+08-29 12:08:53:230    [0m[32m[1048718] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:08:53:231    [0m[1048725] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:08:53:232    [1048731] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:08:53:536    [32m[1051511] I/APP.ANI app_wat
+08-29 12:08:53:539    c: free_run_ready 0 
+08-29 12:08:53:540    
+08-29 12:08:53:541    [0m
+08-29 12:08:53:569    [32m[1051809] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:08:53:570    
+08-29 12:08:53:570    [0m[32m[1051818] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:08:53:571    
+08-29 12:08:53:571    [0m[32m[1051826] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:08:53:573    
+08-29 12:08:53:573    [0m[32m[1051834] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:08:53:573    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:08:53:573    [32m[1051849] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:08:53:574    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:08:53:576    [32m[1051865] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:08:53:577    [0m[1051875] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:08:53:578    chedule_task--
+08-29 12:08:54:659    [1061692] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:116577.
+08-29 12:08:54:660    [32m[1061702] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:08:54:661    [0m
+08-29 12:08:54:675    [1061847] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:08:54:676    [32m[1061855] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:116577
+08-29 12:08:54:677    [0m[1061864] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:08:54:678    [1061872] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:08:54:679    [1061878] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:08:54:679    [1061885] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:08:54:680    [1061894] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:08:54:682    [32m[1061903] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:08:54:682    [0m[MusicApp] on_pause
+08-29 12:08:54:683    [32m[1061914] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:08:54:684    [0m[32m[1061923] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:08:54:684    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:08:54:685    [32m[1061936] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:08:54:686    [0m[32m[1061946] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:08:54:687    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:08:54:688    [32m[1061961] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:08:54:689    [0m
+08-29 12:08:54:702    [32m[1062089] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:08:54:703    [0m[32m[1062098] I/APP.ANI app_watc: Start free run animation
+08-29 12:08:54:704    [0m[32m[1062105] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:08:54:704    
+08-29 12:08:54:705    [0m[32m[1062113] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:08:54:705    [0m[1062120] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:08:54:706    [1062126] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:08:54:793    [1062904] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:116710.
+08-29 12:08:54:794    [32m[1062915] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:08:54:795    [0m
+08-29 12:08:54:806    [1063031] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:08:54:807    [32m[1063042] I/APP.SCHE app_watc: Abort app trans anim, msg_entry = 1
+08-29 12:08:54:808    [0m[32m[1063052] I/APP.ANI app_watc: app_trans_anim_abort
+08-29 12:08:54:809    [0m[32m[1063061] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:08:54:810    
+08-29 12:08:54:810    [0m[32m[1063070] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:08:54:811    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:08:54:812    [32m[1063086] I/APP.ANI app_watc: app_trans_animation_obj_destro
+08-29 12:08:54:813    y = 200648e8
+08-29 12:08:54:813    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:08:54:814    [32m[1063107] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:08:54:815    [0m[1063114] D/APP.SCHE app_watc: --Resume app_schedule_task--
+08-29 12:08:54:816    [1063120] D/APP.SCHE app_watc: app_schedule_t
+08-29 12:08:54:816    ask done.
+08-29 12:08:54:838    [1063322] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:08:54:839    [32m[1063333] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:116710
+08-29 12:08:54:840    [0m[1063344] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:08:54:842    [1063353] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:08:54:842    [1063360] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:08:54:843    [1063368] D/APP.SCHE app_watc: page[MainScreen][root] tgt_s
+08-29 12:08:54:844    tate [RESUMED] -> [PAUSED]
+08-29 12:08:54:845    [1063384] D/APP.SCHE app_watc: page
+08-29 12:08:54:846    [MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:08:54:847    [32m[1063403] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:08:54:848    [0m[32m[1063412] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:08:54:849    [0m[MusicApp] on_resume
+08-29 12:08:54:849    [32m[1063423] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:08:54:850    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:08:54:851    [32m[1063437] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:08:54:852    [0m[32m[1063448] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:08:54:853    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:08:54:853    [32m[1063463] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:08:54:855    [0m
+08-29 12:08:54:868    [32m[1063592] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:08:54:869    [0m[32m[1063601] I/APP.ANI app_watc: Start free run animation
+08-29 12:08:54:870    [0m[32m[1063608] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+08-29 12:08:54:870    
+08-29 12:08:54:871    [0m[32m[1063616] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:08:54:871    [0m[1063623] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:08:54:872    [1063629] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:08:55:180    [32m[1066414] I/APP.ANI app_wat
+08-29 12:08:55:182    c: free_run_ready 0 
+08-29 12:08:55:182    
+08-29 12:08:55:184    [0m
+08-29 12:08:55:213    [32m[1066718] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:08:55:213    
+08-29 12:08:55:214    [0m[32m[1066727] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:08:55:214    
+08-29 12:08:55:215    [0m[32m[1066734] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:08:55:215    
+08-29 12:08:55:215    [0m[32m[1066741] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:08:55:216    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:08:55:217    [32m[1066753] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:08:55:217    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:08:55:217    [32m[1066766] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:08:55:219    [0m[1066773] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:08:55:219    chedule_task--
+08-29 12:08:56:786    [1080985] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:118696.
+08-29 12:08:56:787    [32m[1080996] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:08:56:789    [0m
+08-29 12:08:56:800    [1081121] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:08:56:802    [32m[1081130] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:118696
+08-29 12:08:56:803    [0m[1081139] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:08:56:803    [1081147] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:08:56:803    [1081152] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:08:56:804    [1081160] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:08:56:805    [1081169] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:08:56:806    [32m[1081178] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:08:56:807    [0m[MusicApp] on_pause
+08-29 12:08:56:807    [32m[1081189] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:08:56:808    [0m[32m[1081198] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:08:56:809    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:08:56:809    [32m[1081211] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:08:56:810    [
+08-29 12:08:56:811    0m[32m[1081221] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:08:56:812    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:08:56:812    [32m[1081236] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:08:56:813    [0
+08-29 12:08:56:813    m
+08-29 12:08:56:827    [32m[1081364] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:08:56:828    [0m[32m[1081372] I/APP.ANI app_watc: Start free run animation
+08-29 12:08:56:829    [0m[32m[1081380] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:08:56:829    
+08-29 12:08:56:829    [0m[32m[1081388] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:08:56:830    [0m[1081395] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:08:56:831    [1081401] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:08:57:140    [32m[1084201] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:08:57:142    
+08-29 12:08:57:142    [0m
+08-29 12:08:57:173    [32m[1084501] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:08:57:174    
+08-29 12:08:57:174    [0m[32m[1084509] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:08:57:175    
+08-29 12:08:57:176    [0m[32m[1084517] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:08:57:176    
+08-29 12:08:57:176    [0m[32m[1084525] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:08:57:177    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:08:57:177    [32m[1084539] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:08:57:178    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:08:57:178    [32m[1084552] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:08:57:180    [0m[1084559] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:08:57:180    chedule_task--
+08-29 12:08:57:591    [1088287] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:119498.
+08-29 12:08:57:592    [32m[1088297] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:08:57:594    [0m
+08-29 12:08:57:606    [1088423] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:08:57:606    [32m[1088431] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:119498
+08-29 12:08:57:608    [0m[1088440] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:08:57:608    [1088449] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:08:57:609    [1088454] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:08:57:610    [1088462] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:08:57:611    [1088470] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:08:57:612    [32m[1088479] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:08:57:612    [0m[32m[1088488] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:08:57:613    [0m[MusicApp] on_resume
+08-29 12:08:57:614    [32m[1088499] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:08:57:615    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:08:57:615    [32m[1088512] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:08:57:616    
+08-29 12:08:57:616    [0m[32m[1088523] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:08:57:617    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:08:57:618    [32m[1088537] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:08:57:619    [0m
+08-29 12:08:57:630    [32m[1088646] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:08:57:631    [0m[32m[1088655] I/APP.ANI app_watc: Start free run animation
+08-29 12:08:57:632    [0m[32m[1088662] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:08:57:632    
+08-29 12:08:57:633    [0m[32m[1088670] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:08:57:634    [0m[1088677] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:08:57:634    [1088683] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:08:57:941    [32m[1091469] I/APP.ANI app_wat
+08-29 12:08:57:943    c: free_run_ready 0 
+08-29 12:08:57:944    
+08-29 12:08:57:945    [0m
+08-29 12:08:57:973    [32m[1091765] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:08:57:973    
+08-29 12:08:57:975    [0m[32m[1091772] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:08:57:975    
+08-29 12:08:57:976    [0m[32m[1091781] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:08:57:976    
+08-29 12:08:57:976    [0m[32m[1091788] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:08:57:978    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:08:57:978    [32m[1091800] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:08:57:978    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:08:57:979    [32m[1091813] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:08:57:979    [0m[1091820] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:08:57:980    chedule_task--
+08-29 12:08:58:507    [1096601] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:120411.
+08-29 12:08:58:509    [32m[1096611] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:08:58:510    [0m
+08-29 12:08:58:537    [1096874] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:08:58:538    [32m[1096883] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:120411
+08-29 12:08:58:538    [0m[1096892] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:08:58:540    [1096900] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:08:58:540    [1096905] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:08:58:541    [1096913] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:08:58:541    [1096922] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:08:58:543    [32m[1096931] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:08:58:543    [0m[MusicApp] on_pause
+08-29 12:08:58:544    [32m[1096942] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:08:58:545    [0m[32m[1096950] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:08:58:546    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:08:58:546    [32m[1096963] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:08:58:548    [0m[32m[1096974] I/APP.ANI app_watc: app_trans_animation_obj_cre
+08-29 12:08:58:548    ate = 200648e8
+08-29 12:08:58:549    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:08:58:549    [32m[1096989] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:08:58:550    [0
+08-29 12:08:58:550    m
+08-29 12:08:58:563    [32m[1097116] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:08:58:564    [0m[32m[1097125] I/APP.ANI app_watc: Start free run animation
+08-29 12:08:58:566    [0m[32m[1097132] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:08:58:566    
+08-29 12:08:58:567    [0m[32m[1097141] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:08:58:567    [0m[1097147] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:08:58:568    [1097153] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:08:58:877    [32m[1099954] I/APP.ANI app_wat
+08-29 12:08:58:879    c: free_run_ready 0 
+08-29 12:08:58:879    
+08-29 12:08:58:879    [0m
+08-29 12:08:58:910    [32m[1100254] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:08:58:910    
+08-29 12:08:58:910    [0m[32m[1100261] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:08:58:911    
+08-29 12:08:58:911    [0m[32m[1100270] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:08:58:911    
+08-29 12:08:58:912    [0m[32m[1100279] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:08:58:913    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:08:58:913    [32m[1100293] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:08:58:914    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:08:58:915    [32m[1100310] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:08:58:916    [0m[1100318] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:08:58:917    chedule_task--
+08-29 12:08:59:259    [1103423] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:121160.
+08-29 12:08:59:261    [32m[1103434] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:08:59:262    [0m
+08-29 12:08:59:277    [1103596] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:08:59:279    [32m[1103605] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:121160
+08-29 12:08:59:280    [0m[1103614] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:08:59:280    [1103622] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:08:59:281    [1103627] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:08:59:282    [1103635] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:08:59:283    [1103644] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:08:59:283    [32m[1103653] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:08:59:284    [0m[32m[1103662] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:08:59:285    [0m[MusicApp] on_resume
+08-29 12:08:59:287    [32m[1103673] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:08:59:288    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:08:59:288    [32m[1103686] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:08:59:289    [0m[32m[1103696] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:08:59:290    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:08:59:290    [32m[1103711] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:08:59:292    [0m
+08-29 12:08:59:303    [32m[1103819] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:08:59:303    [0m[32m[1103828] I/APP.ANI app_watc: Start free run animation
+08-29 12:08:59:304    [0m[32m[1103835] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:08:59:305    
+08-29 12:08:59:306    [0m[32m[1103844] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:08:59:306    [0m[1103850] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:08:59:307    [1103856] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:08:59:615    [32m[1106642] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:08:59:616    
+08-29 12:08:59:617    [0m
+08-29 12:08:59:646    [32m[1106938] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:08:59:647    
+08-29 12:08:59:648    [0m[32m[1106946] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:08:59:648    
+08-29 12:08:59:649    [0m[32m[1106954] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:08:59:649    
+08-29 12:08:59:650    [0m[32m[1106962] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:08:59:650    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:08:59:651    [32m[1106976] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:08:59:652    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:08:59:653    [32m[1106992] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:08:59:654    [0m[1107002] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:08:59:654    chedule_task--
+08-29 12:09:01:038    [1119551] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:122931.
+08-29 12:09:01:039    [32m[1119561] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:01:040    [0m
+08-29 12:09:01:045    [1119623] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:01:046    [32m[1119632] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:122931
+08-29 12:09:01:047    [0m[1119641] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:01:047    [1119649] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:01:048    [1119654] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:01:049    [1119662] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:01:050    [1119671] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:01:051    [32m[1119680] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:01:052    [0m[MusicApp] on_pause
+08-29 12:09:01:052    [32m[1119691] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:01:053    [0m[32m[1119700] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:01:054    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:01:054    [32m[1119713] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:01:056    [0m[32m[1119723] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:01:056    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:01:057    [32m[1119738] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:01:058    [0
+08-29 12:09:01:059    m
+08-29 12:09:01:071    [32m[1119866] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:01:072    [0m[32m[1119875] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:01:073    [0m[32m[1119882] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:01:074    
+08-29 12:09:01:074    [0m[32m[1119891] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:01:075    [0m[1119897] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:01:076    [1119903] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:01:386    [32m[1122704] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:01:386    
+08-29 12:09:01:387    [0m
+08-29 12:09:01:417    [32m[1123004] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:01:417    
+08-29 12:09:01:419    [0m[32m[1123012] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:01:419    
+08-29 12:09:01:420    [0m[32m[1123020] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:01:420    
+08-29 12:09:01:421    [0m[32m[1123029] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:01:421    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:01:422    [32m[1123041] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:01:422    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:01:423    [32m[1123054] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:01:424    [0m[1123061] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:01:425    chedule_task--
+08-29 12:09:01:675    [1125336] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:123566.
+08-29 12:09:01:676    [32m[1125346] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:01:676    [0m
+08-29 12:09:01:689    [1125472] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:01:689    [32m[1125481] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:123566
+08-29 12:09:01:691    [0m[1125490] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:01:692    [1125498] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:01:692    [1125503] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:01:694    [1125511] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:01:694    [1125520] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:01:695    [32m[1125529] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:01:695    [0m[32m[1125538] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:01:697    [0m[MusicApp] on_resume
+08-29 12:09:01:698    [32m[1125549] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:01:698    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:01:699    [32m[1125562] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:01:699    
+08-29 12:09:01:700    [0m[32m[1125573] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:01:701    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:01:702    [32m[1125587] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:01:704    [0m
+08-29 12:09:01:714    [32m[1125696] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:01:715    [0m[32m[1125704] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:01:716    [0m[32m[1125711] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:01:717    
+08-29 12:09:01:717    [0m[32m[1125720] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:01:718    [0m[1125726] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:01:718    [1125732] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:02:027    [32m[1128526] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:02:028    
+08-29 12:09:02:029    [0m
+08-29 12:09:02:059    [32m[1128825] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:02:059    
+08-29 12:09:02:060    [0m[32m[1128832] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:02:060    
+08-29 12:09:02:061    [0m[32m[1128841] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:02:061    
+08-29 12:09:02:062    [0m[32m[1128849] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:02:063    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:02:064    [32m[1128863] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:02:064    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:02:065    [32m[1128879] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:02:066    [0m[1128889] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:02:067    chedule_task--
+08-29 12:09:02:673    [1134389] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:124560.
+08-29 12:09:02:674    [32m[1134399] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:02:675    [0m
+08-29 12:09:02:685    [1134507] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:02:686    [32m[1134516] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:124560
+08-29 12:09:02:687    [0m[1134525] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:02:687    [1134533] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:02:688    [1134538] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:02:689    [1134546] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:02:691    [1134555] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:02:692    [32m[1134564] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:02:692    [0m[MusicApp] on_pause
+08-29 12:09:02:693    [32m[1134575] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:02:694    [0m[32m[1134584] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:02:695    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:02:695    [32m[1134596] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:02:696    [0m[32m[1134607] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:02:697    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:02:698    [32m[1134622] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:02:698    [0
+08-29 12:09:02:700    m
+08-29 12:09:02:712    [32m[1134749] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:02:713    [0m[32m[1134758] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:02:714    [0m[32m[1134765] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:02:714    
+08-29 12:09:02:715    [0m[32m[1134774] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:02:715    [0m[1134781] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:02:715    [1134787] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:03:025    [32m[1137587] I/APP.ANI app_wat
+08-29 12:09:03:026    c: free_run_ready 0 
+08-29 12:09:03:027    
+08-29 12:09:03:028    [0m
+08-29 12:09:03:058    [32m[1137887] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:03:059    
+08-29 12:09:03:059    [0m[32m[1137896] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:03:060    
+08-29 12:09:03:060    [0m[32m[1137903] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:03:061    
+08-29 12:09:03:061    [0m[32m[1137912] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:03:062    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:03:062    [32m[1137927] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:03:063    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:03:064    [32m[1137944] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:03:065    [0m[1137954] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:03:065    chedule_task--
+08-29 12:09:03:293    [1140018] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:125178.
+08-29 12:09:03:295    [32m[1140028] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:03:296    [0m
+08-29 12:09:03:298    [1140063] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:03:298    [32m[1140072] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:125178
+08-29 12:09:03:299    [0m[1140081] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:03:300    [1140089] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:03:301    [1140094] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:03:302    [1140102] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:03:303    [1140111] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:03:304    [32m[1140120] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:03:304    [0m[32m[1140129] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:03:305    [0m[MusicApp] on_resume
+08-29 12:09:03:306    [32m[1140140] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:03:306    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:03:307    [32m[1140153] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:03:308    
+08-29 12:09:03:309    [0m[32m[1140164] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:03:310    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:03:310    [32m[1140178] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:03:312    [0m
+08-29 12:09:03:323    [32m[1140287] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:03:324    [0m[32m[1140295] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:03:324    [0m[32m[1140302] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:03:325    
+08-29 12:09:03:325    [0m[32m[1140311] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:03:325    [0m[1140317] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:03:326    [1140323] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:03:634    [32m[1143107] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:03:635    
+08-29 12:09:03:636    [0m
+08-29 12:09:03:666    [32m[1143406] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:03:667    
+08-29 12:09:03:668    [0m[32m[1143413] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:03:668    
+08-29 12:09:03:669    [0m[32m[1143419] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:03:669    
+08-29 12:09:03:669    [0m[32m[1143427] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:03:669    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:03:671    [32m[1143438] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:03:671    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:03:671    [32m[1143452] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:03:672    [0m[1143458] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:03:673    chedule_task--
+08-29 12:09:03:876    [1145301] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:125758.
+08-29 12:09:03:877    [32m[1145311] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:03:878    [0m[1145317] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:03:878    [32m[1145325] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:125758
+08-29 12:09:03:879    [0m[1145334] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:03:879    [1145343] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:03:880    [1145348] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:03:881    [1145355] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:03:883    [1145364] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:03:884    [32m[1145373] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:03:884    [0m[MusicApp] on_pause
+08-29 12:09:03:885    [32m[1145384] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:03:885    [0m[32m[1145393] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:03:886    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:03:887    [32m[1145406] I/APP.ANI ap
+08-29 12:09:03:887    p_watc: buf = 6051e8f0
+08-29 12:09:03:888    [0m[32m[1145417] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:03:889    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:03:890    [32m[1145431] I/APP.ANI app
+08-29 12:09:03:890    _watc: buf = 604c8dd8
+08-29 12:09:03:891    [0m
+08-29 12:09:03:904    [32m[1145559] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:03:905    [0m[32m[1145568] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:03:905    [0m[32m[1145575] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+08-29 12:09:03:906    
+08-29 12:09:03:906    [0m[32m[1145583] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:03:907    [0m[1145590] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:03:907    [1145596] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:04:217    [32m[1148398] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:04:219    
+08-29 12:09:04:220    [0m
+08-29 12:09:04:248    [32m[1148689] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:04:248    
+08-29 12:09:04:249    [0m[32m[1148696] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:04:250    
+08-29 12:09:04:251    [0m[32m[1148703] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:04:251    
+08-29 12:09:04:252    [0m[32m[1148711] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:04:252    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:04:253    [32m[1148725] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:04:254    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:04:255    [32m[1148741] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:04:256    [0m[1148751] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:04:256    chedule_task--
+08-29 12:09:04:435    [1150382] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:126316.
+08-29 12:09:04:446    [32m[1150393] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:04:447    [0m
+08-29 12:09:04:459    [1150591] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:04:459    [32m[1150600] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:126316
+08-29 12:09:04:460    [0m[1150609] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:04:460    [1150617] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:04:461    [1150622] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:04:462    [1150630] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:04:463    [1150639] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:04:464    [32m[1150648] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:04:465    [0m[32m[1150657] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:04:466    [0m[MusicApp] on_resume
+08-29 12:09:04:466    [32m[1150668] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:04:467    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:04:468    [32m[1150681] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:04:468    
+08-29 12:09:04:469    [0m[32m[1150692] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:04:469    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:04:470    [32m[1150706] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:04:472    [0m
+08-29 12:09:04:482    [32m[1150815] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:04:483    [0m[32m[1150823] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:04:484    [0m[32m[1150830] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:04:485    
+08-29 12:09:04:485    [0m[32m[1150839] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:04:486    [0m[1150845] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:04:487    [1150851] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:04:794    [32m[1153636] I/APP.ANI app_wat
+08-29 12:09:04:796    c: free_run_ready 0 
+08-29 12:09:04:797    
+08-29 12:09:04:797    [0m
+08-29 12:09:04:827    [32m[1153932] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:04:827    
+08-29 12:09:04:828    [0m[32m[1153941] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:04:828    
+08-29 12:09:04:828    [0m[32m[1153949] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:04:830    
+08-29 12:09:04:830    [0m[32m[1153957] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:04:831    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:04:831    [32m[1153971] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:04:832    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:04:833    [32m[1153984] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:04:834    [0m[1153991] D/APP.SCHE app_watc: --Resume app_schedule_task--
+08-29 12:09:05:236    [1157646] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:127114.
+08-29 12:09:05:237    [32m[1157657] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:05:238    [0m
+08-29 12:09:05:261    [1157874] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:05:262    [32m[1157882] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:127114
+08-29 12:09:05:263    [0m[1157891] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:05:263    [1157899] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:05:265    [1157904] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:05:265    [1157912] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:05:266    [1157921] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:05:267    [32m[1157930] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:05:268    [0m[MusicApp] on_pause
+08-29 12:09:05:268    [32m[1157941] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:05:269    [0m[32m[1157950] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:05:269    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:05:271    [32m[1157963] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:05:272    [0m[32m[1157973] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:05:272    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:05:274    [32m[1157988] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:05:275    [0m
+08-29 12:09:05:287    [32m[1158116] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:05:288    [0m[32m[1158125] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:05:290    [0m[32m[1158132] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:05:290    
+08-29 12:09:05:291    [0m[32m[1158140] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:05:291    [0m[1158147] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:05:291    [1158153] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:05:601    [32m[1160953] I/APP.ANI app_wat
+08-29 12:09:05:602    c: free_run_ready 0 
+08-29 12:09:05:602    
+08-29 12:09:05:603    [0m
+08-29 12:09:05:633    [32m[1161253] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:05:634    
+08-29 12:09:05:634    [0m[32m[1161261] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:05:635    
+08-29 12:09:05:635    [0m[32m[1161270] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:05:636    
+08-29 12:09:05:636    [0m[32m[1161278] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:05:637    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:05:638    [32m[1161292] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:05:638    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:05:639    [32m[1161308] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:05:640    [0m[1161317] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:05:641    chedule_task--
+08-29 12:09:11:187    [1211635] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:133044.
+08-29 12:09:11:189    [32m[1211645] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:11:191    [0m
+08-29 12:09:11:204    [1211789] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:11:205    [32m[1211798] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:133044
+08-29 12:09:11:206    [0m[1211807] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:11:207    [1211815] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:11:208    [1211820] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:11:208    [1211828] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:11:209    [1211837] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:11:210    [32m[1211846] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:11:211    [0m[32m[1211855] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:11:211    [0m[MusicApp] on_resume
+08-29 12:09:11:212    [32m[1211866] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:11:213    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:11:214    [32m[1211879] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:11:215    
+08-29 12:09:11:215    [0m[32m[1211890] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:11:216    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:11:217    [32m[1211904] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:11:218    [0m
+08-29 12:09:11:229    [32m[1212013] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:11:229    [0m[32m[1212021] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:11:231    [0m[32m[1212028] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:11:231    
+08-29 12:09:11:232    [0m[32m[1212037] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:11:232    [0m[1212043] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:11:233    [1212049] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:11:541    [32m[1214834] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:11:542    
+08-29 12:09:11:543    [0m
+08-29 12:09:11:573    [32m[1215130] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:11:573    
+08-29 12:09:11:574    [0m[32m[1215139] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:11:574    
+08-29 12:09:11:575    [0m[32m[1215147] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:11:576    
+08-29 12:09:11:576    [0m[32m[1215157] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:11:576    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:11:577    [32m[1215171] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:11:578    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:11:579    [32m[1215188] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:11:580    [0m[1215196] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:11:581    chedule_task--
+08-29 12:09:11:840    [1217553] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:133694.
+08-29 12:09:11:842    [32m[1217563] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:11:842    [0m
+08-29 12:09:11:846    [1217616] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:11:847    [32m[1217625] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:133694
+08-29 12:09:11:848    [0m[1217634] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:11:849    [1217642] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:11:850    [1217647] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:11:850    [1217655] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:11:852    [1217664] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:11:852    [32m[1217673] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:11:854    [0m[MusicApp] on_pause
+08-29 12:09:11:854    [32m[1217684] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:11:855    [0m[32m[1217692] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:11:856    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:11:857    [32m[1217705] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:11:857    [
+08-29 12:09:11:858    0m[32m[1217716] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:11:859    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:11:860    [32m[1217731] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:11:861    [0m
+08-29 12:09:11:873    [32m[1217858] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:11:874    [0m[32m[1217867] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:11:875    [0m[32m[1217874] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:11:875    
+08-29 12:09:11:876    [0m[32m[1217883] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:11:876    [0m[1217890] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:11:877    [1217896] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:12:186    [32m[1220693] I/APP.ANI app_wat
+08-29 12:09:12:187    c: free_run_ready 0 
+08-29 12:09:12:188    
+08-29 12:09:12:189    [0m
+08-29 12:09:12:217    [32m[1220984] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:12:218    
+08-29 12:09:12:219    [0m[32m[1220991] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:12:219    
+08-29 12:09:12:220    [0m[32m[1220998] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:12:220    
+08-29 12:09:12:221    [0m[32m[1221005] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:12:221    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:12:222    [32m[1221020] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:12:222    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:12:223    [32m[1221036] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:12:225    [0m[1221045] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:12:226    chedule_task--
+08-29 12:09:12:392    [1222512] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:134239.
+08-29 12:09:12:402    [32m[1222523] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:12:403    [0m[1222594] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:12:404    [32m[1222602] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:134239
+08-29 12:09:12:404    [0m[1222611] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:12:404    [1222620] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:12:404    [1222625] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:12:405    [1222632] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:12:405    [1222641] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:12:406    [32m[1222650] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:12:406    [0m[32m[1222659] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:12:406    [0m[MusicApp] on_resume
+08-29 12:09:12:407    [32m[1222670] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:12:407    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:12:407    [32m[1222683] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:12:408    [0m[32m[1222694] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:12:408    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:12:408    [32m[1222708] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:12:410    [0m
+08-29 12:09:12:420    [32m[1222817] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:12:421    [0m[32m[1222826] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:12:421    [0m[32m[1222833] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:12:422    
+08-29 12:09:12:422    [0m[32m[1222841] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:12:424    [0m[1222848] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:12:424    [1222854] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:12:731    [32m[1225637] I/APP.ANI app_wat
+08-29 12:09:12:732    c: free_run_ready 0 
+08-29 12:09:12:732    
+08-29 12:09:12:734    [0m
+08-29 12:09:12:764    [32m[1225934] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:12:764    
+08-29 12:09:12:765    [0m[32m[1225943] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:12:765    
+08-29 12:09:12:766    [0m[32m[1225951] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:12:766    
+08-29 12:09:12:767    [0m[32m[1225959] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:12:767    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:12:768    [32m[1225973] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:12:768    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:12:769    [32m[1225986] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:12:769    [0m[1225993] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:12:771    chedule_task--
+08-29 12:09:12:840    [1226626] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:134691.
+08-29 12:09:12:840    [32m[1226636] I/APP.FWK.INT
+08-29 12:09:12:841     timer: [MainScreen]
+08-29 12:09:12:843    [0m
+08-29 12:09:12:845    [1226671] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:12:846    [32m[1226679] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:134691
+08-29 12:09:12:847    [0m[1226688] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:12:848    [1226697] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:12:849    [1226702] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:12:849    [1226709] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:12:850    [1226718] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:12:851    [32m[1226727] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:12:851    [0m[MusicApp] on_pause
+08-29 12:09:12:852    [32m[1226738] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:12:853    [0m[32m[1226747] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:12:854    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:12:854    [32m[1226760] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:12:856    [0m[32m[1226771] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:12:857    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:12:857    [32m[1226785] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:12:858    [0
+08-29 12:09:12:859    m
+08-29 12:09:12:872    [32m[1226913] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:12:872    [0m[32m[1226922] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:12:873    [0m[32m[1226929] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:12:874    
+08-29 12:09:12:874    [0m[32m[1226937] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:12:875    [0m[1226944] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:12:875    [1226950] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:13:185    [32m[1229748] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:13:186    
+08-29 12:09:13:187    [0m
+08-29 12:09:13:216    [32m[1230038] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:13:216    
+08-29 12:09:13:217    [0m[32m[1230046] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:13:217    
+08-29 12:09:13:219    [0m[32m[1230053] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:13:219    
+08-29 12:09:13:219    [0m[32m[1230060] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:13:220    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:13:220    [32m[1230072] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:13:221    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:13:221    [32m[1230085] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:13:222    [0m[1230092] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:13:223    chedule_task--
+08-29 12:09:13:437    [1232032] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:135285.
+08-29 12:09:13:438    [32m[1232042] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:13:439    [0m
+08-29 12:09:13:457    [1232223] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:13:458    [32m[1232232] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:135285
+08-29 12:09:13:459    [0m[1232240] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:13:459    [1232249] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:13:460    [1232254] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:13:461    [1232262] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:13:461    [1232271] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:13:463    [32m[1232280] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:13:464    [0m[32m[1232289] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:13:464    [0m[MusicApp] on_resume
+08-29 12:09:13:465    [32m[1232300] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:13:467    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:13:467    [32m[1232313] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:13:468    [0m[32m[1232324] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:13:468    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:13:468    [32m[1232338] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:13:470    [0m
+08-29 12:09:13:482    [32m[1232446] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:13:482    [0m[32m[1232455] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:13:483    [0m[32m[1232462] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:13:483    
+08-29 12:09:13:484    [0m[32m[1232471] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:13:484    [0m[1232477] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:13:485    [1232483] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:13:792    [32m[1235268] I/APP.ANI app_wat
+08-29 12:09:13:793    c: free_run_ready 0 
+08-29 12:09:13:794    
+08-29 12:09:13:794    [0m
+08-29 12:09:13:825    [32m[1235565] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:13:826    
+08-29 12:09:13:827    [0m[32m[1235573] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:13:828    
+08-29 12:09:13:828    [0m[32m[1235581] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:13:828    
+08-29 12:09:13:828    [0m[32m[1235591] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:13:828    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:13:830    [32m[1235605] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:13:831    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:13:831    [32m[1235622] I/APP.SCHE app_watc: Trans-anim f
+08-29 12:09:13:832    inish, res=0
+08-29 12:09:13:832    [0m[1235630] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:13:833    chedule_task--
+08-29 12:09:13:904    [1236275] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:135751.
+08-29 12:09:13:905    [32m[1236285] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:13:905    [0m[1236302] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:13:907    [32m[1236310] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:135751
+08-29 12:09:13:908    [0m[1236319] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:13:910    [1236328] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:13:910    [1236333] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:13:910    [1236340] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:13:911    [1236349] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:13:912    [32m[1236358] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:13:912    [0m[MusicApp] on_pause
+08-29 12:09:13:914    [32m[1236369] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:13:915    [0m[32m[1236378] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:13:916    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:13:916    [32m[1236391] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:13:917    [0m[32m[1236402] I/APP.ANI app_watc: app_trans_animation_obj_cre
+08-29 12:09:13:917    ate = 200648e8
+08-29 12:09:13:918    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:13:918    [32m[1236416] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:13:919    [0
+08-29 12:09:13:920    m
+08-29 12:09:13:933    [32m[1236544] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:13:934    [0m[32m[1236553] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:13:935    [0m[32m[1236560] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:13:935    
+08-29 12:09:13:936    [0m[32m[1236569] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:13:936    [0m[1236575] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:13:937    [1236581] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:14:247    [32m[1239383] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:14:248    
+08-29 12:09:14:249    [0m
+08-29 12:09:14:279    [32m[1239679] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:14:280    
+08-29 12:09:14:281    [0m[32m[1239688] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:14:281    
+08-29 12:09:14:282    [0m[32m[1239697] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:14:282    
+08-29 12:09:14:283    [0m[32m[1239705] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:14:283    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:14:284    [32m[1239719] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:14:284    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:14:285    [32m[1239732] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:14:285    [0m[1239739] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:14:286    chedule_task--
+08-29 12:09:14:375    [1240544] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:136220.
+08-29 12:09:14:375    [32m[1240554] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:14:377    [0m
+08-29 12:09:14:390    [1240689] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:14:391    [32m[1240698] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:136220
+08-29 12:09:14:391    [0m[1240707] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:14:393    [1240715] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:14:393    [1240720] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:14:394    [1240728] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:14:394    [1240737] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:14:396    [32m[1240746] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:14:397    [0m[32m[1240755] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:14:397    [0m[MusicApp] on_resume
+08-29 12:09:14:399    [32m[1240766] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:14:399    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:14:400    [32m[1240779] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:14:401    [0m[32m[1240790] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:14:402    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:14:402    [32m[1240804] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:14:403    [0m
+08-29 12:09:14:414    [32m[1240913] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:14:415    [0m[32m[1240922] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:14:416    [0m[32m[1240929] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:14:416    
+08-29 12:09:14:417    [0m[32m[1240937] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:14:417    [0m[1240943] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:14:418    [1240950] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:14:728    [32m[1243734] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:14:729    
+08-29 12:09:14:730    [0m
+08-29 12:09:14:759    [32m[1244030] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:14:760    
+08-29 12:09:14:761    [0m[32m[1244039] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:14:761    
+08-29 12:09:14:762    [0m[32m[1244047] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:14:762    
+08-29 12:09:14:762    [0m[32m[1244056] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:14:763    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:14:763    [32m[1244070] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:14:764    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:14:765    [32m[1244086] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:14:766    [0m[1244095] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:14:766    chedule_task--
+08-29 12:09:14:849    [1244858] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:136694.
+08-29 12:09:14:850    [32m[1244869] I/APP.FWK.INT
+08-29 12:09:14:852     timer: [MainScreen]
+08-29 12:09:14:852    [0m
+08-29 12:09:14:872    [1245058] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:14:873    [32m[1245067] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:136694
+08-29 12:09:14:874    [0m[1245076] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:14:875    [1245084] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:14:876    [1245089] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:14:876    [1245097] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:14:877    [1245106] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:14:878    [32m[1245115] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:14:878    [0m[MusicApp] on_pause
+08-29 12:09:14:879    [32m[1245126] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:14:880    [0m[32m[1245135] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:14:881    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:14:881    [32m[1245147] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:14:882    [0m[32m[1245158] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:14:883    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:14:884    [32m[1245173] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:14:886    [0m
+08-29 12:09:14:898    [32m[1245300] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:14:899    [0m[32m[1245309] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:14:901    [0m[32m[1245316] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:14:901    
+08-29 12:09:14:901    [0m[32m[1245325] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:14:902    [0m[1245332] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:14:902    [1245338] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:15:213    [32m[1248136] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:15:214    
+08-29 12:09:15:214    [0m
+08-29 12:09:15:245    [32m[1248435] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:15:245    
+08-29 12:09:15:246    [0m[32m[1248444] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:15:246    
+08-29 12:09:15:246    [0m[32m[1248452] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:15:246    
+08-29 12:09:15:247    [0m[32m[1248461] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:15:247    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:15:247    [32m[1248476] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:15:249    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:15:249    [32m[1248489] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:15:250    [0m[1248496] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:15:251    chedule_task--
+08-29 12:09:15:333    [1249237] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:137175.
+08-29 12:09:15:334    [32m[1249247] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:15:335    [0m
+08-29 12:09:15:356    [1249446] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:15:356    [32m[1249454] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:137175
+08-29 12:09:15:357    [0m[1249463] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:15:358    [1249472] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:15:358    [1249477] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:15:360    [1249485] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:15:361    [1249493] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:15:362    [32m[1249502] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:15:364    [0m[32m[1249511] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:15:364    [0m[MusicApp] on_resume
+08-29 12:09:15:365    [32m[1249522] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:15:365    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:15:366    [32m[1249535] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:15:366    [0m[32m[1249546] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:15:367    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:15:367    [32m[1249561] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:15:368    [0m
+08-29 12:09:15:380    [32m[1249669] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:15:380    [0m[32m[1249678] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:15:381    [0m[32m[1249685] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:15:382    
+08-29 12:09:15:383    [0m[32m[1249693] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:15:384    [0m[1249700] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:15:384    [1249706] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:15:692    [32m[1252489] I/APP.ANI app_wat
+08-29 12:09:15:693    c: free_run_ready 0 
+08-29 12:09:15:693    
+08-29 12:09:15:694    [0m
+08-29 12:09:15:723    [32m[1252787] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:15:724    
+08-29 12:09:15:725    [0m[32m[1252795] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:15:725    
+08-29 12:09:15:726    [0m[32m[1252803] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:15:726    
+08-29 12:09:15:726    [0m[32m[1252812] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:15:727    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:15:728    [32m[1252827] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:15:729    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:15:730    [32m[1252844] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:15:731    [0m[1252854] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:15:731    chedule_task--
+08-29 12:09:16:041    [1255664] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:137881.
+08-29 12:09:16:042    [32m[1255674] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:16:043    [0m
+08-29 12:09:16:062    [1255855] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:16:063    [32m[1255863] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:137881
+08-29 12:09:16:063    [0m[1255872] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:16:065    [1255880] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:16:065    [1255886] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:16:066    [1255893] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:16:066    [1255902] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:16:069    [32m[1255911] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:16:069    [0m[MusicApp] on_pause
+08-29 12:09:16:070    [32m[1255922] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:16:070    [0m[32m[1255931] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:16:071    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:16:071    [32m[1255944] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:16:072    [0m[32m[1255954] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:16:073    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:16:073    [32m[1255969] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:16:075    [0
+08-29 12:09:16:076    m
+08-29 12:09:16:088    [32m[1256097] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:16:089    [0m[32m[1256105] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:16:090    [0m[32m[1256113] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:16:091    
+08-29 12:09:16:091    [0m[32m[1256121] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:16:092    [0m[1256128] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:16:093    [1256134] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:16:402    [32m[1258932] I/APP.ANI app_wat
+08-29 12:09:16:403    c: free_run_ready 0 
+08-29 12:09:16:403    
+08-29 12:09:16:404    [0m
+08-29 12:09:16:434    [32m[1259231] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:16:434    
+08-29 12:09:16:435    [0m[32m[1259238] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:16:436    
+08-29 12:09:16:436    [0m[32m[1259247] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:16:437    
+08-29 12:09:16:437    [0m[32m[1259256] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:16:437    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:16:438    [32m[1259270] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:16:439    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:16:441    [32m[1259289] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:16:442    [0m[1259297] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:16:443    chedule_task--
+08-29 12:09:16:690    [1261552] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:138528.
+08-29 12:09:16:692    [32m[1261563] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:16:693    [0m
+08-29 12:09:16:706    [1261697] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:16:707    [32m[1261706] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:138528
+08-29 12:09:16:708    [0m[1261715] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:16:708    [1261723] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:16:709    [1261729] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:16:710    [1261736] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:16:711    [1261745] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:16:712    [32m[1261754] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:16:713    [0m[32m[1261763] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:16:713    [0m[MusicApp] on_resume
+08-29 12:09:16:714    [32m[1261774] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:16:714    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:16:715    [32m[1261787] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:16:716    
+08-29 12:09:16:717    [0m[32m[1261798] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:16:717    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:16:718    [32m[1261812] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:16:719    [0m
+08-29 12:09:16:730    [32m[1261921] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:16:731    [0m[32m[1261930] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:16:732    [0m[32m[1261937] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:16:732    
+08-29 12:09:16:733    [0m[32m[1261945] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:16:734    [0m[1261952] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:16:734    [1261958] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:17:042    [32m[1264742] I/APP.ANI app_wat
+08-29 12:09:17:043    c: free_run_ready 0 
+08-29 12:09:17:044    
+08-29 12:09:17:044    [0m
+08-29 12:09:17:074    [32m[1265040] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:17:075    
+08-29 12:09:17:075    [0m[32m[1265048] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:17:076    
+08-29 12:09:17:076    [0m[32m[1265057] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:17:077    
+08-29 12:09:17:077    [0m[32m[1265065] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:17:078    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:17:079    [32m[1265079] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:17:079    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:17:081    [32m[1265094] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:17:081    [0m[1265101] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:17:082    chedule_task--
+08-29 12:09:17:282    [1266916] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:139117.
+08-29 12:09:17:283    [32m[1266926] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:17:283    [0m[1266943] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:17:285    [32m[1266951] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:139117
+08-29 12:09:17:285    [0m[1266960] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:17:286    [1266969] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:17:288    [1266974] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:17:289    [1266981] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:17:289    [1266990] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:17:290    [32m[1266999] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:17:290    [0m[MusicApp] on_pause
+08-29 12:09:17:291    [32m[1267010] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:17:292    [0m[32m[1267019] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:17:292    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:17:294    [32m[1267032] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:17:295    [0m[32m[1267043] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:17:295    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:17:297    [32m[1267057] I/APP.ANI app
+08-29 12:09:17:298    _watc: buf = 604c8dd8
+08-29 12:09:17:298    [0m
+08-29 12:09:17:311    [32m[1267185] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:17:312    [0m[32m[1267194] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:17:312    [0m[32m[1267201] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:17:313    
+08-29 12:09:17:313    [0m[32m[1267210] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:17:314    [0m[1267216] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:17:315    [1267222] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:17:625    [32m[1270024] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:17:626    
+08-29 12:09:17:627    [0m
+08-29 12:09:17:657    [32m[1270322] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:17:657    
+08-29 12:09:17:658    [0m[32m[1270330] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:17:658    
+08-29 12:09:17:659    [0m[32m[1270339] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:17:659    
+08-29 12:09:17:659    [0m[32m[1270347] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:17:660    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:17:660    [32m[1270362] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:17:662    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:17:662    [32m[1270377] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:17:663    [0m[1270384] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:17:664    chedule_task--
+08-29 12:09:18:890    [1281510] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:140720.
+08-29 12:09:18:891    [32m[1281521] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:18:891    [0m[1281528] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:18:892    [32m[1281537] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:140720
+08-29 12:09:18:893    [0m[1281546] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:18:895    [1281554] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:18:895    [1281559] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:18:896    [1281567] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:18:896    [1281576] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:18:898    [32m[1281585] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:18:899    [0m[32m[1281594] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:18:899    [0m[MusicApp] on_resume
+08-29 12:09:18:900    [32m[1281605] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:18:902    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:18:902    [32m[1281618] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:18:903    [0m[32m[1281629] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:18:903    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:18:904    [32m[1281643] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:18:906    [0m
+08-29 12:09:18:916    [32m[1281751] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:18:917    [0m[32m[1281760] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:18:918    [0m[32m[1281767] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:18:918    
+08-29 12:09:18:919    [0m[32m[1281776] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:18:920    [0m[1281782] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:18:920    [1281788] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:19:228    [32m[1284571] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:19:230    
+08-29 12:09:19:231    [0m
+08-29 12:09:19:260    [32m[1284869] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:19:261    
+08-29 12:09:19:262    [0m[32m[1284876] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:19:262    
+08-29 12:09:19:263    [0m[32m[1284882] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:19:263    
+08-29 12:09:19:263    [0m[32m[1284890] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:19:264    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:19:264    [32m[1284902] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:19:265    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:19:265    [32m[1284915] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:19:266    [0m[1284922] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:19:266    chedule_task--
+08-29 12:09:19:477    [1286826] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:141304.
+08-29 12:09:19:478    [32m[1286837] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:19:479    [0m
+08-29 12:09:19:503    [1287063] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:19:503    [32m[1287071] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:141304
+08-29 12:09:19:504    [0m[1287080] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:19:504    [1287088] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:19:505    [1287094] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:19:505    [1287101] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:19:507    [1287110] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:19:508    [32m[1287119] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:19:508    [0m[MusicApp] on_pause
+08-29 12:09:19:509    [32m[1287130] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:19:509    [0m[32m[1287139] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:19:511    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:19:511    [32m[1287152] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:19:512    [0m[32m[1287162] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:19:513    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:19:515    [32m[1287177] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:19:515    [0
+08-29 12:09:19:516    m
+08-29 12:09:19:529    [32m[1287305] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:19:529    [0m[32m[1287314] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:19:530    [0m[32m[1287321] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:19:531    
+08-29 12:09:19:531    [0m[32m[1287330] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:19:533    [0m[1287336] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:19:533    [1287342] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:19:843    [32m[1290143] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:19:844    
+08-29 12:09:19:845    [0m
+08-29 12:09:19:874    [32m[1290441] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:19:875    
+08-29 12:09:19:876    [0m[32m[1290449] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:19:876    
+08-29 12:09:19:877    [0m[32m[1290458] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:19:877    
+08-29 12:09:19:878    [0m[32m[1290465] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:19:878    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:19:879    [32m[1290477] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:19:879    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:19:880    [32m[1290490] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:19:881    [0m[1290497] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:19:881    chedule_task--
+08-29 12:09:20:057    [1292108] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:141884.
+08-29 12:09:20:086    [32m[1292119] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:20:086    [0m[1292326] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:20:087    [32m[1292335] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:141884
+08-29 12:09:20:087    [0m[1292344] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:20:087    [1292352] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:20:088    [1292357] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:20:088    [1292365] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:20:088    [1292374] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:20:089    [32m[1292383] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:20:089    [0m[32m[1292392] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:20:089    [0m[MusicApp] on_resume
+08-29 12:09:20:090    [32m[1292403] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:20:090    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:20:092    [32m[1292416] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:20:093    [0m[32m[1292427] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:20:093    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:20:093    [32m[1292441] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:20:096    [0m
+08-29 12:09:20:106    [32m[1292550] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:20:108    [0m[32m[1292559] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:20:108    [0m[32m[1292566] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:20:109    
+08-29 12:09:20:110    [0m[32m[1292574] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:20:110    [0m[1292581] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:20:111    [1292587] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:20:419    [32m[1295371] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:20:420    
+08-29 12:09:20:422    [0m
+08-29 12:09:20:450    [32m[1295669] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:20:451    
+08-29 12:09:20:452    [0m[32m[1295678] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:20:453    
+08-29 12:09:20:453    [0m[32m[1295686] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:20:454    
+08-29 12:09:20:454    [0m[32m[1295694] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:20:455    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:20:455    [32m[1295709] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:20:456    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:20:457    [32m[1295725] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:20:458    [0m[1295734] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:20:459    chedule_task--
+08-29 12:09:20:788    [1298718] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:142610.
+08-29 12:09:20:789    [32m[1298728] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:20:789    [0m[1298736] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:20:790    [32m[1298745] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:142610
+08-29 12:09:20:790    [0m[1298753] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:20:791    [1298762] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:20:791    [1298767] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:20:793    [1298774] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:20:794    [1298783] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:20:795    [32m[1298792] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:20:795    [0m[MusicApp] on_pause
+08-29 12:09:20:796    [32m[1298803] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:20:797    [0m[32m[1298812] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:20:797    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:20:798    [32m[1298825] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:20:800    [0m[32m[1298836] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:20:800    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:20:801    [32m[1298850] I/APP.ANI app
+08-29 12:09:20:801    _watc: buf = 604c8dd8
+08-29 12:09:20:803    [0m
+08-29 12:09:20:816    [32m[1298978] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:20:816    [0m[32m[1298987] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:20:817    [0m[32m[1298994] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:20:818    
+08-29 12:09:20:818    [0m[32m[1299003] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:20:819    [0m[1299009] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:20:819    [1299015] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:21:129    [32m[1301813] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:21:131    
+08-29 12:09:21:132    [0m
+08-29 12:09:21:161    [32m[1302113] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:21:162    
+08-29 12:09:21:163    [0m[32m[1302121] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:21:163    
+08-29 12:09:21:164    [0m[32m[1302129] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:21:164    
+08-29 12:09:21:165    [0m[32m[1302138] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:21:165    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:21:166    [32m[1302153] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:21:167    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:21:167    [32m[1302170] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:21:168    [0m[1302179] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:21:169    chedule_task--
+08-29 12:09:21:738    [1307340] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:143557.
+08-29 12:09:21:740    [32m[1307350] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:21:741    [0m
+08-29 12:09:21:754    [1307494] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:21:755    [32m[1307503] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:143557
+08-29 12:09:21:756    [0m[1307511] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:21:757    [1307520] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:21:758    [1307525] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:21:758    [1307533] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:21:760    [1307541] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:21:761    [32m[1307550] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:21:762    [0m[32m[1307559] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:21:762    [0m[MusicApp] on_resume
+08-29 12:09:21:763    [32m[1307571] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:21:763    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:21:763    [32m[1307583] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:21:765    
+08-29 12:09:21:765    [0m[32m[1307594] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:21:766    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:21:767    [32m[1307609] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:21:767    [0m
+08-29 12:09:21:779    [32m[1307717] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:21:780    [0m[32m[1307726] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:21:781    [0m[32m[1307733] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:21:781    
+08-29 12:09:21:781    [0m[32m[1307741] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:21:782    [0m[1307748] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:21:783    [1307754] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:22:091    [32m[1310539] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:22:092    
+08-29 12:09:22:094    [0m
+08-29 12:09:22:123    [32m[1310835] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:22:124    
+08-29 12:09:22:124    [0m[32m[1310842] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:22:125    
+08-29 12:09:22:125    [0m[32m[1310851] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:22:125    
+08-29 12:09:22:126    [0m[32m[1310858] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:22:127    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:22:127    [32m[1310870] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:22:127    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:22:127    [32m[1310883] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:22:129    [0m[1310890] D/APP.SCHE app_watc: --Resume app_schedule_task--
+08-29 12:09:22:595    [1315121] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:144412.
+08-29 12:09:22:597    [32m[1315131] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:22:598    [0m
+08-29 12:09:22:620    [1315357] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:22:622    [32m[1315366] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:144412
+08-29 12:09:22:623    [0m[1315375] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:22:624    [1315383] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:22:624    [1315388] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:22:625    [1315396] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:22:626    [1315405] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:22:627    [32m[1315414] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:22:627    [0m[MusicApp] on_pause
+08-29 12:09:22:628    [32m[1315425] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:22:629    [0m[32m[1315434] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:22:629    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:22:631    [32m[1315446] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:22:632    [0m[32m[1315457] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:22:633    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:22:633    [32m[1315472] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:22:634    [0
+08-29 12:09:22:635    m
+08-29 12:09:22:647    [32m[1315600] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:22:649    [0m[32m[1315608] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:22:650    [0m[32m[1315616] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:22:650    
+08-29 12:09:22:650    [0m[32m[1315624] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:22:651    [0m[1315631] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:22:652    [1315637] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:22:961    [32m[1318436] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:22:962    
+08-29 12:09:22:963    [0m
+08-29 12:09:22:993    [32m[1318735] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:22:993    
+08-29 12:09:22:994    [0m[32m[1318743] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:22:995    
+08-29 12:09:22:996    [0m[32m[1318751] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:22:996    
+08-29 12:09:22:998    [0m[32m[1318760] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:22:998    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:22:998    [32m[1318774] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:22:999    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:22:999    [32m[1318790] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:23:000    [0m[1318800] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:23:002    chedule_task--
+08-29 12:09:23:279    [1321318] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:145093.
+08-29 12:09:23:280    [32m[1321328] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:23:281    [0m
+08-29 12:09:23:296    [1321490] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:23:298    [32m[1321499] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:145093
+08-29 12:09:23:299    [0m[1321508] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:23:300    [1321517] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:23:300    [1321522] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:23:301    [1321530] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:23:302    [1321539] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:23:303    [32m[1321548] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:23:304    [0m[32m[1321557] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:23:304    [0m[MusicApp] on_resume
+08-29 12:09:23:305    [32m[1321568] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:23:306    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:23:307    [32m[1321581] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:23:307    
+08-29 12:09:23:308    [0m[32m[1321592] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:23:309    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:23:309    [32m[1321606] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:23:311    [0m
+08-29 12:09:23:321    [32m[1321715] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:23:322    [0m[32m[1321724] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:23:323    [0m[32m[1321731] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:23:324    
+08-29 12:09:23:324    [0m[32m[1321739] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:23:325    [0m[1321746] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:23:325    [1321752] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:23:633    [32m[1324533] I/APP.ANI app_wat
+08-29 12:09:23:634    c: free_run_ready 0 
+08-29 12:09:23:634    
+08-29 12:09:23:636    [0m
+08-29 12:09:23:665    [32m[1324829] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:23:665    
+08-29 12:09:23:666    [0m[32m[1324837] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:23:667    
+08-29 12:09:23:667    [0m[32m[1324845] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:23:667    
+08-29 12:09:23:668    [0m[32m[1324855] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:23:669    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:23:669    [32m[1324869] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:23:671    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:23:671    [32m[1324887] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:23:672    [0m[1324895] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:23:673    chedule_task--
+08-29 12:09:24:889    [1335941] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:146700.
+08-29 12:09:24:892    [32m[1335951] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:24:892    [0m
+08-29 12:09:24:902    [1336049] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:24:903    [32m[1336058] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:146700
+08-29 12:09:24:904    [0m[1336067] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:24:904    [1336075] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:24:906    [1336080] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:24:906    [1336088] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:24:907    [1336097] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:24:908    [32m[1336106] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:24:908    [0m[MusicApp] on_pause
+08-29 12:09:24:909    [32m[1336117] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:24:910    [0m[32m[1336126] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:24:910    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:24:910    [32m[1336139] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:24:913    [0m[32m[1336150] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:24:914    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:24:915    [32m[1336164] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:24:915    [0m
+08-29 12:09:24:928    [32m[1336292] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:24:929    [0m[32m[1336301] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:24:930    [0m[32m[1336308] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:24:931    
+08-29 12:09:24:931    [0m[32m[1336316] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:24:932    [0m[1336323] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:24:932    [1336329] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:25:242    [32m[1339129] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:25:243    
+08-29 12:09:25:244    [0m
+08-29 12:09:25:274    [32m[1339428] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:25:275    
+08-29 12:09:25:275    [0m[32m[1339437] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:25:277    
+08-29 12:09:25:277    [0m[32m[1339445] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:25:278    
+08-29 12:09:25:278    [0m[32m[1339454] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:25:278    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:25:279    [32m[1339468] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:25:279    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:25:281    [32m[1339484] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:25:281    [0m[1339494] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:25:282    chedule_task--
+08-29 12:09:26:746    [1352769] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:148549.
+08-29 12:09:26:748    [32m[1352779] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:26:749    [0m
+08-29 12:09:26:767    [1352978] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:26:768    [32m[1352986] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:148549
+08-29 12:09:26:770    [0m[1352995] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:26:770    [1353004] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:26:771    [1353009] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:26:772    [1353017] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:26:773    [1353025] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:26:774    [32m[1353034] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:26:774    [0m[32m[1353043] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:26:775    [0m[MusicApp] on_resume
+08-29 12:09:26:776    [32m[1353054] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:26:776    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:26:777    [32m[1353067] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:26:778    
+08-29 12:09:26:778    [0m[32m[1353078] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:26:779    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:26:781    [32m[1353093] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:26:782    [0m
+08-29 12:09:26:793    [32m[1353201] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:26:794    [0m[32m[1353210] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:26:795    [0m[32m[1353217] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:26:795    
+08-29 12:09:26:796    [0m[32m[1353225] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:26:796    [0m[1353232] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:26:797    [1353238] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:27:104    [32m[1356018] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:27:105    
+08-29 12:09:27:106    [0m
+08-29 12:09:27:136    [32m[1356316] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:27:136    
+08-29 12:09:27:137    [0m[32m[1356322] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:27:138    
+08-29 12:09:27:139    [0m[32m[1356329] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:27:139    
+08-29 12:09:27:140    [0m[32m[1356336] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:27:140    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:27:140    [32m[1356348] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:27:141    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:27:141    [32m[1356361] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:27:142    [0m[1356368] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:27:143    chedule_task--
+08-29 12:09:27:945    [1363653] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:149745.
+08-29 12:09:27:946    [32m[1363663] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:27:947    [0m
+08-29 12:09:27:956    [1363753] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:27:956    [32m[1363762] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:149745
+08-29 12:09:27:957    [0m[1363770] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:27:958    [1363779] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:27:959    [1363784] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:27:959    [1363792] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:27:960    [1363800] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:27:961    [32m[1363809] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:27:963    [0m[MusicApp] on_pause
+08-29 12:09:27:963    [32m[1363820] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:27:964    [0m[32m[1363829] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:27:965    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:27:965    [32m[1363842] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:27:966    [0m[32m[1363853] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:27:967    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:27:968    [32m[1363867] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:27:970    [0m
+08-29 12:09:27:982    [32m[1363996] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:27:984    [0m[32m[1364004] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:27:984    [0m[32m[1364012] I/APP.ANI app_watc: app_trans_animation_setup end, cost=19ms
+08-29 12:09:27:985    
+08-29 12:09:27:985    [0m[32m[1364020] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:27:986    [0m[1364027] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:27:987    [1364033] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:28:295    [32m[1366831] I/APP.ANI app_wat
+08-29 12:09:28:297    c: free_run_ready 0 
+08-29 12:09:28:297    
+08-29 12:09:28:297    [0m
+08-29 12:09:28:327    [32m[1367130] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:28:329    
+08-29 12:09:28:329    [0m[32m[1367139] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:28:330    
+08-29 12:09:28:330    [0m[32m[1367147] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:28:330    
+08-29 12:09:28:331    [0m[32m[1367159] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:28:331    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:28:333    [32m[1367175] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:28:334    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:28:334    [32m[1367193] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:28:335    [0m[1367200] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:28:337    chedule_task--
+08-29 12:09:29:307    [Music] Stopped
+08-29 12:09:30:240    [1384467] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:152032.
+08-29 12:09:30:241    [32m[1384477] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:30:241    [0m[1384483] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:30:242    [32m[1384491] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:152032
+08-29 12:09:30:243    [0m[1384500] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:30:243    [1384509] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:30:244    [1384514] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:30:244    [1384521] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:30:246    [1384530] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:30:247    [32m[1384539] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637
+08-29 12:09:30:248    bc
+08-29 12:09:30:248    [0m[32m[1384548] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:30:249    [0m[MusicApp] on_resume
+08-29 12:09:30:249    [32m[1384559] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:30:250    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:30:250    [32m[1384572] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:30:251    [0m[32m[1384583] I/APP.ANI app_watc: app_trans_animation_obj_create = 200648e8
+08-29 12:09:30:253    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:30:253    [32m[1384598] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:30:256    [0m
+08-29 12:09:30:265    [32m[1384706] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064a60
+08-29 12:09:30:266    [0m[32m[1384715] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:30:266    [0m[32m[1384722] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:30:267    
+08-29 12:09:30:267    [0m[32m[1384730] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:30:269    [0m[1384737] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:30:269    [1384743] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:30:594    [32m[1387683] I/APP.ANI app_wat
+08-29 12:09:30:595    c: free_run_ready 0 
+08-29 12:09:30:596    
+08-29 12:09:30:596    [0m
+08-29 12:09:30:625    [32m[1387979] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:30:627    
+08-29 12:09:30:627    [0m[32m[1387986] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:30:627    
+08-29 12:09:30:629    [0m[32m[1387995] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:30:629    
+08-29 12:09:30:629    [0m[32m[1388003] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064a60
+08-29 12:09:30:630    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:30:631    [32m[1388017] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200648e8
+08-29 12:09:30:632    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:30:632    [32m[1388032] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:30:633    [0m[1388039] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:30:634    chedule_task--
+08-29 12:09:30:673    [1388406] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:152465.
+08-29 12:09:30:674    [32m[1388416] I/APP.FWK.INT
+08-29 12:09:30:674     timer: [MainScreen]
+08-29 12:09:30:675    [0m
+08-29 12:09:30:697    [1388624] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:30:698    [32m[1388633] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:152465
+08-29 12:09:30:699    [0m[1388642] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:30:700    [1388650] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:30:701    [1388655] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:30:701    [1388663] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:30:702    [1388672] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:30:703    [32m[1388681] I/APP.SCHE app_watc: page[Mus
+08-29 12:09:30:704    icScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:30:705    [0m[MusicApp] on_pause
+08-29 12:09:30:705    [32m[1388692] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:30:706    [0m[32m[1388700] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:30:706    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:30:707    [32m[1388713] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:30:707    [
+08-29 12:09:30:708    0m[32m[1388724] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:30:709    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:30:709    [32m[1388738] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:30:711    [0m
+08-29 12:09:30:723    [32m[1388855] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:30:724    [0m[32m[1388863] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:30:725    [0m[32m[1388870] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:30:725    
+08-29 12:09:30:726    [0m[32m[1388879] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:30:726    [0m[1388886] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:30:727    [1388892] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:31:036    [32m[1391683] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:31:038    
+08-29 12:09:31:039    [0m
+08-29 12:09:31:067    [32m[1391983] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:31:068    
+08-29 12:09:31:069    [0m[32m[1391990] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:31:069    
+08-29 12:09:31:070    [0m[32m[1391999] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:31:070    
+08-29 12:09:31:071    [0m[32m[1392007] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:31:071    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:31:072    [32m[1392021] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:31:072    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:31:074    [32m[1392037] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:31:074    [0m[1392046] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:31:075    chedule_task--
+08-29 12:09:31:205    [1393210] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:152993.
+08-29 12:09:31:205    [32m[1393220] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:31:206    [0m
+08-29 12:09:31:210    [1393282] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:31:211    [32m[1393291] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:152993
+08-29 12:09:31:212    [0m[1393300] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:31:214    [1393308] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:31:214    [1393313] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:31:215    [1393321] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:31:215    [1393330] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:31:217    [32m[1393339] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:31:218    [0m[32m[1393348] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:31:218    [0m[MusicApp] on_resume
+08-29 12:09:31:219    [32m[1393359] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:31:219    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:31:221    [32m[1393372] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:31:222    [0m[32m[1393383] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:31:222    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:31:223    [32m[1393397] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:31:224    [0m
+08-29 12:09:31:236    [32m[1393506] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:31:236    [0m[32m[1393514] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:31:237    [0m[32m[1393521] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:31:238    
+08-29 12:09:31:238    [0m[32m[1393530] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:31:238    [0m[1393536] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:31:239    [1393542] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:31:549    [32m[1396333] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:31:550    
+08-29 12:09:31:551    [0m
+08-29 12:09:31:579    [32m[1396622] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:31:580    
+08-29 12:09:31:580    [0m[32m[1396631] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:31:581    
+08-29 12:09:31:581    [0m[32m[1396638] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:31:581    
+08-29 12:09:31:582    [0m[32m[1396645] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:31:582    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:31:583    [32m[1396657] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:31:583    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:31:584    [32m[1396670] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:31:584    [0m[1396677] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:31:586    chedule_task--
+08-29 12:09:31:677    [1397514] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:153466.
+08-29 12:09:31:679    [32m[1397525] I/APP.FWK.INT
+08-29 12:09:31:679     timer: [MainScreen]
+08-29 12:09:31:680    [0m
+08-29 12:09:31:692    [1397650] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:31:693    [32m[1397659] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:153466
+08-29 12:09:31:694    [0m[1397668] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:31:695    [1397676] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:31:695    [1397681] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:31:696    [1397689] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:31:697    [1397698] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:31:698    [32m[1397707] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:31:699    [0m[MusicApp] on_pause
+08-29 12:09:31:700    [32m[1397718] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:31:700    [0m[32m[1397727] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:31:701    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:31:702    [32m[1397740] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:31:703    [0m[32m[1397750] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:31:704    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:31:704    [32m[1397765] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:31:706    [0m
+08-29 12:09:31:717    [32m[1397881] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:31:718    [0m[32m[1397890] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:31:720    [0m[32m[1397897] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:31:720    
+08-29 12:09:31:721    [0m[32m[1397906] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:31:721    [0m[1397912] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:31:722    [1397919] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:32:029    [32m[1400710] I/APP.ANI app_wat
+08-29 12:09:32:031    c: free_run_ready 0 
+08-29 12:09:32:031    
+08-29 12:09:32:032    [0m
+08-29 12:09:32:062    [32m[1401009] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:32:063    
+08-29 12:09:32:064    [0m[32m[1401016] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:32:064    
+08-29 12:09:32:065    [0m[32m[1401022] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:32:065    
+08-29 12:09:32:066    [0m[32m[1401030] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:32:066    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:32:066    [32m[1401042] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:32:067    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:32:067    [32m[1401055] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:32:068    [0m[1401062] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:32:068    chedule_task--
+08-29 12:09:32:166    [1401947] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:153953.
+08-29 12:09:32:167    [32m[1401957] I/APP.FWK.IN
+08-29 12:09:32:167    T timer: [MusicScreen]
+08-29 12:09:32:168    [0m
+08-29 12:09:32:174    [1402019] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:32:174    [32m[1402028] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:153953
+08-29 12:09:32:176    [0m[1402037] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:32:176    [1402045] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:32:177    [1402050] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen a
+08-29 12:09:32:177    pp
+08-29 12:09:32:178    [1402058] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:32:179    [1402067] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:32:180    [32m[1402076] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:32:180    [0m[32m[1402085] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:32:181    [0m[MusicApp] on_resume
+08-29 12:09:32:182    [32m[1402096] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:32:182    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:32:184    [32m[1402109] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:32:184    
+08-29 12:09:32:184    [0m[32m[1402119] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:32:186    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:32:186    [32m[1402134] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:32:187    [0m
+08-29 12:09:32:199    [32m[1402242] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:32:199    [0m[32m[1402251] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:32:200    [0m[32m[1402258] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:32:200    
+08-29 12:09:32:200    [0m[32m[1402267] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:32:202    [0m[1402273] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:32:203    [1402279] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:32:510    [32m[1405062] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:32:512    
+08-29 12:09:32:512    [0m
+08-29 12:09:32:542    [32m[1405359] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:32:543    
+08-29 12:09:32:544    [0m[32m[1405368] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:32:544    
+08-29 12:09:32:545    [0m[32m[1405377] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:32:546    
+08-29 12:09:32:546    [0m[32m[1405385] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:32:546    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:32:546    [32m[1405399] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:32:548    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:32:549    [32m[1405413] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:32:549    [0m[1405420] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:32:549    chedule_task--
+08-29 12:09:32:566    [1405569] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:154351.
+08-29 12:09:32:566    [32m[1405579] I/APP.FWK.INT
+08-29 12:09:32:567     timer: [MainScreen]
+08-29 12:09:32:568    [0m
+08-29 12:09:32:591    [1405805] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:32:592    [32m[1405814] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:154351
+08-29 12:09:32:592    [0m[1405823] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:32:594    [1405831] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:32:595    [1405836] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:32:595    [1405844] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:32:596    [1405853] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:32:597    [32m[1405862] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:32:597    [0m[MusicApp] on_pause
+08-29 12:09:32:598    [32m[1405873] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:32:599    [0m[32m[1405881] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:32:600    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:32:600    [32m[1405894] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:32:602    [0m[32m[1405905] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:32:603    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:32:603    [32m[1405919] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:32:604    [0
+08-29 12:09:32:605    m
+08-29 12:09:32:616    [32m[1406036] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:32:617    [0m[32m[1406045] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:32:618    [0m[32m[1406052] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:32:618    
+08-29 12:09:32:619    [0m[32m[1406061] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:32:619    [0m[1406067] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:32:620    [1406074] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:32:929    [32m[1408866] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:32:931    
+08-29 12:09:32:932    [0m
+08-29 12:09:32:961    [32m[1409165] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:32:962    
+08-29 12:09:32:963    [0m[32m[1409172] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:32:963    
+08-29 12:09:32:964    [0m[32m[1409179] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:32:964    
+08-29 12:09:32:965    [0m[32m[1409186] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:32:965    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:32:966    [32m[1409198] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:32:966    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:32:967    [32m[1409212] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:32:968    [0m[1409219] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:32:969    chedule_task--
+08-29 12:09:32:973    [1409264] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:154757.
+08-29 12:09:32:974    [32m[1409274] I/APP.FWK.IN
+08-29 12:09:32:974    T timer: [MusicScreen]
+08-29 12:09:32:975    [0m
+08-29 12:09:32:976    [1409300] D/APP.SCHE app_watc: -
+08-29 12:09:32:977    ---------------app_schedule_task---------------start
+08-29 12:09:32:979    [32m[1409315] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:154757
+08-29 12:09:32:980    [0m[1409328] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:32:980    [1409338] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:32:982    [1409345] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen a
+08-29 12:09:32:982    pp
+08-29 12:09:32:983    [1409354] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:32:984    [1409365] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:32:985    [32m[1409374] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:32:985    [0m[32m[1409383] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:32:986    [0m[MusicApp] on_resume
+08-29 12:09:32:986    [32m[1409394] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:32:987    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:32:988    [32m[1409407] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:32:989    [0m[32m[1409418] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:32:990    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:32:990    [32m[1409432] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:32:991    [0m
+08-29 12:09:33:004    [32m[1409554] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:33:005    [0m[32m[1409563] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:33:006    [0m[32m[1409570] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:33:006    
+08-29 12:09:33:006    [0m[32m[1409579] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:33:007    [0m[1409586] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:33:009    [1409592] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:33:315    [32m[1412367] I/APP.ANI app_wat
+08-29 12:09:33:317    c: free_run_ready 0 
+08-29 12:09:33:318    
+08-29 12:09:33:319    [0m
+08-29 12:09:33:347    [32m[1412667] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:33:348    
+08-29 12:09:33:348    [0m[32m[1412676] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:33:349    
+08-29 12:09:33:349    [0m[32m[1412683] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:33:350    
+08-29 12:09:33:350    [0m[32m[1412692] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:33:351    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:33:352    [32m[1412707] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:33:352    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:33:353    [32m[1412724] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:33:355    [0m[1412734] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:33:357    chedule_task--
+08-29 12:09:33:427    [1413377] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:155209.
+08-29 12:09:33:428    [32m[1413388] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:33:428    [0m[1413393] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:33:429    [32m[1413402] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:155209
+08-29 12:09:33:429    [0m[1413411] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:33:430    [1413419] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:33:431    [1413424] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:33:431    [1413432] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:33:432    [1413441] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:33:434    [32m[1413450] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:33:434    [0m[MusicApp] on_pause
+08-29 12:09:33:435    [32m[1413461] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:33:436    [0m[32m[1413470] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:33:437    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:33:437    [32m[1413483] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:33:438    [0m[32m[1413493] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:33:439    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:33:439    [32m[1413508] I/APP.ANI app
+08-29 12:09:33:441    _watc: buf = 604c8dd8
+08-29 12:09:33:441    [0m
+08-29 12:09:33:453    [32m[1413624] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:33:453    [0m[32m[1413633] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:33:454    [0m[32m[1413640] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:33:455    
+08-29 12:09:33:455    [0m[32m[1413649] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:33:456    [0m[1413655] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:33:457    [1413662] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:33:765    [32m[1416446] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:33:767    
+08-29 12:09:33:767    [0m
+08-29 12:09:33:795    [1416728] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:155577.
+08-29 12:09:33:796    [32m[1416739] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:33:797    [0m[32m[1416746] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:33:797    
+08-29 12:09:33:797    [0m[32m[1416752] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:33:799    
+08-29 12:09:33:800    [0m[32m[1416762] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:33:800    
+08-29 12:09:33:801    [0m[32m[1416771] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:33:801    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:33:801    [32m[1416785] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:33:802    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:33:803    [32m[1416803] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:33:804    [0m[1416811] D/APP.SCHE app_watc: --Resume app_sche
+08-29 12:09:33:805    dule_task--
+08-29 12:09:33:813    [1416891] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:33:814    [32m[1416901] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] ti
+08-29 12:09:33:814    ck:155577
+08-29 12:09:33:815    [0m[1416913] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are 
+08-29 12:09:33:816    -
+08-29 12:09:33:816    [1416924] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:33:817    [1416931] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:33:818    [1416941] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:33:819    [1416952] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:33:821    [32m[1416962] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:33:822    [0m[32m[1416973] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:33:823    [0m[MusicApp] on_resume
+08-29 12:09:33:824    [32m[1416987] I/APP.SCHE app_watc: Tr
+08-29 12:09:33:824    y setup trans-anim
+08-29 12:09:33:825    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:33:826    [32m[1417003] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:33:827    [0m[32m[1417015] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064074
+08-29 12:09:33:828    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:33:828    [32m[1417034] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:33:830    [0m
+08-29 12:09:33:844    [32m[1417178] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063cd4
+08-29 12:09:33:845    [0m[32m[1417186] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:33:846    [0m[32m[1417193] I/APP.ANI app_watc: app_trans_animation_setup end, cost=22ms
+08-29 12:09:33:847    
+08-29 12:09:33:847    [0m[32m[1417202] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:33:848    [0m[1417208] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:33:849    [1417214] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:34:157    [32m[1419999] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:34:158    
+08-29 12:09:34:160    [0m
+08-29 12:09:34:188    [32m[1420296] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:34:188    
+08-29 12:09:34:189    [0m[32m[1420305] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:34:189    
+08-29 12:09:34:190    [0m[32m[1420313] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:34:190    
+08-29 12:09:34:191    [0m[32m[1420322] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063cd4
+08-29 12:09:34:193    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:34:194    [32m[1420337] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064074
+08-29 12:09:34:194    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:34:196    [32m[1420353] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:34:196    [0m[1420359] D/APP.SCHE app_watc: --Resume app_schedule_task--
+08-29 12:09:34:502    [1423138] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:156281.
+08-29 12:09:34:503    [32m[1423148] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:34:505    [0m
+08-29 12:09:34:525    [1423347] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:34:527    [32m[1423356] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:156281
+08-29 12:09:34:527    [0m[1423364] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:34:528    [1423373] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:34:528    [1423378] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:34:529    [1423385] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:34:530    [1423394] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:34:531    [32m[1423403] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:34:531    [0m[MusicApp] on_pause
+08-29 12:09:34:532    [32m[1423414] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:34:533    [0m[32m[1423423] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:34:534    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:34:535    [32m[1423436] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:34:536    [0m[32m[1423447] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:34:537    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:34:537    [32m[1423461] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:34:539    [0m
+08-29 12:09:34:550    [32m[1423578] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:34:551    [0m[32m[1423587] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:34:552    [0m[32m[1423594] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:34:552    
+08-29 12:09:34:553    [0m[32m[1423602] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:34:554    [0m[1423609] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:34:554    [1423615] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:34:863    [32m[1426407] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:34:864    
+08-29 12:09:34:865    [0m
+08-29 12:09:34:894    [32m[1426698] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:34:895    
+08-29 12:09:34:895    [0m[32m[1426704] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:34:896    
+08-29 12:09:34:897    [0m[32m[1426711] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:34:897    
+08-29 12:09:34:897    [0m[32m[1426718] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:34:898    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:34:898    [32m[1426730] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:34:899    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:34:899    [32m[1426743] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:34:900    [0m[1426750] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:34:900    chedule_task--
+08-29 12:09:35:037    [1427991] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:156814.
+08-29 12:09:35:039    [32m[1428001] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:35:039    [0m[1428009] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:35:040    [32m[1428017] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:156814
+08-29 12:09:35:041    [0m[1428026] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:35:042    [1428035] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:35:043    [1428040] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:35:043    [1428048] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:35:044    [1428056] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:35:045    [32m[1428065] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:35:046    [0m[32m[1428074] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:35:047    [0m[MusicApp] on_resume
+08-29 12:09:35:047    [32m[1428085] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:35:048    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:35:048    [32m[1428098] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:35:049    [0m[32m[1428109] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:35:050    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:35:051    [32m[1428124] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:35:053    [0m
+08-29 12:09:35:063    [32m[1428232] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:35:064    [0m[32m[1428241] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:35:065    [0m[32m[1428248] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:35:065    
+08-29 12:09:35:066    [0m[32m[1428256] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:35:067    [0m[1428263] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:35:067    [1428269] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:35:375    [32m[1431054] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:35:377    
+08-29 12:09:35:378    [0m
+08-29 12:09:35:407    [32m[1431350] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:35:408    
+08-29 12:09:35:409    [0m[32m[1431358] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:35:409    
+08-29 12:09:35:410    [0m[32m[1431366] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:35:410    
+08-29 12:09:35:411    [0m[32m[1431376] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:35:411    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:35:412    [32m[1431388] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:35:412    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:35:413    [32m[1431401] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:35:414    [0m[1431408] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:35:414    chedule_task--
+08-29 12:09:35:472    [1431941] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:157248.
+08-29 12:09:35:473    [32m[1431952] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:35:475    [0m
+08-29 12:09:35:487    [1432087] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:35:489    [32m[1432095] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:157248
+08-29 12:09:35:490    [0m[1432104] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:35:491    [1432112] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:35:491    [1432118] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:35:492    [1432125] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:35:493    [1432134] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:35:494    [32m[1432143] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:35:495    [0m[MusicApp] on_pause
+08-29 12:09:35:496    [32m[1432154] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:35:497    [0m[32m[1432163] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:35:497    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:35:498    [32m[1432176] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:35:498    [
+08-29 12:09:35:499    0m[32m[1432186] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:35:500    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:35:500    [32m[1432201] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:35:501    [0
+08-29 12:09:35:502    m
+08-29 12:09:35:514    [32m[1432318] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:35:514    [0m[32m[1432326] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:35:515    [0m[32m[1432334] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:35:516    
+08-29 12:09:35:516    [0m[32m[1432342] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:35:517    [0m[1432349] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:35:517    [1432355] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:35:827    [32m[1435146] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:35:828    
+08-29 12:09:35:829    [0m
+08-29 12:09:35:858    [32m[1435445] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:35:859    
+08-29 12:09:35:860    [0m[32m[1435454] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:35:860    
+08-29 12:09:35:860    [0m[32m[1435461] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:35:861    
+08-29 12:09:35:861    [0m[32m[1435468] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:35:862    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:35:862    [32m[1435480] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:35:863    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:35:863    [32m[1435493] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:35:864    [0m[1435500] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:35:865    chedule_task--
+08-29 12:09:36:018    [1436884] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:157791.
+08-29 12:09:36:018    [32m[1436895] I/APP.FWK.IN
+08-29 12:09:36:019    T timer: [MusicScreen]
+08-29 12:09:36:019    [0m
+08-29 12:09:36:033    [1437039] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:36:050    [32m[1437047] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:157791
+08-29 12:09:36:051    [0m[1437056] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:36:051    [1437065] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:36:051    [1437070] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:36:051    [1437078] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:36:052    [1437086] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:36:052    [32m[1437095] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:36:052    [0m[32m[1437104] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:36:052    [0m[MusicApp] on_resume
+08-29 12:09:36:053    [32m[1437116] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:36:053    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:36:053    [32m[1437128] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:36:054    [0m[32m[1437139] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:36:054    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:36:054    [32m[1437154] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:36:054    [0m
+08-29 12:09:36:058    [32m[1437262] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:36:059    [0m[32m[1437271] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:36:060    [0m[32m[1437278] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:36:060    
+08-29 12:09:36:061    [0m[32m[1437286] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:36:061    [0m[1437293] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:36:062    [1437299] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:36:371    [32m[1440083] I/APP.ANI app_wat
+08-29 12:09:36:372    c: free_run_ready 0 
+08-29 12:09:36:372    
+08-29 12:09:36:373    [0m
+08-29 12:09:36:403    [32m[1440380] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:36:403    
+08-29 12:09:36:404    [0m[32m[1440389] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:36:404    
+08-29 12:09:36:405    [0m[32m[1440397] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:36:405    
+08-29 12:09:36:406    [0m[32m[1440405] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:36:406    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:36:407    [32m[1440420] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:36:407    [0mapp_anim_buf_fr
+08-29 12:09:36:408    ee: 0x6051e8f0
+08-29 12:09:36:408    [32m[1440436] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:36:409    [0m[1440445] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:36:409    chedule_task--
+08-29 12:09:36:802    [1444004] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:158573.
+08-29 12:09:36:805    [32m[1444015] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:36:805    [0m[1444031] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:36:806    [32m[1444040] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:158573
+08-29 12:09:36:806    [0m[1444049] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:36:807    [1444057] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:36:807    [1444062] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:36:809    [1444070] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:36:810    [1444079] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:36:811    [32m[1444088] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:36:812    [0m[MusicApp] on_pause
+08-29 12:09:36:812    [32m[1444099] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:36:813    [0m[32m[1444108] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:36:814    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:36:815    [32m[1444121] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:36:816    [0m[32m[1444131] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:36:816    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:36:817    [32m[1444146] I/APP.ANI app
+08-29 12:09:36:818    _watc: buf = 604c8dd8
+08-29 12:09:36:819    [0m
+08-29 12:09:36:830    [32m[1444262] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:36:830    [0m[32m[1444271] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:36:832    [0m[32m[1444278] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:36:833    
+08-29 12:09:36:833    [0m[32m[1444287] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:36:834    [0m[1444294] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:36:834    [1444300] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:37:143    [32m[1447094] I/APP.ANI app_wat
+08-29 12:09:37:145    c: free_run_ready 0 
+08-29 12:09:37:145    
+08-29 12:09:37:145    [0m
+08-29 12:09:37:175    [32m[1447390] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:37:176    
+08-29 12:09:37:177    [0m[32m[1447399] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:37:177    
+08-29 12:09:37:177    [0m[32m[1447405] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:37:178    
+08-29 12:09:37:178    [0m[32m[1447413] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:37:178    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:37:179    [32m[1447425] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:37:179    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:37:181    [32m[1447438] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:37:181    [0m[1447444] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:37:182    chedule_task--
+08-29 12:09:37:368    [1449138] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:159137.
+08-29 12:09:37:375    [32m[1449148] I/APP.FWK.INT timer: [MusicScreen]
+08-29 12:09:37:376    [0m
+08-29 12:09:37:382    [1449274] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:37:384    [32m[1449283] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:159137
+08-29 12:09:37:385    [0m[1449292] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+08-29 12:09:37:386    [1449300] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:37:387    [1449305] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+08-29 12:09:37:387    [1449313] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:37:388    [1449322] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:37:389    [32m[1449331] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 200637bc
+08-29 12:09:37:390    [0m[32m[1449340] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 200647b0
+08-29 12:09:37:390    [0m[MusicApp] on_resume
+08-29 12:09:37:391    [32m[1449351] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:37:392    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:37:393    [32m[1449364] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:37:394    [0m[32m[1449374] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:37:394    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:37:395    [32m[1449389] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:37:396    [0m
+08-29 12:09:37:407    [32m[1449497] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:37:408    [0m[32m[1449506] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:37:409    [0m[32m[1449513] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+08-29 12:09:37:409    
+08-29 12:09:37:410    [0m[32m[1449521] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:37:410    [0m[1449528] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:37:411    [1449534] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:37:719    [32m[1452318] I/APP.ANI app_watc: free_run_ready 0 
+08-29 12:09:37:720    
+08-29 12:09:37:721    [0m
+08-29 12:09:37:751    [32m[1452614] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:37:752    
+08-29 12:09:37:752    [0m[32m[1452622] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:37:753    
+08-29 12:09:37:753    [0m[32m[1452630] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:37:753    
+08-29 12:09:37:754    [0m[32m[1452639] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:37:754    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:37:755    [32m[1452653] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:37:756    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:37:756    [32m[1452668] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:37:758    [0m[1452678] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:37:759    chedule_task--
+08-29 12:09:40:321    [1475922] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:162079.
+08-29 12:09:40:323    [32m[1475932] I/APP.FWK.INT timer: [MainScreen]
+08-29 12:09:40:324    [0m
+08-29 12:09:40:337    [1476076] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 12:09:40:338    [32m[1476085] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:162079
+08-29 12:09:40:339    [0m[1476094] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+08-29 12:09:40:340    [1476102] D/APP.SCHE app_watc: - same. Resume it
+08-29 12:09:40:340    [1476107] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 12:09:40:342    [1476115] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+08-29 12:09:40:342    [1476124] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+08-29 12:09:40:343    [32m[1476133] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 200647b0
+08-29 12:09:40:344    [0m[MusicApp] on_pause
+08-29 12:09:40:344    [32m[1476144] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+08-29 12:09:40:345    [0m[32m[1476153] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 12:09:40:346    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+08-29 12:09:40:347    [32m[1476165] I/APP.ANI app_watc: buf = 6051e8f0
+08-29 12:09:40:348    [0m[32m[1476176] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063d7c
+08-29 12:09:40:349    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+08-29 12:09:40:349    [32m[1476191] I/APP.ANI app_watc: buf = 604c8dd8
+08-29 12:09:40:351    [0m
+08-29 12:09:40:363    [32m[1476307] I/APP.ANI app_watc: app_trans_animation_obj_create = 20063ef4
+08-29 12:09:40:363    [0m[32m[1476316] I/APP.ANI app_watc: Start free run animation
+08-29 12:09:40:364    [0m[32m[1476323] I/APP.ANI app_watc: app_trans_animation_setup end, cost=18ms
+08-29 12:09:40:365    
+08-29 12:09:40:365    [0m[32m[1476332] I/APP.SCHE app_watc: Trans-anim setup done.
+08-29 12:09:40:366    [0m[1476338] D/APP.SCHE app_watc: --Pause app_schedule_task--
+08-29 12:09:40:366    [1476345] D/APP.SCHE app_watc: app_schedule_task done.
+08-29 12:09:40:675    [32m[1479136] I/APP.ANI app_wat
+08-29 12:09:40:676    c: free_run_ready 0 
+08-29 12:09:40:676    
+08-29 12:09:40:677    [0m
+08-29 12:09:40:706    [32m[1479428] I/APP.ANI app_watc: wait_refr_task_cb 0
+08-29 12:09:40:708    
+08-29 12:09:40:708    [0m[32m[1479435] I/APP.ANI app_watc: anim_free_run_ready 0 
+08-29 12:09:40:709    
+08-29 12:09:40:709    [0m[32m[1479442] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+08-29 12:09:40:709    
+08-29 12:09:40:710    [0m[32m[1479449] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063ef4
+08-29 12:09:40:710    [0mapp_anim_buf_free: 0x604c8dd8
+08-29 12:09:40:711    [32m[1479461] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20063d7c
+08-29 12:09:40:711    [0mapp_anim_buf_free: 0x6051e8f0
+08-29 12:09:40:712    [32m[1479474] I/APP.SCHE app_watc: Trans-anim finish, res=0
+08-29 12:09:40:712    [0m[1479481] D/APP.SCHE app_watc: --Resume app_s
+08-29 12:09:40:714    chedule_task--

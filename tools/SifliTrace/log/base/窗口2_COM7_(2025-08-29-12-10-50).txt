@@ -1,0 +1,2029 @@
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+mount /dev sucess
+[32m[400] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+[0m[32m[408] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058242, rtc ppm=0
+
+[0m[32m[416] I/drv.rtc main: DIVA=35, DIVA_FRA=7146, DIVB=256
+
+[0m[32m[423] I/drv.rtc main: Init RTC, wake = 0
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[476] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[483] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[31m[489] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[497] I/drv.encoder main: encoder1 init success!!
+[0m[31m[503] E/drv.encoder main: encoder1 register success
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[548] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+mount fs[yaffs] on / failed.
+Register root to mtd device with base addr 0x62580000
+mount dev: 44, 983
+Get phy blk for 992 fail when read
+[32m[2259] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[2269] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[2279] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[2289] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[2300] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[2310] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[2320] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[2330] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[2340] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[2350] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[2361] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[2371] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[2381] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[2391] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[2401] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[2412] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[2422] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[2432] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[2442] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[2453] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[2463] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[2473] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[2483] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[2493] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[2504] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[2514] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[2524] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[2534] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[2544] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[2555] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[2565] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[2575] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[2585] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[2596] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[2606] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[2616] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 992 fail when read
+[32m[4315] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[4325] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[4335] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[4345] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[4355] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[4365] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[4375] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[4386] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[4396] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[4406] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[4416] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[4426] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[4437] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[4447] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[4457] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[4467] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[4478] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[4488] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[4498] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[4508] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[4519] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[4529] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[4539] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[4549] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[4560] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[4570] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[4580] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[4590] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[4601] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[4611] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[4621] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[4631] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[4642] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[4652] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[4662] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[4672] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[5193] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[5199] I/drv.lcd lcd_task: open
+[0m[32m[5204] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[5209] I/drv.lcd lcd_task: HW open
+[0m[32m[5220] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[5865] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[7604] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[7611] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[7617] I/drv.lcd lcd_task: HW open done.
+[0m[32m[7622] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[7629] I/drv.lcd lcd_task: open done.
+[0m[32m[7634] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[7640] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[7648] I/TOUCH app_watc: Open
+[0m[32m[7653] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[7659] I/TOUCH tp_init: Probe 10007795
+[0m[32m[7665] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[7671] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+[0m[7679] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[7687] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[7693] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[7698] I/TOUCH app_watc: Opened.
+[0m[32m[7720] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+Boot count: 13
+[32m[9702] I/drv.rtc app_watc: Get initial cycles: 1058242 rtc=1735689601.0000
+
+[0m[32m[9758] I/drv.rtc app_watc: Get initial cycles: 1058242 rtc=1735689600.0000
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[9785] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[9790] I/drv.lcd lcd_task: display on
+[0m[32m[9795] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[9804] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1036.
+[32m[9814] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10094] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[10103] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1036
+[0m[32m[10111] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 200636f0
+[0m[32m[10119] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[10127] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[10135] I/APP.SCHE app_watc: app[MainScreen] do START, 200636f0
+[0m[32m[10142] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10148] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200636f0] to gui_app_mbx tick:1073.
+[32m[10158] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1073
+[0m[10167] D/APP.SCHE app_watc: app[MainScreen] create page[root] 200637bc
+[10174] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[10183] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[10192] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 200637bc
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[10348] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+[0m[32m[10357] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[10363] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[10370] D/APP.SCHE app_watc: app_schedule_task done.
+[Music] Paused at 32 s (+0 ms)
+[Music] Playing: Default Song T - Demo Artist (pos=32 s, +0 ms, vol=70%)
+[Music] Stopped
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+mount /dev sucess
+[32m[407] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+[0m[32m[414] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058243, rtc ppm=0
+
+[0m[32m[422] I/drv.rtc main: DIVA=35, DIVA_FRA=7145, DIVB=256
+
+[0m[32m[429] I/drv.rtc main: Init RTC, wake = 0
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[483] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[490] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[31m[496] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[503] I/drv.encoder main: encoder1 init success!!
+[0m[31m[510] E/drv.encoder main: encoder1 register success
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[555] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+mount fs[yaffs] on / failed.
+Register root to mtd device with base addr 0x62580000
+mount dev: 44, 983
+Get phy blk for 992 fail when read
+[32m[2266] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[2276] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[2286] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[2296] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[2306] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[2316] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[2326] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[2336] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[2347] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[2357] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[2367] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[2377] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[2387] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[2397] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[2408] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[2418] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[2428] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[2438] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[2448] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[2458] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[2469] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[2479] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[2489] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[2499] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[2509] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[2519] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[2530] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[2540] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[2550] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[2560] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[2570] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[2580] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[2591] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[2601] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[2611] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[2621] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 992 fail when read
+[32m[4319] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[4329] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[4340] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[4350] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[4360] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[4370] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[4380] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[4390] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[4400] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[4410] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[4421] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[4431] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[4441] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[4451] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[4461] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[4472] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[4482] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[4492] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[4502] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[4512] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[4523] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[4533] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[4543] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[4553] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[4563] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[4573] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[4584] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[4594] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[4604] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[4614] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[4624] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[4635] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[4645] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[4655] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[4665] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[4675] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[5319] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[5325] I/drv.lcd lcd_task: open
+[0m[32m[5329] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[5335] I/drv.lcd lcd_task: HW open
+[0m[32m[5346] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[5990] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[7718] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[7724] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[7731] I/drv.lcd lcd_task: HW open done.
+[0m[32m[7736] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[7743] I/drv.lcd lcd_task: open done.
+[0m[32m[7748] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[7754] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[7762] I/TOUCH app_watc: Open
+[0m[32m[7767] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[7773] I/TOUCH tp_init: Probe 10007795
+[0m[32m[7778] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[7784] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+[0m[7792] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[7800] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[7806] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[7811] I/TOUCH app_watc: Opened.
+[0m[32m[7833] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+Boot count: 14
+[32m[9815] I/drv.rtc app_watc: Get initial cycles: 1058243 rtc=1735689601.0039
+
+[0m[32m[9871] I/drv.rtc app_watc: Get initial cycles: 1058243 rtc=1735689600.0039
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[9898] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[9904] I/drv.lcd lcd_task: display on
+[0m[32m[9909] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[9917] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1053.
+[32m[9927] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10204] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[10213] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1053
+[0m[32m[10222] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 200636f0
+[0m[32m[10230] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[10237] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[10245] I/APP.SCHE app_watc: app[MainScreen] do START, 200636f0
+[0m[32m[10253] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10259] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200636f0] to gui_app_mbx tick:1091.
+[32m[10269] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1091
+[0m[10277] D/APP.SCHE app_watc: app[MainScreen] create page[root] 200637bc
+[10285] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[10293] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[10303] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 200637bc
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[10459] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+[0m[32m[10468] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[10474] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[10480] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[214173] I/TEST.GPIO tshell: PIN 0, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214184] I/TEST.GPIO tshell: PIN 1, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214194] I/TEST.GPIO tshell: PIN 2, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214204] I/TEST.GPIO tshell: PIN 3, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214215] I/TEST.GPIO tshell: PIN 4, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214225] I/TEST.GPIO tshell: PIN 5, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214236] I/TEST.GPIO tshell: PIN 6, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214246] I/TEST.GPIO tshell: PIN 7, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214256] I/TEST.GPIO tshell: PIN 8, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214266] I/TEST.GPIO tshell: PIN 9, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214277] I/TEST.GPIO tshell: PIN 10, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214287] I/TEST.GPIO tshell: PIN 11, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214297] I/TEST.GPIO tshell: PIN 12, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214308] I/TEST.GPIO tshell: PIN 13, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214318] I/TEST.GPIO tshell: PIN 14, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214329] I/TEST.GPIO tshell: PIN 15, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214340] I/TEST.GPIO tshell: PIN 16, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214350] I/TEST.GPIO tshell: PIN 17, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214360] I/TEST.GPIO tshell: PIN 18, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214371] I/TEST.GPIO tshell: PIN 19, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214382] I/TEST.GPIO tshell: PIN 20, FUNC=0, VAL=0, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214393] I/TEST.GPIO tshell: PIN 21, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214403] I/TEST.GPIO tshell: PIN 22, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214414] I/TEST.GPIO tshell: PIN 23, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214424] I/TEST.GPIO tshell: PIN 24, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214434] I/TEST.GPIO tshell: PIN 25, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214445] I/TEST.GPIO tshell: PIN 26, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=1003cebd, arg=1a
+[0m[32m[214457] I/TEST.GPIO tshell: PIN 27, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214468] I/TEST.GPIO tshell: PIN 28, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214479] I/TEST.GPIO tshell: PIN 29, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214489] I/TEST.GPIO tshell: PIN 30, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214500] I/TEST.GPIO tshell: PIN 31, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214510] I/TEST.GPIO tshell: PIN 32, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214521] I/TEST.GPIO tshell: PIN 33, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214531] I/TEST.GPIO tshell: PIN 34, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_IT_RISING_FALLING, irqhdr=1003cebd, arg=22
+[0m[32m[214544] I/TEST.GPIO tshell: PIN 35, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214555] I/TEST.GPIO tshell: PIN 36, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214565] I/TEST.GPIO tshell: PIN 37, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214576] I/TEST.GPIO tshell: PIN 38, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214586] I/TEST.GPIO tshell: PIN 39, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214597] I/TEST.GPIO tshell: PIN 40, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214607] I/TEST.GPIO tshell: PIN 41, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214617] I/TEST.GPIO tshell: PIN 42, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214628] I/TEST.GPIO tshell: PIN 43, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_IT_FALLING, irqhdr=10007801, arg=0
+[0m[32m[214639] I/TEST.GPIO tshell: PIN 44, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214650] I/TEST.GPIO tshell: PIN 45, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214660] I/TEST.GPIO tshell: PIN 46, FUNC=-1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214671] I/TEST.GPIO tshell: PIN 47, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214681] I/TEST.GPIO tshell: PIN 48, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214691] I/TEST.GPIO tshell: PIN 49, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214702] I/TEST.GPIO tshell: PIN 50, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214712] I/TEST.GPIO tshell: PIN 51, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214723] I/TEST.GPIO tshell: PIN 52, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214733] I/TEST.GPIO tshell: PIN 53, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214743] I/TEST.GPIO tshell: PIN 54, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214754] I/TEST.GPIO tshell: PIN 55, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214764] I/TEST.GPIO tshell: PIN 56, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214774] I/TEST.GPIO tshell: PIN 57, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214785] I/TEST.GPIO tshell: PIN 58, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214795] I/TEST.GPIO tshell: PIN 59, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214806] I/TEST.GPIO tshell: PIN 60, FUNC=1, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214817] I/TEST.GPIO tshell: PIN 61, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214827] I/TEST.GPIO tshell: PIN 62, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214838] I/TEST.GPIO tshell: PIN 63, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214848] I/TEST.GPIO tshell: PIN 64, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214858] I/TEST.GPIO tshell: PIN 65, FUNC=7, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214869] I/TEST.GPIO tshell: PIN 66, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214879] I/TEST.GPIO tshell: PIN 67, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214890] I/TEST.GPIO tshell: PIN 68, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214900] I/TEST.GPIO tshell: PIN 69, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214911] I/TEST.GPIO tshell: PIN 70, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214921] I/TEST.GPIO tshell: PIN 71, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214931] I/TEST.GPIO tshell: PIN 72, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214942] I/TEST.GPIO tshell: PIN 73, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214952] I/TEST.GPIO tshell: PIN 74, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214963] I/TEST.GPIO tshell: PIN 75, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[214973] I/TEST.GPIO tshell: PIN 76, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214984] I/TEST.GPIO tshell: PIN 77, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[214994] I/TEST.GPIO tshell: PIN 78, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215004] I/TEST.GPIO tshell: PIN 79, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215015] I/TEST.GPIO tshell: PIN 80, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215025] I/TEST.GPIO tshell: PIN 81, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215036] I/TEST.GPIO tshell: PIN 82, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215046] I/TEST.GPIO tshell: PIN 83, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215056] I/TEST.GPIO tshell: PIN 84, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[215067] I/TEST.GPIO tshell: PIN 85, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215077] I/TEST.GPIO tshell: PIN 86, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215088] I/TEST.GPIO tshell: PIN 87, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215098] I/TEST.GPIO tshell: PIN 88, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215109] I/TEST.GPIO tshell: PIN 89, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215119] I/TEST.GPIO tshell: PIN 90, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[215131] I/TEST.GPIO tshell: PIN 91, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215141] I/TEST.GPIO tshell: PIN 92, FUNC=1, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215152] I/TEST.GPIO tshell: PIN 93, FUNC=6, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215162] I/TEST.GPIO tshell: PIN 94, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[215172] I/TEST.GPIO tshell: PIN 95, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215183] I/TEST.GPIO tshell: PIN 96, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215193] I/TEST.GPIO tshell: PIN 97, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215203] I/TEST.GPIO tshell: PIN 98, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215214] I/TEST.GPIO tshell: PIN 99, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215224] I/TEST.GPIO tshell: PIN 100, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215235] I/TEST.GPIO tshell: PIN 101, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215245] I/TEST.GPIO tshell: PIN 102, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215256] I/TEST.GPIO tshell: PIN 103, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215266] I/TEST.GPIO tshell: PIN 104, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215277] I/TEST.GPIO tshell: PIN 105, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215287] I/TEST.GPIO tshell: PIN 106, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215298] I/TEST.GPIO tshell: PIN 107, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215309] I/TEST.GPIO tshell: PIN 108, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215319] I/TEST.GPIO tshell: PIN 109, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215330] I/TEST.GPIO tshell: PIN 110, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215340] I/TEST.GPIO tshell: PIN 111, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215351] I/TEST.GPIO tshell: PIN 112, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215361] I/TEST.GPIO tshell: PIN 113, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215371] I/TEST.GPIO tshell: PIN 114, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215382] I/TEST.GPIO tshell: PIN 115, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215393] I/TEST.GPIO tshell: PIN 116, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215403] I/TEST.GPIO tshell: PIN 117, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215414] I/TEST.GPIO tshell: PIN 118, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215424] I/TEST.GPIO tshell: PIN 119, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215435] I/TEST.GPIO tshell: PIN 120, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215445] I/TEST.GPIO tshell: PIN 121, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215456] I/TEST.GPIO tshell: PIN 122, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215466] I/TEST.GPIO tshell: PIN 123, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215477] I/TEST.GPIO tshell: PIN 124, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215487] I/TEST.GPIO tshell: PIN 125, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215498] I/TEST.GPIO tshell: PIN 126, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215508] I/TEST.GPIO tshell: PIN 127, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215519] I/TEST.GPIO tshell: PIN 128, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215529] I/TEST.GPIO tshell: PIN 129, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215540] I/TEST.GPIO tshell: PIN 130, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215550] I/TEST.GPIO tshell: PIN 131, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215561] I/TEST.GPIO tshell: PIN 132, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215571] I/TEST.GPIO tshell: PIN 133, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215582] I/TEST.GPIO tshell: PIN 134, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215592] I/TEST.GPIO tshell: PIN 135, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215603] I/TEST.GPIO tshell: PIN 136, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215613] I/TEST.GPIO tshell: PIN 137, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215624] I/TEST.GPIO tshell: PIN 138, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215634] I/TEST.GPIO tshell: PIN 139, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215645] I/TEST.GPIO tshell: PIN 140, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215655] I/TEST.GPIO tshell: PIN 141, FUNC=1, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215666] I/TEST.GPIO tshell: PIN 142, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215677] I/TEST.GPIO tshell: PIN 143, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215687] I/TEST.GPIO tshell: PIN 144, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215698] I/TEST.GPIO tshell: PIN 145, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215708] I/TEST.GPIO tshell: PIN 146, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215719] I/TEST.GPIO tshell: PIN 147, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215729] I/TEST.GPIO tshell: PIN 148, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215740] I/TEST.GPIO tshell: PIN 149, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215750] I/TEST.GPIO tshell: PIN 150, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215761] I/TEST.GPIO tshell: PIN 151, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215771] I/TEST.GPIO tshell: PIN 152, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215782] I/TEST.GPIO tshell: PIN 153, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215792] I/TEST.GPIO tshell: PIN 154, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215803] I/TEST.GPIO tshell: PIN 155, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215813] I/TEST.GPIO tshell: PIN 156, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215824] I/TEST.GPIO tshell: PIN 157, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215834] I/TEST.GPIO tshell: PIN 158, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215845] I/TEST.GPIO tshell: PIN 159, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215855] I/TEST.GPIO tshell: PIN 160, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215866] I/TEST.GPIO tshell: PIN 161, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215877] I/TEST.GPIO tshell: PIN 162, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[215887] I/TEST.GPIO tshell: PIN 163, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[Music] Stopped
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+mount /dev sucess
+[32m[400] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+[0m[32m[408] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058225, rtc ppm=0
+
+[0m[32m[416] I/drv.rtc main: DIVA=35, DIVA_FRA=7155, DIVB=256
+
+[0m[32m[423] I/drv.rtc main: Init RTC, wake = 0
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[476] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[483] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[31m[489] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[497] I/drv.encoder main: encoder1 init success!!
+[0m[31m[503] E/drv.encoder main: encoder1 register success
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[548] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+mount fs[yaffs] on / failed.
+Register root to mtd device with base addr 0x62580000
+mount dev: 44, 983
+Get phy blk for 992 fail when read
+[32m[2259] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[2269] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[2280] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[2290] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[2300] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[2310] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[2320] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[2330] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[2340] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[2351] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[2361] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[2371] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[2381] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[2392] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[2402] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[2412] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[2422] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[2432] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[2443] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[2453] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[2463] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[2473] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[2483] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[2494] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[2504] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[2514] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[2524] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[2535] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[2545] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[2555] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[2565] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[2575] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[2586] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[2596] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[2606] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[2616] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 992 fail when read
+[32m[4315] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[4325] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[4335] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[4345] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[4355] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[4366] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[4376] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[4386] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[4396] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[4406] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[4417] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[4427] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[4437] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[4447] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[4458] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[4468] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[4478] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[4488] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[4499] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[4509] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[4519] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[4529] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[4540] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[4550] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[4560] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[4570] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[4580] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[4591] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[4601] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[4611] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[4621] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[4632] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[4642] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[4652] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[4662] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[4673] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[5315] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[5321] I/drv.lcd lcd_task: open
+[0m[32m[5325] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[5331] I/drv.lcd lcd_task: HW open
+[0m[32m[5342] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[5986] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[7725] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[7731] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[7738] I/drv.lcd lcd_task: HW open done.
+[0m[32m[7743] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[7749] I/drv.lcd lcd_task: open done.
+[0m[32m[7755] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[7761] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[7769] I/TOUCH app_watc: Open
+[0m[32m[7774] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[7780] I/TOUCH tp_init: Probe 10007795
+[0m[32m[7785] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[7791] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+[0m[7800] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[7807] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[7813] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[7819] I/TOUCH app_watc: Opened.
+[0m[32m[7840] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+Boot count: 15
+[32m[9834] I/drv.rtc app_watc: Get initial cycles: 1058225 rtc=1735689601.0000
+
+[0m[32m[9890] I/drv.rtc app_watc: Get initial cycles: 1058225 rtc=1735689600.0000
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[9918] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[9924] I/drv.lcd lcd_task: display on
+[0m[32m[9929] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[9937] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1050.
+[32m[9947] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10224] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[10233] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1050
+[0m[32m[10241] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 200636f0
+[0m[32m[10249] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[10256] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[10265] I/APP.SCHE app_watc: app[MainScreen] do START, 200636f0
+[0m[32m[10272] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10278] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200636f0] to gui_app_mbx tick:1087.
+[32m[10288] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1087
+[0m[10297] D/APP.SCHE app_watc: app[MainScreen] create page[root] 200637bc
+[10304] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[10313] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[10322] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 200637bc
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[10478] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+[0m[32m[10487] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[10493] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[10500] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[33528] I/TEST.GPIO tshell: PIN 0, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[33538] I/TEST.GPIO tshell: PIN 1, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[33549] I/TEST.GPIO tshell: PIN 2, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33559] I/TEST.GPIO tshell: PIN 3, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33569] I/TEST.GPIO tshell: PIN 4, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33579] I/TEST.GPIO tshell: PIN 5, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33590] I/TEST.GPIO tshell: PIN 6, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33600] I/TEST.GPIO tshell: PIN 7, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33610] I/TEST.GPIO tshell: PIN 8, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33620] I/TEST.GPIO tshell: PIN 9, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[33631] I/TEST.GPIO tshell: PIN 10, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33641] I/TEST.GPIO tshell: PIN 11, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[33651] I/TEST.GPIO tshell: PIN 12, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33662] I/TEST.GPIO tshell: PIN 13, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33672] I/TEST.GPIO tshell: PIN 14, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33683] I/TEST.GPIO tshell: PIN 15, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33694] I/TEST.GPIO tshell: PIN 16, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33704] I/TEST.GPIO tshell: PIN 17, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33714] I/TEST.GPIO tshell: PIN 18, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33725] I/TEST.GPIO tshell: PIN 19, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33736] I/TEST.GPIO tshell: PIN 20, FUNC=0, VAL=0, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[33746] I/TEST.GPIO tshell: PIN 21, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33757] I/TEST.GPIO tshell: PIN 22, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33767] I/TEST.GPIO tshell: PIN 23, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33777] I/TEST.GPIO tshell: PIN 24, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33788] I/TEST.GPIO tshell: PIN 25, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33798] I/TEST.GPIO tshell: PIN 26, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=1003cebd, arg=1a
+[0m[32m[33811] I/TEST.GPIO tshell: PIN 27, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33821] I/TEST.GPIO tshell: PIN 28, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33832] I/TEST.GPIO tshell: PIN 29, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33842] I/TEST.GPIO tshell: PIN 30, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[33853] I/TEST.GPIO tshell: PIN 31, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33863] I/TEST.GPIO tshell: PIN 32, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33874] I/TEST.GPIO tshell: PIN 33, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33884] I/TEST.GPIO tshell: PIN 34, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_IT_RISING_FALLING, irqhdr=1003cebd, arg=22
+[0m[32m[33897] I/TEST.GPIO tshell: PIN 35, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33908] I/TEST.GPIO tshell: PIN 36, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33918] I/TEST.GPIO tshell: PIN 37, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33928] I/TEST.GPIO tshell: PIN 38, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33939] I/TEST.GPIO tshell: PIN 39, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33949] I/TEST.GPIO tshell: PIN 40, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33960] I/TEST.GPIO tshell: PIN 41, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33970] I/TEST.GPIO tshell: PIN 42, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[33981] I/TEST.GPIO tshell: PIN 43, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_IT_FALLING, irqhdr=10007801, arg=0
+[0m[32m[33992] I/TEST.GPIO tshell: PIN 44, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[34002] I/TEST.GPIO tshell: PIN 45, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34013] I/TEST.GPIO tshell: PIN 46, FUNC=-1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34023] I/TEST.GPIO tshell: PIN 47, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34033] I/TEST.GPIO tshell: PIN 48, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34044] I/TEST.GPIO tshell: PIN 49, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34054] I/TEST.GPIO tshell: PIN 50, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34064] I/TEST.GPIO tshell: PIN 51, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34075] I/TEST.GPIO tshell: PIN 52, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34085] I/TEST.GPIO tshell: PIN 53, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34096] I/TEST.GPIO tshell: PIN 54, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34106] I/TEST.GPIO tshell: PIN 55, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34116] I/TEST.GPIO tshell: PIN 56, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34127] I/TEST.GPIO tshell: PIN 57, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34137] I/TEST.GPIO tshell: PIN 58, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34148] I/TEST.GPIO tshell: PIN 59, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34158] I/TEST.GPIO tshell: PIN 60, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34169] I/TEST.GPIO tshell: PIN 61, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34179] I/TEST.GPIO tshell: PIN 62, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34189] I/TEST.GPIO tshell: PIN 63, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34200] I/TEST.GPIO tshell: PIN 64, FUNC=4, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[34210] I/TEST.GPIO tshell: PIN 65, FUNC=7, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[34221] I/TEST.GPIO tshell: PIN 66, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34231] I/TEST.GPIO tshell: PIN 67, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34242] I/TEST.GPIO tshell: PIN 68, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34252] I/TEST.GPIO tshell: PIN 69, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34262] I/TEST.GPIO tshell: PIN 70, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34273] I/TEST.GPIO tshell: PIN 71, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34283] I/TEST.GPIO tshell: PIN 72, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34293] I/TEST.GPIO tshell: PIN 73, FUNC=2, VAL=1, UNKNOW, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[34304] I/TEST.GPIO tshell: PIN 74, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34314] I/TEST.GPIO tshell: PIN 75, FUNC=2, VAL=1, UNKNOW, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[34325] I/TEST.GPIO tshell: PIN 76, FUNC=2, VAL=1, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34335] I/TEST.GPIO tshell: PIN 77, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34345] I/TEST.GPIO tshell: PIN 78, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34356] I/TEST.GPIO tshell: PIN 79, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34366] I/TEST.GPIO tshell: PIN 80, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34376] I/TEST.GPIO tshell: PIN 81, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34387] I/TEST.GPIO tshell: PIN 82, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34397] I/TEST.GPIO tshell: PIN 83, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34407] I/TEST.GPIO tshell: PIN 84, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[34418] I/TEST.GPIO tshell: PIN 85, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34428] I/TEST.GPIO tshell: PIN 86, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34438] I/TEST.GPIO tshell: PIN 87, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34449] I/TEST.GPIO tshell: PIN 88, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34459] I/TEST.GPIO tshell: PIN 89, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34470] I/TEST.GPIO tshell: PIN 90, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[34481] I/TEST.GPIO tshell: PIN 91, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34492] I/TEST.GPIO tshell: PIN 92, FUNC=1, VAL=1, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34502] I/TEST.GPIO tshell: PIN 93, FUNC=6, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34512] I/TEST.GPIO tshell: PIN 94, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[34523] I/TEST.GPIO tshell: PIN 95, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34533] I/TEST.GPIO tshell: PIN 96, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34544] I/TEST.GPIO tshell: PIN 97, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34554] I/TEST.GPIO tshell: PIN 98, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34564] I/TEST.GPIO tshell: PIN 99, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34575] I/TEST.GPIO tshell: PIN 100, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34585] I/TEST.GPIO tshell: PIN 101, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34596] I/TEST.GPIO tshell: PIN 102, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34606] I/TEST.GPIO tshell: PIN 103, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34616] I/TEST.GPIO tshell: PIN 104, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34627] I/TEST.GPIO tshell: PIN 105, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34637] I/TEST.GPIO tshell: PIN 106, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34648] I/TEST.GPIO tshell: PIN 107, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34659] I/TEST.GPIO tshell: PIN 108, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34669] I/TEST.GPIO tshell: PIN 109, FUNC=1, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34680] I/TEST.GPIO tshell: PIN 110, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34690] I/TEST.GPIO tshell: PIN 111, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34701] I/TEST.GPIO tshell: PIN 112, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34711] I/TEST.GPIO tshell: PIN 113, FUNC=4, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34722] I/TEST.GPIO tshell: PIN 114, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34733] I/TEST.GPIO tshell: PIN 115, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34743] I/TEST.GPIO tshell: PIN 116, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34754] I/TEST.GPIO tshell: PIN 117, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34764] I/TEST.GPIO tshell: PIN 118, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34775] I/TEST.GPIO tshell: PIN 119, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34785] I/TEST.GPIO tshell: PIN 120, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34795] I/TEST.GPIO tshell: PIN 121, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34806] I/TEST.GPIO tshell: PIN 122, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34816] I/TEST.GPIO tshell: PIN 123, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34827] I/TEST.GPIO tshell: PIN 124, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34837] I/TEST.GPIO tshell: PIN 125, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34848] I/TEST.GPIO tshell: PIN 126, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34858] I/TEST.GPIO tshell: PIN 127, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34869] I/TEST.GPIO tshell: PIN 128, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34879] I/TEST.GPIO tshell: PIN 129, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34890] I/TEST.GPIO tshell: PIN 130, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34900] I/TEST.GPIO tshell: PIN 131, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34911] I/TEST.GPIO tshell: PIN 132, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34921] I/TEST.GPIO tshell: PIN 133, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34931] I/TEST.GPIO tshell: PIN 134, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34942] I/TEST.GPIO tshell: PIN 135, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34952] I/TEST.GPIO tshell: PIN 136, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34963] I/TEST.GPIO tshell: PIN 137, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34974] I/TEST.GPIO tshell: PIN 138, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34984] I/TEST.GPIO tshell: PIN 139, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[34995] I/TEST.GPIO tshell: PIN 140, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35005] I/TEST.GPIO tshell: PIN 141, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35016] I/TEST.GPIO tshell: PIN 142, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35026] I/TEST.GPIO tshell: PIN 143, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35037] I/TEST.GPIO tshell: PIN 144, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35047] I/TEST.GPIO tshell: PIN 145, FUNC=4, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35058] I/TEST.GPIO tshell: PIN 146, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35068] I/TEST.GPIO tshell: PIN 147, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35079] I/TEST.GPIO tshell: PIN 148, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35089] I/TEST.GPIO tshell: PIN 149, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35100] I/TEST.GPIO tshell: PIN 150, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35110] I/TEST.GPIO tshell: PIN 151, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35121] I/TEST.GPIO tshell: PIN 152, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35131] I/TEST.GPIO tshell: PIN 153, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35142] I/TEST.GPIO tshell: PIN 154, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35152] I/TEST.GPIO tshell: PIN 155, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35162] I/TEST.GPIO tshell: PIN 156, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35173] I/TEST.GPIO tshell: PIN 157, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35183] I/TEST.GPIO tshell: PIN 158, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35194] I/TEST.GPIO tshell: PIN 159, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35204] I/TEST.GPIO tshell: PIN 160, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35215] I/TEST.GPIO tshell: PIN 161, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35225] I/TEST.GPIO tshell: PIN 162, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[35236] I/TEST.GPIO tshell: PIN 163, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[206858] I/TEST.GPIO tshell: PIN 0, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[206868] I/TEST.GPIO tshell: PIN 1, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[206879] I/TEST.GPIO tshell: PIN 2, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[206889] I/TEST.GPIO tshell: PIN 3, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[206899] I/TEST.GPIO tshell: PIN 4, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[206910] I/TEST.GPIO tshell: PIN 5, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[206920] I/TEST.GPIO tshell: PIN 6, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[206931] I/TEST.GPIO tshell: PIN 7, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[206941] I/TEST.GPIO tshell: PIN 8, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[206951] I/TEST.GPIO tshell: PIN 9, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[206962] I/TEST.GPIO tshell: PIN 10, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[206972] I/TEST.GPIO tshell: PIN 11, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[206983] I/TEST.GPIO tshell: PIN 12, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[206993] I/TEST.GPIO tshell: PIN 13, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207004] I/TEST.GPIO tshell: PIN 14, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207015] I/TEST.GPIO tshell: PIN 15, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207025] I/TEST.GPIO tshell: PIN 16, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207036] I/TEST.GPIO tshell: PIN 17, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207046] I/TEST.GPIO tshell: PIN 18, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207057] I/TEST.GPIO tshell: PIN 19, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207068] I/TEST.GPIO tshell: PIN 20, FUNC=0, VAL=0, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[207078] I/TEST.GPIO tshell: PIN 21, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207089] I/TEST.GPIO tshell: PIN 22, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207099] I/TEST.GPIO tshell: PIN 23, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207110] I/TEST.GPIO tshell: PIN 24, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207120] I/TEST.GPIO tshell: PIN 25, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207131] I/TEST.GPIO tshell: PIN 26, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=1003cebd, arg=1a
+[0m[32m[207143] I/TEST.GPIO tshell: PIN 27, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207154] I/TEST.GPIO tshell: PIN 28, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207165] I/TEST.GPIO tshell: PIN 29, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207175] I/TEST.GPIO tshell: PIN 30, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[207186] I/TEST.GPIO tshell: PIN 31, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207197] I/TEST.GPIO tshell: PIN 32, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207207] I/TEST.GPIO tshell: PIN 33, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207218] I/TEST.GPIO tshell: PIN 34, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_IT_RISING_FALLING, irqhdr=1003cebd, arg=22
+[0m[32m[207231] I/TEST.GPIO tshell: PIN 35, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207241] I/TEST.GPIO tshell: PIN 36, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207252] I/TEST.GPIO tshell: PIN 37, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207262] I/TEST.GPIO tshell: PIN 38, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207273] I/TEST.GPIO tshell: PIN 39, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207284] I/TEST.GPIO tshell: PIN 40, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207294] I/TEST.GPIO tshell: PIN 41, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207305] I/TEST.GPIO tshell: PIN 42, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207315] I/TEST.GPIO tshell: PIN 43, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_IT_FALLING, irqhdr=10007801, arg=0
+[0m[32m[207327] I/TEST.GPIO tshell: PIN 44, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[207337] I/TEST.GPIO tshell: PIN 45, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207347] I/TEST.GPIO tshell: PIN 46, FUNC=-1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207358] I/TEST.GPIO tshell: PIN 47, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207368] I/TEST.GPIO tshell: PIN 48, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207379] I/TEST.GPIO tshell: PIN 49, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207389] I/TEST.GPIO tshell: PIN 50, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207400] I/TEST.GPIO tshell: PIN 51, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207410] I/TEST.GPIO tshell: PIN 52, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207421] I/TEST.GPIO tshell: PIN 53, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207431] I/TEST.GPIO tshell: PIN 54, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207442] I/TEST.GPIO tshell: PIN 55, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207452] I/TEST.GPIO tshell: PIN 56, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207462] I/TEST.GPIO tshell: PIN 57, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207473] I/TEST.GPIO tshell: PIN 58, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207484] I/TEST.GPIO tshell: PIN 59, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207494] I/TEST.GPIO tshell: PIN 60, FUNC=0, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207505] I/TEST.GPIO tshell: PIN 61, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207515] I/TEST.GPIO tshell: PIN 62, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207526] I/TEST.GPIO tshell: PIN 63, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207536] I/TEST.GPIO tshell: PIN 64, FUNC=4, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[207547] I/TEST.GPIO tshell: PIN 65, FUNC=7, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[207558] I/TEST.GPIO tshell: PIN 66, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207568] I/TEST.GPIO tshell: PIN 67, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207578] I/TEST.GPIO tshell: PIN 68, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207589] I/TEST.GPIO tshell: PIN 69, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207599] I/TEST.GPIO tshell: PIN 70, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207610] I/TEST.GPIO tshell: PIN 71, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207620] I/TEST.GPIO tshell: PIN 72, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207631] I/TEST.GPIO tshell: PIN 73, FUNC=2, VAL=1, UNKNOW, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[207641] I/TEST.GPIO tshell: PIN 74, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207652] I/TEST.GPIO tshell: PIN 75, FUNC=2, VAL=1, UNKNOW, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[207662] I/TEST.GPIO tshell: PIN 76, FUNC=2, VAL=1, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207673] I/TEST.GPIO tshell: PIN 77, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207683] I/TEST.GPIO tshell: PIN 78, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207694] I/TEST.GPIO tshell: PIN 79, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207704] I/TEST.GPIO tshell: PIN 80, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207715] I/TEST.GPIO tshell: PIN 81, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207725] I/TEST.GPIO tshell: PIN 82, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207736] I/TEST.GPIO tshell: PIN 83, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207746] I/TEST.GPIO tshell: PIN 84, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[207757] I/TEST.GPIO tshell: PIN 85, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207767] I/TEST.GPIO tshell: PIN 86, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207778] I/TEST.GPIO tshell: PIN 87, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207788] I/TEST.GPIO tshell: PIN 88, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207798] I/TEST.GPIO tshell: PIN 89, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207809] I/TEST.GPIO tshell: PIN 90, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[207821] I/TEST.GPIO tshell: PIN 91, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207831] I/TEST.GPIO tshell: PIN 92, FUNC=0, VAL=1, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207842] I/TEST.GPIO tshell: PIN 93, FUNC=6, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207852] I/TEST.GPIO tshell: PIN 94, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[207863] I/TEST.GPIO tshell: PIN 95, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207873] I/TEST.GPIO tshell: PIN 96, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207884] I/TEST.GPIO tshell: PIN 97, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207894] I/TEST.GPIO tshell: PIN 98, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207905] I/TEST.GPIO tshell: PIN 99, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207915] I/TEST.GPIO tshell: PIN 100, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207926] I/TEST.GPIO tshell: PIN 101, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207936] I/TEST.GPIO tshell: PIN 102, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207947] I/TEST.GPIO tshell: PIN 103, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207957] I/TEST.GPIO tshell: PIN 104, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207968] I/TEST.GPIO tshell: PIN 105, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207978] I/TEST.GPIO tshell: PIN 106, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[207989] I/TEST.GPIO tshell: PIN 107, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208000] I/TEST.GPIO tshell: PIN 108, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208011] I/TEST.GPIO tshell: PIN 109, FUNC=0, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208021] I/TEST.GPIO tshell: PIN 110, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208032] I/TEST.GPIO tshell: PIN 111, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208042] I/TEST.GPIO tshell: PIN 112, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208053] I/TEST.GPIO tshell: PIN 113, FUNC=4, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208064] I/TEST.GPIO tshell: PIN 114, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208074] I/TEST.GPIO tshell: PIN 115, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208085] I/TEST.GPIO tshell: PIN 116, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208095] I/TEST.GPIO tshell: PIN 117, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208106] I/TEST.GPIO tshell: PIN 118, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208117] I/TEST.GPIO tshell: PIN 119, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208127] I/TEST.GPIO tshell: PIN 120, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208138] I/TEST.GPIO tshell: PIN 121, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208148] I/TEST.GPIO tshell: PIN 122, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208159] I/TEST.GPIO tshell: PIN 123, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208170] I/TEST.GPIO tshell: PIN 124, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208180] I/TEST.GPIO tshell: PIN 125, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208191] I/TEST.GPIO tshell: PIN 126, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208201] I/TEST.GPIO tshell: PIN 127, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208212] I/TEST.GPIO tshell: PIN 128, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208222] I/TEST.GPIO tshell: PIN 129, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208233] I/TEST.GPIO tshell: PIN 130, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208243] I/TEST.GPIO tshell: PIN 131, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208254] I/TEST.GPIO tshell: PIN 132, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208265] I/TEST.GPIO tshell: PIN 133, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208275] I/TEST.GPIO tshell: PIN 134, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208286] I/TEST.GPIO tshell: PIN 135, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208296] I/TEST.GPIO tshell: PIN 136, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208307] I/TEST.GPIO tshell: PIN 137, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208317] I/TEST.GPIO tshell: PIN 138, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208328] I/TEST.GPIO tshell: PIN 139, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208339] I/TEST.GPIO tshell: PIN 140, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208349] I/TEST.GPIO tshell: PIN 141, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208360] I/TEST.GPIO tshell: PIN 142, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208371] I/TEST.GPIO tshell: PIN 143, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208381] I/TEST.GPIO tshell: PIN 144, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208392] I/TEST.GPIO tshell: PIN 145, FUNC=4, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208402] I/TEST.GPIO tshell: PIN 146, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208413] I/TEST.GPIO tshell: PIN 147, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208424] I/TEST.GPIO tshell: PIN 148, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208434] I/TEST.GPIO tshell: PIN 149, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208445] I/TEST.GPIO tshell: PIN 150, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208456] I/TEST.GPIO tshell: PIN 151, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208466] I/TEST.GPIO tshell: PIN 152, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208477] I/TEST.GPIO tshell: PIN 153, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208487] I/TEST.GPIO tshell: PIN 154, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208498] I/TEST.GPIO tshell: PIN 155, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208508] I/TEST.GPIO tshell: PIN 156, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208519] I/TEST.GPIO tshell: PIN 157, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208529] I/TEST.GPIO tshell: PIN 158, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208540] I/TEST.GPIO tshell: PIN 159, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208551] I/TEST.GPIO tshell: PIN 160, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208561] I/TEST.GPIO tshell: PIN 161, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208572] I/TEST.GPIO tshell: PIN 162, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[208583] I/TEST.GPIO tshell: PIN 163, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1061489] I/TEST.GPIO tshell: PIN 60, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1104300] I/TEST.GPIO tshell: PIN 60, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1145970] I/TEST.GPIO tshell: PIN 60, FUNC=2, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1155982] I/TEST.GPIO tshell: PIN 60, FUNC=3, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1171293] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1201924] I/TEST.GPIO tshell: PIN 60, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1209388] I/TEST.GPIO tshell: PIN 60, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1213309] I/TEST.GPIO tshell: PIN 60, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1216134] I/TEST.GPIO tshell: PIN 60, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1219920] I/TEST.GPIO tshell: PIN 60, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1223834] I/TEST.GPIO tshell: PIN 60, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />msh />msh />[32m[1231821] I/TEST.GPIO tshell: PIN 60, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1236600] I/TEST.GPIO tshell: PIN 60, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1240756] I/TEST.GPIO tshell: PIN 60, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1244658] I/TEST.GPIO tshell: PIN 60, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1248435] I/TEST.GPIO tshell: PIN 60, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1252203] I/TEST.GPIO tshell: PIN 60, FUNC=3, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1255611] I/TEST.GPIO tshell: PIN 60, FUNC=3, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1259321] I/TEST.GPIO tshell: PIN 60, FUNC=3, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1262807] I/TEST.GPIO tshell: PIN 60, FUNC=3, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1266583] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1270131] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1273768] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1277684] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1281453] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[1284933] I/TEST.GPIO tshell: PIN 60, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />msh />msh />[32m[1299024] I/TEST.GPIO tshell: PIN 60, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[Music] Stopped
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+mount /dev sucess
+[32m[400] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+[0m[32m[408] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058125, rtc ppm=0
+
+[0m[32m[416] I/drv.rtc main: DIVA=35, DIVA_FRA=7210, DIVB=256
+
+[0m[32m[423] I/drv.rtc main: Init RTC, wake = 0
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[476] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[483] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[31m[489] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[497] I/drv.encoder main: encoder1 init success!!
+[0m[31m[503] E/drv.encoder main: encoder1 register success
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[548] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+mount fs[yaffs] on / failed.
+Register root to mtd device with base addr 0x62580000
+mount dev: 44, 983
+Get phy blk for 992 fail when read
+[32m[2259] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[2269] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[2280] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[2290] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[2300] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[2310] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[2320] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[2330] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[2340] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[2351] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[2361] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[2371] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[2381] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[2392] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[2402] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[2412] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[2422] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[2432] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[2443] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[2453] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[2463] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[2473] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[2484] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[2494] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[2504] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[2514] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[2524] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[2535] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[2545] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[2555] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[2565] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[2576] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[2586] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[2596] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[2606] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[2616] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 992 fail when read
+[32m[4315] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 993 fail when read
+[32m[4325] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 994 fail when read
+[32m[4335] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 995 fail when read
+[32m[4345] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 996 fail when read
+[32m[4355] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 997 fail when read
+[32m[4365] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 998 fail when read
+[32m[4376] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 999 fail when read
+[32m[4386] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1000 fail when read
+[32m[4396] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1001 fail when read
+[32m[4406] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1002 fail when read
+[32m[4416] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1003 fail when read
+[32m[4427] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1004 fail when read
+[32m[4437] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1005 fail when read
+[32m[4447] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1006 fail when read
+[32m[4457] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1007 fail when read
+[32m[4468] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1008 fail when read
+[32m[4478] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1009 fail when read
+[32m[4488] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1010 fail when read
+[32m[4498] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1011 fail when read
+[32m[4509] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1012 fail when read
+[32m[4519] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1013 fail when read
+[32m[4529] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1014 fail when read
+[32m[4539] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1015 fail when read
+[32m[4550] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1016 fail when read
+[32m[4560] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1017 fail when read
+[32m[4570] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1018 fail when read
+[32m[4580] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1019 fail when read
+[32m[4591] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1020 fail when read
+[32m[4601] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1021 fail when read
+[32m[4611] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1022 fail when read
+[32m[4621] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1023 fail when read
+[32m[4632] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1024 fail when read
+[32m[4642] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1025 fail when read
+[32m[4652] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1026 fail when read
+[32m[4662] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mGet phy blk for 1027 fail when read
+[32m[4673] I/drv.spi_nand main: rt_nand_read_page RES 0
+
+[0mmount:0
+mount fs on flash to root success
+[FlashDB] Starting initialization...
+[FlashDB] Mutex initialized
+[FlashDB] KVDB Config:
+  Path: /sys/db/fdb_kvdb
+  Sector Size: 4096
+  Max Size: 16384 (0x4000)
+  File Mode: true
+[FlashDB] KVDB initialized successfully
+[FlashDB] TSDB Config:
+  Path: /sys/db/fdb_tsdb
+  Max Size: 16384
+[FlashDB] TSDB initialized successfully
+[FlashDB] All initialization complete
+[32m[5315] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[5321] I/drv.lcd lcd_task: open
+[0m[32m[5325] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[5331] I/drv.lcd lcd_task: HW open
+[0m[32m[5342] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[5985] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[7723] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[7729] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[7736] I/drv.lcd lcd_task: HW open done.
+[0m[32m[7741] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[7748] I/drv.lcd lcd_task: open done.
+[0m[32m[7753] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[7759] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[7767] I/TOUCH app_watc: Open
+[0m[32m[7772] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[7778] I/TOUCH tp_init: Probe 10007795
+[0m[32m[7783] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[7789] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+[0m[7798] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[7806] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[7812] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[7817] I/TOUCH app_watc: Opened.
+[0m[32m[7839] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+Boot count: 16
+[32m[9834] I/drv.rtc app_watc: Get initial cycles: 1058125 rtc=1735689601.0000
+
+[0m[32m[9890] I/drv.rtc app_watc: Get initial cycles: 1058125 rtc=1735689600.0000
+
+[0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+[32m[9919] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[9924] I/drv.lcd lcd_task: display on
+[0m[32m[9929] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[9938] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1050.
+[32m[9948] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10224] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[10233] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1050
+[0m[32m[10242] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 200636f0
+[0m[32m[10249] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[10257] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[10265] I/APP.SCHE app_watc: app[MainScreen] do START, 200636f0
+[0m[32m[10273] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[10278] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200636f0] to gui_app_mbx tick:1087.
+[32m[10288] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1087
+[0m[10297] D/APP.SCHE app_watc: app[MainScreen] create page[root] 200637bc
+[10305] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[10313] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[10323] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 200637bc
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[10479] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637bc
+[0m[32m[10487] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[10494] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[10500] D/APP.SCHE app_watc: app_schedule_task done.
+[32m[47516] I/TEST.GPIO tshell: PIN 0, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[47527] I/TEST.GPIO tshell: PIN 1, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[47537] I/TEST.GPIO tshell: PIN 2, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47547] I/TEST.GPIO tshell: PIN 3, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47558] I/TEST.GPIO tshell: PIN 4, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47568] I/TEST.GPIO tshell: PIN 5, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47578] I/TEST.GPIO tshell: PIN 6, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47589] I/TEST.GPIO tshell: PIN 7, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47599] I/TEST.GPIO tshell: PIN 8, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47609] I/TEST.GPIO tshell: PIN 9, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[47619] I/TEST.GPIO tshell: PIN 10, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47630] I/TEST.GPIO tshell: PIN 11, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[47640] I/TEST.GPIO tshell: PIN 12, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47650] I/TEST.GPIO tshell: PIN 13, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47661] I/TEST.GPIO tshell: PIN 14, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47672] I/TEST.GPIO tshell: PIN 15, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47682] I/TEST.GPIO tshell: PIN 16, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47692] I/TEST.GPIO tshell: PIN 17, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47703] I/TEST.GPIO tshell: PIN 18, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47714] I/TEST.GPIO tshell: PIN 19, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47724] I/TEST.GPIO tshell: PIN 20, FUNC=0, VAL=0, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[47735] I/TEST.GPIO tshell: PIN 21, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47746] I/TEST.GPIO tshell: PIN 22, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47756] I/TEST.GPIO tshell: PIN 23, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47766] I/TEST.GPIO tshell: PIN 24, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47776] I/TEST.GPIO tshell: PIN 25, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47787] I/TEST.GPIO tshell: PIN 26, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=1003cebd, arg=1a
+[0m[32m[47800] I/TEST.GPIO tshell: PIN 27, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47810] I/TEST.GPIO tshell: PIN 28, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47821] I/TEST.GPIO tshell: PIN 29, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47831] I/TEST.GPIO tshell: PIN 30, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[47842] I/TEST.GPIO tshell: PIN 31, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47852] I/TEST.GPIO tshell: PIN 32, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47863] I/TEST.GPIO tshell: PIN 33, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47873] I/TEST.GPIO tshell: PIN 34, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_IT_RISING_FALLING, irqhdr=1003cebd, arg=22
+[0m[32m[47886] I/TEST.GPIO tshell: PIN 35, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47896] I/TEST.GPIO tshell: PIN 36, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47907] I/TEST.GPIO tshell: PIN 37, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47917] I/TEST.GPIO tshell: PIN 38, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47928] I/TEST.GPIO tshell: PIN 39, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47938] I/TEST.GPIO tshell: PIN 40, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47949] I/TEST.GPIO tshell: PIN 41, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47959] I/TEST.GPIO tshell: PIN 42, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[47970] I/TEST.GPIO tshell: PIN 43, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_IT_FALLING, irqhdr=10007801, arg=0
+[0m[32m[47981] I/TEST.GPIO tshell: PIN 44, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[47991] I/TEST.GPIO tshell: PIN 45, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48002] I/TEST.GPIO tshell: PIN 46, FUNC=-1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48012] I/TEST.GPIO tshell: PIN 47, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48022] I/TEST.GPIO tshell: PIN 48, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48033] I/TEST.GPIO tshell: PIN 49, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48043] I/TEST.GPIO tshell: PIN 50, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48053] I/TEST.GPIO tshell: PIN 51, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48064] I/TEST.GPIO tshell: PIN 52, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48074] I/TEST.GPIO tshell: PIN 53, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48085] I/TEST.GPIO tshell: PIN 54, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48095] I/TEST.GPIO tshell: PIN 55, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48105] I/TEST.GPIO tshell: PIN 56, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48116] I/TEST.GPIO tshell: PIN 57, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48126] I/TEST.GPIO tshell: PIN 58, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48137] I/TEST.GPIO tshell: PIN 59, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48147] I/TEST.GPIO tshell: PIN 60, FUNC=2, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48157] I/TEST.GPIO tshell: PIN 61, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48168] I/TEST.GPIO tshell: PIN 62, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48178] I/TEST.GPIO tshell: PIN 63, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48188] I/TEST.GPIO tshell: PIN 64, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[48199] I/TEST.GPIO tshell: PIN 65, FUNC=7, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[48210] I/TEST.GPIO tshell: PIN 66, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48220] I/TEST.GPIO tshell: PIN 67, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48230] I/TEST.GPIO tshell: PIN 68, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48241] I/TEST.GPIO tshell: PIN 69, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48251] I/TEST.GPIO tshell: PIN 70, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48261] I/TEST.GPIO tshell: PIN 71, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48272] I/TEST.GPIO tshell: PIN 72, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48282] I/TEST.GPIO tshell: PIN 73, FUNC=2, VAL=1, DIG_IO_PD, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[48293] I/TEST.GPIO tshell: PIN 74, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48303] I/TEST.GPIO tshell: PIN 75, FUNC=2, VAL=1, DIG_IO_PD, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[48314] I/TEST.GPIO tshell: PIN 76, FUNC=2, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48325] I/TEST.GPIO tshell: PIN 77, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48335] I/TEST.GPIO tshell: PIN 78, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48345] I/TEST.GPIO tshell: PIN 79, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48356] I/TEST.GPIO tshell: PIN 80, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48366] I/TEST.GPIO tshell: PIN 81, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48376] I/TEST.GPIO tshell: PIN 82, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48387] I/TEST.GPIO tshell: PIN 83, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48397] I/TEST.GPIO tshell: PIN 84, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[48408] I/TEST.GPIO tshell: PIN 85, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48418] I/TEST.GPIO tshell: PIN 86, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48428] I/TEST.GPIO tshell: PIN 87, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48439] I/TEST.GPIO tshell: PIN 88, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48449] I/TEST.GPIO tshell: PIN 89, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48460] I/TEST.GPIO tshell: PIN 90, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+[0m[32m[48471] I/TEST.GPIO tshell: PIN 91, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48481] I/TEST.GPIO tshell: PIN 92, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48492] I/TEST.GPIO tshell: PIN 93, FUNC=6, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48502] I/TEST.GPIO tshell: PIN 94, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+[0m[32m[48513] I/TEST.GPIO tshell: PIN 95, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48523] I/TEST.GPIO tshell: PIN 96, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48533] I/TEST.GPIO tshell: PIN 97, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48544] I/TEST.GPIO tshell: PIN 98, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48554] I/TEST.GPIO tshell: PIN 99, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48564] I/TEST.GPIO tshell: PIN 100, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48575] I/TEST.GPIO tshell: PIN 101, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48585] I/TEST.GPIO tshell: PIN 102, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48596] I/TEST.GPIO tshell: PIN 103, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48606] I/TEST.GPIO tshell: PIN 104, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48617] I/TEST.GPIO tshell: PIN 105, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48627] I/TEST.GPIO tshell: PIN 106, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48638] I/TEST.GPIO tshell: PIN 107, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48648] I/TEST.GPIO tshell: PIN 108, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48659] I/TEST.GPIO tshell: PIN 109, FUNC=2, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48670] I/TEST.GPIO tshell: PIN 110, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48680] I/TEST.GPIO tshell: PIN 111, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48690] I/TEST.GPIO tshell: PIN 112, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48701] I/TEST.GPIO tshell: PIN 113, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48711] I/TEST.GPIO tshell: PIN 114, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48722] I/TEST.GPIO tshell: PIN 115, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48732] I/TEST.GPIO tshell: PIN 116, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48743] I/TEST.GPIO tshell: PIN 117, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48754] I/TEST.GPIO tshell: PIN 118, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48764] I/TEST.GPIO tshell: PIN 119, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48774] I/TEST.GPIO tshell: PIN 120, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48785] I/TEST.GPIO tshell: PIN 121, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48795] I/TEST.GPIO tshell: PIN 122, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48806] I/TEST.GPIO tshell: PIN 123, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48817] I/TEST.GPIO tshell: PIN 124, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48827] I/TEST.GPIO tshell: PIN 125, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48838] I/TEST.GPIO tshell: PIN 126, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48849] I/TEST.GPIO tshell: PIN 127, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48859] I/TEST.GPIO tshell: PIN 128, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48870] I/TEST.GPIO tshell: PIN 129, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48880] I/TEST.GPIO tshell: PIN 130, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48890] I/TEST.GPIO tshell: PIN 131, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48901] I/TEST.GPIO tshell: PIN 132, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48911] I/TEST.GPIO tshell: PIN 133, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48922] I/TEST.GPIO tshell: PIN 134, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48932] I/TEST.GPIO tshell: PIN 135, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48943] I/TEST.GPIO tshell: PIN 136, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48953] I/TEST.GPIO tshell: PIN 137, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48964] I/TEST.GPIO tshell: PIN 138, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48975] I/TEST.GPIO tshell: PIN 139, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48985] I/TEST.GPIO tshell: PIN 140, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[48995] I/TEST.GPIO tshell: PIN 141, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49006] I/TEST.GPIO tshell: PIN 142, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49017] I/TEST.GPIO tshell: PIN 143, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49027] I/TEST.GPIO tshell: PIN 144, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49038] I/TEST.GPIO tshell: PIN 145, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49048] I/TEST.GPIO tshell: PIN 146, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49059] I/TEST.GPIO tshell: PIN 147, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49069] I/TEST.GPIO tshell: PIN 148, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49080] I/TEST.GPIO tshell: PIN 149, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49090] I/TEST.GPIO tshell: PIN 150, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49101] I/TEST.GPIO tshell: PIN 151, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49111] I/TEST.GPIO tshell: PIN 152, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49122] I/TEST.GPIO tshell: PIN 153, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49132] I/TEST.GPIO tshell: PIN 154, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49143] I/TEST.GPIO tshell: PIN 155, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49153] I/TEST.GPIO tshell: PIN 156, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49164] I/TEST.GPIO tshell: PIN 157, FUNC=2, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49175] I/TEST.GPIO tshell: PIN 158, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49185] I/TEST.GPIO tshell: PIN 159, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49196] I/TEST.GPIO tshell: PIN 160, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49206] I/TEST.GPIO tshell: PIN 161, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49217] I/TEST.GPIO tshell: PIN 162, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0m[32m[49227] I/TEST.GPIO tshell: PIN 163, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[Music] Stopped

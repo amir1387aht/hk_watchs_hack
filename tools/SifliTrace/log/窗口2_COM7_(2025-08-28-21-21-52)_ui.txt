@@ -1,0 +1,437 @@
+08-28 21:21:52:961    mount:-1
+08-28 21:21:52:961    last err:-12
+08-28 21:21:52:963    mount fs on flash to root fail
+08-28 21:21:52:963     sp: 0x2004ab00
+08-28 21:21:52:963    psr: 0x20000000
+08-28 21:21:52:963    r00: 0x2004bb54
+08-28 21:21:52:963    r01: 0x0000002c
+08-28 21:21:52:963    r02: 0x000001b4
+08-28 21:21:52:963    r03: 0x00000000
+08-28 21:21:52:963    r04: 0x2004bb54
+08-28 21:21:52:963    r05: 0x00000001
+08-28 21:21:52:963    r06: 0x0000002c
+08-28 21:21:52:963    r07: 0x00000001
+08-28 21:21:52:963    r08: 0xdeadbeef
+08-28 21:21:52:963    r09: 0xdeadbeef
+08-28 21:21:52:963    r10: 0xdeadbeef
+08-28 21:21:52:963    r11: 0xdeadbeef
+08-28 21:21:52:963    r12: 0x2004aae0
+08-28 21:21:52:963     lr: 0x1005a429
+08-28 21:21:52:963     pc: 0x00000000
+08-28 21:21:52:963    hard fault on thread: main
+08-28 21:21:52:963    
+08-28 21:21:52:970    =====================
+08-28 21:21:52:970    PSP: 0x0x2004aa6c, MSP: 0x0x20001fc4
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970    Thread Info        
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970           pri  status      sp      top     stack size max used left tick  error
+08-28 21:21:52:970    ------ ---  ------- ---------- ---------- ----------  ------  ---------- ---
+08-28 21:21:52:970    tidle   31  ready   0x2003d838 0x2003d880 0x00000200    14%   0x00000020 000
+08-28 21:21:52:970    timer    4  suspend 0x200291d8 0x2002922c 0x00000400    08%   0x00000009 000
+08-28 21:21:52:970    main    19  ready   0x2004ab20 0x2004ab64 0x00001000    44%   0x00000010 000
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970    Mailbox Info       
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970            entry size suspend thread
+08-28 21:21:52:970    ------- ----  ---- --------------
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970    MessageQueue Info  
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970             entry suspend thread
+08-28 21:21:52:970    -------- ----  --------------
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970    Mutex Info         
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970               owner  hold suspend thread
+08-28 21:21:52:970    -------- -------- ---- --------------
+08-28 21:21:52:970    ymutex   main     0001 0
+08-28 21:21:52:970    rtc      (null)   0000 0
+08-28 21:21:52:970    ulog loc (null)   0000 0
+08-28 21:21:52:970    fslock   (null)   0000 0
+08-28 21:21:52:970    i2c_bus_ (null)   0000 0
+08-28 21:21:52:970    i2c_bus_ (null)   0000 0
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970    Semaphore Info     
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970             v   suspend thread
+08-28 21:21:52:970    -------- --- --------------
+08-28 21:21:52:970    chsc6417 000 0
+08-28 21:21:52:970    app_ft_m 001 0
+08-28 21:21:52:970    app_mess 001 0
+08-28 21:21:52:970    app_imag 001 0
+08-28 21:21:52:970    app_imag 001 0
+08-28 21:21:52:970    aes_drv  001 0
+08-28 21:21:52:970    drv_eDma 001 0
+08-28 21:21:52:970    nandlock 001 0
+08-28 21:21:52:970    gpadc    001 0
+08-28 21:21:52:970    i2c4     000 0
+08-28 21:21:52:970    i2c1     000 0
+08-28 21:21:52:970    heap     001 0
+08-28 21:21:52:970    ===================
+08-28 21:21:52:970    Memory Info     
+08-28 21:21:52:970    ===================
+08-28 21:21:52:986    total memory: 226384 used memory : 25640 maximum allocated memory: 217688
+08-28 21:21:52:986    ===================
+08-28 21:21:52:986    MemoryHeap Info     
+08-28 21:21:52:986    ===================
+08-28 21:21:52:986              pool size  max used size available size
+08-28 21:21:52:986    -------- ---------- ------------- --------------
+08-28 21:21:52:986    app_ft_m 400000     9220          390780
+08-28 21:21:52:986    app_mess 96000      72            95928
+08-28 21:21:52:986    app_imag 50000      72            49928
+08-28 21:21:52:986    app_imag 500000     72            499928
+08-28 21:21:52:986    FPU active!
+08-28 21:21:52:986    mem manage fault:
+08-28 21:21:52:986    SCB_CFSR_MFSR:0x01 IACCVIOL 
+08-28 21:22:02:468    SFBL
+08-28 21:22:03:047    SFBL
+08-28 21:22:05:255    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000080
+08-28 21:22:05:266    NAND ID 0x7171cd
+08-28 21:22:05:268    det bbm table with 1, 1, 2
+08-28 21:22:05:268    detect result 2
+08-28 21:22:05:268    V1 1 in block 992, V2 0 in block 994
+08-28 21:22:05:268    Latest version 1
+08-28 21:22:05:268    V1 1 in block 993, V2 0 in block 995
+08-28 21:22:05:271    Latest version 1
+08-28 21:22:05:272    v1 1 in blk 992, v2 1 in block 993
+08-28 21:22:05:272    BBM MEM: ctx 20036a64, map1 20036654, map2 2003685c 
+08-28 21:22:05:272    sif_bbm_init done
+08-28 21:22:05:272    
+08-28 21:22:05:272     \ | /
+08-28 21:22:05:272    - SiFli Corporation
+08-28 21:22:05:272     / | \     build on Aug 28 2025, 2.4.0 build 34b93d96
+08-28 21:22:05:272     2020 - 2022 Copyright by SiFli team
+08-28 21:22:05:272    cal data cc_mn:10 cc_mp:18 cv_vctrl:36 prog_vlp2:9
+08-28 21:22:05:272    mount /dev sucess
+08-28 21:22:05:272    [32m[409] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+08-28 21:22:05:272    [0m[32m[417] I/drv.rtc main: RC10K Freq=9kHz, cycle=1006696, rtc ppm=0
+08-28 21:22:05:272    
+08-28 21:22:05:272    [0m[32m[426] I/drv.rtc main: DIVA=37, DIVA_FRA=4105, DIVB=256
+08-28 21:22:05:272    
+08-28 21:22:05:272    [0m[32m[433] I/drv.rtc main: Init RTC, wake = 0
+08-28 21:22:05:272    
+08-28 21:22:05:272    [0mNAND factory magic error 0xffffffff vs 0x53450617
+08-28 21:22:05:287    [32m[490] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+08-28 21:22:05:287    
+08-28 21:22:05:287    [0m[32m[497] I/drv.audprc main: HAL_AUDPRC_Init res 0
+08-28 21:22:05:287    
+08-28 21:22:05:287    [0m[32m[503] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+08-28 21:22:05:287    
+08-28 21:22:05:287    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+08-28 21:22:05:287    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-28 21:22:05:287    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-28 21:22:05:287    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-28 21:22:05:287    [32m[551] I/TOUCH main: Regist touch screen driver, probe=0x1000779d 
+08-28 21:22:05:287    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+08-28 21:22:05:287    call par CFG1(3313)
+08-28 21:22:05:287    fc 9, xtal 2000, pll 2091
+08-28 21:22:05:287    call par CFG1(3313)
+08-28 21:22:05:287    fc 7, xtal 2000, pll 1676
+08-28 21:22:05:287    mount fs[yaffs] on / failed.
+08-28 21:22:05:287    Register root to mtd device with base addr 0x62580000
+08-28 21:22:05:287    mount dev: 44, 983
+08-28 21:22:05:475    Get phy blk for 992 fail when read
+08-28 21:22:05:499    [32m[2385] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:500    
+08-28 21:22:05:500    [0mGet phy blk for 993 fail when read
+08-28 21:22:05:500    [32m[2396] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:501    
+08-28 21:22:05:501    [0mGet phy blk for 994 fail when read
+08-28 21:22:05:502    [32m[2407] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:502    
+08-28 21:22:05:502    [0mGet phy blk for 995 fail when read
+08-28 21:22:05:503    [32m[2417] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:503    
+08-28 21:22:05:503    [0mGet phy blk for 996 fail when read
+08-28 21:22:05:503    [32m[2428] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:503    
+08-28 21:22:05:503    [0mGet phy blk for 997 fail when read
+08-28 21:22:05:503    [32m[2439] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:503    
+08-28 21:22:05:503    [0mGet phy blk for 998 fail when read
+08-28 21:22:05:506    [32m[2449] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 999 fail when read
+08-28 21:22:05:506    [32m[2460] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1000 fail when read
+08-28 21:22:05:506    [32m[2470] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1001 fail when read
+08-28 21:22:05:506    [32m[2481] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1002 fail when read
+08-28 21:22:05:506    [32m[2492] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1003 fail when read
+08-28 21:22:05:506    [32m[2503] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1004 fail when read
+08-28 21:22:05:506    [32m[2513] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1005 fail when read
+08-28 21:22:05:506    [32m[2524] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1006 fail when read
+08-28 21:22:05:506    [32m[2535] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1007 fail when read
+08-28 21:22:05:506    [32m[2545] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1008 fail when read
+08-28 21:22:05:506    [32m[2556] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1009 fail when read
+08-28 21:22:05:506    [32m[2567] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1010 fail when read
+08-28 21:22:05:506    [32m[2578] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1011 fail when read
+08-28 21:22:05:506    [32m[2588] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:506    
+08-28 21:22:05:506    [0mGet phy blk for 1012 fail when read
+08-28 21:22:05:506    [32m[2599] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1013 fail when read
+08-28 21:22:05:522    [32m[2610] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1014 fail when read
+08-28 21:22:05:522    [32m[2620] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1015 fail when read
+08-28 21:22:05:522    [32m[2631] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1016 fail when read
+08-28 21:22:05:522    [32m[2642] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1017 fail when read
+08-28 21:22:05:522    [32m[2653] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1018 fail when read
+08-28 21:22:05:522    [32m[2663] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1019 fail when read
+08-28 21:22:05:522    [32m[2674] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1020 fail when read
+08-28 21:22:05:522    [32m[2685] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1021 fail when read
+08-28 21:22:05:522    [32m[2695] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1022 fail when read
+08-28 21:22:05:522    [32m[2706] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1023 fail when read
+08-28 21:22:05:522    [32m[2717] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1024 fail when read
+08-28 21:22:05:522    [32m[2728] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:522    
+08-28 21:22:05:522    [0mGet phy blk for 1025 fail when read
+08-28 21:22:05:522    [32m[2738] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:538    
+08-28 21:22:05:538    [0mGet phy blk for 1026 fail when read
+08-28 21:22:05:538    [32m[2749] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:538    
+08-28 21:22:05:538    [0mGet phy blk for 1027 fail when read
+08-28 21:22:05:538    [32m[2760] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:553    
+08-28 21:22:05:553    [0m
+08-28 21:22:05:695    Get phy blk for 992 fail when read
+08-28 21:22:05:695    [32m[4533] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:695    
+08-28 21:22:05:695    [0mGet phy blk for 993 fail when read
+08-28 21:22:05:695    [32m[4544] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:695    
+08-28 21:22:05:710    [0mGet phy blk for 994 fail when read
+08-28 21:22:05:711    [32m[4555] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 995 fail when read
+08-28 21:22:05:711    [32m[4565] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 996 fail when read
+08-28 21:22:05:711    [32m[4576] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 997 fail when read
+08-28 21:22:05:711    [32m[4586] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 998 fail when read
+08-28 21:22:05:711    [32m[4597] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 999 fail when read
+08-28 21:22:05:711    [32m[4608] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 1000 fail when read
+08-28 21:22:05:711    [32m[4618] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 1001 fail when read
+08-28 21:22:05:711    [32m[4629] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 1002 fail when read
+08-28 21:22:05:711    [32m[4640] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 1003 fail when read
+08-28 21:22:05:711    [32m[4651] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 1004 fail when read
+08-28 21:22:05:711    [32m[4661] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 1005 fail when read
+08-28 21:22:05:711    [32m[4672] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 1006 fail when read
+08-28 21:22:05:711    [32m[4683] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:711    
+08-28 21:22:05:711    [0mGet phy blk for 1007 fail when read
+08-28 21:22:05:726    [32m[4693] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1008 fail when read
+08-28 21:22:05:726    [32m[4704] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1009 fail when read
+08-28 21:22:05:726    [32m[4715] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1010 fail when read
+08-28 21:22:05:726    [32m[4726] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1011 fail when read
+08-28 21:22:05:726    [32m[4736] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1012 fail when read
+08-28 21:22:05:726    [32m[4747] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1013 fail when read
+08-28 21:22:05:726    [32m[4758] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1014 fail when read
+08-28 21:22:05:726    [32m[4769] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1015 fail when read
+08-28 21:22:05:726    [32m[4779] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1016 fail when read
+08-28 21:22:05:726    [32m[4790] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1017 fail when read
+08-28 21:22:05:726    [32m[4801] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1018 fail when read
+08-28 21:22:05:726    [32m[4811] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1019 fail when read
+08-28 21:22:05:726    [32m[4822] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1020 fail when read
+08-28 21:22:05:726    [32m[4833] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:726    [0mGet phy blk for 1021 fail when read
+08-28 21:22:05:726    [32m[4844] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:726    
+08-28 21:22:05:757    [0mGet phy blk for 1022 fail when read
+08-28 21:22:05:757    [32m[4854] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:757    
+08-28 21:22:05:757    [0mGet phy blk for 1023 fail when read
+08-28 21:22:05:757    [32m[4865] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:757    
+08-28 21:22:05:757    [0mGet phy blk for 1024 fail when read
+08-28 21:22:05:757    [32m[4876] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:757    
+08-28 21:22:05:757    [0mGet phy blk for 1025 fail when read
+08-28 21:22:05:757    [32m[4886] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:757    
+08-28 21:22:05:757    [0mGet phy blk for 1026 fail when read
+08-28 21:22:05:757    [32m[4897] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:757    
+08-28 21:22:05:757    [0mGet phy blk for 1027 fail when read
+08-28 21:22:05:757    [32m[4908] I/drv.spi_nand main: rt_nand_read_page RES 0
+08-28 21:22:05:757    
+08-28 21:22:05:757    [0m
+08-28 21:22:06:695    mount:-1
+08-28 21:22:06:695    last err:-12
+08-28 21:22:06:695    mount fs on flash to root fail
+08-28 21:22:06:695     sp: 0x2004ab00
+08-28 21:22:06:695    psr: 0x20000000
+08-28 21:22:06:695    r00: 0x2004bb54
+08-28 21:22:06:695    r01: 0x0000002c
+08-28 21:22:06:695    r02: 0x00000001
+08-28 21:22:06:695    r03: 0x00000000
+08-28 21:22:06:695    r04: 0x2004bb54
+08-28 21:22:06:695    r05: 0x00000001
+08-28 21:22:06:695    r06: 0x0000002c
+08-28 21:22:06:695    r07: 0x00000001
+08-28 21:22:06:695    r08: 0xdeadbeef
+08-28 21:22:06:695    r09: 0xdeadbeef
+08-28 21:22:06:695    r10: 0xdeadbeef
+08-28 21:22:06:695    r11: 0xdeadbeef
+08-28 21:22:06:695    r12: 0x2004aae0
+08-28 21:22:06:695     lr: 0x1005a429
+08-28 21:22:06:695     pc: 0x00000000
+08-28 21:22:06:695    hard fault on thread: main
+08-28 21:22:06:695    
+08-28 21:22:06:695    =====================
+08-28 21:22:06:695    PSP: 0x0x2004aa6c, MSP: 0x0x20001fc4
+08-28 21:22:06:695    ===================
+08-28 21:22:06:695    Thread Info        
+08-28 21:22:06:695    ===================
+08-28 21:22:06:695           pri  status      sp      top     stack size max used left tick  error
+08-28 21:22:06:695    ------ ---  ------- ---------- ---------- ----------  ------  ---------- ---
+08-28 21:22:06:695    tidle   31  ready   0x2003d838 0x2003d880 0x00000200    14%   0x00000020 000
+08-28 21:22:06:710    timer    4  suspend 0x200291d8 0x2002922c 0x00000400    08%   0x00000009 000
+08-28 21:22:06:710    main    19  ready   0x2004ab20 0x2004ab64 0x00001000    44%   0x0000000e 000
+08-28 21:22:06:710    ===================
+08-28 21:22:06:710    Mailbox Info       
+08-28 21:22:06:710    ===================
+08-28 21:22:06:710            entry size suspend thread
+08-28 21:22:06:710    ------- ----  ---- --------------
+08-28 21:22:06:710    ===================
+08-28 21:22:06:710    MessageQueue Info  
+08-28 21:22:06:710    ===================
+08-28 21:22:06:710             entry suspend thread
+08-28 21:22:06:710    -------- ----  --------------
+08-28 21:22:06:710    ===================
+08-28 21:22:06:710    Mutex Info         
+08-28 21:22:06:710    ===================
+08-28 21:22:06:710               owner  hold suspend thread
+08-28 21:22:06:710    -------- -------- ---- --------------
+08-28 21:22:06:710    ymutex   main     0001 0
+08-28 21:22:06:710    rtc      (null)   0000 0
+08-28 21:22:06:710    ulog loc (null)   0000 0
+08-28 21:22:06:710    fslock   (null)   0000 0
+08-28 21:22:06:710    i2c_bus_ (null)   0000 0
+08-28 21:22:06:710    i2c_bus_ (null)   0000 0
+08-28 21:22:06:710    ===================
+08-28 21:22:06:710    Semaphore Info     
+08-28 21:22:06:710    ===================
+08-28 21:22:06:710             v   suspend thread
+08-28 21:22:06:710    -------- --- --------------
+08-28 21:22:06:710    chsc6417 000 0
+08-28 21:22:06:710    app_ft_m 001 0
+08-28 21:22:06:710    app_mess 001 0
+08-28 21:22:06:710    app_imag 001 0
+08-28 21:22:06:710    app_imag 001 0
+08-28 21:22:06:710    aes_drv  001 0
+08-28 21:22:06:710    drv_eDma 001 0
+08-28 21:22:06:710    nandlock 001 0
+08-28 21:22:06:710    gpadc    001 0
+08-28 21:22:06:710    i2c4     000 0
+08-28 21:22:06:710    i2c1     000 0
+08-28 21:22:06:710    heap     001 0
+08-28 21:22:06:726    ===================
+08-28 21:22:06:726    Memory Info     
+08-28 21:22:06:726    ===================
+08-28 21:22:06:726    total memory: 226384 used memory : 25640 maximum allocated memory: 217688
+08-28 21:22:06:726    ===================
+08-28 21:22:06:726    MemoryHeap Info     
+08-28 21:22:06:726    ===================
+08-28 21:22:06:726              pool size  max used size available size
+08-28 21:22:06:726    -------- ---------- ------------- --------------
+08-28 21:22:06:726    app_ft_m 400000     9220          390780
+08-28 21:22:06:726    app_mess 96000      72            95928
+08-28 21:22:06:726    app_imag 50000      72            49928
+08-28 21:22:06:726    app_imag 500000     72            499928
+08-28 21:22:06:726    FPU active!
+08-28 21:22:06:726    mem manage fault:
+08-28 21:22:06:726    SCB_CFSR_MFSR:0x01 IACCVIOL 

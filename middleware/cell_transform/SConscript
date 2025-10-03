@@ -1,0 +1,13 @@
+from building import * 
+import rtconfig
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd]
+lib = [GroupLibName("cell_transform")]
+
+obj = DefineGroup('lib_cell_transform', src, depend = ['USING_CELL_TRANSFORM'], CPPPATH = inc, LIBS=lib, LIBPATH=inc)
+Return('obj')

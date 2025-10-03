@@ -1,0 +1,13 @@
+from building import * 
+import rtconfig
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd]
+lib = [GroupLibName("barcode128")]
+
+obj = DefineGroup('lib_barcode128', src, depend = ['USING_BARCODE128'], CPPPATH = inc, LIBS=lib, LIBPATH=inc)
+Return('obj')

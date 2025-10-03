@@ -1,0 +1,6 @@
+config USING_JPEG_NANOENC
+    bool "Enable Nano JPEG Encoder"
+    default n
+config USING_JPEG_NANODEC
+    bool "Enable Nano Jpeg Decoder"
+    default n

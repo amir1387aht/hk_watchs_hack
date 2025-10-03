@@ -1,0 +1,16 @@
+
+menuconfig PKG_USING_FFMPEG
+    bool "Enable FFMPEG"
+    default n
+config PKG_USING_FFMPEG_AUDIO
+    bool "Enable ffpmeg audio support"
+        depends on PKG_USING_FFMPEG
+    default y
+config PKG_USING_FFMPEG_MJPEG
+    bool "Enable ffpmeg MotionJpeg(mjpeg) support"
+        depends on PKG_USING_FFMPEG
+    default n
+config PKG_USING_FFMPEG_HTTP
+    bool "Enable ffpmeg http"
+        depends on PKG_USING_FFMPEG
+    default n

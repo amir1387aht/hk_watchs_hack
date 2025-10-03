@@ -1,0 +1,12 @@
+menuconfig USING_VGLITE
+    bool "Enable VG-Lite"
+    default n
+    
+    if USING_VGLITE
+        config USING_VGLITE_STATIC_CONT_MEM
+            bool "Use static contiguous mem for VG-Lite"
+            default n
+        config VGLITE_CONT_MEM_SIZE
+            int "VG-Lite contiguous mem size in kbyte"
+            default 256
+    endif     

@@ -1,0 +1,116 @@
+08-28 21:36:29:141    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+08-28 21:36:29:150    NAND ID 0x7171cd
+08-28 21:36:29:151    det bbm table with 1, 1, 2
+08-28 21:36:29:152    detect result 2
+08-28 21:36:29:152    V1 1 in block 992, V2 0 in block 994
+08-28 21:36:29:154    Latest version 1
+08-28 21:36:29:154    V1 1 in block 993, V2 0 in block 995
+08-28 21:36:29:155    Latest version 1
+08-28 21:36:29:155    v1 1 in blk 992, v2 1 in block 993
+08-28 21:36:29:156    BBM MEM: ctx 20036a04, map1 200365f4, map2 200367fc 
+08-28 21:36:29:156    sif_bbm_init done
+08-28 21:36:29:158    
+08-28 21:36:29:158     \ | /
+08-28 21:36:29:158    - SiFli Corporation
+08-28 21:36:29:158     / | \     build on Aug 28 2025, 2.4.0 build 34b93d96
+08-28 21:36:29:158     2020 - 2022 Copyright by SiFli team
+08-28 21:36:29:158    cal data cc_mn:10 cc_mp:18 cv_vctrl:36 prog_vlp2:9
+08-28 21:36:29:158    mount /dev sucess
+08-28 21:36:29:158    [32m[402] I/drv.rtc main: PSCLR=0x25400100 DivAI=37 DivAF=4096 B=256
+08-28 21:36:29:162    [0m[32m[410] I/drv.rtc main: RC10K Freq=9kHz, cycle=1006588, rtc ppm=0
+08-28 21:36:29:162    
+08-28 21:36:29:162    [0m[32m[418] I/drv.rtc main: DIVA=37, DIVA_FRA=4171, DIVB=256
+08-28 21:36:29:162    
+08-28 21:36:29:162    [0m[32m[425] I/drv.rtc main: Init RTC, wake = 1
+08-28 21:36:29:162    
+08-28 21:36:29:162    [0mNAND factory magic error 0xffffffff vs 0x53450617
+08-28 21:36:29:162    [32m[439] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+08-28 21:36:29:170    
+08-28 21:36:29:170    [0m[32m[446] I/drv.audprc main: HAL_AUDPRC_Init res 0
+08-28 21:36:29:172    
+08-28 21:36:29:172    [0m[32m[453] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+08-28 21:36:29:172    
+08-28 21:36:29:172    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+08-28 21:36:29:172    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-28 21:36:29:172    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-28 21:36:29:172    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-28 21:36:29:180    [32m[501] I/TOUCH main: Regist touch screen driver, probe=0x1000775d 
+08-28 21:36:29:180    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+08-28 21:36:29:180    call par CFG1(3313)
+08-28 21:36:29:184    fc 9, xtal 2000, pll 2092
+08-28 21:36:29:184    call par CFG1(3313)
+08-28 21:36:29:184    fc 7, xtal 2000, pll 1676
+08-28 21:36:29:184    mount fs[yaffs] on / failed.
+08-28 21:36:29:184    [32m[570] I/drv.lcd app_watc: [NONE] -> [OPENING]
+08-28 21:36:29:184    [0m[32m[576] I/drv.lcd lcd_task: open
+08-28 21:36:29:184    [0m[32m[581] I/drv.epic lcd_task: drv_gpu opened.
+08-28 21:36:29:184    [0m[32m[586] I/drv.lcd lcd_task: HW open
+08-28 21:36:29:184    [0m[32m[598] I/drv.lcd lcd_task: Try registered LCD driver...
+08-28 21:36:29:184    [0mmsh />
+08-28 21:36:29:235    
+08-28 21:36:29:235    CO5300_ReadID 0x331100 
+08-28 21:36:29:235    [32m[1266] I/co5300 lcd_task: LCD module use CO5300 IC 
+08-28 21:36:29:250    
+08-28 21:36:29:250    [0m
+08-28 21:36:29:438    
+08-28 21:36:29:438    CO5300_ReadID 0x331100 
+08-28 21:36:29:438    [32m[3086] I/co5300 lcd_task: LCD module use CO5300 IC 
+08-28 21:36:29:438    
+08-28 21:36:29:438    [0m[32m[3093] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+08-28 21:36:29:438    [0m[32m[3100] I/drv.lcd lcd_task: HW open done.
+08-28 21:36:29:438    [0m[32m[3106] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+08-28 21:36:29:438    [0m[32m[3112] I/drv.lcd lcd_task: open done.
+08-28 21:36:29:438    [0m[32m[3118] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+08-28 21:36:29:438    [0m[32m[3124] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+08-28 21:36:29:438    [0m[32m[3133] I/TOUCH app_watc: Open
+08-28 21:36:29:438    [0m[32m[3138] I/TOUCH tp_init: Find touch screen driver...
+08-28 21:36:29:438    [0m[32m[3144] I/TOUCH tp_init: Probe 1000775d
+08-28 21:36:29:438    [0m[32m[3150] I/drv.chsc6417 tp_init: chsc6417 probe OK
+08-28 21:36:29:448    [0m[32m[3156] I/TOUCH tp_init: touch screen found driver  0x20036444, chsc6417
+08-28 21:36:29:448    [0m[3165] D/drv.chsc6417 tp_init: chsc6417 init
+08-28 21:36:29:448    chsc6417 id=0x0
+08-28 21:36:29:448    [32m[3173] I/drv.chsc6417 tp_init: chsc6417 probe OK
+08-28 21:36:29:448    [0m[3179] D/drv.chsc6417 tp_init: chsc6417 init OK
+08-28 21:36:29:448    [32m[3185] I/TOUCH app_watc: Opened.
+08-28 21:36:29:448    [0m
+08-28 21:36:29:448    [32m[3207] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+08-28 21:36:29:448    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+08-28 21:36:29:454    
+08-28 21:36:29:658    [32m[5134] I/drv.lcd lcd_task: set brightness 100
+08-28 21:36:29:659    [0m[32m[5140] I/drv.lcd lcd_task: display on
+08-28 21:36:29:659    [0m[32m[5146] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+08-28 21:36:29:659    [0m[5154] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:501.
+08-28 21:36:29:659    [32m[5164] I/APP.FWK.INT app_watc: [MainScreen]
+08-28 21:36:29:661    [0m
+08-28 21:36:29:689    [5455] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-28 21:36:29:689    [32m[5464] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:501
+08-28 21:36:29:689    [0m[32m[5473] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20048320
+08-28 21:36:29:689    [0m[32m[5481] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+08-28 21:36:29:689    [0m[5489] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+08-28 21:36:29:689    [32m[5497] I/APP.SCHE app_watc: app[MainScreen] do START, 20048320
+08-28 21:36:29:689    [0m[32m[5505] I/APP.FWK.INT app_watc: [MainScreen]
+08-28 21:36:29:689    [0m[5511] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20048320] to gui_app_mbx tick:538.
+08-28 21:36:29:689    [32m[5521] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:538
+08-28 21:36:29:689    [0m[5530] D/APP.SCHE app_watc: app[MainScreen] create page[root] 200483ec
+08-28 21:36:29:697    [5538] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+08-28 21:36:29:697    [5547] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-28 21:36:29:697    [32m[5556] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 200483ec
+08-28 21:36:29:697    [0
+08-28 21:36:29:697    m
+08-28 21:36:29:697    [Music] Track Set: Default Song T - Demo Artist (150 sec)
+08-28 21:36:29:697    [Music] Playing: Default Song T - Dem
+08-28 21:36:29:697    o Artist
+08-28 21:36:29:705    [32m[5665] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200483ec
+08-28 21:36:29:711    [0m[32m[5674] I/APP.SCHE app_watc: Try setup trans-anim
+08-28 21:36:29:711    [0m[32m[5680] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+08-28 21:36:29:711    [0m[5687] D/APP.SCHE app_watc: app_schedule_task do
+08-28 21:36:29:711    ne.
+08-28 21:36:41:720    [Music] Paused
+08-28 21:36:42:111    [Music] Playing: Default Song T - Demo Artist
+08-28 21:36:42:581    [Music] Paused
+08-28 21:36:44:950    [Music] Playing: Default Song T - Demo Artist
+08-28 21:36:46:749    [Music] Paused
+08-28 21:36:47:524    [Music] Playing: Default Song T - Demo Artist
+08-28 21:36:50:152    [Music] Paused
+08-28 21:36:50:705    [Music] Playing: Default Song T - Demo Artist
+08-28 21:36:51:204    [Music] Paused

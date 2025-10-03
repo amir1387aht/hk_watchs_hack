@@ -1,0 +1,46 @@
+Import('RTT_ROOT')
+Import('rtconfig')
+from building import *
+
+cwd = GetCurrentDir()
+
+if not (GetDepend('RAM_PATCH') or GetDepend('CFG_BOOTLOADER')):
+    src = Split("""
+    efuse.c
+    dfu_util.c
+    dfu_port.c
+    dfu_flash.c
+    dfu_sec.c
+    dfu_install.c
+    """)
+    if (GetDepend('SOLUTION_WATCH') or GetDepend('SOL_DFU')):
+        src += Split("""
+        sol/dfu_ctrl_sol.c
+        sol/dfu_ctrl_ext_sol.c
+        """)
+    else:
+        src += Split("""
+        dfu_ctrl.c
+        """)
+else:
+    src = Split("""
+    dfu.c
+    efuse.c
+    sec_flash.c
+    """)
+
+
+CPPPATH = [cwd]
+CPPPATH += ['../sibles']
+
+CPPDEFINES = []
+try:
+    if rtconfig.DFU_OTA_ENABLE == True:
+        CPPDEFINES = ['DFU_OTA_MANAGER']
+except:
+    CPPDEFINES = [] 
+    pass
+
+group = DefineGroup('dfu', src, depend = ['BSP_USING_DFU'], CPPPATH = CPPPATH, CPPDEFINES = CPPDEFINES)
+
+Return('group')

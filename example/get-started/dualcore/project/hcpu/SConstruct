@@ -1,0 +1,41 @@
+from building import *
+import os
+import rtconfig
+
+PrepareEnv()
+
+# Check SDK 
+SIFLI_SDK = os.getenv('SIFLI_SDK')
+if not SIFLI_SDK:
+    print("Please run set_env.bat in root folder of SIFLI SDK to set environment.")
+    exit()
+
+# Add bootloader project
+AddBootLoader(SIFLI_SDK, rtconfig.CHIP)
+
+# Add LCPU project
+if not GetDepend('SOC_SF32LB52X'):
+    lcpu_proj_path = '../lcpu'   
+    lcpu_proj_name = 'lcpu'
+    AddChildProj(lcpu_proj_name, lcpu_proj_path, True, core="LCPU")
+else:
+    # use common LCPU project
+    AddLCPU(SIFLI_SDK, rtconfig.CHIP)
+    
+# Set default compile options
+SifliEnv()
+
+
+# prepare building environment
+objs = PrepareBuilding(None)
+env = GetCurrentEnv()
+
+TARGET = rtconfig.OUTPUT_DIR + rtconfig.TARGET_NAME + '.' + rtconfig.TARGET_EXT
+# make a building
+DoBuilding(TARGET, objs)
+
+# Add flash table
+AddFTAB(SIFLI_SDK, rtconfig.CHIP)
+
+GenDownloadScript(env)
+

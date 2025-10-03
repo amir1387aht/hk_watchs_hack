@@ -1,0 +1,146 @@
+/*
+ * SPDX-FileCopyrightText: 2021-2021 SiFli Technologies(Nanjing) Co., Ltd
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+#include <rtthread.h>
+#include <rtdevice.h>
+#include <board.h>
+#include <string.h>
+#include "bf0_sibles.h"
+
+#include "data_service_subscriber.h"
+#include "ancs_service.h"
+
+#define LOG_TAG "app_ancs"
+#include "log.h"
+
+#define APP_ALLOC_CHECK(ptr) \
+    if (!ptr) \
+        break;
+
+typedef struct
+{
+    datac_handle_t ancs_handle;
+} app_ancs_env_t;
+
+typedef struct
+{
+    uint8_t *pb_state;
+    uint8_t *pb_rate;
+    uint8_t *elapsed_time;
+} app_ams_pb_info_t;
+
+static app_ancs_env_t g_app_ancs_env;
+
+static app_ancs_env_t *app_ancs_get_env(void)
+{
+    return &g_app_ancs_env;
+}
+
+#define APP_ALLOC_CHECK(ptr) \
+    if (!ptr) \
+        break;
+
+const char app_cate_str[][20] =
+{
+    "Others",
+    "Incoming call",
+    "Missed call",
+    "Voice mail",
+    "Social",
+    "Schedule",
+    "Email",
+    "News",
+    "Health and fitness",
+    "Business and fiance",
+    "Location",
+    "Entertainment"
+};
+
+
+static int app_ancs_callback(data_callback_arg_t *arg)
+{
+    app_ancs_env_t *env = app_ancs_get_env();
+
+    if (MSG_SERVICE_DATA_NTF_IND == arg->msg_id)
+    {
+        RT_ASSERT(arg->data);
+        int16_t len = arg->data_len;
+        ancs_service_noti_attr_t *value = (ancs_service_noti_attr_t *)arg->data;
+        ble_ancs_attr_value_t *att_value = &value->value[0];
+        //rt_print_data((char *)buffer, 0, len);
+        LOG_I("Category %s", app_cate_str[value->cate_id]);
+        if (value->cate_id == BLE_ANCS_CATEGORY_ID_INCOMING_CALL)
+        {
+            ancs_service_config_t config;
+            rt_err_t ret;
+            config.command = ANCS_SERVICE_PERFORM_NOTIFY_ACTION;
+            config.data.action.uid = value->noti_uid;
+            config.data.action.act_id = BLE_ACTION_ID_NEGATIVE;
+            ret = datac_config(env->ancs_handle, sizeof(ancs_service_config_t), (uint8_t *)&config);
+            LOG_I("ret %d", ret);
+        }
+        for (uint32_t i = 0; i < value->attr_count; i++)
+        {
+            if (att_value->attr_id == BLE_ANCS_APP_ATTR_ID_DISPLAY_NAME)
+            {
+                uint8_t *app_name = malloc(att_value->len + 1);
+                APP_ALLOC_CHECK(app_name);
+                memcpy(app_name, att_value->data, att_value->len);
+                app_name[att_value->len] = 0;
+
+                LOG_HEX("raw_data", 16, app_name, att_value->len + 1);
+                LOG_I("App(%d): %s", att_value->len, app_name);
+                free(app_name);
+            }
+            else if (att_value->attr_id == BLE_ANCS_NOTIFICATION_ATTR_ID_TITLE)
+            {
+                uint8_t *title_name = malloc(att_value->len + 1);
+                APP_ALLOC_CHECK(title_name);
+                memcpy(title_name, att_value->data, att_value->len);
+                title_name[att_value->len] = 0;
+                LOG_I("Title: %s", title_name);
+                free(title_name);
+            }
+            else if (att_value->attr_id == BLE_ANCS_NOTIFICATION_ATTR_ID_MESSAGE)
+            {
+                uint8_t *message = malloc(att_value->len + 1);
+                RT_ASSERT(message);
+                memcpy(message, att_value->data, att_value->len);
+                message[att_value->len] = 0;
+                LOG_I("Context: %s", message);
+                free(message);
+            }
+            att_value = (ble_ancs_attr_value_t *)((uint8_t *)att_value + sizeof(ble_ancs_attr_value_t) + att_value->len);
+        }
+    }
+    else if (MSG_SERVICE_SUBSCRIBE_RSP == arg->msg_id)
+    {
+        data_subscribe_rsp_t *rsp = (data_subscribe_rsp_t *)arg->data;
+        RT_ASSERT(rsp);
+        LOG_I("Subscrible ANCS ret %d", rsp->result);
+        if (rsp->result == 0)
+        {
+            ancs_service_config_t config;
+            rt_err_t ret;
+            config.command = ANCS_SERVICE_SET_ATTRIBUTE_MASK;
+            config.data.attr_mask = BLE_ANCS_NOTIFICATION_ATTR_ID_MASK_ALL;
+            ret = datac_config(env->ancs_handle, sizeof(ancs_service_config_t), (uint8_t *)&config);
+            LOG_I("ret %d", ret);
+        }
+    }
+    return 0;
+}
+
+int app_ancs_init(void)
+{
+    app_ancs_env_t *env = app_ancs_get_env();
+    env->ancs_handle = datac_open();
+    RT_ASSERT(DATA_CLIENT_INVALID_HANDLE != env->ancs_handle);
+    datac_subscribe(env->ancs_handle, "ANCS", app_ancs_callback, 0);
+    return 0;
+}
+
+INIT_APP_EXPORT(app_ancs_init);

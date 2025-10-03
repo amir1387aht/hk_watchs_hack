@@ -1,0 +1,15 @@
+from building import *
+Import('rtconfig')
+
+src   = []
+CPPPATH = []
+cwd   = GetCurrentDir()
+
+src = ['efuse.c', "secboot.c"]
+
+CPPPATH += [cwd]    
+
+# add src and include to group.
+group = DefineGroup('boot', src, depend = ["USING_SECBOOT"],CPPPATH = CPPPATH)
+    
+Return('group')

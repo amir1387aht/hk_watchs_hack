@@ -1,0 +1,2074 @@
+09-07 13:05:32:491    Get phy blk for 992 fail when read
+09-07 13:05:32:491    [32m[4310] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:508    
+09-07 13:05:32:508    [0mGet phy blk for 993 fail when read
+09-07 13:05:32:508    [32m[4320] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:508    
+09-07 13:05:32:508    [0mGet phy blk for 994 fail when read
+09-07 13:05:32:514    [32m[4330] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:515    
+09-07 13:05:32:515    [0mGet phy blk for 995 fail when read
+09-07 13:05:32:515    [32m[4340] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:515    
+09-07 13:05:32:515    [0mGet phy blk for 996 fail when read
+09-07 13:05:32:515    [32m[4350] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:515    
+09-07 13:05:32:523    [0mGet phy blk for 997 fail when read
+09-07 13:05:32:523    [32m[4360] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:523    
+09-07 13:05:32:523    [0mGet phy blk for 998 fail when read
+09-07 13:05:32:523    [32m[4371] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:527    
+09-07 13:05:32:527    [0mGet phy blk for 999 fail when read
+09-07 13:05:32:527    [32m[4381] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:527    
+09-07 13:05:32:531    [0mGet phy blk for 1000 fail when read
+09-07 13:05:32:531    [32m[4391] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:531    
+09-07 13:05:32:531    [0mGet phy blk for 1001 fail when read
+09-07 13:05:32:535    [32m[4401] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:536    
+09-07 13:05:32:537    [0mGet phy blk for 1002 fail when read
+09-07 13:05:32:539    [32m[4411] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:539    
+09-07 13:05:32:539    [0mGet phy blk for 1003 fail when read
+09-07 13:05:32:539    [32m[4422] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:539    
+09-07 13:05:32:548    [0mGet phy blk for 1004 fail when read
+09-07 13:05:32:548    [32m[4432] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:548    
+09-07 13:05:32:548    [0mGet phy blk for 1005 fail when read
+09-07 13:05:32:548    [32m[4442] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:548    
+09-07 13:05:32:548    [0mGet phy blk for 1006 fail when read
+09-07 13:05:32:548    [32m[4452] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:548    
+09-07 13:05:32:548    [0mGet phy blk for 1007 fail when read
+09-07 13:05:32:548    [32m[4463] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:548    
+09-07 13:05:32:548    [0mGet phy blk for 1008 fail when read
+09-07 13:05:32:555    [32m[4473] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:555    
+09-07 13:05:32:555    [0mGet phy blk for 1009 fail when read
+09-07 13:05:32:555    [32m[4483] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:555    
+09-07 13:05:32:555    [0mGet phy blk for 1010 fail when read
+09-07 13:05:32:555    [32m[4493] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:555    
+09-07 13:05:32:555    [0mGet phy blk for 1011 fail when read
+09-07 13:05:32:555    [32m[4504] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:555    
+09-07 13:05:32:555    [0mGet phy blk for 1012 fail when read
+09-07 13:05:32:555    [32m[4514] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:555    
+09-07 13:05:32:555    [0mGet phy blk for 1013 fail when read
+09-07 13:05:32:555    [32m[4524] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:555    
+09-07 13:05:32:555    [0mGet phy blk for 1014 fail when read
+09-07 13:05:32:555    [32m[4534] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:555    
+09-07 13:05:32:555    [0mGet phy blk for 1015 fail when read
+09-07 13:05:32:555    [32m[4545] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:555    
+09-07 13:05:32:555    [0mGet phy blk for 1016 fail when read
+09-07 13:05:32:562    [32m[4555] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:562    
+09-07 13:05:32:562    [0mGet phy blk for 1017 fail when read
+09-07 13:05:32:562    [32m[4565] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:562    
+09-07 13:05:32:562    [0mGet phy blk for 1018 fail when read
+09-07 13:05:32:562    [32m[4575] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:562    
+09-07 13:05:32:562    [0mGet phy blk for 1019 fail when read
+09-07 13:05:32:562    [32m[4586] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:562    
+09-07 13:05:32:562    [0mGet phy blk for 1020 fail when read
+09-07 13:05:32:562    [32m[4596] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:562    
+09-07 13:05:32:562    [0mGet phy blk for 1021 fail when read
+09-07 13:05:32:562    [32m[4606] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:562    
+09-07 13:05:32:562    [0mGet phy blk for 1022 fail when read
+09-07 13:05:32:562    [32m[4616] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:562    
+09-07 13:05:32:568    [0mGet phy blk for 1023 fail when read
+09-07 13:05:32:569    [32m[4627] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:569    
+09-07 13:05:32:569    [0mGet phy blk for 1024 fail when read
+09-07 13:05:32:570    [32m[4637] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:570    
+09-07 13:05:32:570    [0mGet phy blk for 1025 fail when read
+09-07 13:05:32:571    [32m[4647] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:587    
+09-07 13:05:32:587    [0mGet phy blk for 1026 fail when read
+09-07 13:05:32:587    [32m[4657] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:587    
+09-07 13:05:32:587    [0mGet phy blk for 1027 fail when read
+09-07 13:05:32:587    [32m[4668] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:05:32:587    
+09-07 13:05:32:587    [0m
+09-07 13:05:32:603    mount:0
+09-07 13:05:32:603    mount fs on flash to root success
+09-07 13:05:32:603    [FlashDB] Starting i
+09-07 13:05:32:603    nitialization...
+09-07 13:05:32:603    [FlashDB] Mutex initialized
+09-07 13:05:32:603    [FlashDB] KVDB Config:
+09-07 13:05:32:603      Path: /sys/db/fdb_kvdb
+09-07 13:05:32:603      Sector Size: 4096
+09-07 13:05:32:603      Max Size: 16384 (0x4000)
+09-07 13:05:32:603      File Mode: true
+09-07 13:05:32:618    [FlashDB] KVDB initialized successfully
+09-07 13:05:32:618    [FlashDB] TSDB Config:
+09-07 13:05:32:618      Path: /sys/db/fdb_tsdb
+09-07 13:05:32:618      Max
+09-07 13:05:32:618     Size: 16384
+09-07 13:05:32:618    [FlashDB] TSDB initialized successfully
+09-07 13:05:32:618    [FlashDB] All initialization complete
+09-07 13:05:32:618    [32m[5457] I/drv.lcd app_watc: [NONE] -> [OPENING]
+09-07 13:05:32:618    [0m[32m[5463] I/drv.lcd lcd_task: open
+09-07 13:05:32:618    [0m[32m[5468] I/drv.epic lcd_task: drv_gpu opened.
+09-07 13:05:32:618    [0m[32m[5473] I/drv.lcd lcd_task: HW open
+09-07 13:05:32:618    [0m[32m[5484] I/drv.lcd lcd_task: Try registered LCD driver...
+09-07 13:05:32:618    [0mmsh
+09-07 13:05:32:634     />
+09-07 13:05:32:698    
+09-07 13:05:32:698    CO5300_ReadID 0x331100 
+09-07 13:05:32:698    [32m[6130] I/co5300 lcd_task: LCD mo
+09-07 13:05:32:698    dule use CO5300 IC 
+09-07 13:05:32:698    
+09-07 13:05:32:698    [0m
+09-07 13:05:32:886    
+09-07 13:05:32:886    CO5300_ReadID 0x331100 
+09-07 13:05:32:886    [32m[7867] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-07 13:05:32:886    
+09-07 13:05:32:886    [0m[32m[7874] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+09-07 13:05:32:886    [0m[32m[7881] I/drv.lcd lcd_task: HW open done.
+09-07 13:05:32:886    [0m[32m[7886] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+09-07 13:05:32:886    [0m[32m[7892] I/drv.lcd lcd_task: open done.
+09-07 13:05:32:886    [0m[32m[7898] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+09-07 13:05:32:886    [0m[32m[7904] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+09-07 13:05:32:886    [0m[32m[7912] I/TOUCH app_watc: Open
+09-07 13:05:32:886    [0m[32m[7916] I/TOUCH tp_init: Find touch screen driver...
+09-07 13:05:32:902    [0m[32m[7923] I/TOUCH tp_init: Probe 10007795
+09-07 13:05:32:902    [0m[32m[7928] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 13:05:32:902    [0m[32m[7934] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+09-07 13:05:32:902    [0m[7942] D/drv.chsc6417 tp_init: chsc6417 init
+09-07 13:05:32:902    chsc6417 id=0x0
+09-07 13:05:32:902    [32m[7950] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 13:05:32:902    [0m[7956] D/drv.chsc6417 tp_init: chsc6417 init OK
+09-07 13:05:32:902    [32m[7961] I/TOUCH app_watc: Opened.
+09-07 13:05:32:902    [0m
+09-07 13:05:32:902    [32m[7983] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+09-07 13:05:32:902    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+09-07 13:05:32:902    
+09-07 13:05:33:122    Boot count: 85
+09-07 13:05:33:143    [32m[9991] I/drv.rtc app_watc: Get initial cycles: 1058333 rtc=1735689601.0000
+09-07 13:05:33:143    
+09-07 13:05:33:143    [0m[32m[10047] I/drv.rtc app_watc: Get initial cycles: 1058333 rtc=1735689600.0000
+09-07 13:05:33:143    
+09-07 13:05:33:143    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+09-07 13:05:33:143    [32m[10122] I/drv.lcd lcd_task: set brightness 100
+09-07 13:05:33:159    [0m[32m[10128] I/drv.lcd lcd_task: display on
+09-07 13:05:33:159    [0m[32m[10133] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-07 13:05:33:160    [0m[10141] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1074.
+09-07 13:05:33:160    [32m[10151] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 13:05:33:160    [0m
+09-07 13:05:33:175    [10430] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:05:33:175    [32m[10438] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1
+09-07 13:05:33:175    074
+09-07 13:05:33:175    [0m[32m[10447] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063754
+09-07 13:05:33:175    [0m[32m[10454] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+09-07 13:05:33:175    [0m[10462] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-07 13:05:33:175    [32m[10470] I/APP.SCHE app_watc: app[MainScreen] do START, 20063754
+09-07 13:05:33:175    [0m[32m[10478] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 13:05:33:175    [0m[10484] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063754] to gui_app_mbx tick:1111.
+09-07 13:05:33:175    [32m[10494] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1111
+09-07 13:05:33:175    [0m[10502] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063820
+09-07 13:05:33:175    [10510] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-07 13:05:33:175    [10518] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:05:33:175    [32m[10528] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART
+09-07 13:05:33:175    , 20063820
+09-07 13:05:33:191    [0m
+09-07 13:05:33:191    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+09-07 13:05:33:191    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 m
+09-07 13:05:33:191    s, vol=70%)
+09-07 13:05:33:206    [32m[10693] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:05:33:206    [0m[32m[10702] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:05:33:206    [0m[32m[10708] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-07 13:05:33:206    [0m[10714] D/APP.SCHE app_watc: app_schedule_tas
+09-07 13:05:33:206    k done.
+09-07 13:05:36:093    [Music] Volume set to 65%
+09-07 13:05:36:203    [Music] Volume set to 60%
+09-07 13:05:36:298    [Music] Volume set to 55%
+09-07 13:05:36:392    [Music] Volume set to 50%
+09-07 13:05:36:595    [Music] Volume set to 55%
+09-07 13:05:36:894    [Music] Volume set to 50%
+09-07 13:05:37:255    [Music] Volume set to 45%
+09-07 13:05:37:302    [Music] Volume set to 40%
+09-07 13:05:37:758    [Music] Volume set to 35%
+09-07 13:05:37:946    [Music] Volume set to 30%
+09-07 13:05:38:008    [Music] Volume set to 25%
+09-07 13:05:38:056    [Music] Volume set to 20%
+09-07 13:05:38:701    [Music] Volume set to 15%
+09-07 13:05:38:811    [Music] Volume set to 10%
+09-07 13:05:38:859    [Music] Volume set to 5%
+09-07 13:05:38:905    [Music] Volume set to 0%
+09-07 13:05:40:714    [Music] Volume set to 5%
+09-07 13:05:40:808    [Music] Volume set to 10%
+09-07 13:05:41:058    [Music] Volume set to 5%
+09-07 13:05:41:168    [Music] Volume set to 0%
+09-07 13:05:41:561    [Music] Volume set to 5%
+09-07 13:05:41:719    [Music] Volume set to 0%
+09-07 13:05:43:524    [Music] Volume set to 5%
+09-07 13:05:43:666    [Music] Volume set to 10%
+09-07 13:05:43:775    [Music] Volume set to 15%
+09-07 13:05:44:670    [Music] Volume set to 20%
+09-07 13:05:45:078    [Music] Volume set to 25%
+09-07 13:05:45:472    [Music] Volume set to 30%
+09-07 13:05:45:816    [Music] Volume set to 35%
+09-07 13:05:45:879    [Music] Volume set to 40%
+09-07 13:05:46:178    [Music] Volume set to 45%
+09-07 13:05:46:525    [Music] Volume set to 50%
+09-07 13:05:46:571    [Music] Volume set to 45%
+09-07 13:05:46:822    [Music] Volume set to 50%
+09-07 13:05:46:932    [Music] Volume set to 55%
+09-07 13:05:47:496    [Music] Volume set to 0%
+09-07 13:05:47:496    [Music] Volume set to 20%
+09-07 13:05:48:029    [Music] Volume set to 0%
+09-07 13:05:48:076    [Music] Volume set to 5%
+09-07 13:05:48:123    [Music] Volume set to 10%
+09-07 13:05:48:185    [Music] Volume set to 15%
+09-07 13:05:48:829    [Music] Volume set to 20%
+09-07 13:05:48:924    [Music] Volume set to 25%
+09-07 13:05:49:537    [Music] Volume set to 30%
+09-07 13:05:49:632    [Music] Volume set to 35%
+09-07 13:05:49:993    [Music] Volume set to 40%
+09-07 13:05:50:039    [Music] Volume set to 35%
+09-07 13:05:50:086    [Music] Volume set to 40%
+09-07 13:05:50:541    [Music] Volume set to 45%
+09-07 13:05:50:634    [Music] Volume set to 50%
+09-07 13:05:50:681    [Music] Volume set to 55%
+09-07 13:05:51:246    [Music] Volume set to 60%
+09-07 13:05:51:640    [Music] Volume set to 55%
+09-07 13:05:51:734    [Music] Volume set to 50%
+09-07 13:05:51:797    [Music] Volume set to 45%
+09-07 13:05:51:844    [Music] Volume set to 40%
+09-07 13:05:52:125    [Music] Volume set to 100%
+09-07 13:05:52:926    [Music] Volume set to 98%
+09-07 13:05:52:926    [Music] Volume set to 91%
+09-07 13:05:52:941    [Music] Volume set to 83%
+09-07 13:05:52:957    [Music] Volume set to 75%
+09-07 13:05:52:973    [Music] Volume set to 66%
+09-07 13:05:52:988    [Music] Volume set to 58%
+09-07 13:05:52:988    [Musi
+09-07 13:05:52:988    c] Volume set to 51%
+09-07 13:05:53:004    [Music] Volume set to 45%
+09-07 13:05:53:020    [Music] Volume set to 38%
+09-07 13:05:53:035    [Music] Volume set to 33%
+09-07 13:05:53:051    [Music] Volume set to 30%
+09-07 13:05:53:051    [Musi
+09-07 13:05:53:051    c] Volume set to 26%
+09-07 13:05:53:066    [Music] Volume set to 22%
+09-07 13:05:53:082    [Music] Volume set to 20%
+09-07 13:05:53:098    [Music] Volume set to 17%
+09-07 13:05:53:098    [Musi
+09-07 13:05:53:098    c] Volume set to 15%
+09-07 13:05:53:113    [Music] Volume set to 13%
+09-07 13:05:53:129    [Music] Volume set to 12%
+09-07 13:05:53:176    [Music] Volume set to 11%
+09-07 13:05:53:176    [Music] Volume set to 10%
+09-07 13:05:53:176    [Music] Volume set to 8%
+09-07 13:05:53:176    [Music] Volume set to 7%
+09-07 13:05:53:207    [Music] Volume set to 6%
+09-07 13:05:53:412    [Music] Volume set to 51%
+09-07 13:05:53:664    [Music] Volume set to 62%
+09-07 13:05:53:852    [Music] Volume set to 61%
+09-07 13:05:53:867    [Music] Volume set to 58%
+09-07 13:05:53:883    [Music] Volume set to 57%
+09-07 13:05:53:899    [Music] Volume set to 55%
+09-07 13:05:53:899    [Musi
+09-07 13:05:53:899    c] Volume set to 51%
+09-07 13:05:53:915    [Music] Volume set to 47%
+09-07 13:05:53:930    [Music] Volume set to 43%
+09-07 13:05:53:946    [Music] Volume set to 40%
+09-07 13:05:53:962    [Music] Volume set to 35%
+09-07 13:05:53:962    [Musi
+09-07 13:05:53:962    c] Volume set to 30%
+09-07 13:05:53:978    [Music] Volume set to 26%
+09-07 13:05:53:993    [Music] Volume set to 21%
+09-07 13:05:54:009    [Music] Volume set to 17%
+09-07 13:05:54:025    [Music] Volume set to 12%
+09-07 13:05:54:025    [Musi
+09-07 13:05:54:040    c] Volume set to 8%
+09-07 13:05:54:040    [Music] Volume set to 3%
+09-07 13:05:54:072    [Music] Volume set to 0%
+09-07 13:05:54:637    [Music] Volume set to 12%
+09-07 13:05:54:652    [Music] Volume set to 30%
+09-07 13:05:54:669    [Music] Volume set to 45%
+09-07 13:05:54:685    [Music] Volume set to 58%
+09-07 13:05:54:685    [Musi
+09-07 13:05:54:685    c] Volume set to 72%
+09-07 13:05:54:700    [Music] Volume set to 82%
+09-07 13:05:54:715    [Music] Volume set to 92%
+09-07 13:05:54:731    [Music] Volume set to 100%
+09-07 13:05:54:936    [Music] Volume set to 82%
+09-07 13:05:54:952    [Music] Volume set to 57%
+09-07 13:05:54:967    [Music] Volume set to 30%
+09-07 13:05:54:983    [Music] Volume set to 1%
+09-07 13:05:54:983    [Music
+09-07 13:05:54:983    ] Volume set to 0%
+09-07 13:05:55:314    [Music] Volume set to 7%
+09-07 13:05:55:330    [Music] Volume set to 32%
+09-07 13:05:55:345    [Music] Volume set to 53%
+09-07 13:05:55:345    [Musi
+09-07 13:05:55:345    c] Volume set to 72%
+09-07 13:05:55:361    [Music] Volume set to 87%
+09-07 13:05:55:377    [Music] Volume set to 100%
+09-07 13:05:55:643    [Music] Volume set to 86%
+09-07 13:05:55:643    [Musi
+09-07 13:05:55:643    c] Volume set to 60%
+09-07 13:05:55:658    [Music] Volume set to 28%
+09-07 13:05:55:674    [Music] Volume set to 0%
+09-07 13:05:56:097    [Music] Volume set to 17%
+09-07 13:05:56:113    [Music] Volume set to 41%
+09-07 13:05:56:113    [Musi
+09-07 13:05:56:113    c] Volume set to 61%
+09-07 13:05:56:128    [Music] Volume set to 77%
+09-07 13:05:56:144    [Music] Volume set to 92%
+09-07 13:05:56:160    [Music] Volume set to 100%
+09-07 13:05:56:363    [Music] Volume set to 97%
+09-07 13:05:56:363    [Musi
+09-07 13:05:56:363    c] Volume set to 66%
+09-07 13:05:56:379    [Music] Volume set to 31%
+09-07 13:05:56:396    [Music] Volume set to 0%
+09-07 13:05:56:835    [Music] Volume set to 6%
+09-07 13:05:56:835    [Music] Volume set to 18%
+09-07 13:05:56:851    [Music] Volume set to 31%
+09-07 13:05:56:866    [Music] Volume set to 42%
+09-07 13:05:56:883    [Music] Volume set to 55%
+09-07 13:05:56:898    [Music] Volume set to 65%
+09-07 13:05:56:898    [Musi
+09-07 13:05:56:898    c] Volume set to 75%
+09-07 13:05:56:913    [Music] Volume set to 83%
+09-07 13:05:56:944    [Music] Volume set to 91%
+09-07 13:05:56:944    [Music] Volume set to 97%
+09-07 13:05:56:961    [Music] Volume set to 100%
+09-07 13:05:57:213    [Music] Volume set to 82%
+09-07 13:05:57:228    [Music] Volume set to 53%
+09-07 13:05:57:243    [Music] Volume set to 22%
+09-07 13:05:57:259    [Music] Volume set to 0%
+09-07 13:05:57:572    [Music] Volume set to 10%
+09-07 13:05:57:588    [Music] Volume set to 31%
+09-07 13:05:57:604    [Music] Volume set to 48%
+09-07 13:05:57:604    [Musi
+09-07 13:05:57:619    c] Volume set to 65%
+09-07 13:05:57:635    [Music] Volume set to 77%
+09-07 13:05:57:651    [Music] Volume set to 90%
+09-07 13:05:57:666    [Music] Volume set to 98%
+09-07 13:05:57:682    [Music] Volume set to 100%
+09-07 13:05:58:043    [Music] Volume set to 93%
+09-07 13:05:58:059    [Music] Volume set to 82%
+09-07 13:05:58:074    [Music] Volume set to 72%
+09-07 13:05:58:091    [Music] Volume set to 63%
+09-07 13:05:58:091    [Musi
+09-07 13:05:58:091    c] Volume set to 55%
+09-07 13:05:58:106    [Music] Volume set to 46%
+09-07 13:05:58:123    [Music] Volume set to 38%
+09-07 13:05:58:138    [Music] Volume set to 32%
+09-07 13:05:58:153    [Music] Volume set to 26%
+09-07 13:05:58:153    [Musi
+09-07 13:05:58:153    c] Volume set to 20%
+09-07 13:05:58:170    [Music] Volume set to 13%
+09-07 13:05:58:186    [Music] Volume set to 8%
+09-07 13:05:58:202    [Music] Volume set to 2%
+09-07 13:05:58:217    [Music] Volume set to 0%
+09-07 13:05:58:734    [Music] Volume set to 6%
+09-07 13:05:58:749    [Music] Volume set to 13%
+09-07 13:05:58:749    [Musi
+09-07 13:05:58:749    c] Volume set to 18%
+09-07 13:05:58:765    [Music] Volume set to 23%
+09-07 13:05:58:781    [Music] Volume set to 28%
+09-07 13:05:58:796    [Music] Volume set to 32%
+09-07 13:05:58:812    [Music] Volume set to 35%
+09-07 13:05:58:812    [Musi
+09-07 13:05:58:812    c] Volume set to 38%
+09-07 13:05:58:828    [Music] Volume set to 41%
+09-07 13:05:58:843    [Music] Volume set to 43%
+09-07 13:05:58:859    [Music] Volume set to 45%
+09-07 13:05:58:874    [Music] Volume set to 46%
+09-07 13:05:58:874    [Musi
+09-07 13:05:58:874    c] Volume set to 48%
+09-07 13:05:58:890    [Music] Volume set to 50%
+09-07 13:05:58:921    [Music] Volume set to 51%
+09-07 13:05:58:937    [Music] Volume set to 52%
+09-07 13:05:58:968    [Music] Volume set to 53%
+09-07 13:05:58:968    [Music] Volume set to 55%
+09-07 13:05:58:984    [Music] Volume set to 56%
+09-07 13:05:58:984    [Musi
+09-07 13:05:58:984    c] Volume set to 57%
+09-07 13:05:59:046    [Music] Volume set to 58%
+09-07 13:05:59:109    [Music] Volume set to 60%
+09-07 13:05:59:172    [Music] Volume set to 58%
+09-07 13:05:59:218    [Music] Volume set to 57%
+09-07 13:05:59:234    [Music] Volume set to 56%
+09-07 13:05:59:265    [Music] Volume set to 55%
+09-07 13:05:59:287    [Music] Volume set to 53%
+09-07 13:05:59:297    [Music] Volume set to 52%
+09-07 13:05:59:297    [Musi
+09-07 13:05:59:297    c] Volume set to 50%
+09-07 13:05:59:313    [Music] Volume set to 48%
+09-07 13:05:59:328    [Music] Volume set to 46%
+09-07 13:05:59:344    [Music] Volume set to 43%
+09-07 13:05:59:360    [Music] Volume set to 41%
+09-07 13:05:59:360    [Musi
+09-07 13:05:59:360    c] Volume set to 38%
+09-07 13:05:59:375    [Music] Volume set to 36%
+09-07 13:05:59:393    [Music] Volume set to 33%
+09-07 13:05:59:423    [Music] Volume set to 30%
+09-07 13:05:59:423    [Music] Volume set to 27%
+09-07 13:05:59:423    [Music] Volume set to 25%
+09-07 13:05:59:439    [Music] Volume set to 21%
+09-07 13:05:59:454    [Music] Volume set to 18%
+09-07 13:05:59:470    [Music] Volume set to 16%
+09-07 13:05:59:470    [Musi
+09-07 13:05:59:470    c] Volume set to 13%
+09-07 13:05:59:485    [Music] Volume set to 10%
+09-07 13:05:59:501    [Music] Volume set to 6%
+09-07 13:05:59:517    [Music] Volume set to 2%
+09-07 13:05:59:532    [Music] Volume set to 0%
+09-07 13:05:59:971    [Music] Volume set to 5%
+09-07 13:06:00:081    [Music] Volume set to 10%
+09-07 13:06:00:128    [Music] Volume set to 15%
+09-07 13:06:00:176    [Music] Volume set to 20%
+09-07 13:06:00:286    [Music] Volume set to 25%
+09-07 13:06:00:583    [Music] Volume set to 30%
+09-07 13:06:00:630    [Music] Volume set to 35%
+09-07 13:06:01:084    [Music] Volume set to 40%
+09-07 13:06:01:131    [Music] Volume set to 45%
+09-07 13:06:01:537    [Music] Volume set to 50%
+09-07 13:06:01:631    [Music] Volume set to 55%
+09-07 13:06:01:742    [Music] Volume set to 60%
+09-07 13:06:01:788    [Music] Volume set to 65%
+09-07 13:06:01:882    [Music] Volume set to 70%
+09-07 13:06:01:991    [Music] Volume set to 75%
+09-07 13:06:02:085    [Music] Volume set to 80%
+09-07 13:06:02:636    [Music] Volume set to 85%
+09-07 13:06:02:684    [Music] Volume set to 90%
+09-07 13:06:02:731    [Music] Volume set to 95%
+09-07 13:06:02:841    [Music] Volume set to 100%
+09-07 13:06:04:898    [Music] Volume set to 95%
+09-07 13:06:05:494    [Music] Volume set to 100%
+09-07 13:06:05:698    [Music] Volume set to 95%
+09-07 13:06:05:745    [Music] Volume set to 90%
+09-07 13:06:05:948    [Music] Volume set to 85%
+09-07 13:06:06:201    [Music] Volume set to 80%
+09-07 13:06:06:247    [Music] Volume set to 75%
+09-07 13:06:06:506    [Music] Volume set to 70%
+09-07 13:06:06:750    [Music] Volume set to 65%
+09-07 13:06:07:502    [Music] Volume set to 60%
+09-07 13:06:07:705    [Music] Volume set to 65%
+09-07 13:06:07:799    [Music] Volume set to 60%
+09-07 13:06:08:348    [Music] Volume set to 55%
+09-07 13:06:09:617    [Music] Volume set to 50%
+09-07 13:06:09:837    [Music] Volume set to 36%
+09-07 13:06:10:338    [Music] Volume set to 47%
+09-07 13:06:10:637    [Music] Volume set to 52%
+09-07 13:06:10:669    [Music] Volume set to 50%
+09-07 13:06:10:684    [Music] Volume set to 42%
+09-07 13:06:10:700    [Music] Volume set to 28%
+09-07 13:06:10:700    [Musi
+09-07 13:06:10:715    c] Volume set to 6%
+09-07 13:06:10:731    [Music] Volume set to 0%
+09-07 13:06:10:982    [Music] Volume set to 13%
+09-07 13:06:10:997    [Music] Volume set to 37%
+09-07 13:06:11:013    [Music] Volume set to 57%
+09-07 13:06:11:013    [Musi
+09-07 13:06:11:013    c] Volume set to 83%
+09-07 13:06:11:028    [Music] Volume set to 100%
+09-07 13:07:01:602    SFBL
+09-07 13:07:03:634    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+09-07 13:07:03:650    NAND ID 0x21aaef
+09-07 13:07:03:650    det bbm table with 1, 1, 2
+09-07 13:07:03:650    detect result 2
+09-07 13:07:03:650    V1 1 in block 992, V2 0 in block 994
+09-07 13:07:03:650    Latest version 1
+09-07 13:07:03:650    V1 1 in block 993, V2 0 in block 995
+09-07 13:07:03:650    Latest version 1
+09-07 13:07:03:650    v1 1 in blk 992, v2 1 in block 993
+09-07 13:07:03:650    BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+09-07 13:07:03:650    sif_bbm_init done
+09-07 13:07:03:650    
+09-07 13:07:03:650     \ | /
+09-07 13:07:03:650    - SiFli Corporation
+09-07 13:07:03:650     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+09-07 13:07:03:650     2020 - 2022 Copyright by SiFli team
+09-07 13:07:03:650    cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+09-07 13:07:03:650    mount /dev sucess
+09-07 13:07:03:650    [32m[401] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+09-07 13:07:03:650    [0m[32m[408] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058340, rtc ppm=0
+09-07 13:07:03:650    
+09-07 13:07:03:650    [0m[32m[416] I/drv.rtc main: DIVA=35, DIVA_FRA=7092, DIVB=256
+09-07 13:07:03:650    
+09-07 13:07:03:650    [0m[32m[423] I/drv.rtc main: Init RTC, wake = 0
+09-07 13:07:03:650    
+09-07 13:07:03:650    [0m
+09-07 13:07:03:666    NAND factory magic error 0xffffffff vs 0x53450617
+09-07 13:07:03:666    [32m[476] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+09-07 13:07:03:666    
+09-07 13:07:03:666    [0m[32m[483] I/drv.audprc main: HAL_AUDPRC_Init res 0
+09-07 13:07:03:666    
+09-07 13:07:03:666    [0m[31m[489] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+09-07 13:07:03:666    [0m[32m[497] I/drv.encoder main: encoder1 init success!!
+09-07 13:07:03:666    [0m[31m[503] E/drv.encoder main: encoder1 register success
+09-07 13:07:03:666    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+09-07 13:07:03:666    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-07 13:07:03:666    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-07 13:07:03:666    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-07 13:07:03:666    [32m[548] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+09-07 13:07:03:666    [0mlvsf_font_load: faces
+09-07 13:07:03:666     2 ft_cache_size 300000
+09-07 13:07:03:666    mount fs[yaffs] on / failed.
+09-07 13:07:03:666    Register root to mtd device with base addr 0x62580000
+09-07 13:07:03:666    mount dev: 
+09-07 13:07:03:666    44, 983
+09-07 13:07:03:869    Get phy blk for 992 fail when read
+09-07 13:07:03:869    [32m[2260] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 993 fail when read
+09-07 13:07:03:869    [32m[2270] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 994 fail when read
+09-07 13:07:03:869    [32m[2280] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 995 fail when read
+09-07 13:07:03:869    [32m[2290] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 996 fail when read
+09-07 13:07:03:869    [32m[2301] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 997 fail when read
+09-07 13:07:03:869    [32m[2311] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 998 fail when read
+09-07 13:07:03:869    [32m[2321] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 999 fail when read
+09-07 13:07:03:869    [32m[2331] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 1000 fail when read
+09-07 13:07:03:869    [32m[2341] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 1001 fail when read
+09-07 13:07:03:869    [32m[2351] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:869    
+09-07 13:07:03:869    [0mGet phy blk for 1002 fail when read
+09-07 13:07:03:885    [32m[2362] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1003 fail when read
+09-07 13:07:03:885    [32m[2372] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1004 fail when read
+09-07 13:07:03:885    [32m[2382] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1005 fail when read
+09-07 13:07:03:885    [32m[2392] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1006 fail when read
+09-07 13:07:03:885    [32m[2403] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1007 fail when read
+09-07 13:07:03:885    [32m[2413] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1008 fail when read
+09-07 13:07:03:885    [32m[2423] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1009 fail when read
+09-07 13:07:03:885    [32m[2433] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1010 fail when read
+09-07 13:07:03:885    [32m[2443] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1011 fail when read
+09-07 13:07:03:885    [32m[2454] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1012 fail when read
+09-07 13:07:03:885    [32m[2464] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1013 fail when read
+09-07 13:07:03:885    [32m[2474] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1014 fail when read
+09-07 13:07:03:885    [32m[2484] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1015 fail when read
+09-07 13:07:03:885    [32m[2495] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1016 fail when read
+09-07 13:07:03:885    [32m[2505] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:885    
+09-07 13:07:03:885    [0mGet phy blk for 1017 fail when read
+09-07 13:07:03:900    [32m[2515] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:900    
+09-07 13:07:03:900    [0mGet phy blk for 1018 fail when read
+09-07 13:07:03:900    [32m[2525] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:900    
+09-07 13:07:03:900    [0mGet phy blk for 1019 fail when read
+09-07 13:07:03:900    [32m[2536] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:900    
+09-07 13:07:03:900    [0mGet phy blk for 1020 fail when read
+09-07 13:07:03:900    [32m[2546] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:900    
+09-07 13:07:03:900    [0mGet phy blk for 1021 fail when read
+09-07 13:07:03:900    [32m[2556] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:900    
+09-07 13:07:03:900    [0mGet phy blk for 1022 fail when read
+09-07 13:07:03:900    [32m[2566] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:900    
+09-07 13:07:03:900    [0mGet phy blk for 1023 fail when read
+09-07 13:07:03:900    [32m[2576] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:900    
+09-07 13:07:03:900    [0mGet phy blk for 1024 fail when read
+09-07 13:07:03:900    [32m[2587] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:900    
+09-07 13:07:03:900    [0mGet phy blk for 1025 fail when read
+09-07 13:07:03:900    [32m[2597] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:916    
+09-07 13:07:03:916    [0mGet phy blk for 1026 fail when read
+09-07 13:07:03:916    [32m[2607] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:916    
+09-07 13:07:03:916    [0mGet phy blk for 1027 fail when read
+09-07 13:07:03:916    [32m[2617] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:03:916    
+09-07 13:07:03:916    [0m
+09-07 13:07:04:088    Get phy blk for 992 fail when read
+09-07 13:07:04:088    [32m[4316] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 993 fail when read
+09-07 13:07:04:088    [32m[4326] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 994 fail when read
+09-07 13:07:04:088    [32m[4336] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 995 fail when read
+09-07 13:07:04:088    [32m[4346] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 996 fail when read
+09-07 13:07:04:088    [32m[4356] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 997 fail when read
+09-07 13:07:04:088    [32m[4367] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 998 fail when read
+09-07 13:07:04:088    [32m[4377] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 999 fail when read
+09-07 13:07:04:088    [32m[4387] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 1000 fail when read
+09-07 13:07:04:088    [32m[4397] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 1001 fail when read
+09-07 13:07:04:088    [32m[4407] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:088    
+09-07 13:07:04:088    [0mGet phy blk for 1002 fail when read
+09-07 13:07:04:104    [32m[4418] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1003 fail when read
+09-07 13:07:04:104    [32m[4428] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1004 fail when read
+09-07 13:07:04:104    [32m[4438] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1005 fail when read
+09-07 13:07:04:104    [32m[4448] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1006 fail when read
+09-07 13:07:04:104    [32m[4459] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1007 fail when read
+09-07 13:07:04:104    [32m[4469] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1008 fail when read
+09-07 13:07:04:104    [32m[4479] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1009 fail when read
+09-07 13:07:04:104    [32m[4489] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1010 fail when read
+09-07 13:07:04:104    [32m[4500] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1011 fail when read
+09-07 13:07:04:104    [32m[4510] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1012 fail when read
+09-07 13:07:04:104    [32m[4520] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1013 fail when read
+09-07 13:07:04:104    [32m[4530] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1014 fail when read
+09-07 13:07:04:104    [32m[4541] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:104    
+09-07 13:07:04:104    [0mGet phy blk for 1015 fail when read
+09-07 13:07:04:135    [32m[4551] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1016 fail when read
+09-07 13:07:04:135    [32m[4561] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1017 fail when read
+09-07 13:07:04:135    [32m[4571] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1018 fail when read
+09-07 13:07:04:135    [32m[4582] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1019 fail when read
+09-07 13:07:04:135    [32m[4592] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1020 fail when read
+09-07 13:07:04:135    [32m[4602] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1021 fail when read
+09-07 13:07:04:135    [32m[4612] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1022 fail when read
+09-07 13:07:04:135    [32m[4623] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1023 fail when read
+09-07 13:07:04:135    [32m[4633] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1024 fail when read
+09-07 13:07:04:135    [32m[4643] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1025 fail when read
+09-07 13:07:04:135    [32m[4653] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1026 fail when read
+09-07 13:07:04:135    [32m[4664] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:135    
+09-07 13:07:04:135    [0mGet phy blk for 1027 fail when read
+09-07 13:07:04:151    [32m[4674] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:04:151    
+09-07 13:07:04:151    [0m
+09-07 13:07:04:198    mount:0
+09-07 13:07:04:198    mount fs on flash to root success
+09-07 13:07:04:198    [FlashDB] Starting i
+09-07 13:07:04:198    nitialization...
+09-07 13:07:04:198    [FlashDB] Mutex initialized
+09-07 13:07:04:198    [FlashDB] KVDB Config:
+09-07 13:07:04:198      Path: /sys/db/fdb_kvdb
+09-07 13:07:04:198      Sector Size: 4096
+09-07 13:07:04:198      Max Size: 16384 (0x4000)
+09-07 13:07:04:198      File Mode: true
+09-07 13:07:04:198    [FlashDB] KVDB initialized successfully
+09-07 13:07:04:198    [FlashDB] TSDB Config:
+09-07 13:07:04:213      Path: /sys/db/fdb_tsdb
+09-07 13:07:04:213      Max Size: 16384
+09-07 13:07:04:213    [FlashDB] TSDB initialized successfully
+09-07 13:07:04:213    [FlashDB] All initialization complete
+09-07 13:07:04:213    [32m[5465] I/drv.lcd app_watc: [NONE] -> [OPENING]
+09-07 13:07:04:213    [0m[32m[5470] I/drv.lcd lcd_task: open
+09-07 13:07:04:213    [0m[32m[5475] I/drv.epic lcd_task: drv_gpu opened.
+09-07 13:07:04:213    [0m[32m[5480] I/drv.lcd lcd_task: HW open
+09-07 13:07:04:213    [0m[32m[5491] I/drv.lcd lcd_task: Try registered LCD driver...
+09-07 13:07:04:213    [0mmsh
+09-07 13:07:04:213     />
+09-07 13:07:04:276    
+09-07 13:07:04:276    CO5300_ReadID 0x331100 
+09-07 13:07:04:291    [32m[6130] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-07 13:07:04:291    
+09-07 13:07:04:291    [0m
+09-07 13:07:04:480    
+09-07 13:07:04:480    CO5300_ReadID 0x331100 
+09-07 13:07:04:480    [32m[7868] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-07 13:07:04:480    
+09-07 13:07:04:480    [0m[32m[7874] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+09-07 13:07:04:480    [0m[32m[7881] I/drv.lcd lcd_task: HW open done.
+09-07 13:07:04:480    [0m[32m[7886] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+09-07 13:07:04:480    [0m[32m[7893] I/drv.lcd lcd_task: open done.
+09-07 13:07:04:480    [0m[32m[7898] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+09-07 13:07:04:480    [0m[32m[7904] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+09-07 13:07:04:480    [0m[32m[7912] I/TOUCH app_watc: Open
+09-07 13:07:04:480    [0m[32m[7917] I/TOUCH tp_init: Find touch screen driver...
+09-07 13:07:04:480    [0m[32m[7923] I/TOUCH tp_init: Probe 10007795
+09-07 13:07:04:480    [0m[32m[7928] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 13:07:04:480    [0m[32m[7934] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+09-07 13:07:04:480    [0m[7943] D/drv.chsc6417 tp_init: chsc6417 init
+09-07 13:07:04:480    chsc6417 id=0x0
+09-07 13:07:04:480    [32m[7950] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 13:07:04:480    [0m[7956] D/drv.chsc6417 tp_init: chsc6417 init OK
+09-07 13:07:04:480    [32m[7962] I/TOUCH app_watc: Opened.
+09-07 13:07:04:480    [0m
+09-07 13:07:04:495    [32m[7983] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+09-07 13:07:04:495    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+09-07 13:07:04:698    Boot count: 86
+09-07 13:07:04:730    [32m[9992] I/drv.rtc app_watc: Get initial cycles: 1058340 rtc=1735689601.0000
+09-07 13:07:04:730    
+09-07 13:07:04:730    [0m[32m[10048] I/drv.rtc app_watc: Get initial cycles: 1058340 rtc=1735689600.0000
+09-07 13:07:04:730    
+09-07 13:07:04:730    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+09-07 13:07:04:730    [32m[10123] I/drv.lcd lcd_task: set brightness 100
+09-07 13:07:04:730    [0m[32m[10129] I/drv.lcd lcd_task: display on
+09-07 13:07:04:730    [0m[32m[10134] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-07 13:07:04:730    [0m[10143] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1073.
+09-07 13:07:04:730    [32m[10153] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 13:07:04:730    [0m
+09-07 13:07:04:761    [10431] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:04:761    [32m[10439] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1073
+09-07 13:07:04:761    [0m[32m[10448] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063754
+09-07 13:07:04:761    [0m[32m[10455] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+09-07 13:07:04:761    [0m[10463] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-07 13:07:04:761    [32m[10471] I/APP.SCHE app_watc: app[MainScreen] do START, 20063754
+09-07 13:07:04:761    [0m[32m[10479] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 13:07:04:761    [0m[10485] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063754] to gui_app_mbx tick:1110.
+09-07 13:07:04:761    [32m[10495] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1110
+09-07 13:07:04:761    [0m[10503] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063820
+09-07 13:07:04:761    [10511] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-07 13:07:04:761    [10520] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:04:761    [32m[10529] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART
+09-07 13:07:04:776    , 20063820
+09-07 13:07:04:778    [0m
+09-07 13:07:04:783    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+09-07 13:07:04:784    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 m
+09-07 13:07:04:784    s, vol=70%)
+09-07 13:07:04:792    [32m[10694] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:04:792    [0m[32m[10703] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:04:792    [0m[32m[10709] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-07 13:07:04:792    [0m[10716] D/APP.SCHE app_watc: app_schedule_tas
+09-07 13:07:04:792    k done.
+09-07 13:07:12:476    [80414] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:8797.
+09-07 13:07:12:476    [32m[80424] I/APP.FWK.INT timer: [MusicScreen]
+09-07 13:07:12:476    [0m
+09-07 13:07:12:491    [80660] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:12:507    [32m[80668] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:8797
+09-07 13:07:12:507    [0m[32m[80677] I/APP.SCHE app_watc: app[MusicScreen] do LOAD, 20064c3c
+09-07 13:07:12:507    [0m[32m[80684] I/APP.FWK app_watc: finding MusicScreen in builtin apps...
+09-07 13:07:12:507    [0m[80692] D/APP.SCHE app_watc: app[MusicScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-07 13:07:12:507    [32m[80700] I/APP.SCHE app_watc: app[MusicScreen] do START, 20064c3c
+09-07 13:07:12:507    [0m[32m[80708] I/APP.FWK.INT app_watc: [MusicScreen]
+09-07 13:07:12:507    [0m[80714] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20064c3c] to gui_app_mbx tick:8829.
+09-07 13:07:12:507    [32m[80724] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:8829
+09-07 13:07:12:507    [0m[80733] D/APP.SCHE app_watc: app[MusicScreen] create page[root] 20064ba0
+09-07 13:07:12:507    [80740] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-07 13:07:12:507    [80749] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+09-07 13:07:12:507    [80756] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:12:507    [32m[80765] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+09-07 13:07:12:507    [0m[32m[80775] I/APP.SCHE app_watc: page[MusicScreen][root] do ONSTART, 20064ba0
+09-07 13:07:12:507    [0m[MusicApp] on_start
+09-07 13:07:12:523    [32m[80786] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+09-07 13:07:12:523    [0m[MusicApp] on_resume
+09-07 13:07:12:523    [32m[80797] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:12:523    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:12:523    [32m[80809] I/APP.ANI app_watc: buf = 6051e8f0
+09-07 13:07:12:523    [0m[32m[80820] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+09-07 13:07:12:523    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:12:523    [32m[80834] I/APP.ANI app_watc: buf = 604c8dd8
+09-07 13:07:12:523    [0m
+09-07 13:07:12:538    [32m[80943] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+09-07 13:07:12:538    [0m[32m[80951] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:12:538    [0m[32m[80958] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+09-07 13:07:12:538    
+09-07 13:07:12:538    [0m[32m[80966] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:12:538    [0m[80973] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:12:538    [80979] D/APP.SCHE app_watc: app_sc
+09-07 13:07:12:538    hedule_task done.
+09-07 13:07:12:851    [32m[83759] I/APP.ANI app_watc: free_run_ready 0 
+09-07 13:07:12:851    
+09-07 13:07:12:851    [0m
+09-07 13:07:12:866    [32m[84056] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:12:882    
+09-07 13:07:12:882    [0m[32m[84063] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:12:882    
+09-07 13:07:12:882    [0m[32m[84071] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:12:882    
+09-07 13:07:12:882    [0m[32m[84079] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+09-07 13:07:12:882    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:12:882    [32m[84093] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+09-07 13:07:12:882    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:12:882    [32m[84108] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:12:882    [0m[84115] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:13:226    [87268] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:9550.
+09-07 13:07:13:226    [32m[87277] I/APP.FWK.INT timer: [MainScreen]
+09-07 13:07:13:226    [0m
+09-07 13:07:13:242    [87395] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:13:242    [32m[87403] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:9550
+09-07 13:07:13:242    [0m[87412] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+09-07 13:07:13:242    [87420] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:13:242    [87425] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:13:242    [87432] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:13:242    [87441] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:13:242    [32m[87449] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+09-07 13:07:13:242    [0m[MusicApp] on_pause
+09-07 13:07:13:242    [32m[87460] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:13:257    [0m[32m[87469] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:13:259    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:13:259    [32m[87482] I/APP.ANI app_watc: buf = 6051e8f0
+09-07 13:07:13:260    [0m[32m[87492] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+09-07 13:07:13:261    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:13:261    [32m[87506] I/APP.ANI app_watc: buf = 604c8dd8
+09-07 13:07:13:261    [0m
+09-07 13:07:13:273    [32m[87634] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+09-07 13:07:13:273    [0m[32m[87643] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:13:273    [0m[32m[87650] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-07 13:07:13:273    
+09-07 13:07:13:273    [0m[32m[87658] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:13:273    [0m[87664] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:13:273    [87670] D/APP.SCHE app_watc: app_sc
+09-07 13:07:13:273    hedule_task done.
+09-07 13:07:13:590    [32m[90463] I/APP.ANI app_watc: free_run_ready 0 
+09-07 13:07:13:590    
+09-07 13:07:13:594    [0m
+09-07 13:07:13:617    [32m[90754] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:13:617    
+09-07 13:07:13:617    [0m[32m[90761] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:13:623    
+09-07 13:07:13:623    [0m[32m[90767] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:13:623    
+09-07 13:07:13:623    [0m[32m[90775] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+09-07 13:07:13:623    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:13:623    [32m[90789] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+09-07 13:07:13:623    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:13:623    [32m[90805] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:13:623    [0m[90814] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:25:439    SFBL
+09-07 13:07:27:487    Serial:c2,Chip:4,Package:3,Rev:3
+09-07 13:07:27:487      Reason:00000000
+09-07 13:07:27:487    NAND ID 0x21aaef
+09-07 13:07:27:487    det bbm table with 1, 1, 2
+09-07 13:07:27:503    detect result 2
+09-07 13:07:27:503    V1 1 in block 992, V2 0 in block 994
+09-07 13:07:27:503    Latest version 1
+09-07 13:07:27:503    V1 1 in block 993, V2 0 in block 995
+09-07 13:07:27:503    Latest version 1
+09-07 13:07:27:503    v1 1 in blk 992, v2 1 in block 993
+09-07 13:07:27:503    BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+09-07 13:07:27:503    sif_bbm_init done
+09-07 13:07:27:503    
+09-07 13:07:27:503     \ | /
+09-07 13:07:27:503    - SiFli Corporation
+09-07 13:07:27:503     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+09-07 13:07:27:503     2020 - 2022 Copyright by SiFli team
+09-07 13:07:27:503    cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+09-07 13:07:27:503    mount /dev sucess
+09-07 13:07:27:503    [32m[401] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+09-07 13:07:27:503    [0m[32m[408] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058332, rtc ppm=0
+09-07 13:07:27:503    
+09-07 13:07:27:503    [0m[32m[416] I/drv.rtc main: DIVA=35, DIVA_FRA=7096, DIVB=256
+09-07 13:07:27:503    
+09-07 13:07:27:503    [0m[32m[423] I/drv.rtc main: Init RTC, wake = 0
+09-07 13:07:27:518    
+09-07 13:07:27:518    [0mNAND factory magic error 0xffffffff vs 0x53450617
+09-07 13:07:27:518    [32m[476] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+09-07 13:07:27:518    
+09-07 13:07:27:518    [0m[32m[483] I/drv.audprc main: HAL_AUDPRC_Init res 0
+09-07 13:07:27:518    
+09-07 13:07:27:518    [0m[31m[489] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+09-07 13:07:27:518    [0m[32m[497] I/drv.encoder main: encoder1 init success!!
+09-07 13:07:27:518    [0m[31m[503] E/drv.encoder main: encoder1 register success
+09-07 13:07:27:518    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+09-07 13:07:27:518    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-07 13:07:27:518    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-07 13:07:27:534    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-07 13:07:27:534    [32m[548] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+09-07 13:07:27:534    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+09-07 13:07:27:534    mount fs[yaffs] on / failed.
+09-07 13:07:27:534    Register root to mtd device with base addr 0x62580000
+09-07 13:07:27:534    mount dev: 44, 983
+09-07 13:07:27:706    Get phy blk for 992 fail when read
+09-07 13:07:27:706    [32m[2260] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:706    
+09-07 13:07:27:706    [0mGet phy blk for 993 fail when read
+09-07 13:07:27:706    [32m[2270] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:706    
+09-07 13:07:27:706    [0mGet phy blk for 994 fail when read
+09-07 13:07:27:706    [32m[2280] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:706    
+09-07 13:07:27:706    [0mGet phy blk for 995 fail when read
+09-07 13:07:27:706    [32m[2291] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:706    
+09-07 13:07:27:706    [0mGet phy blk for 996 fail when read
+09-07 13:07:27:706    [32m[2301] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:706    
+09-07 13:07:27:706    [0mGet phy blk for 997 fail when read
+09-07 13:07:27:706    [32m[2311] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:706    
+09-07 13:07:27:722    [0mGet phy blk for 998 fail when read
+09-07 13:07:27:722    [32m[2321] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 999 fail when read
+09-07 13:07:27:722    [32m[2331] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1000 fail when read
+09-07 13:07:27:722    [32m[2341] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1001 fail when read
+09-07 13:07:27:722    [32m[2352] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1002 fail when read
+09-07 13:07:27:722    [32m[2362] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1003 fail when read
+09-07 13:07:27:722    [32m[2372] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1004 fail when read
+09-07 13:07:27:722    [32m[2382] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1005 fail when read
+09-07 13:07:27:722    [32m[2392] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1006 fail when read
+09-07 13:07:27:722    [32m[2403] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1007 fail when read
+09-07 13:07:27:722    [32m[2413] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1008 fail when read
+09-07 13:07:27:722    [32m[2423] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1009 fail when read
+09-07 13:07:27:722    [32m[2433] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1010 fail when read
+09-07 13:07:27:722    [32m[2444] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1011 fail when read
+09-07 13:07:27:722    [32m[2454] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:722    
+09-07 13:07:27:722    [0mGet phy blk for 1012 fail when read
+09-07 13:07:27:722    [32m[2464] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1013 fail when read
+09-07 13:07:27:738    [32m[2474] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1014 fail when read
+09-07 13:07:27:738    [32m[2484] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1015 fail when read
+09-07 13:07:27:738    [32m[2495] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1016 fail when read
+09-07 13:07:27:738    [32m[2505] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1017 fail when read
+09-07 13:07:27:738    [32m[2515] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1018 fail when read
+09-07 13:07:27:738    [32m[2525] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1019 fail when read
+09-07 13:07:27:738    [32m[2536] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1020 fail when read
+09-07 13:07:27:738    [32m[2546] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1021 fail when read
+09-07 13:07:27:738    [32m[2556] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1022 fail when read
+09-07 13:07:27:738    [32m[2566] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1023 fail when read
+09-07 13:07:27:738    [32m[2576] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1024 fail when read
+09-07 13:07:27:738    [32m[2587] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:738    
+09-07 13:07:27:738    [0mGet phy blk for 1025 fail when read
+09-07 13:07:27:738    [32m[2597] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:753    
+09-07 13:07:27:753    [0mGet phy blk for 1026 fail when read
+09-07 13:07:27:769    [32m[2607] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:769    
+09-07 13:07:27:769    [0mGet phy blk for 1027 fail when read
+09-07 13:07:27:769    [32m[2617] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:769    
+09-07 13:07:27:769    [0m
+09-07 13:07:27:925    Get phy blk for 992 fail when read
+09-07 13:07:27:941    [32m[4316] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:942    
+09-07 13:07:27:942    [0mGet phy blk for 993 fail when read
+09-07 13:07:27:942    [32m[4326] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:943    
+09-07 13:07:27:943    [0mGet phy blk for 994 fail when read
+09-07 13:07:27:944    [32m[4337] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:944    
+09-07 13:07:27:944    [0mGet phy blk for 995 fail when read
+09-07 13:07:27:945    [32m[4347] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:945    
+09-07 13:07:27:946    [0mGet phy blk for 996 fail when read
+09-07 13:07:27:946    [32m[4357] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:946    
+09-07 13:07:27:947    [0mGet phy blk for 997 fail when read
+09-07 13:07:27:947    [32m[4367] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:947    
+09-07 13:07:27:949    [0mGet phy blk for 998 fail when read
+09-07 13:07:27:949    [32m[4377] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:949    
+09-07 13:07:27:950    [0mGet phy blk for 999 fail when read
+09-07 13:07:27:950    [32m[4387] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:950    
+09-07 13:07:27:950    [0mGet phy blk for 1000 fail when read
+09-07 13:07:27:951    [32m[4398] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:952    
+09-07 13:07:27:952    [0mGet phy blk for 1001 fail when read
+09-07 13:07:27:952    [32m[4408] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:953    
+09-07 13:07:27:953    [0mGet phy blk for 1002 fail when read
+09-07 13:07:27:953    [32m[4418] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:953    
+09-07 13:07:27:953    [0mGet phy blk for 1003 fail when read
+09-07 13:07:27:953    [32m[4428] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:953    
+09-07 13:07:27:953    [0mGet phy blk for 1004 fail when read
+09-07 13:07:27:953    [32m[4439] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:953    
+09-07 13:07:27:972    [0mGet phy blk for 1005 fail when read
+09-07 13:07:27:972    [32m[4449] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1006 fail when read
+09-07 13:07:27:972    [32m[4459] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1007 fail when read
+09-07 13:07:27:972    [32m[4469] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1008 fail when read
+09-07 13:07:27:972    [32m[4480] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1009 fail when read
+09-07 13:07:27:972    [32m[4490] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1010 fail when read
+09-07 13:07:27:972    [32m[4500] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1011 fail when read
+09-07 13:07:27:972    [32m[4510] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1012 fail when read
+09-07 13:07:27:972    [32m[4521] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1013 fail when read
+09-07 13:07:27:972    [32m[4531] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1014 fail when read
+09-07 13:07:27:972    [32m[4541] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1015 fail when read
+09-07 13:07:27:972    [32m[4551] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1016 fail when read
+09-07 13:07:27:972    [32m[4562] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:972    
+09-07 13:07:27:972    [0mGet phy blk for 1017 fail when read
+09-07 13:07:27:988    [32m[4572] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1018 fail when read
+09-07 13:07:27:988    [32m[4582] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1019 fail when read
+09-07 13:07:27:988    [32m[4592] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1020 fail when read
+09-07 13:07:27:988    [32m[4603] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1021 fail when read
+09-07 13:07:27:988    [32m[4613] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1022 fail when read
+09-07 13:07:27:988    [32m[4623] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1023 fail when read
+09-07 13:07:27:988    [32m[4633] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1024 fail when read
+09-07 13:07:27:988    [32m[4644] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1025 fail when read
+09-07 13:07:27:988    [32m[4654] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1026 fail when read
+09-07 13:07:27:988    [32m[4664] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0mGet phy blk for 1027 fail when read
+09-07 13:07:27:988    [32m[4674] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-07 13:07:27:988    
+09-07 13:07:27:988    [0m
+09-07 13:07:28:035    mount:0
+09-07 13:07:28:035    mount fs on flash to root success
+09-07 13:07:28:035    [FlashDB] Starting i
+09-07 13:07:28:035    nitialization...
+09-07 13:07:28:035    [FlashDB] Mutex initialized
+09-07 13:07:28:050    [FlashDB] KVDB Config:
+09-07 13:07:28:050      Path: /sys/db/fdb_kvdb
+09-07 13:07:28:050      Sector Size: 4096
+09-07 13:07:28:050      Max Size: 16384 (0x4000)
+09-07 13:07:28:050      File Mode: true
+09-07 13:07:28:050    [FlashDB] KVDB initialized successfully
+09-07 13:07:28:050    [FlashDB] TSDB Config:
+09-07 13:07:28:050      Path: /sys/db/fdb_tsdb
+09-07 13:07:28:050      Max Size: 16384
+09-07 13:07:28:050    [FlashDB] TSDB initialized successfully
+09-07 13:07:28:066    [FlashDB] All initialization complete
+09-07 13:07:28:066    [32m[5467] I/drv.lcd app_watc: [NONE] -> [OPENING]
+09-07 13:07:28:066    [0m[32m[5473] I/drv.lcd lcd_task: open
+09-07 13:07:28:066    [0m[32m[5477] I/drv.epic lcd_task: drv_gpu opened.
+09-07 13:07:28:066    [0m[32m[5483] I/drv.lcd lcd_task: HW open
+09-07 13:07:28:066    [0m[32m[5494] I/drv.lcd lcd_task: Try registered LCD driver...
+09-07 13:07:28:066    [0mmsh
+09-07 13:07:28:066     />
+09-07 13:07:28:129    
+09-07 13:07:28:129    CO5300_ReadID 0x331100 
+09-07 13:07:28:129    [32m[6139] I/co5300 lcd_task: LCD mo
+09-07 13:07:28:129    dule use CO5300 IC 
+09-07 13:07:28:129    
+09-07 13:07:28:129    [0m
+09-07 13:07:28:332    
+09-07 13:07:28:332    CO5300_ReadID 0x331100 
+09-07 13:07:28:332    [32m[7876] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-07 13:07:28:332    
+09-07 13:07:28:332    [0m[32m[7883] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+09-07 13:07:28:332    [0m[32m[7889] I/drv.lcd lcd_task: HW open done.
+09-07 13:07:28:332    [0m[32m[7895] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+09-07 13:07:28:332    [0m[32m[7901] I/drv.lcd lcd_task: open done.
+09-07 13:07:28:332    [0m[32m[7906] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+09-07 13:07:28:332    [0m[32m[7913] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+09-07 13:07:28:332    [0m[32m[7921] I/TOUCH app_watc: Open
+09-07 13:07:28:332    [0m[32m[7925] I/TOUCH tp_init: Find touch screen driver...
+09-07 13:07:28:332    [0m[32m[7932] I/TOUCH tp_init: Probe 10007795
+09-07 13:07:28:332    [0m[32m[7937] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 13:07:28:332    [0m[32m[7943] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+09-07 13:07:28:332    [0m[7951] D/drv.chsc6417 tp_init: chsc6417 init
+09-07 13:07:28:332    chsc6417 id=0x0
+09-07 13:07:28:332    [32m[7959] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 13:07:28:332    [0m[7965] D/drv.chsc6417 tp_init: chsc6417 init OK
+09-07 13:07:28:332    [32m[7970] I/TOUCH app_watc: Opened.
+09-07 13:07:28:332    [0m
+09-07 13:07:28:332    [32m[7992] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+09-07 13:07:28:332    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+09-07 13:07:28:551    Boot count: 87
+09-07 13:07:28:566    [32m[10000] I/drv.rtc app_watc: Get initial cycles: 1058332 rtc
+09-07 13:07:28:566    =1735689601.0000
+09-07 13:07:28:566    
+09-07 13:07:28:566    [0m
+09-07 13:07:28:566    [32m[10056] I/drv.rtc app_watc: Get initial cycles: 1058332 rtc=1735689600.0000
+09-07 13:07:28:566    
+09-07 13:07:28:566    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+09-07 13:07:28:566    [32m[10132] I/drv.lcd lcd_task: set brightness 100
+09-07 13:07:28:582    [0m[32m[10138] I/drv.lcd lcd_task: display on
+09-07 13:07:28:582    [0m[32m[10143] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-07 13:07:28:582    [0m[10151] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1074.
+09-07 13:07:28:582    [32m[10161] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 13:07:28:582    [0m
+09-07 13:07:28:613    [10441] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:28:613    [32m[10449] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1074
+09-07 13:07:28:613    [0m[32m[10458] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063754
+09-07 13:07:28:613    [0m[32m[10465] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+09-07 13:07:28:613    [0m[10473] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-07 13:07:28:613    [32m[10481] I/APP.SCHE app_watc: app[MainScreen] do START, 20063754
+09-07 13:07:28:613    [0m[32m[10489] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 13:07:28:613    [0m[10495] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063754] to gui_app_mbx tick:1111.
+09-07 13:07:28:613    [32m[10505] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1111
+09-07 13:07:28:613    [0m[10513] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063820
+09-07 13:07:28:613    [10521] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-07 13:07:28:613    [10530] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:28:613    [32m[10539] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART
+09-07 13:07:28:613    , 20063820
+09-07 13:07:28:613    [0m
+09-07 13:07:28:629    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+09-07 13:07:28:629    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 m
+09-07 13:07:28:629    s, vol=70%)
+09-07 13:07:28:644    [32m[10704] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:28:644    [0m[32m[10713] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:28:644    [0m[32m[10719] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-07 13:07:28:644    [0m[10725] D/APP.SCHE app_watc: app_schedule_tas
+09-07 13:07:28:644    k done.
+09-07 13:07:29:896    [22121] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:2389.
+09-07 13:07:29:896    [32m[22132] I/APP.FWK.INT timer: [MusicScreen]
+09-07 13:07:29:896    [0m
+09-07 13:07:29:896    [22158] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:29:896    [32m[22166] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:2389
+09-07 13:07:29:896    [0m[32m[22175] I/APP.SCHE app_watc: app[MusicScreen] do LOAD, 20064c3c
+09-07 13:07:29:896    [0m[32m[22182] I/APP.FWK app_watc: finding MusicScreen in builtin apps...
+09-07 13:07:29:896    [0m[22190] D/APP.SCHE app_watc: app[MusicScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-07 13:07:29:912    [32m[22198] I/APP.SCHE app_watc: app[MusicScreen] do START, 20064c3c
+09-07 13:07:29:912    [0m[32m[22206] I/APP.FWK.INT app_watc: [MusicScreen]
+09-07 13:07:29:912    [0m[22212] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20064c3c] to gui_app_mbx tick:2398.
+09-07 13:07:29:912    [32m[22222] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:2398
+09-07 13:07:29:912    [0m[22230] D/APP.SCHE app_watc: app[MusicScreen] create page[root] 20064ba0
+09-07 13:07:29:912    [22238] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-07 13:07:29:912    [22247] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+09-07 13:07:29:912    [22254] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:29:912    [32m[22263] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+09-07 13:07:29:912    [0m[32m[22273] I/APP.SCHE app_watc: page[MusicScreen][root] do ONSTART, 20064ba0
+09-07 13:07:29:912    [0m[MusicApp] on_start
+09-07 13:07:29:912    [32m[22284] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+09-07 13:07:29:912    [0m[MusicApp] on_resume
+09-07 13:07:29:912    [32m[22295] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:29:912    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:29:912    [32m[22307] I/APP.ANI app_watc: buf = 605
+09-07 13:07:29:912    1e8f0
+09-07 13:07:29:912    [0m[32m[22318] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064dd4
+09-07 13:07:29:912    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:29:912    [32m[22332] I/APP.ANI app_watc: buf = 604c8dd8
+09-07 13:07:29:912    
+09-07 13:07:29:927    [0m
+09-07 13:07:29:927    [32m[22441] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f4c
+09-07 13:07:29:927    [0m[32m[22449] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:29:927    [0m[32m[22456] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+09-07 13:07:29:927    
+09-07 13:07:29:927    [0m[32m[22464] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:29:927    [0m[22471] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:29:927    [22477] D/APP.SCHE app_watc: app_sc
+09-07 13:07:29:943    hedule_task done.
+09-07 13:07:30:240    [32m[25264] I/APP.ANI app_watc:
+09-07 13:07:30:240     free_run_ready 0 
+09-07 13:07:30:240    
+09-07 13:07:30:240    [0m
+09-07 13:07:30:271    [32m[25563] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:30:271    
+09-07 13:07:30:271    [0m[32m[25571] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:30:271    
+09-07 13:07:30:271    [0m[32m[25579] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:30:271    
+09-07 13:07:30:271    [0m[32m[25587] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f4c
+09-07 13:07:30:271    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:30:287    [32m[25602] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064dd4
+09-07 13:07:30:287    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:30:287    [32m[25617] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:30:287    [0m[25626] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:30:287    
+09-07 13:07:30:459    [27266] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:2954.
+09-07 13:07:30:459    [32m[27275] I/APP.FWK.INT timer: [MainScreen]
+09-07 13:07:30:459    [0m
+09-07 13:07:30:490    [27447] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:30:490    [32m[27456] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:2954
+09-07 13:07:30:490    [0m[27464] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+09-07 13:07:30:490    [27472] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:30:490    [27477] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:30:490    [27485] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:30:490    [27493] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:30:490    [32m[27502] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+09-07 13:07:30:490    [0m[MusicApp] on_pause
+09-07 13:07:30:490    [32m[27513] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:30:490    [0m[32m[27522] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:30:490    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:30:490    [32m[27534] I/APP.ANI app_watc: buf = 6051e8f0
+09-07 13:07:30:490    [0m[32m[27545] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064dd4
+09-07 13:07:30:490    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:30:490    [32m[27559] I/APP.ANI app_watc: buf = 604c8dd8
+09-07 13:07:30:490    
+09-07 13:07:30:490    [0m
+09-07 13:07:30:506    [32m[27690] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+09-07 13:07:30:506    [0m[32m[27698] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:30:506    [0m[32m[27705] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-07 13:07:30:506    
+09-07 13:07:30:506    [0m[32m[27714] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:30:506    [0m[27720] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:30:521    [27726] D/APP.SCHE app_watc: app_sc
+09-07 13:07:30:521    hedule_task done.
+09-07 13:07:30:819    [32m[30525] I/APP.ANI app_watc:
+09-07 13:07:30:819     free_run_ready 0 
+09-07 13:07:30:819    
+09-07 13:07:30:819    [0m
+09-07 13:07:30:850    [32m[30824] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:30:850    
+09-07 13:07:30:850    [0m[32m[30831] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:30:850    
+09-07 13:07:30:850    [0m[32m[30840] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:30:850    
+09-07 13:07:30:850    [0m[32m[30847] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+09-07 13:07:30:866    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:30:866    [32m[30862] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064dd4
+09-07 13:07:30:866    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:30:866    [32m[30877] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:30:866    [0m[30886] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:30:866    
+09-07 13:07:30:975    [31953] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:3469.
+09-07 13:07:30:975    [32m[31962] I/APP.FWK.INT time
+09-07 13:07:30:975    r: [MusicScreen]
+09-07 13:07:30:975    [0m
+09-07 13:07:31:006    [32125] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:31:006    [32m[32134] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:3469
+09-07 13:07:31:006    [0m[32142] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+09-07 13:07:31:006    [32150] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:31:006    [32155] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+09-07 13:07:31:006    [32163] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:31:006    [32171] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:31:006    [32m[32180] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+09-07 13:07:31:006    [0m[32m[32189] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+09-07 13:07:31:006    [0m[MusicApp] on_resume
+09-07 13:07:31:006    [32m[32200] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:31:006    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:31:006    [32m[32213] I/APP.ANI app_watc: buf = 60
+09-07 13:07:31:006    51e8f0
+09-07 13:07:31:006    [0m[32m[32223] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064dd4
+09-07 13:07:31:006    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:31:006    [32m[32237] I/APP.ANI app_watc: buf = 604c8dd
+09-07 13:07:31:006    8
+09-07 13:07:31:006    [0m
+09-07 13:07:31:039    [32m[32346] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f4c
+09-07 13:07:31:041    [0m[32m[32354] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:31:041    [0m[32m[32361] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+09-07 13:07:31:041    
+09-07 13:07:31:041    [0m[32m[32369] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:31:042    [0m[32376] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:31:042    [32382] D/APP.SCHE app_watc: app_schedule_task done.
+09-07 13:07:31:335    [32m[35163] I/APP.ANI app_watc:
+09-07 13:07:31:335     free_run_ready 0 
+09-07 13:07:31:335    
+09-07 13:07:31:335    [0m
+09-07 13:07:31:366    [32m[35458] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:31:366    
+09-07 13:07:31:366    [0m[32m[35466] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:31:366    
+09-07 13:07:31:366    [0m[32m[35473] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:31:366    
+09-07 13:07:31:366    [0m[32m[35480] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f4c
+09-07 13:07:31:366    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:31:366    [32m[35491] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064dd4
+09-07 13:07:31:366    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:31:366    [32m[35504] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:31:366    [0m[35511] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:31:366    
+09-07 13:07:31:491    [36551] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:3974.
+09-07 13:07:31:491    [32m[36561] I/APP.FWK.INT timer
+09-07 13:07:31:491    : [MainScreen]
+09-07 13:07:31:491    [0m
+09-07 13:07:31:507    [36787] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:31:507    [32m[36796] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:3974
+09-07 13:07:31:507    [0m[36804] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+09-07 13:07:31:522    [36812] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:31:522    [36817] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:31:522    [36825] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:31:522    [36833] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:31:522    [32m[36842] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+09-07 13:07:31:522    [0m[MusicApp] on_pause
+09-07 13:07:31:522    [32m[36853] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:31:522    [0m[32m[36862] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:31:522    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:31:522    [32m[36874] I/APP.ANI app_watc: buf = 6051e
+09-07 13:07:31:522    8f0
+09-07 13:07:31:522    [0m[32m[36885] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064dd4
+09-07 13:07:31:522    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:31:522    [32m[36899] I/APP.ANI app_watc: buf = 604c8dd8
+09-07 13:07:31:522    
+09-07 13:07:31:522    [0m
+09-07 13:07:31:553    [32m[37030] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+09-07 13:07:31:553    [0m[32m[37038] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:31:553    [0m[32m[37045] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-07 13:07:31:553    
+09-07 13:07:31:553    [0m[32m[37054] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:31:553    [0m[37060] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:31:553    [37066] D/APP.SCHE app_watc: app_schedule_task done.
+09-07 13:07:31:850    [32m[39857] I/APP.ANI app_watc:
+09-07 13:07:31:850     free_run_ready 0 
+09-07 13:07:31:850    
+09-07 13:07:31:850    [0m
+09-07 13:07:31:882    [32m[40148] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:31:882    
+09-07 13:07:31:882    [0m[32m[40155] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:31:882    
+09-07 13:07:31:882    [0m[32m[40162] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:31:882    
+09-07 13:07:31:882    [0m[32m[40169] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+09-07 13:07:31:882    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:31:882    [32m[40183] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064dd4
+09-07 13:07:31:882    [0mapp_anim_buf_free: 0x6051
+09-07 13:07:31:882    e8f0
+09-07 13:07:31:882    [32m[40200] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:31:897    [0m[40210] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:32:649    [47095] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:5132.
+09-07 13:07:32:649    [32m[47105] I/APP.FWK.INT timer: [MusicScreen]
+09-07 13:07:32:649    [0m
+09-07 13:07:32:664    [47304] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:32:680    [32m[47313] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:5132
+09-07 13:07:32:680    [0m[47321] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+09-07 13:07:32:680    [47329] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:32:680    [47334] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+09-07 13:07:32:680    [47342] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:32:680    [47351] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:32:680    [32m[47360] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+09-07 13:07:32:680    [0m[32m[47369] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+09-07 13:07:32:680    [0m[MusicApp] on_resume
+09-07 13:07:32:680    [32m[47380] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:32:680    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:32:680    [32m[47393] I/APP.ANI app_watc: buf = 60
+09-07 13:07:32:680    51e8f0
+09-07 13:07:32:680    [0m[32m[47403] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+09-07 13:07:32:680    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:32:680    [32m[47418] I/APP.ANI app_watc: buf = 604c8dd
+09-07 13:07:32:680    8
+09-07 13:07:32:680    [0m
+09-07 13:07:32:704    [32m[47526] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+09-07 13:07:32:705    [0m[32m[47535] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:32:705    [0m[32m[47542] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+09-07 13:07:32:706    
+09-07 13:07:32:706    [0m[32m[47550] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:32:707    [0m[47556] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:32:708    [47562] D/APP.SCHE app_watc: app_schedule_task done.
+09-07 13:07:33:009    [32m[50339] I/APP.ANI app_watc:
+09-07 13:07:33:009     free_run_ready 0 
+09-07 13:07:33:009    
+09-07 13:07:33:009    [0m
+09-07 13:07:33:040    [32m[50637] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:33:040    
+09-07 13:07:33:040    [0m[32m[50645] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:33:040    
+09-07 13:07:33:040    [0m[32m[50653] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:33:040    
+09-07 13:07:33:040    [0m[32m[50661] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+09-07 13:07:33:040    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:33:040    [32m[50675] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+09-07 13:07:33:040    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:33:040    [32m[50691] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:33:040    [0m[50700] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:33:040    
+09-07 13:07:33:433    [54215] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:5914.
+09-07 13:07:33:433    [32m[54224] I/APP.FWK.INT timer: [MainScreen]
+09-07 13:07:33:433    [0m
+09-07 13:07:33:449    [54296] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:33:449    [32m[54305] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:5914
+09-07 13:07:33:449    [0m[54313] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+09-07 13:07:33:449    [54321] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:33:449    [54326] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:33:449    [54334] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:33:456    [54342] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:33:456    [32m[54351] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+09-07 13:07:33:456    [0m[MusicApp] on_pause
+09-07 13:07:33:456    [32m[54362] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:33:456    [0m[32m[54371] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:33:456    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:33:456    [32m[54383] I/APP.ANI app_watc: buf = 6051e
+09-07 13:07:33:456    8f0
+09-07 13:07:33:456    [0m[32m[54394] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+09-07 13:07:33:456    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:33:456    [32m[54408] I/APP.ANI app_watc: buf = 604c8dd8
+09-07 13:07:33:456    
+09-07 13:07:33:456    [0m
+09-07 13:07:33:465    [32m[54536] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+09-07 13:07:33:465    [0m[32m[54544] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:33:465    [0m[32m[54551] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-07 13:07:33:465    
+09-07 13:07:33:465    [0m[32m[54560] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:33:465    [0m[54566] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:33:480    [54572] D/APP.SCHE app_watc: app_sc
+09-07 13:07:33:480    hedule_task done.
+09-07 13:07:33:779    [32m[57367] I/APP.ANI app_watc:
+09-07 13:07:33:779     free_run_ready 0 
+09-07 13:07:33:779    
+09-07 13:07:33:779    [0m
+09-07 13:07:33:810    [32m[57666] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:33:810    
+09-07 13:07:33:810    [0m[32m[57673] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:33:810    
+09-07 13:07:33:810    [0m[32m[57681] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:33:810    
+09-07 13:07:33:810    [0m[32m[57689] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+09-07 13:07:33:810    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:33:826    [32m[57700] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+09-07 13:07:33:826    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:33:826    [32m[57713] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:33:826    [0m[57720] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:33:826    
+09-07 13:07:34:013    [59487] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScr
+09-07 13:07:34:013    een] to gui_app_mbx tick:6493.
+09-07 13:07:34:013    [32m[59497] I/APP.FWK.INT timer: [MusicScreen]
+09-07 13:07:34:013    [0m
+09-07 13:07:34:029    [59560] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:34:029    [32m[59568] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:6493
+09-07 13:07:34:029    [0m[59578] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+09-07 13:07:34:029    [59586] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:34:029    [59591] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+09-07 13:07:34:029    [59598] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:34:029    [59607] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:34:029    [32m[59616] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+09-07 13:07:34:029    [0m[32m[59624] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+09-07 13:07:34:029    [0m[MusicApp] on_resume
+09-07 13:07:34:029    [32m[59635] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:34:029    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:34:029    [32m[59648] I/APP.ANI app_watc: buf = 6051e8f0
+09-07 13:07:34:029    [0m[32m[59659] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+09-07 13:07:34:029    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:34:029    [32m[59674] I/APP.ANI app_watc: buf = 604c8dd
+09-07 13:07:34:044    8
+09-07 13:07:34:044    [0m
+09-07 13:07:34:044    [32m[59782] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+09-07 13:07:34:044    [0m[32m[59791] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:34:044    [0m[32m[59797] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+09-07 13:07:34:044    
+09-07 13:07:34:044    [0m[32m[59806] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:34:044    [0m[59812] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:34:044    [59818] D/APP.SCHE app_watc: app_sc
+09-07 13:07:34:044    hedule_task done.
+09-07 13:07:34:357    [32m[62595] I/APP.ANI app_watc:
+09-07 13:07:34:357     free_run_ready 0 
+09-07 13:07:34:357    
+09-07 13:07:34:357    [0m
+09-07 13:07:34:388    [32m[62892] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:34:388    
+09-07 13:07:34:388    [0m[32m[62901] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:34:388    
+09-07 13:07:34:388    [0m[32m[62909] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:34:388    
+09-07 13:07:34:388    [0m[32m[62917] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+09-07 13:07:34:388    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:34:388    [32m[62931] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+09-07 13:07:34:388    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:34:404    [32m[62947] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:34:404    [0m[62956] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:34:796    [66589] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:7273.
+09-07 13:07:34:796    [32m[66600] I/APP.FWK.INT timer: [MainScreen]
+09-07 13:07:34:811    [0m
+09-07 13:07:34:827    [66843] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:34:827    [32m[66852] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:7273
+09-07 13:07:34:827    [0m[66860] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+09-07 13:07:34:827    [66868] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:34:827    [66873] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:34:827    [66881] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:34:827    [66889] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:34:827    [32m[66898] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+09-07 13:07:34:827    [0m[MusicApp] on_pause
+09-07 13:07:34:827    [32m[66909] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:34:827    [0m[32m[66917] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:34:827    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:34:843    [32m[66930] I/APP.ANI app_watc: buf = 6051e8f0
+09-07 13:07:34:843    [0m[32m[66941] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064db0
+09-07 13:07:34:843    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:34:843    [32m[66955] I/APP.ANI app_watc: buf = 604c8dd8
+09-07 13:07:34:843    
+09-07 13:07:34:843    [0m
+09-07 13:07:34:858    [32m[67084] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f28
+09-07 13:07:34:858    [0m[32m[67092] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:34:858    [0m[32m[67099] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-07 13:07:34:858    
+09-07 13:07:34:858    [0m[32m[67107] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:34:858    [0m[67114] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:34:858    [67120] D/APP.SCHE app_watc: app_sc
+09-07 13:07:34:858    hedule_task done.
+09-07 13:07:34:858    [Music] Volume set to 75%
+09-07 13:07:35:173    [32m[69922] I/APP.ANI app_watc:
+09-07 13:07:35:175     free_run_ready 0 
+09-07 13:07:35:175    
+09-07 13:07:35:175    [0m
+09-07 13:07:35:204    [32m[70221] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:35:204    
+09-07 13:07:35:204    [0m[32m[70227] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:35:204    
+09-07 13:07:35:204    [0m[32m[70234] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:35:204    
+09-07 13:07:35:204    [0m[32m[70241] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f28
+09-07 13:07:35:204    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:35:204    [32m[70252] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064db0
+09-07 13:07:35:204    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:35:204    [32m[70265] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:35:204    [0m[70274] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:35:204    
+09-07 13:07:35:911    [Music] Volume set to 70%
+09-07 13:07:35:927    [76887] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:8404.
+09-07 13:07:35:927    [32m[76897] I/APP.FWK.INT time
+09-07 13:07:35:942    r: [MusicScreen]
+09-07 13:07:35:943    [0m
+09-07 13:07:35:958    [77087] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:35:958    [32m[77095] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:8404
+09-07 13:07:35:958    [0m[77104] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+09-07 13:07:35:958    [77112] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:35:958    [77117] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+09-07 13:07:35:958    [77124] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:35:958    [77133] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUM
+09-07 13:07:35:958    ED]
+09-07 13:07:35:958    [32m[77142] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+09-07 13:07:35:958    [0m[32m[77151] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+09-07 13:07:35:958    [0m[MusicApp] on_resume
+09-07 13:07:35:958    [32m[77161] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:35:958    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:35:958    [32m[77174] I/APP.ANI app_watc: buf = 60
+09-07 13:07:35:958    51e8f0
+09-07 13:07:35:958    [0m[32m[77185] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+09-07 13:07:35:974    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:35:974    [32m[77199] I/APP.ANI app_watc: buf = 604c8dd
+09-07 13:07:35:974    8
+09-07 13:07:35:974    [0m
+09-07 13:07:35:974    [32m[77308] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f60
+09-07 13:07:35:974    [0m[32m[77316] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:35:974    [0m[32m[77323] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+09-07 13:07:35:974    
+09-07 13:07:35:990    [0m[32m[77331] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:35:990    [0m[77338] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:35:990    [77344] D/APP.SCHE app_watc: app_sc
+09-07 13:07:35:990    hedule_task done.
+09-07 13:07:36:289    [32m[80122] I/APP.ANI app_watc:
+09-07 13:07:36:289     free_run_ready 0 
+09-07 13:07:36:289    
+09-07 13:07:36:289    [0m
+09-07 13:07:36:319    [32m[80420] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:36:319    
+09-07 13:07:36:319    [0m[32m[80429] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:36:319    
+09-07 13:07:36:319    [0m[32m[80437] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:36:319    
+09-07 13:07:36:319    [0m[32m[80445] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f60
+09-07 13:07:36:319    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:36:319    [32m[80459] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+09-07 13:07:36:335    
+09-07 13:07:36:335    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:36:335    [32m[80477] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:36:335    [0m[80488] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:36:335    
+09-07 13:07:37:295    [89195] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:9756.
+09-07 13:07:37:295    [32m[89204] I/APP.FWK.INT timer: [MainScreen]
+09-07 13:07:37:295    [0m
+09-07 13:07:37:311    [89321] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:37:311    [32m[89330] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:9756
+09-07 13:07:37:311    [0m[89338] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+09-07 13:07:37:311    [89347] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:37:311    [89351] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:37:311    [89359] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:37:311    [89368] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:37:311    [32m[89376] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+09-07 13:07:37:311    [0m[MusicApp] on_pause
+09-07 13:07:37:311    [32m[89387] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:37:311    [0m[32m[89396] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:37:311    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:37:311    [32m[89409] I/APP.ANI app_watc: buf = 6051e8f0
+09-07 13:07:37:311    [0m[32m[89419] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+09-07 13:07:37:311    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:37:311    [32m[89433] I/APP.ANI app_watc: buf = 604c8dd8
+09-07 13:07:37:311    
+09-07 13:07:37:311    [0m
+09-07 13:07:37:326    [32m[89565] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+09-07 13:07:37:326    [0m[32m[89573] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:37:326    [0m[32m[89580] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-07 13:07:37:326    
+09-07 13:07:37:326    [0m[32m[89589] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:37:326    [0m[89595] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:37:342    [89601] D/APP.SCHE app_watc: app_sc
+09-07 13:07:37:343    hedule_task done.
+09-07 13:07:37:389    [Music] Volume set to 65%
+09-07 13:07:37:642    [32m[92390] I/APP.ANI app_watc:
+09-07 13:07:37:642     free_run_ready 0 
+09-07 13:07:37:642    
+09-07 13:07:37:642    [0m
+09-07 13:07:37:672    [32m[92690] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:37:672    
+09-07 13:07:37:672    [0m[32m[92697] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:37:672    
+09-07 13:07:37:672    [0m[32m[92705] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:37:672    
+09-07 13:07:37:672    [0m[32m[92715] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+09-07 13:07:37:672    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:37:687    [32m[92730] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+09-07 13:07:37:687    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:37:689    [32m[92743] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:37:689    [0m[92750] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:37:689    
+09-07 13:07:37:877    [94492] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:10338.
+09-07 13:07:37:877    [32m[94502] I/APP.FWK.INT timer: [MusicScreen]
+09-07 13:07:37:877    [0m
+09-07 13:07:37:877    [94583] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:37:877    [32m[94591] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:10338
+09-07 13:07:37:893    [0m[94600] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+09-07 13:07:37:893    [94608] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:37:893    [94613] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+09-07 13:07:37:893    [94620] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:37:893    [94629] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:37:893    [32m[94638] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+09-07 13:07:37:893    [0m[32m[94647] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+09-07 13:07:37:893    [0m[MusicApp] on_resume
+09-07 13:07:37:893    [32m[94658] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:37:893    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:37:893    [32m[94670] I/APP.ANI app_watc: buf = 6051e8f0
+09-07 13:07:37:893    [0m[32m[94681] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+09-07 13:07:37:893    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:37:893    [32m[94695] I/APP.ANI app_watc: buf = 604c8d
+09-07 13:07:37:893    d8
+09-07 13:07:37:893    [0m
+09-07 13:07:37:908    [32m[94804] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f60
+09-07 13:07:37:908    [0m[32m[94812] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:37:908    [0m[32m[94819] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+09-07 13:07:37:908    
+09-07 13:07:37:908    [0m[32m[94827] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:37:908    [0m[94834] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:37:908    [94840] D/APP.SCHE app_watc: app_sc
+09-07 13:07:37:908    hedule_task done.
+09-07 13:07:37:908    [Music] Volu
+09-07 13:07:37:908    me set to 60%
+09-07 13:07:38:222    [32m[97616] I/APP.ANI app_watc:
+09-07 13:07:38:222     free_run_ready 0 
+09-07 13:07:38:222    
+09-07 13:07:38:222    [0m
+09-07 13:07:38:254    [32m[97914] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:38:254    
+09-07 13:07:38:254    [0m[32m[97922] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:38:254    
+09-07 13:07:38:254    [0m[32m[97930] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:38:254    
+09-07 13:07:38:254    [0m[32m[97938] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f60
+09-07 13:07:38:254    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:38:254    [32m[97952] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+09-07 13:07:38:254    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:38:254    [32m[97968] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:38:254    [0m[97977] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:38:254    
+09-07 13:07:38:363    [98925] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:10825.
+09-07 13:07:38:363    [32m[98934] I/APP.FWK.INT time
+09-07 13:07:38:363    r: [MainScreen]
+09-07 13:07:38:363    [0m[98951] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:38:363    [32m[98960] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1
+09-07 13:07:38:363    0825
+09-07 13:07:38:363    [0m[98969] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+09-07 13:07:38:363    [98977] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:38:363    [98982] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:38:363    [98989] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:38:363    [98998] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> [RESUMED]
+09-07 13:07:38:379    [32m[99006] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+09-07 13:07:38:379    [0m[MusicApp] on_pause
+09-07 13:07:38:379    [32m[99017] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:38:379    [0m[32m[99026] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:38:379    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:38:379    [32m[99039] I/APP.ANI app_watc: buf = 6051
+09-07 13:07:38:379    e8f0
+09-07 13:07:38:379    [0m[32m[99049] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+09-07 13:07:38:379    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:38:379    [32m[99063] I/APP.ANI app_watc: buf = 604c8dd8
+09-07 13:07:38:379    [0m
+09-07 13:07:38:395    [32m[99194] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+09-07 13:07:38:395    [0m[32m[99203] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:38:395    [0m[32m[99210] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-07 13:07:38:395    
+09-07 13:07:38:395    [0m[32m[99218] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:38:395    [0m[99224] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:38:395    [99230] D/APP.SCHE app_watc: app_sc
+09-07 13:07:38:395    hedule_task done.
+09-07 13:07:38:708    [32m[102023] I/APP.ANI app_watc
+09-07 13:07:38:708    : free_run_ready 0 
+09-07 13:07:38:708    
+09-07 13:07:38:708    [0m
+09-07 13:07:38:740    [32m[102320] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:38:740    
+09-07 13:07:38:740    [0m[32m[102329] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:38:740    
+09-07 13:07:38:740    [0m[32m[102336] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:38:740    
+09-07 13:07:38:740    [0m[32m[102345] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+09-07 13:07:38:740    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:38:740    [32m[102360] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+09-07 13:07:38:740    [0mapp_anim_buf_free: 0
+09-07 13:07:38:740    x6051e8f0
+09-07 13:07:38:740    [32m[102376] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:38:740    [0m[102386] D/APP.SCHE app_watc: --Resume app_schedule
+09-07 13:07:38:740    _task--
+09-07 13:07:39:102    [105698] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MusicScreen] to gui_app_mbx tick:11569.
+09-07 13:07:39:117    [32m[105708] I/APP.FWK.INT timer: [MusicScreen]
+09-07 13:07:39:120    [0m
+09-07 13:07:39:133    [105961] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:39:133    [32m[105970] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:11569
+09-07 13:07:39:133    [0m[105978] D/APP.SCHE app_watc: Found app[MusicScreen] in running list. Args are -
+09-07 13:07:39:133    [105987] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:39:149    [105992] D/APP.SCHE app_watc: Pause all app, and resume to MusicScreen app
+09-07 13:07:39:149    [105999] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:39:149    [106008] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [PAUSED] -
+09-07 13:07:39:149    > [RESUMED]
+09-07 13:07:39:149    [32m[106017] I/APP.SCHE app_watc: page[MainScreen][root] do ONPAUSE, 20063820
+09-07 13:07:39:149    [0m[32m[106026] I/APP.SCHE app_watc: page[MusicScreen][root] do ONRESUME, 20064ba0
+09-07 13:07:39:149    [0m[MusicApp] on_resume
+09-07 13:07:39:149    [32m[106037] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:39:149    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:39:149    [32m[106050] I/APP.ANI app_wa
+09-07 13:07:39:149    tc: buf = 6051e8f0
+09-07 13:07:39:149    [0m[32m[106060] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+09-07 13:07:39:149    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:39:149    [32m[106074] I/APP.ANI app_watc:
+09-07 13:07:39:149     buf = 604c8dd8
+09-07 13:07:39:149    [0m
+09-07 13:07:39:164    [32m[106183] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064f60
+09-07 13:07:39:164    [0m[32m[106192] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:39:164    [0m[32m[106199] I/APP.ANI app_watc: app_trans_animation_setup end, cost=17ms
+09-07 13:07:39:164    
+09-07 13:07:39:164    [0m[32m[106207] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:39:164    [0m[106213] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:39:164    [106219] D/APP.SCHE app_watc: 
+09-07 13:07:39:164    app_schedule_task done.
+09-07 13:07:39:479    [32m[109012] I/APP.ANI app_watc
+09-07 13:07:39:479    : free_run_ready 0 
+09-07 13:07:39:479    
+09-07 13:07:39:479    [0m
+09-07 13:07:39:510    [32m[109312] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:39:510    
+09-07 13:07:39:510    [0m[32m[109320] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:39:510    
+09-07 13:07:39:510    [0m[32m[109327] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:39:510    
+09-07 13:07:39:510    [0m[32m[109336] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064f60
+09-07 13:07:39:510    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:39:510    [32m[109351] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+09-07 13:07:39:510    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:39:510    [32m[109364] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:39:510    [0m[109371] D/APP.SCHE app_watc: --Resume app_schedule
+09-07 13:07:39:510    _task--
+09-07 13:07:39:541    [109585] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:11996.
+09-07 13:07:39:541    [32m[109595] I/APP.FWK.INT ti
+09-07 13:07:39:541    mer: [MainScreen]
+09-07 13:07:39:541    [0m
+09-07 13:07:39:558    [109776] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 13:07:39:558    [32m[109785] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:11996
+09-07 13:07:39:558    [0m[109793] D/APP.SCHE app_watc: Found app[MainScreen] in running list. Args are -
+09-07 13:07:39:558    [109801] D/APP.SCHE app_watc: - same. Resume it
+09-07 13:07:39:558    [109806] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 13:07:39:558    [109814] D/APP.SCHE app_watc: page[MusicScreen][root] tgt_state [RESUMED] -> [PAUSED]
+09-07 13:07:39:558    [109823] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [PAUSED] -> 
+09-07 13:07:39:558    [RESUMED]
+09-07 13:07:39:558    [32m[109832] I/APP.SCHE app_watc: page[MusicScreen][root] do ONPAUSE, 20064ba0
+09-07 13:07:39:573    [0m[MusicApp] on_pause
+09-07 13:07:39:573    [32m[109843] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063820
+09-07 13:07:39:573    [0m[32m[109851] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 13:07:39:573    [0mapp_anim_buf_alloc: 0x6051e8f0 index 0 size 351000
+09-07 13:07:39:573    [32m[109864] I/APP.ANI app_watc: buf = 6051e8f0
+09-07 13:07:39:573    [0m[32m[109875] I/APP.ANI app_watc: app_trans_animation_obj_create = 20064de8
+09-07 13:07:39:573    [0mapp_anim_buf_alloc: 0x604c8dd8 index 1 size 351000
+09-07 13:07:39:573    [32m[109889] I/APP.ANI app_watc: bu
+09-07 13:07:39:573    f = 604c8dd8
+09-07 13:07:39:573    [0m
+09-07 13:07:39:588    [32m[110020] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065018
+09-07 13:07:39:588    [0m[32m[110028] I/APP.ANI app_watc: Start free run animation
+09-07 13:07:39:588    [0m[32m[110036] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-07 13:07:39:588    
+09-07 13:07:39:588    [0m[32m[110044] I/APP.SCHE app_watc: Trans-anim setup done.
+09-07 13:07:39:588    [0m[110051] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-07 13:07:39:588    [110057] D/APP.SCHE app_watc: 
+09-07 13:07:39:588    app_schedule_task done.
+09-07 13:07:39:906    [32m[112854] I/APP.ANI app_watc
+09-07 13:07:39:906    : free_run_ready 0 
+09-07 13:07:39:906    
+09-07 13:07:39:906    [0m
+09-07 13:07:39:936    [32m[113154] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-07 13:07:39:936    
+09-07 13:07:39:936    [0m[32m[113162] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-07 13:07:39:936    
+09-07 13:07:39:936    [0m[32m[113170] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-07 13:07:39:936    
+09-07 13:07:39:936    [0m[32m[113179] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065018
+09-07 13:07:39:936    [0mapp_anim_buf_free: 0x604c8dd8
+09-07 13:07:39:936    [32m[113193] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20064de8
+09-07 13:07:39:936    [0mapp_anim_buf_free: 0x6051e8f0
+09-07 13:07:39:936    [32m[113210] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-07 13:07:39:936    [0m[113220] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-07 13:07:40:296    [Music] Volume set to 65%
+09-07 13:07:40:359    [Music] Volume set to 70%
+09-07 13:07:40:406    [Music] Volume set to 75%
+09-07 13:07:40:500    [Music] Volume set to 80%
+09-07 13:07:40:845    [Music] Volume set to 75%
+09-07 13:07:40:908    [Music] Volume set to 70%
+09-07 13:07:41:347    [Music] Volume set to 65%
+09-07 13:07:41:458    [Music] Volume set to 60%
+09-07 13:07:41:803    [Music] Volume set to 55%
+09-07 13:07:41:851    [Music] Volume set to 50%
+09-07 13:07:41:899    [Music] Volume set to 45%
+09-07 13:07:41:961    [Music] Volume set to 40%
+09-07 13:07:42:307    [Music] Volume set to 45%
+09-07 13:07:42:401    [Music] Volume set to 50%
+09-07 13:07:42:557    [Music] Volume set to 55%
+09-07 13:07:43:014    [Music] Volume set to 50%
+09-07 13:07:43:060    [Music] Volume set to 55%
+09-07 13:07:43:108    [Music] Volume set to 50%
+09-07 13:07:43:155    [Music] Volume set to 45%
+09-07 13:07:43:265    [Music] Volume set to 50%
+09-07 13:07:43:360    [Music] Volume set to 55%
+09-07 13:07:43:455    [Music] Volume set to 60%
+09-07 13:07:43:817    [Music] Volume set to 65%
+09-07 13:07:43:912    [Music] Volume set to 70%
+09-07 13:07:46:016    [Music] Volume set to 0%
+09-07 13:07:46:036    [Music] Volume set to 36%
+09-07 13:07:46:549    [Music] Volume set to 55%
+09-07 13:07:46:596    [Music] Volume set to 53%
+09-07 13:07:46:612    [Music] Volume set to 51%
+09-07 13:07:46:627    [Music] Volume set to 46%
+09-07 13:07:46:627    [Musi
+09-07 13:07:46:627    c] Volume set to 37%
+09-07 13:07:46:645    [Music] Volume set to 26%
+09-07 13:07:46:660    [Music] Volume set to 12%
+09-07 13:07:46:675    [Music] Volume set to 0%
+09-07 13:07:47:068    [Music] Volume set to 66%
+09-07 13:07:47:477    [Music] Volume set to 57%
+09-07 13:07:47:744    [Music] Volume set to 41%
+09-07 13:07:47:964    [Music] Volume set to 55%
+09-07 13:07:48:027    [Music] Volume set to 53%
+09-07 13:07:48:042    [Music] Volume set to 48%
+09-07 13:07:48:058    [Music] Volume set to 40%
+09-07 13:07:48:074    [Music] Volume set to 26%
+09-07 13:07:48:074    [Musi
+09-07 13:07:48:074    c] Volume set to 8%
+09-07 13:07:48:089    [Music] Volume set to 0%
+09-07 13:07:48:464    [Music] Volume set to 67%
+09-07 13:07:48:511    [Music] Volume set to 68%
+09-07 13:07:48:527    [Music] Volume set to 71%
+09-07 13:07:48:542    [Music] Volume set to 75%
+09-07 13:07:48:558    [Music] Volume set to 80%
+09-07 13:07:48:589    [Music] Volume set to 86%
+09-07 13:07:48:605    [Music] Volume set to 93%
+09-07 13:07:48:902    [Music] Volume set to 42%
+09-07 13:07:48:934    [Music] Volume set to 40%
+09-07 13:07:48:949    [Music] Volume set to 35%
+09-07 13:07:48:965    [Music] Volume set to 25%
+09-07 13:07:48:965    [Musi
+09-07 13:07:48:965    c] Volume set to 11%
+09-07 13:07:48:980    [Music] Volume set to 0%
+09-07 13:07:49:309    [Music] Volume set to 53%
+09-07 13:07:49:355    [Music] Volume set to 55%
+09-07 13:07:49:387    [Music] Volume set to 56%
+09-07 13:07:49:402    [Music] Volume set to 58%
+09-07 13:07:49:402    [Musi
+09-07 13:07:49:402    c] Volume set to 63%
+09-07 13:07:49:418    [Music] Volume set to 67%
+09-07 13:07:49:434    [Music] Volume set to 73%
+09-07 13:07:49:449    [Music] Volume set to 78%
+09-07 13:07:49:465    [Music] Volume set to 83%
+09-07 13:07:49:465    [Musi
+09-07 13:07:49:465    c] Volume set to 90%
+09-07 13:07:49:480    [Music] Volume set to 97%
+09-07 13:07:49:684    [Music] Volume set to 71%
+09-07 13:07:49:777    [Music] Volume set to 70%
+09-07 13:07:49:793    [Music] Volume set to 67%
+09-07 13:07:49:809    [Music] Volume set to 63%
+09-07 13:07:49:824    [Music] Volume set to 58%
+09-07 13:07:49:840    [Music] Volume set to 53%
+09-07 13:07:49:840    [Musi
+09-07 13:07:49:840    c] Volume set to 48%
+09-07 13:07:49:855    [Music] Volume set to 42%
+09-07 13:07:49:871    [Music] Volume set to 37%
+09-07 13:07:49:887    [Music] Volume set to 33%
+09-07 13:07:49:902    [Music] Volume set to 30%
+09-07 13:07:49:902    [Music] Volume set to 26%
+09-07 13:07:49:918    [Music] Volume set to 23%
+09-07 13:07:49:934    [Music] Volume set to 21%
+09-07 13:07:49:949    [Music] Volume set to 18%
+09-07 13:07:49:949    [Musi
+09-07 13:07:49:949    c] Volume set to 17%
+09-07 13:07:49:965    [Music] Volume set to 15%
+09-07 13:07:49:980    [Music] Volume set to 12%
+09-07 13:07:49:996    [Music] Volume set to 10%
+09-07 13:07:50:012    [Music] Volume set to 6%
+09-07 13:07:50:012    [Music
+09-07 13:07:50:012    ] Volume set to 3%
+09-07 13:07:50:027    [Music] Volume set to 2%
+09-07 13:07:50:043    [Music] Volume set to 0%
+09-07 13:07:50:793    [Music] Volume set to 1%
+09-07 13:07:50:809    [Music] Volume set to 2%
+09-07 13:07:50:825    [Music] Volume set to 3%
+09-07 13:07:50:856    [Music] Volume set to 2%
+09-07 13:07:50:871    [Music] Volume set to 1%
+09-07 13:07:50:887    [Music] Volume set to 0%
+09-07 13:07:52:607    [Music] Volume set to 50%
+09-07 13:07:52:701    [Music] Volume set to 48%
+09-07 13:07:52:716    [Music] Volume set to 46%
+09-07 13:07:52:716    [Musi
+09-07 13:07:52:732    c] Volume set to 43%
+09-07 13:07:52:748    [Music] Volume set to 40%
+09-07 13:07:52:763    [Music] Volume set to 36%
+09-07 13:07:52:779    [Music] Volume set to 31%
+09-07 13:07:52:795    [Music] Volume set to 26%
+09-07 13:07:52:795    [Musi
+09-07 13:07:52:795    c] Volume set to 21%
+09-07 13:07:52:811    [Music] Volume set to 16%
+09-07 13:07:52:826    [Music] Volume set to 11%
+09-07 13:07:52:842    [Music] Volume set to 7%
+09-07 13:07:52:857    [Music] Volume set to 3%
+09-07 13:07:52:857    [Music
+09-07 13:07:52:857    ] Volume set to 0%

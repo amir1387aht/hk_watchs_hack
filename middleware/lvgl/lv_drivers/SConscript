@@ -1,0 +1,22 @@
+import os
+from building import * 
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd]
+
+
+# add driver basic code
+src = src + Glob('./*.c')
+
+if GetDepend('DRV_EPIC_NEW_API'):
+    SrcRemove(src, 'lv_gpu.c')
+else:
+    SrcRemove(src, 'lv_gpu_new_api.c')
+
+# add group to IDE project
+objs = DefineGroup('lv_drivers', src, depend = [''], CPPPATH = inc)
+Return('objs')

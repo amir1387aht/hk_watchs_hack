@@ -1,0 +1,1865 @@
+09-02 18:38:06:167    Get phy blk for 992 fail when read
+09-02 18:38:06:169    [32m[3055] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:170    
+09-02 18:38:06:171    [0mGet phy blk for 993 fail when read
+09-02 18:38:06:172    [32m[3065] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:173    
+09-02 18:38:06:174    [0mGet phy blk for 994 fail when read
+09-02 18:38:06:175    [32m[3076] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:176    
+09-02 18:38:06:179    [0mGet phy blk for 995 fail when read
+09-02 18:38:06:180    [32m[3086] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:181    
+09-02 18:38:06:182    [0mGet phy blk for 996 fail when read
+09-02 18:38:06:183    [32m[3096] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:185    
+09-02 18:38:06:185    [0mGet phy blk for 997 fail when read
+09-02 18:38:06:186    [32m[3107] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:187    
+09-02 18:38:06:188    [0mGet phy blk for 998 fail when read
+09-02 18:38:06:189    [32m[3117] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:191    
+09-02 18:38:06:191    [0mGet phy blk for 999 fail when read
+09-02 18:38:06:192    [32m[3127] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:194    
+09-02 18:38:06:194    [0mGet phy blk for 1000 fail when read
+09-02 18:38:06:195    [32m[3138] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:196    
+09-02 18:38:06:197    [0mGet phy blk for 1001 fail when read
+09-02 18:38:06:198    [32m[3148] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:199    
+09-02 18:38:06:200    [0mGet phy blk for 1002 fail when read
+09-02 18:38:06:201    [32m[3159] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:202    
+09-02 18:38:06:203    [0mGet phy blk for 1003 fail when read
+09-02 18:38:06:204    [32m[3169] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:205    
+09-02 18:38:06:211    [0mGet phy blk for 1004 fail when read
+09-02 18:38:06:213    [32m[3179] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:213    
+09-02 18:38:06:214    [0mGet phy blk for 1005 fail when read
+09-02 18:38:06:214    [32m[3190] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:214    
+09-02 18:38:06:215    [0mGet phy blk for 1006 fail when read
+09-02 18:38:06:215    [32m[3200] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:215    
+09-02 18:38:06:216    [0mGet phy blk for 1007 fail when read
+09-02 18:38:06:217    [32m[3211] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:217    
+09-02 18:38:06:217    [0mGet phy blk for 1008 fail when read
+09-02 18:38:06:218    [32m[3221] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:218    
+09-02 18:38:06:218    [0mGet phy blk for 1009 fail when read
+09-02 18:38:06:219    [32m[3232] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:219    
+09-02 18:38:06:219    [0mGet phy blk for 1010 fail when read
+09-02 18:38:06:220    [32m[3242] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:220    
+09-02 18:38:06:220    [0mGet phy blk for 1011 fail when read
+09-02 18:38:06:221    [32m[3252] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:221    
+09-02 18:38:06:222    [0mGet phy blk for 1012 fail when read
+09-02 18:38:06:222    [32m[3263] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:223    
+09-02 18:38:06:223    [0mGet phy blk for 1013 fail when read
+09-02 18:38:06:223    [32m[3273] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:224    
+09-02 18:38:06:224    [0mGet phy blk for 1014 fail when read
+09-02 18:38:06:225    [32m[3284] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:225    
+09-02 18:38:06:226    [0mGet phy blk for 1015 fail when read
+09-02 18:38:06:226    [32m[3294] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:226    
+09-02 18:38:06:227    [0mGet phy blk for 1016 fail when read
+09-02 18:38:06:227    [32m[3304] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:227    
+09-02 18:38:06:228    [0mGet phy blk for 1017 fail when read
+09-02 18:38:06:228    [32m[3315] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:229    
+09-02 18:38:06:229    [0mGet phy blk for 1018 fail when read
+09-02 18:38:06:229    [32m[3325] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:230    
+09-02 18:38:06:230    [0mGet phy blk for 1019 fail when read
+09-02 18:38:06:230    [32m[3336] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:231    
+09-02 18:38:06:231    [0mGet phy blk for 1020 fail when read
+09-02 18:38:06:231    [32m[3346] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:232    
+09-02 18:38:06:232    [0mGet phy blk for 1021 fail when read
+09-02 18:38:06:233    [32m[3356] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:234    
+09-02 18:38:06:234    [0mGet phy blk for 1022 fail when read
+09-02 18:38:06:234    [32m[3367] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:235    
+09-02 18:38:06:235    [0mGet phy blk for 1023 fail when read
+09-02 18:38:06:235    [32m[3377] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:236    
+09-02 18:38:06:236    [0mGet phy blk for 1024 fail when read
+09-02 18:38:06:236    [32m[3388] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:237    
+09-02 18:38:06:237    [0mGet phy blk for 1025 fail when read
+09-02 18:38:06:238    [32m[3398] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:255    
+09-02 18:38:06:255    [0mGet phy blk for 1026 fail when read
+09-02 18:38:06:256    [32m[3409] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:257    
+09-02 18:38:06:257    [0mGet phy blk for 1027 fail when read
+09-02 18:38:06:257    [32m[3419] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:258    
+09-02 18:38:06:259    [0m
+09-02 18:38:06:470    Get phy blk for 992 fail when read
+09-02 18:38:06:471    [32m[5857] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:471    
+09-02 18:38:06:472    [0mGet phy blk for 993 fail when read
+09-02 18:38:06:473    [32m[5867] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:473    
+09-02 18:38:06:474    [0mGet phy blk for 994 fail when read
+09-02 18:38:06:474    [32m[5877] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:474    
+09-02 18:38:06:474    [0mGet phy blk for 995 fail when read
+09-02 18:38:06:475    [32m[5888] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:476    
+09-02 18:38:06:476    [0mGet phy blk for 996 fail when read
+09-02 18:38:06:476    [32m[5898] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:477    
+09-02 18:38:06:477    [0mGet phy blk for 997 fail when read
+09-02 18:38:06:477    [32m[5908] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:478    
+09-02 18:38:06:478    [0mGet phy blk for 998 fail when read
+09-02 18:38:06:479    [32m[5919] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:479    
+09-02 18:38:06:479    [0mGet phy blk for 999 fail when read
+09-02 18:38:06:480    [32m[5929] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:480    
+09-02 18:38:06:481    [0mGet phy blk for 1000 fail when read
+09-02 18:38:06:481    [32m[5940] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:482    
+09-02 18:38:06:482    [0mGet phy blk for 1001 fail when read
+09-02 18:38:06:483    [32m[5950] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:483    
+09-02 18:38:06:483    [0mGet phy blk for 1002 fail when read
+09-02 18:38:06:483    [32m[5960] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:484    
+09-02 18:38:06:484    [0mGet phy blk for 1003 fail when read
+09-02 18:38:06:485    [32m[5971] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:485    
+09-02 18:38:06:485    [0mGet phy blk for 1004 fail when read
+09-02 18:38:06:486    [32m[5981] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:486    
+09-02 18:38:06:486    [0mGet phy blk for 1005 fail when read
+09-02 18:38:06:487    [32m[5992] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:487    
+09-02 18:38:06:487    [0mGet phy blk for 1006 fail when read
+09-02 18:38:06:488    [32m[6002] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:489    
+09-02 18:38:06:489    [0mGet phy blk for 1007 fail when read
+09-02 18:38:06:490    [32m[6013] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:490    
+09-02 18:38:06:490    [0mGet phy blk for 1008 fail when read
+09-02 18:38:06:491    [32m[6023] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:491    
+09-02 18:38:06:492    [0mGet phy blk for 1009 fail when read
+09-02 18:38:06:492    [32m[6033] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:492    
+09-02 18:38:06:493    [0mGet phy blk for 1010 fail when read
+09-02 18:38:06:493    [32m[6044] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:494    
+09-02 18:38:06:494    [0mGet phy blk for 1011 fail when read
+09-02 18:38:06:494    [32m[6054] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:495    
+09-02 18:38:06:495    [0mGet phy blk for 1012 fail when read
+09-02 18:38:06:495    [32m[6065] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:496    
+09-02 18:38:06:497    [0mGet phy blk for 1013 fail when read
+09-02 18:38:06:498    [32m[6075] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:498    
+09-02 18:38:06:499    [0mGet phy blk for 1014 fail when read
+09-02 18:38:06:499    [32m[6086] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:499    
+09-02 18:38:06:500    [0mGet phy blk for 1015 fail when read
+09-02 18:38:06:500    [32m[6096] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:500    
+09-02 18:38:06:501    [0mGet phy blk for 1016 fail when read
+09-02 18:38:06:501    [32m[6107] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:501    
+09-02 18:38:06:501    [0mGet phy blk for 1017 fail when read
+09-02 18:38:06:502    [32m[6117] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:502    
+09-02 18:38:06:503    [0mGet phy blk for 1018 fail when read
+09-02 18:38:06:503    [32m[6127] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:504    
+09-02 18:38:06:504    [0mGet phy blk for 1019 fail when read
+09-02 18:38:06:504    [32m[6138] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:505    
+09-02 18:38:06:505    [0mGet phy blk for 1020 fail when read
+09-02 18:38:06:506    [32m[6148] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:506    
+09-02 18:38:06:506    [0mGet phy blk for 1021 fail when read
+09-02 18:38:06:507    [32m[6159] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:507    
+09-02 18:38:06:507    [0mGet phy blk for 1022 fail when read
+09-02 18:38:06:508    [32m[6169] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:508    
+09-02 18:38:06:509    [0mGet phy blk for 1023 fail when read
+09-02 18:38:06:509    [32m[6180] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:509    
+09-02 18:38:06:510    [0mGet phy blk for 1024 fail when read
+09-02 18:38:06:510    [32m[6190] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:510    
+09-02 18:38:06:511    [0mGet phy blk for 1025 fail when read
+09-02 18:38:06:511    [32m[6201] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:530    
+09-02 18:38:06:531    [0mGet phy blk for 1026 fail when read
+09-02 18:38:06:531    [32m[6211] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:532    
+09-02 18:38:06:533    [0mGet phy blk for 1027 fail when read
+09-02 18:38:06:534    [32m[6221] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-02 18:38:06:534    
+09-02 18:38:06:535    [0m
+09-02 18:38:06:727    mount:0
+09-02 18:38:06:728    mount fs on flash to root success
+09-02 18:38:06:729    [FlashDB] Starting initialization...
+09-02 18:38:06:731    [FlashDB] Mutex initialized
+09-02 18:38:06:731    [FlashDB] KVDB Config:
+09-02 18:38:06:731      Path: /sys/db/fdb_kvdb
+09-02 18:38:06:732      Sector Size: 4096
+09-02 18:38:06:732      Max Size: 16384 (0x4000)
+09-02 18:38:06:732      File Mode: true
+09-02 18:38:06:748    [FlashDB] KVDB initialized successfully
+09-02 18:38:06:768    [FlashDB] TSDB Config:
+09-02 18:38:06:769      Path: /sys/db/fdb_tsdb
+09-02 18:38:06:769      Max Size: 16384
+09-02 18:38:06:770    [FlashDB] TSDB initialized successfully
+09-02 18:38:06:770    [FlashDB] All initialization complete
+09-02 18:38:06:770    [32m[8488] I/drv.lcd app_watc: [NONE] -> [OPENING]
+09-02 18:38:06:771    [0m[32m[8494] I/drv.lcd lcd_task: open
+09-02 18:38:06:771    [0m[32m[8499] I/drv.epic lcd_task: drv_gpu opened.
+09-02 18:38:06:771    [0m[32m[8504] I/drv.lcd lcd_task: HW open
+09-02 18:38:06:772    [0m[32m[8516] I/drv.lcd lcd_task: Try registered LCD driver...
+09-02 18:38:06:773    [0mmsh />
+09-02 18:38:06:928    [32m[10096] I/NO_TAG lcd_task: 
+09-02 18:38:06:929    SH8603B_Init 
+09-02 18:38:06:929    
+09-02 18:38:06:930    [0m
+09-02 18:38:07:128    SH8603B_Init_Finish
+09-02 18:38:07:141    [32m[12079] I/NO_TAG lcd_task: 
+09-02 18:38:07:142     lcd_error  SH8603B_ReadID 0x0 
+09-02 18:38:07:143    
+09-02 18:38:07:143    [0m[32m[12087] I/drv.lcd lcd_task: Found lcd SH8603B id:9c03h
+09-02 18:38:07:144    [0m[32m[12093] I/drv.lcd lcd_task: HW open done.
+09-02 18:38:07:145    [0m[32m[12099] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+09-02 18:38:07:145    [0m[32m[12106] I/drv.lcd lcd_task: open done.
+09-02 18:38:07:146    [0m[32m[12111] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+09-02 18:38:07:147    [0m[32m[12117] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+09-02 18:38:07:147    [0m[32m[12126] I/TOUCH app_watc: Open
+09-02 18:38:07:148    [0m[32m[12131] I/TOUCH tp_init: Find touch screen driver...
+09-02 18:38:07:148    [0m[32m[12137] I/TOUCH tp_init: Probe 100078c5
+09-02 18:38:07:149    [0m[32m[12143] I/TOUCH tp_init: touch screen found driver  0x20037514, ft3169
+09-02 18:38:07:150    [0m[32m[12151] I/TOUCH app_watc: Opened.
+09-02 18:38:07:152    [0m[32m[12174] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+09-02 18:38:07:153    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+09-02 18:38:07:234    [31m[12935] E/drv.ft3169 tp_init: ft3169 id_H=64
+09-02 18:38:07:235    [0m[31m[12942] E/drv.ft3169 tp_init: ft3169 id_L=56
+09-02 18:38:07:236    [0m
+09-02 18:38:07:355    Crown device initialized success
+09-02 18:38:07:356    fully
+09-02 18:38:07:369    Boot count: 125
+09-02 18:38:07:375    [32m[14235] I/drv.rtc app_watc: Get initial cycles: 1036307 rtc
+09-02 18:38:07:375    =1735689625.0039
+09-02 18:38:07:376    
+09-02 18:38:07:377    [0m
+09-02 18:38:07:381    [32m[14293] I/drv.rtc app_watc: Get initial cycles: 1036307 rtc=1735689600.0039
+09-02 18:38:07:381    
+09-02 18:38:07:382    [0m[datetime_utils] Loaded datetime: 2025
+09-02 18:38:07:383    -01-01 00:00:00
+09-02 18:38:07:392    [32m[14408] I/drv.lcd lcd_task: set brightness 100
+09-02 18:38:07:393    [0mlcd_debug run  SH8603B_SetBrightness br = 100, bright = 255
+09-02 18:38:07:394    [32m[14420] I/drv.lcd lcd_task: display on
+09-02 18:38:07:395    [0mlcd_debug  SH8603B_DisplayOn
+09-02 18:38:07:395    [32m[14428] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-02 18:38:07:397    [0m[14437] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:1514.
+09-02 18:38:07:397    [32m[14447] I/APP.FWK.I
+09-02 18:38:07:398    NT app_watc: [Watchface]
+09-02 18:38:07:399    [0m
+09-02 18:38:07:429    [14733] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 18:38:07:430    [32m[14744] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1514
+09-02 18:38:07:431    [0m[32m[14757] I/APP.SCHE app_watc: app[Watchface] do LOAD, 20064370
+09-02 18:38:07:432    [0m[32m[14768] I/APP.FWK app_watc: finding Watchface in builtin apps...
+09-02 18:38:07:433    [0m[14778] D/APP.SCHE app_watc: app[Watchface] tgt_state [LAUNCHED] -> [RUNNING]
+09-02 18:38:07:434    [32m[14786] I/APP.SCHE app_watc: app[Watchface] do START, 20064370
+09-02 18:38:07:435    [0m[32m[14794] I/APP.FWK.INT app_watc: [Watchface]
+09-02 18:38:07:436    [0m[14800] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20064370] to gui_app_mbx tick:1553.
+09-02 18:38:07:437    [32m[14811] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1553
+09-02 18:38:07:437    [0m[14820] D/APP.SCHE app_watc: app[Watchface] create page[root] 20063ea4
+09-02 18:38:07:438    [14827] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [CREATED] -> [RESUMED]
+09-02 18:38:07:439    [14836] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+09-02 18:38:07:441    [32m[14846] I/APP.SCHE app_watc: page[Watchface][root] do ONSTART, 20063ea
+09-02 18:38:07:442    4
+09-02 18:38:07:442    [0mencoder1_count:0
+09-02 18:38:07:443    [32m[14875] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063ea4
+09-02 18:38:07:444    [0m[32m[14884] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 18:38:07:445    [0m[32m[14890] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-02 18:38:07:446    [0m[14897] D/APP.SCHE app_watc: app_schedule_task
+09-02 18:38:07:447     done.
+09-02 18:38:07:544    encoder1_count:0
+09-02 18:38:07:644    encoder1_count:0
+09-02 18:38:07:745    encoder1_count:0
+09-02 18:38:07:845    encoder1_count:0
+09-02 18:38:07:944    encoder1_count:0
+09-02 18:38:08:044    encoder1_count:0
+09-02 18:38:08:144    encoder1_count:0
+09-02 18:38:08:244    encoder1_count:0
+09-02 18:38:08:344    encoder1_count:0
+09-02 18:38:08:444    encoder1_count:0
+09-02 18:38:08:545    encoder1_count:0
+09-02 18:38:08:645    encoder1_count:0
+09-02 18:38:08:746    encoder1_count:0
+09-02 18:38:08:846    encoder1_count:0
+09-02 18:38:08:945    encoder1_count:0
+09-02 18:38:09:045    encoder1_count:0
+09-02 18:38:09:146    encoder1_count:0
+09-02 18:38:09:246    encoder1_count:0
+09-02 18:38:09:347    encoder1_count:0
+09-02 18:38:09:447    encoder1_count:0
+09-02 18:38:09:546    encoder1_count:0
+09-02 18:38:09:647    encoder1_count:0
+09-02 18:38:09:746    encoder1_count:0
+09-02 18:38:09:847    encoder1_count:0
+09-02 18:38:09:946    encoder1_count:0
+09-02 18:38:10:047    encoder1_count:0
+09-02 18:38:10:147    encoder1_count:0
+09-02 18:38:10:247    encoder1_count:0
+09-02 18:38:10:348    encoder1_count:0
+09-02 18:38:10:447    encoder1_count:0
+09-02 18:38:10:547    encoder1_count:0
+09-02 18:38:10:647    encoder1_count:-1
+09-02 18:38:10:747    encoder1_count:-1
+09-02 18:38:10:848    encoder1_count:0
+09-02 18:38:10:947    encoder1_count:0
+09-02 18:38:11:047    encoder1_count:0
+09-02 18:38:11:148    encoder1_count:0
+09-02 18:38:11:248    encoder1_count:0
+09-02 18:38:11:348    encoder1_count:0
+09-02 18:38:11:448    encoder1_count:0
+09-02 18:38:11:548    encoder1_count:-1
+09-02 18:38:11:649    encoder1_count:0
+09-02 18:38:11:749    encoder1_count:-1
+09-02 18:38:11:848    encoder1_count:-1
+09-02 18:38:11:949    encoder1_count:-1
+09-02 18:38:12:049    encoder1_count:-1
+09-02 18:38:12:149    encoder1_count:-1
+09-02 18:38:12:249    encoder1_count:-1
+09-02 18:38:12:350    encoder1_count:0
+09-02 18:38:12:449    encoder1_count:-1
+09-02 18:38:12:549    encoder1_count:-1
+09-02 18:38:12:650    encoder1_count:-1
+09-02 18:38:12:749    encoder1_count:-1
+09-02 18:38:12:850    encoder1_count:-1
+09-02 18:38:12:950    encoder1_count:-1
+09-02 18:38:13:050    encoder1_count:-1
+09-02 18:38:13:150    encoder1_count:0
+09-02 18:38:13:250    encoder1_count:0
+09-02 18:38:13:350    encoder1_count:0
+09-02 18:38:13:450    encoder1_count:0
+09-02 18:38:13:551    encoder1_count:0
+09-02 18:38:13:651    encoder1_count:-1
+09-02 18:38:13:751    encoder1_count:-1
+09-02 18:38:13:851    encoder1_count:-1
+09-02 18:38:13:951    encoder1_count:-1
+09-02 18:38:14:051    encoder1_count:-1
+09-02 18:38:14:151    encoder1_count:0
+09-02 18:38:14:251    encoder1_count:-1
+09-02 18:38:14:352    encoder1_count:-1
+09-02 18:38:14:452    encoder1_count:-1
+09-02 18:38:14:552    encoder1_count:-1
+09-02 18:38:14:652    encoder1_count:0
+09-02 18:38:14:752    encoder1_count:0
+09-02 18:38:14:852    encoder1_count:0
+09-02 18:38:14:952    encoder1_count:0
+09-02 18:38:15:052    encoder1_count:0
+09-02 18:38:15:153    encoder1_count:-1
+09-02 18:38:15:253    encoder1_count:-1
+09-02 18:38:15:353    encoder1_count:-1
+09-02 18:38:15:453    encoder1_count:-1
+09-02 18:38:15:553    encoder1_count:-1
+09-02 18:38:15:654    encoder1_count:-1
+09-02 18:38:15:754    encoder1_count:0
+09-02 18:38:15:853    encoder1_count:0
+09-02 18:38:15:953    encoder1_count:0
+09-02 18:38:16:054    encoder1_count:0
+09-02 18:38:16:154    encoder1_count:0
+09-02 18:38:16:254    encoder1_count:0
+09-02 18:38:16:354    encoder1_count:0
+09-02 18:38:16:454    encoder1_count:0
+09-02 18:38:16:554    encoder1_count:0
+09-02 18:38:16:654    encoder1_count:0
+09-02 18:38:16:754    encoder1_count:0
+09-02 18:38:16:854    encoder1_count:0
+09-02 18:38:16:954    encoder1_count:0
+09-02 18:38:17:054    encoder1_count:-1
+09-02 18:38:17:154    encoder1_count:-1
+09-02 18:38:17:255    encoder1_count:0
+09-02 18:38:17:356    encoder1_count:0
+09-02 18:38:17:456    encoder1_count:0
+09-02 18:38:17:556    encoder1_count:0
+09-02 18:38:17:656    encoder1_count:0
+09-02 18:38:17:755    encoder1_count:0
+09-02 18:38:17:856    encoder1_count:0
+09-02 18:38:17:955    encoder1_count:0
+09-02 18:38:18:056    encoder1_count:0
+09-02 18:38:18:156    encoder1_count:-1
+09-02 18:38:18:256    encoder1_count:0
+09-02 18:38:18:356    encoder1_count:0
+09-02 18:38:18:457    encoder1_count:0
+09-02 18:38:18:556    encoder1_count:0
+09-02 18:38:18:656    encoder1_count:0
+09-02 18:38:18:757    encoder1_count:0
+09-02 18:38:18:857    encoder1_count:0
+09-02 18:38:18:957    encoder1_count:0
+09-02 18:38:19:057    encoder1_count:0
+09-02 18:38:19:157    encoder1_count:0
+09-02 18:38:19:257    encoder1_count:0
+09-02 18:38:19:358    encoder1_count:-1
+09-02 18:38:19:458    encoder1_count:-1
+09-02 18:38:19:558    encoder1_count:-1
+09-02 18:38:19:658    encoder1_count:-1
+09-02 18:38:19:759    encoder1_count:-1
+09-02 18:38:19:858    encoder1_count:-1
+09-02 18:38:19:960    encoder1_count:-1
+09-02 18:38:20:059    encoder1_count:-1
+09-02 18:38:20:159    encoder1_count:-1
+09-02 18:38:20:259    encoder1_count:-1
+09-02 18:38:20:359    encoder1_count:-1
+09-02 18:38:20:459    encoder1_count:-1
+09-02 18:38:20:559    encoder1_count:-1
+09-02 18:38:20:659    encoder1_count:-1
+09-02 18:38:20:759    encoder1_count:-1
+09-02 18:38:20:860    encoder1_count:-1
+09-02 18:38:20:960    encoder1_count:-1
+09-02 18:38:21:060    encoder1_count:-1
+09-02 18:38:21:160    encoder1_count:-1
+09-02 18:38:21:260    encoder1_count:-1
+09-02 18:38:21:362    encoder1_count:-1
+09-02 18:38:21:461    encoder1_count:-1
+09-02 18:38:21:561    encoder1_count:-1
+09-02 18:38:21:661    encoder1_count:0
+09-02 18:38:21:761    encoder1_count:0
+09-02 18:38:21:862    encoder1_count:-1
+09-02 18:38:21:961    encoder1_count:-1
+09-02 18:38:22:061    encoder1_count:-1
+09-02 18:38:22:161    encoder1_count:-1
+09-02 18:38:22:262    encoder1_count:-1
+09-02 18:38:22:361    encoder1_count:-1
+09-02 18:38:22:461    encoder1_count:-1
+09-02 18:38:22:562    encoder1_count:-1
+09-02 18:38:22:662    encoder1_count:-1
+09-02 18:38:22:762    encoder1_count:-1
+09-02 18:38:22:862    encoder1_count:-1
+09-02 18:38:22:963    encoder1_count:-1
+09-02 18:38:23:063    encoder1_count:-1
+09-02 18:38:23:163    encoder1_count:-1
+09-02 18:38:23:263    encoder1_count:-1
+09-02 18:38:23:363    encoder1_count:-1
+09-02 18:38:23:463    encoder1_count:-1
+09-02 18:38:23:563    encoder1_count:-1
+09-02 18:38:23:664    encoder1_count:0
+09-02 18:38:23:763    encoder1_count:0
+09-02 18:38:23:864    encoder1_count:0
+09-02 18:38:23:963    encoder1_count:-1
+09-02 18:38:24:064    encoder1_count:-1
+09-02 18:38:24:163    encoder1_count:-1
+09-02 18:38:24:263    encoder1_count:-1
+09-02 18:38:24:364    encoder1_count:-1
+09-02 18:38:24:464    encoder1_count:0
+09-02 18:38:24:564    encoder1_count:-1
+09-02 18:38:24:664    encoder1_count:-1
+09-02 18:38:24:764    encoder1_count:-1
+09-02 18:38:24:864    encoder1_count:-1
+09-02 18:38:24:965    encoder1_count:-1
+09-02 18:38:25:065    encoder1_count:0
+09-02 18:38:25:165    encoder1_count:0
+09-02 18:38:25:266    encoder1_count:0
+09-02 18:38:25:366    encoder1_count:0
+09-02 18:38:25:466    encoder1_count:0
+09-02 18:38:25:565    encoder1_count:0
+09-02 18:38:25:666    encoder1_count:0
+09-02 18:38:25:765    encoder1_count:0
+09-02 18:38:25:866    encoder1_count:0
+09-02 18:38:25:966    encoder1_count:0
+09-02 18:38:26:067    encoder1_count:0
+09-02 18:38:26:167    encoder1_count:0
+09-02 18:38:26:267    encoder1_count:0
+09-02 18:38:26:367    encoder1_count:0
+09-02 18:38:26:466    encoder1_count:0
+09-02 18:38:26:566    encoder1_count:0
+09-02 18:38:26:667    encoder1_count:0
+09-02 18:38:26:767    encoder1_count:0
+09-02 18:38:26:867    encoder1_count:0
+09-02 18:38:26:967    encoder1_count:0
+09-02 18:38:27:067    encoder1_count:0
+09-02 18:38:27:167    encoder1_count:0
+09-02 18:38:27:267    encoder1_count:0
+09-02 18:38:27:367    encoder1_count:-1
+09-02 18:38:27:467    encoder1_count:-1
+09-02 18:38:27:568    encoder1_count:-1
+09-02 18:38:27:668    encoder1_count:-1
+09-02 18:38:27:768    encoder1_count:-1
+09-02 18:38:27:869    encoder1_count:-1
+09-02 18:38:27:968    encoder1_count:-1
+09-02 18:38:28:068    encoder1_count:-1
+09-02 18:38:28:169    encoder1_count:-1
+09-02 18:38:28:269    encoder1_count:-1
+09-02 18:38:28:369    encoder1_count:-1
+09-02 18:38:28:470    encoder1_count:-1
+09-02 18:38:28:569    encoder1_count:-1
+09-02 18:38:28:669    encoder1_count:-1
+09-02 18:38:28:769    encoder1_count:-1
+09-02 18:38:28:869    encoder1_count:-1
+09-02 18:38:28:969    encoder1_count:-1
+09-02 18:38:29:069    encoder1_count:-1
+09-02 18:38:29:169    encoder1_count:-1
+09-02 18:38:29:270    encoder1_count:-1
+09-02 18:38:29:369    encoder1_count:-1
+09-02 18:38:29:470    encoder1_count:-1
+09-02 18:38:29:570    encoder1_count:-1
+09-02 18:38:29:670    encoder1_count:-1
+09-02 18:38:29:771    encoder1_count:-1
+09-02 18:38:29:871    encoder1_count:-1
+09-02 18:38:29:971    encoder1_count:-1
+09-02 18:38:30:071    encoder1_count:-1
+09-02 18:38:30:171    encoder1_count:-1
+09-02 18:38:30:271    encoder1_count:-1
+09-02 18:38:30:370    encoder1_count:-1
+09-02 18:38:30:471    encoder1_count:-1
+09-02 18:38:30:571    encoder1_count:-1
+09-02 18:38:30:671    encoder1_count:-1
+09-02 18:38:30:771    encoder1_count:-1
+09-02 18:38:30:871    encoder1_count:-1
+09-02 18:38:30:972    encoder1_count:-1
+09-02 18:38:31:071    encoder1_count:-1
+09-02 18:38:31:172    encoder1_count:-1
+09-02 18:38:31:272    encoder1_count:-1
+09-02 18:38:31:373    encoder1_count:-1
+09-02 18:38:31:472    encoder1_count:-1
+09-02 18:38:31:572    encoder1_count:-1
+09-02 18:38:31:673    encoder1_count:-1
+09-02 18:38:31:772    encoder1_count:-1
+09-02 18:38:31:873    encoder1_count:-1
+09-02 18:38:31:972    encoder1_count:-1
+09-02 18:38:32:073    encoder1_count:-1
+09-02 18:38:32:172    encoder1_count:-1
+09-02 18:38:32:272    encoder1_count:-1
+09-02 18:38:32:374    encoder1_count:-1
+09-02 18:38:32:473    encoder1_count:-1
+09-02 18:38:32:574    encoder1_count:-1
+09-02 18:38:32:673    encoder1_count:-1
+09-02 18:38:32:773    encoder1_count:-1
+09-02 18:38:32:874    encoder1_count:-1
+09-02 18:38:32:973    encoder1_count:-1
+09-02 18:38:33:075    encoder1_count:-1
+09-02 18:38:33:174    encoder1_count:-1
+09-02 18:38:33:275    encoder1_count:-1
+09-02 18:38:33:374    encoder1_count:-1
+09-02 18:38:33:474    encoder1_count:-1
+09-02 18:38:33:575    encoder1_count:-1
+09-02 18:38:33:674    encoder1_count:-1
+09-02 18:38:33:774    encoder1_count:-1
+09-02 18:38:33:875    encoder1_count:-1
+09-02 18:38:33:975    encoder1_count:-1
+09-02 18:38:34:076    encoder1_count:-1
+09-02 18:38:34:175    encoder1_count:-1
+09-02 18:38:34:275    encoder1_count:-1
+09-02 18:38:34:376    encoder1_count:-1
+09-02 18:38:34:477    encoder1_count:-1
+09-02 18:38:34:575    encoder1_count:-1
+09-02 18:38:34:675    encoder1_count:-1
+09-02 18:38:34:776    encoder1_count:-1
+09-02 18:38:34:875    encoder1_count:-1
+09-02 18:38:34:975    encoder1_count:-1
+09-02 18:38:35:076    encoder1_count:-1
+09-02 18:38:35:176    encoder1_count:-1
+09-02 18:38:35:276    encoder1_count:-1
+09-02 18:38:35:376    encoder1_count:-1
+09-02 18:38:35:476    encoder1_count:-1
+09-02 18:38:35:576    encoder1_count:-1
+09-02 18:38:35:676    encoder1_count:-1
+09-02 18:38:35:777    encoder1_count:-1
+09-02 18:38:35:877    encoder1_count:-1
+09-02 18:38:35:978    encoder1_count:-1
+09-02 18:38:36:077    encoder1_count:-1
+09-02 18:38:36:178    encoder1_count:-1
+09-02 18:38:36:277    encoder1_count:-1
+09-02 18:38:36:378    encoder1_count:-1
+09-02 18:38:36:478    encoder1_count:-1
+09-02 18:38:36:577    encoder1_count:-1
+09-02 18:38:36:678    encoder1_count:-1
+09-02 18:38:36:778    encoder1_count:-1
+09-02 18:38:36:878    encoder1_count:-1
+09-02 18:38:36:978    encoder1_count:-1
+09-02 18:38:37:078    encoder1_count:-1
+09-02 18:38:37:178    encoder1_count:-1
+09-02 18:38:37:278    encoder1_count:-1
+09-02 18:38:37:378    encoder1_count:-1
+09-02 18:38:37:478    encoder1_count:-1
+09-02 18:38:37:579    encoder1_count:-1
+09-02 18:38:37:678    encoder1_count:-1
+09-02 18:38:37:778    encoder1_count:-1
+09-02 18:38:37:879    encoder1_count:-1
+09-02 18:38:37:979    encoder1_count:-1
+09-02 18:38:38:079    encoder1_count:-1
+09-02 18:38:38:179    encoder1_count:-1
+09-02 18:38:38:279    encoder1_count:-1
+09-02 18:38:38:379    encoder1_count:-1
+09-02 18:38:38:479    encoder1_count:-1
+09-02 18:38:38:580    encoder1_count:-1
+09-02 18:38:38:680    encoder1_count:-1
+09-02 18:38:38:780    encoder1_count:-1
+09-02 18:38:38:880    encoder1_count:-1
+09-02 18:38:38:979    encoder1_count:-1
+09-02 18:38:39:005    [307250] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainMenu] to gui_app_mbx tick:33087.
+09-02 18:38:39:007    [32m[307260] I/APP.FWK.INT time
+09-02 18:38:39:007    r: [MainMenu]
+09-02 18:38:39:008    [0m
+09-02 18:38:39:017    [307351] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 18:38:39:018    [32m[307360] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:33087
+09-02 18:38:39:019    [0m[32m[307369] I/APP.SCHE app_watc: app[MainMenu] do LOAD, 20065550
+09-02 18:38:39:020    [0m[32m[307376] I/APP.FWK app_watc: finding MainMenu in builtin apps...
+09-02 18:38:39:021    [0m[307384] D/APP.SCHE app_watc: app[MainMenu] tgt_state [LAUNCHED] -> [RUNNING]
+09-02 18:38:39:021    [32m[307392] I/APP.SCHE app_watc: app[MainMenu] do START, 20065550
+09-02 18:38:39:022    [0m[32m[307400] I/APP.FWK.INT app_watc: [MainMenu]
+09-02 18:38:39:023    [0m[307406] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20065550] to gui_app_mbx tick:33103.
+09-02 18:38:39:024    [32m[307416] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:33103
+09-02 18:38:39:025    [0m[307425] D/APP.SCHE app_watc: app[MainMenu] create page[root] 200654b4
+09-02 18:38:39:026    [307433] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [CREATED] -> [RESUMED]
+09-02 18:38:39:026    [307442] D/APP.SCHE app_watc: Pause all app, and resume to MainMenu app
+09-02 18:38:39:027    [307449] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [RESUMED] -> [PAUSED]
+09-02 18:38:39:028    [32m[307458] I/APP.SCHE app_watc: page[Watchface][root] do ONPAUSE, 20063ea4
+09-02 18:38:39:030    [0m[32m[307468] I/APP.SCHE app_watc: page[MainMenu][root] do
+09-02 18:38:39:030     ONSTART, 200654b4
+09-02 18:38:39:032    [0m[32m[307486] I/APP.SCHE app_watc: page[MainMenu][root] do ONRESUME, 200654b4
+09-02 18:38:39:032    [0m[32m[307495] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 18:38:39:033    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+09-02 18:38:39:034    [32m[307508] I/APP.ANI app_watc: buf = 6052cc30
+09-02 18:38:39:035    [0m[32m[307519] I/APP.ANI app_watc: app_trans_animation_obj_create = 200664bc
+09-02 18:38:39:035    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+09-02 18:38:39:037    [32m[307534] I/APP.ANI app_watc: buf = 604c9dd8
+09-02 18:38:39:038    [0m
+09-02 18:38:39:051    [32m[307668] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066634
+09-02 18:38:39:052    [0m[32m[307677] I/APP.ANI app_watc: Start free r
+09-02 18:38:39:053    un animation
+09-02 18:38:39:054    [0m[32m[307695] I/APP.ANI app_watc: app_trans_animation_setup end, cost=21ms
+09-02 18:38:39:054    
+09-02 18:38:39:055    [0m[32m[307703] I/APP.SCHE app_watc: Trans-anim setup done.
+09-02 18:38:39:055    [0m[307711] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-02 18:38:39:056    [307717] D/APP.SCHE app_watc: app_schedule_task d
+09-02 18:38:39:057    one.
+09-02 18:38:39:081    encoder1_count:-1
+09-02 18:38:39:180    encoder1_count:-1
+09-02 18:38:39:280    encoder1_count:-1
+09-02 18:38:39:365    [32m[310563] I/APP.ANI app_watc: free_run_ready 0 
+09-02 18:38:39:366    
+09-02 18:38:39:367    [0m
+09-02 18:38:39:381    encoder1_count:-1
+09-02 18:38:39:395    [32m[310866] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-02 18:38:39:397    
+09-02 18:38:39:408    [0m[32m[310874] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-02 18:38:39:409    
+09-02 18:38:39:409    [0m[32m[310882] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-02 18:38:39:410    
+09-02 18:38:39:410    [0m[32m[310892] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066634
+09-02 18:38:39:411    [0mapp_anim_buf_free: 0x604c9dd8
+09-02 18:38:39:411    [32m[310907] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200664bc
+09-02 18:38:39:411    [0mapp_anim_buf_free: 0x6052cc30
+09-02 18:38:39:412    [32m[310926] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-02 18:38:39:412    [0m[310935] D/APP.SCHE app_watc: --Resume app_schedule_task--
+09-02 18:38:39:480    encoder1_count:-1
+09-02 18:38:39:580    encoder1_count:-1
+09-02 18:38:39:681    encoder1_count:-1
+09-02 18:38:39:737    [314018] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:33817.
+09-02 18:38:39:738    [32m[314029] I/APP.FWK.INT timer: [Watchface]
+09-02 18:38:39:740    [0m
+09-02 18:38:39:765    [314287] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 18:38:39:767    [32m[314296] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:33817
+09-02 18:38:39:767    [0m[314304] D/APP.SCHE app_watc: Found app[Watchface] in running list. Args are -
+09-02 18:38:39:768    [314313] D/APP.SCHE app_watc: - same. Resume it
+09-02 18:38:39:768    [314318] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+09-02 18:38:39:770    [314325] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [RESUMED] -> [PAUSED]
+09-02 18:38:39:770    [314334] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [PAUSED] -> [RESUMED]
+09-02 18:38:39:771    [32m[314343] I/APP.SCHE app_watc: page[MainMenu][root] do ONPAUSE, 200654b4
+09-02 18:38:39:771    [0m[32m[314352] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063ea4
+09-02 18:38:39:773    [0m[32m[314361] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 18:38:39:773    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+09-02 18:38:39:774    [32m[314374] I/APP.ANI app_watc: buf = 6052cc30
+09-02 18:38:39:776    [0m[32m[314385] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+09-02 18:38:39:776    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+09-02 18:38:39:778    [32m[314399] I/APP.ANI app_watc: b
+09-02 18:38:39:778    uf = 604c9dd8
+09-02 18:38:39:779    [0m
+09-02 18:38:39:780    encoder1_count:-1
+09-02 18:38:39:792    [32m[314534] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+09-02 18:38:39:794    [0m[32m[314543] I/APP.ANI app_watc: Start free run animation
+09-02 18:38:39:795    [0m[32m[314557] I/APP.ANI app_watc: app_trans_animation_setup end, cost=21ms
+09-02 18:38:39:796    
+09-02 18:38:39:796    [0m[32m[314566] I/APP.SCHE app_watc: Trans-anim setup done.
+09-02 18:38:39:796    [0m[314572] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-02 18:38:39:797    [314578] D/APP.SCHE app_watc: 
+09-02 18:38:39:798    app_schedule_task done.
+09-02 18:38:39:881    encoder1_count:-1
+09-02 18:38:39:981    encoder1_count:-1
+09-02 18:38:40:081    encoder1_count:-1
+09-02 18:38:40:105    [32m[317433] I/APP.ANI app_watc
+09-02 18:38:40:106    : free_run_ready 0 
+09-02 18:38:40:106    
+09-02 18:38:40:107    [0m
+09-02 18:38:40:138    [32m[317737] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-02 18:38:40:139    
+09-02 18:38:40:141    [0m[32m[317745] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-02 18:38:40:141    
+09-02 18:38:40:141    [0m[32m[317754] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-02 18:38:40:142    
+09-02 18:38:40:142    [0m[32m[317762] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+09-02 18:38:40:143    [0mapp_anim_buf_free: 0x604c9dd8
+09-02 18:38:40:143    [32m[317778] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+09-02 18:38:40:143    [0mapp_anim_buf_free: 0x6052cc30
+09-02 18:38:40:144    [32m[317797] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-02 18:38:40:145    [0m[317804] D/APP.SCHE app_watc: --Resume app_schedule
+09-02 18:38:40:145    _task--
+09-02 18:38:40:180    encoder1_count:-1
+09-02 18:38:40:281    encoder1_count:-1
+09-02 18:38:40:364    [319833] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainMenu] to gui_app_mbx tick:34444.
+09-02 18:38:40:366    [32m[319843] I/APP.FWK.INT time
+09-02 18:38:40:366    r: [MainMenu]
+09-02 18:38:40:367    [0m
+09-02 18:38:40:376    [319954] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 18:38:40:378    [32m[319962] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:34444
+09-02 18:38:40:379    [0m[319971] D/APP.SCHE app_watc: Found app[MainMenu] in running list. Args are -
+09-02 18:38:40:380    [319979] D/APP.SCHE app_watc: - same. Resume it
+09-02 18:38:40:381    [319984] D/APP.SCHE app_watc: Pause all app, and resume to MainMenu app
+09-02 18:38:40:381    encoder1_count:-1
+09-02 18:38:40:382    [319996] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [RESUMED] -> [PAUSED]
+09-02 18:38:40:383    [320004] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [PAUSED] -> [RESUMED]
+09-02 18:38:40:384    [32m[320013] I/APP.SCHE app_watc: page[Watchface][root] do ONPAUSE, 20063ea4
+09-02 18:38:40:385    [0m[32m[320022] I/APP.SCHE app_watc: page[MainMenu][root] do ONRESUME, 200654b4
+09-02 18:38:40:385    [0m[32m[320031] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 18:38:40:386    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+09-02 18:38:40:387    [32m[320044] I/APP.ANI app_watc: buf = 6052cc3
+09-02 18:38:40:388    0
+09-02 18:38:40:389    [0m[32m[320055] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+09-02 18:38:40:389    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+09-02 18:38:40:390    [32m[320069] I/APP.ANI app_watc: buf = 604c9dd8
+09-02 18:38:40:391    [0m
+09-02 18:38:40:404    [32m[320201] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+09-02 18:38:40:405    [0m[32m[320210] I/APP.ANI app_watc: Start free r
+09-02 18:38:40:406    un animation
+09-02 18:38:40:406    [0m[32m[320228] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-02 18:38:40:407    
+09-02 18:38:40:408    [0m[32m[320237] I/APP.SCHE app_watc: Trans-anim setup done.
+09-02 18:38:40:408    [0m[320245] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-02 18:38:40:410    [320251] D/APP.SCHE app_watc: 
+09-02 18:38:40:410    app_schedule_task done.
+09-02 18:38:40:481    encoder1_count:-1
+09-02 18:38:40:581    encoder1_count:-1
+09-02 18:38:40:681    encoder1_count:-1
+09-02 18:38:40:716    [32m[323103] I/APP.ANI app_watc
+09-02 18:38:40:718    : free_run_ready 0 
+09-02 18:38:40:718    
+09-02 18:38:40:719    [0m
+09-02 18:38:40:749    [32m[323404] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-02 18:38:40:751    
+09-02 18:38:40:752    [0m[32m[323411] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-02 18:38:40:752    
+09-02 18:38:40:752    [0m[32m[323417] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-02 18:38:40:753    
+09-02 18:38:40:753    [0m[32m[323425] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+09-02 18:38:40:753    [0mapp_anim_buf_free: 0x604c9dd8
+09-02 18:38:40:754    [32m[323437] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+09-02 18:38:40:754    [0mapp_anim_buf_free: 0x6052cc30
+09-02 18:38:40:755    [32m[323454] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-02 18:38:40:757    [0m[323463] D/APP.SCHE app_watc: --Resume app_schedule
+09-02 18:38:40:757    _task--
+09-02 18:38:40:781    encoder1_count:-1
+09-02 18:38:40:861    [324433] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:34940.
+09-02 18:38:40:862    [32m[324444] I/APP.FWK.INT timer: [Watchface]
+09-02 18:38:40:863    [0m[324449] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 18:38:40:864    [32m[324458] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:34940
+09-02 18:38:40:864    [0m[324467] D/APP.SCHE app_watc: Found app[Watchface] in running list. Args are -
+09-02 18:38:40:865    [324475] D/APP.SCHE app_watc: - same. Resume it
+09-02 18:38:40:866    [324480] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+09-02 18:38:40:867    [324488] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [RESUMED] -> [PAUSED]
+09-02 18:38:40:868    [324497] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [PAUSED] -> [RESUMED]
+09-02 18:38:40:869    [32m[324505] I/APP.SCHE app_watc: page[MainMenu][root] do ONPAUSE, 200654b4
+09-02 18:38:40:869    [0m[32m[324514] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063ea4
+09-02 18:38:40:870    [0m[32m[324523] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 18:38:40:871    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+09-02 18:38:40:872    [32m[324536] I/APP.ANI app_watc: buf = 6052cc30
+09-02 18:38:40:873    [0m[32m[324547] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+09-02 18:38:40:874    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+09-02 18:38:40:875    [32m[324562] I/APP.ANI app_watc: buf = 604c9dd8
+09-02 18:38:40:876    [0m
+09-02 18:38:40:882    encoder1_count:-1
+09-02 18:38:40:889    [32m[324696] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+09-02 18:38:40:890    [0m[32m[324705] I/APP.ANI app_watc: Start free run animation
+09-02 18:38:40:891    [0m[32m[324719] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+09-02 18:38:40:892    
+09-02 18:38:40:894    [0m[32m[324728] I/APP.SCHE app_watc: Trans-anim setup done.
+09-02 18:38:40:894    [0m[324735] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-02 18:38:40:895    [324741] D/APP.SCHE app_watc: app_schedule_task done.
+09-02 18:38:40:982    encoder1_count:-1
+09-02 18:38:41:083    encoder1_count:-1
+09-02 18:38:41:183    encoder1_count:-1
+09-02 18:38:41:201    [32m[327583] I/APP.ANI app_watc
+09-02 18:38:41:201    : free_run_ready 0 
+09-02 18:38:41:202    
+09-02 18:38:41:203    [0m
+09-02 18:38:41:233    [32m[327884] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-02 18:38:41:233    
+09-02 18:38:41:234    [0m[32m[327892] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-02 18:38:41:234    
+09-02 18:38:41:235    [0m[32m[327901] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-02 18:38:41:235    
+09-02 18:38:41:236    [0m[32m[327910] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+09-02 18:38:41:237    [0mapp_anim_buf_free: 0x604c9dd8
+09-02 18:38:41:238    [32m[327928] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+09-02 18:38:41:239    [0mapp_anim_buf_free: 0x6052cc30
+09-02 18:38:41:239    [32m[327942] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-02 18:38:41:240    [0m[327948] D/APP.SCHE app_watc: --Resume app_schedule
+09-02 18:38:41:241    _task--
+09-02 18:38:41:282    encoder1_count:-1
+09-02 18:38:41:382    encoder1_count:-1
+09-02 18:38:41:426    [329675] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainMenu] to gui_app_mbx tick:35505.
+09-02 18:38:41:428    [32m[329685] I/APP.FWK.INT timer: [MainMenu]
+09-02 18:38:41:430    [0m
+09-02 18:38:41:441    [329814] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 18:38:41:442    [32m[329822] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:35505
+09-02 18:38:41:443    [0m[329831] D/APP.SCHE app_watc: Found app[MainMenu] in running list. Args are -
+09-02 18:38:41:443    [329839] D/APP.SCHE app_watc: - same. Resume it
+09-02 18:38:41:445    [329845] D/APP.SCHE app_watc: Pause all app, and resume to MainMenu app
+09-02 18:38:41:445    [329852] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [RESUMED] -> [PAUSED]
+09-02 18:38:41:446    [329861] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [PAUSED] -> [RESUMED]
+09-02 18:38:41:447    [32m[329870] I/APP.SCHE app_watc: page[Watchface][root] do ONPAUSE, 20063ea4
+09-02 18:38:41:449    [0m[32m[329879] I/APP.SCHE app_watc: page[MainMenu][root] do ONRESUME, 200654b4
+09-02 18:38:41:449    [0m[32m[329887] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 18:38:41:450    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+09-02 18:38:41:450    [32m[329900] I/APP.ANI app_watc: buf = 6052cc30
+09-02 18:38:41:452    [0m[32m[329911] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+09-02 18:38:41:453    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+09-02 18:38:41:453    [32m[329926] I/APP.ANI app_watc: buf
+09-02 18:38:41:454     = 604c9dd8
+09-02 18:38:41:454    [0m
+09-02 18:38:41:468    [32m[330058] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+09-02 18:38:41:469    [0m[32m[330067] I/APP.ANI app_watc: Start free run animation
+09-02 18:38:41:470    [0m[32m[330085] I/APP.ANI app_watc: app_trans_animation_setup end, cost=21ms
+09-02 18:38:41:471    
+09-02 18:38:41:471    [0m[32m[330093] I/APP.SCHE app_watc: Trans-anim setup done.
+09-02 18:38:41:472    [0m[330101] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-02 18:38:41:473    [330108] D/APP.SCHE app_watc: app_schedule_task d
+09-02 18:38:41:474    one.
+09-02 18:38:41:483    encoder1_count:-1
+09-02 18:38:41:583    encoder1_count:-1
+09-02 18:38:41:682    encoder1_count:-1
+09-02 18:38:41:781    [32m[332951] I/APP.ANI app_watc
+09-02 18:38:41:782    : free_run_ready 0 
+09-02 18:38:41:783    
+09-02 18:38:41:783    [0mencoder1_count:-1
+09-02 18:38:41:812    [32m[333255] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-02 18:38:41:813    
+09-02 18:38:41:814    [0m[32m[333262] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-02 18:38:41:815    
+09-02 18:38:41:815    [0m[32m[333271] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-02 18:38:41:816    
+09-02 18:38:41:816    [0m[32m[333281] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+09-02 18:38:41:817    [0mapp_anim_buf_free: 0x604c9dd8
+09-02 18:38:41:817    [32m[333297] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+09-02 18:38:41:818    [0mapp_anim_buf_free: 0x6052cc30
+09-02 18:38:41:819    [32m[333313] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-02 18:38:41:821    [0m[333323] D/APP.SCHE app_watc: --Resume app_schedule
+09-02 18:38:41:821    _task--
+09-02 18:38:41:825    [333367] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:35903.
+09-02 18:38:41:826    [32m[333377] I/APP.FWK.INT tim
+09-02 18:38:41:827    er: [Watchface]
+09-02 18:38:41:828    [0m
+09-02 18:38:41:829    [333403] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 18:38:41:830    [32m[333414] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:35903
+09-02 18:38:41:831    [0m[333425] D/APP.SCHE app_watc: Found app[Watchface] in running list. Args are -
+09-02 18:38:41:832    [333435] D/APP.SCHE app_watc: - same. Resume it
+09-02 18:38:41:833    [333441] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+09-02 18:38:41:834    [333452] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [RESUMED] -> [PAUSED]
+09-02 18:38:41:836    [333463] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [PAUSED] -> [RESUMED]
+09-02 18:38:41:837    [32m[333475] I/APP.SCHE app_watc: page[MainMenu][root] do ONPAUSE, 200654b4
+09-02 18:38:41:838    [0m[32m[333486] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 2
+09-02 18:38:41:838    0063ea4
+09-02 18:38:41:839    [0m[32m[333498] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 18:38:41:840    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+09-02 18:38:41:841    [32m[333516] I/APP.ANI app_watc
+09-02 18:38:41:841    : buf = 6052cc30
+09-02 18:38:41:843    [0m[32m[333531] I/APP.ANI app_watc: app_trans_animation_obj_create = 200666c4
+09-02 18:38:41:844    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+09-02 18:38:41:844    [32m[333550] I/APP.ANI app_watc: b
+09-02 18:38:41:845    uf = 604c9dd8
+09-02 18:38:41:846    [0m
+09-02 18:38:41:863    [32m[333721] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006629c
+09-02 18:38:41:864    [0m[32m[333729] I/APP.ANI app_watc: Start free run animation
+09-02 18:38:41:865    [0m[32m[333744] I/APP.ANI app_watc: app_trans_animation_setup end, cost=25ms
+09-02 18:38:41:866    
+09-02 18:38:41:866    [0m[32m[333752] I/APP.SCHE app_watc: Trans-anim setup done.
+09-02 18:38:41:867    [0m[333759] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-02 18:38:41:868    [333765] D/APP.SCHE app_watc: 
+09-02 18:38:41:869    app_schedule_task done.
+09-02 18:38:41:883    encoder1_count:-1
+09-02 18:38:41:983    encoder1_count:-1
+09-02 18:38:42:083    encoder1_count:-1
+09-02 18:38:42:175    [32m[336608] I/APP.ANI app_watc
+09-02 18:38:42:178    : free_run_ready 0 
+09-02 18:38:42:178    
+09-02 18:38:42:179    [0m
+09-02 18:38:42:183    encoder1_count:-1
+09-02 18:38:42:207    [32m[336910] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-02 18:38:42:208    
+09-02 18:38:42:209    [0m[32m[336918] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-02 18:38:42:209    
+09-02 18:38:42:210    [0m[32m[336926] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-02 18:38:42:211    
+09-02 18:38:42:211    [0m[32m[336935] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006629c
+09-02 18:38:42:212    [0mapp_anim_buf_free: 0x604c9dd8
+09-02 18:38:42:212    [32m[336951] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200666c4
+09-02 18:38:42:213    [0mapp_anim_buf_free: 0
+09-02 18:38:42:213    x6052cc30
+09-02 18:38:42:214    [32m[336970] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-02 18:38:42:215    [0m[336977] D/APP.SCHE app_watc: --Resume app_schedule
+09-02 18:38:42:216    _task--
+09-02 18:38:42:284    encoder1_count:-1
+09-02 18:38:42:331    [338060] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainMenu] to gui_app_mbx tick:36409.
+09-02 18:38:42:333    [32m[338070] I/APP.FWK.INT timer: [MainMenu]
+09-02 18:38:42:335    [0m
+09-02 18:38:42:351    [338236] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 18:38:42:352    [32m[338244] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:36409
+09-02 18:38:42:353    [0m[338253] D/APP.SCHE app_watc: Found app[MainMenu] in running list. Args are -
+09-02 18:38:42:354    [338261] D/APP.SCHE app_watc: - same. Resume it
+09-02 18:38:42:355    [338266] D/APP.SCHE app_watc: Pause all app, and resume to MainMenu app
+09-02 18:38:42:355    [338274] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [RESUMED] -> [PAUSED]
+09-02 18:38:42:356    [338283] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [PAUSED] -> [RESUMED]
+09-02 18:38:42:356    [32m[338292] I/APP.SCHE app_watc: page[Watchface][root] do ONPAUSE, 20063ea4
+09-02 18:38:42:358    [0m[32m[338300] I/APP.SCHE app_watc: page[MainMenu][root] do ONRESUME, 200654b4
+09-02 18:38:42:359    [0m[32m[338309] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 18:38:42:359    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+09-02 18:38:42:360    [32m[338322] I/APP.ANI app_watc: buf = 6052cc30
+09-02 18:38:42:361    [0m[32m[338333] I/APP.ANI app_watc: app_trans_animation_obj_create = 20066224
+09-02 18:38:42:362    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+09-02 18:38:42:363    [32m[338348] I/APP.ANI app_watc: buf
+09-02 18:38:42:363     = 604c9dd8
+09-02 18:38:42:365    [0m
+09-02 18:38:42:386    [32m[338480] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006639c
+09-02 18:38:42:388    [0m[32m[338489] I/APP.ANI app_watc: Start free run animation
+09-02 18:38:42:389    [0m[32m[338507] I/APP.ANI app_watc: app_trans_animation_setup end, cost=21ms
+09-02 18:38:42:389    
+09-02 18:38:42:389    [0m[32m[338515] I/APP.SCHE app_watc: Trans-anim setup done.
+09-02 18:38:42:390    [0m[338523] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-02 18:38:42:390    [338529] D/APP.SCHE app_watc: app_schedule_task done.
+09-02 18:38:42:390    encoder1_count:-1
+09-02 18:38:42:484    encoder1_count:-1
+09-02 18:38:42:584    encoder1_count:-1
+09-02 18:38:42:685    encoder1_count:-1
+09-02 18:38:42:690    [32m[341381] I/APP.ANI app_watc
+09-02 18:38:42:691    : free_run_ready 0 
+09-02 18:38:42:692    
+09-02 18:38:42:693    [0m
+09-02 18:38:42:723    [32m[341685] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-02 18:38:42:723    
+09-02 18:38:42:724    [0m[32m[341694] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-02 18:38:42:724    
+09-02 18:38:42:725    [0m[32m[341703] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-02 18:38:42:725    
+09-02 18:38:42:727    [0m[32m[341711] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006639c
+09-02 18:38:42:727    [0mapp_anim_buf_free: 0x604c9dd8
+09-02 18:38:42:728    [32m[341726] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20066224
+09-02 18:38:42:729    [0mapp_anim_buf_free: 0x6052cc30
+09-02 18:38:42:729    [32m[341744] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-02 18:38:42:730    [0m[341754] D/APP.SCHE app_watc: --Resume app_schedule
+09-02 18:38:42:731    _task--
+09-02 18:38:42:785    encoder1_count:-1
+09-02 18:38:42:885    encoder1_count:-1
+09-02 18:38:42:984    encoder1_count:-1
+09-02 18:38:43:085    encoder1_count:-1
+09-02 18:38:43:185    encoder1_count:-1
+09-02 18:38:43:284    encoder1_count:-1
+09-02 18:38:43:385    encoder1_count:-1
+09-02 18:38:43:486    encoder1_count:-1
+09-02 18:38:43:585    encoder1_count:-1
+09-02 18:38:43:685    encoder1_count:-1
+09-02 18:38:43:736    [351061] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:37811.
+09-02 18:38:43:736    [32m[351071] I/APP.FWK.INT timer: [Watchface]
+09-02 18:38:43:738    [0m
+09-02 18:38:43:763    [351327] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-02 18:38:43:764    [32m[351336] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:37811
+09-02 18:38:43:766    [0m[351345] D/APP.SCHE app_watc: Found app[Watchface] in running list. Args are -
+09-02 18:38:43:766    [351355] D/APP.SCHE app_watc: - same. Resume it
+09-02 18:38:43:767    [351362] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+09-02 18:38:43:768    [351371] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [RESUMED] -> [PAUSED]
+09-02 18:38:43:770    [351381] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [PAUSED] -> [RESUM
+09-02 18:38:43:770    ED]
+09-02 18:38:43:771    [32m[351395] I/APP.SCHE app_watc: page[MainMenu][root] do ONPAUSE, 200654b4
+09-02 18:38:43:772    [0m[32m[351406] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063ea4
+09-02 18:38:43:774    [0m[32m[351418] I/APP.SCHE app_watc: Try setup trans-anim
+09-02 18:38:43:775    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+09-02 18:38:43:776    [32m[351436] I/APP.ANI app_watc: buf = 6052cc30
+09-02 18:38:43:777    [0m
+09-02 18:38:43:779    [32m[351474] I/APP.ANI app_watc: app_trans_animation_obj_create = 2006665c
+09-02 18:38:43:780    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+09-02 18:38:43:782    [32m[351488] I/APP.ANI app_watc: buf = 604c9dd8
+09-02 18:38:43:783    [0m
+09-02 18:38:43:785    encoder1_count:-1
+09-02 18:38:43:803    [32m[351640] I/APP.ANI app_watc: app_trans_animation_obj_create = 200663b4
+09-02 18:38:43:849    [0m[32m[351649] I/APP.ANI app_watc: Start free run animation
+09-02 18:38:43:850    [0m[32m[351662] I/APP.ANI app_watc: app_trans_animation_setup end, cost=25ms
+09-02 18:38:43:850    
+09-02 18:38:43:851    [0m[32m[351671] I/APP.SCHE app_watc: Trans-anim setup done.
+09-02 18:38:43:851    [0m[351678] D/APP.SCHE app_watc: --Pause app_schedule_task--
+09-02 18:38:43:851    [351684] D/APP.SCHE app_watc: app_schedule_task done.
+09-02 18:38:43:885    encoder1_count:-1
+09-02 18:38:43:985    encoder1_count:-1
+09-02 18:38:44:066    [32m[354133] I/APP.ANI app_watc
+09-02 18:38:44:081    : free_run_ready 0 
+09-02 18:38:44:082    
+09-02 18:38:44:082    [0m
+09-02 18:38:44:086    encoder1_count:-1
+09-02 18:38:44:099    [32m[354437] I/APP.ANI app_watc: wait_refr_task_cb 0
+09-02 18:38:44:100    
+09-02 18:38:44:100    [0m[32m[354443] I/APP.ANI app_watc: anim_free_run_ready 0 
+09-02 18:38:44:101    
+09-02 18:38:44:101    [0m[32m[354450] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+09-02 18:38:44:101    
+09-02 18:38:44:101    [0m[32m[354457] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200663b4
+09-02 18:38:44:103    [0mapp_anim_buf_free: 0x604c9dd8
+09-02 18:38:44:103    [32m[354470] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 2006665c
+09-02 18:38:44:104    [0mapp_anim_buf_free: 0x6052cc30
+09-02 18:38:44:105    [32m[354487] I/APP.SCHE app_watc: Trans-anim finish, res=0
+09-02 18:38:44:105    [0m[354495] D/APP.SCHE app_watc: --Resume app_schedule
+09-02 18:38:44:107    _task--
+09-02 18:38:44:186    encoder1_count:-1
+09-02 18:38:44:285    encoder1_count:-1
+09-02 18:38:44:386    encoder1_count:-1
+09-02 18:38:44:486    encoder1_count:-1
+09-02 18:38:44:587    encoder1_count:-1
+09-02 18:38:44:687    encoder1_count:-1
+09-02 18:38:44:787    encoder1_count:-1
+09-02 18:38:44:886    encoder1_count:-1
+09-02 18:38:44:987    encoder1_count:-1
+09-02 18:38:45:086    encoder1_count:-1
+09-02 18:38:45:186    encoder1_count:-1
+09-02 18:38:45:287    encoder1_count:-1
+09-02 18:38:45:387    encoder1_count:-1
+09-02 18:38:45:487    encoder1_count:-1
+09-02 18:38:45:587    encoder1_count:-1
+09-02 18:38:45:687    encoder1_count:0
+09-02 18:38:45:788    encoder1_count:-1
+09-02 18:38:45:888    encoder1_count:-1
+09-02 18:38:45:989    encoder1_count:-1
+09-02 18:38:46:088    encoder1_count:-1
+09-02 18:38:46:188    encoder1_count:0
+09-02 18:38:46:287    encoder1_count:0
+09-02 18:38:46:388    encoder1_count:0
+09-02 18:38:46:488    encoder1_count:0
+09-02 18:38:46:588    encoder1_count:0
+09-02 18:38:46:689    encoder1_count:0
+09-02 18:38:46:789    encoder1_count:0
+09-02 18:38:46:889    encoder1_count:-1
+09-02 18:38:46:990    encoder1_count:-1
+09-02 18:38:47:089    encoder1_count:-1
+09-02 18:38:47:189    encoder1_count:-1
+09-02 18:38:47:289    encoder1_count:-1
+09-02 18:38:47:389    encoder1_count:0
+09-02 18:38:47:490    encoder1_count:0
+09-02 18:38:47:590    encoder1_count:-1
+09-02 18:38:47:690    encoder1_count:0
+09-02 18:38:47:791    encoder1_count:-1
+09-02 18:38:47:890    encoder1_count:-1
+09-02 18:38:47:990    encoder1_count:-1
+09-02 18:38:48:091    encoder1_count:-1
+09-02 18:38:48:190    encoder1_count:-1
+09-02 18:38:48:291    encoder1_count:-1
+09-02 18:38:48:391    encoder1_count:-1
+09-02 18:38:48:492    encoder1_count:-1
+09-02 18:38:48:591    encoder1_count:-1
+09-02 18:38:48:692    encoder1_count:-1
+09-02 18:38:48:792    encoder1_count:-1
+09-02 18:38:48:891    encoder1_count:-1
+09-02 18:38:48:992    encoder1_count:-1
+09-02 18:38:49:092    encoder1_count:-1
+09-02 18:38:49:193    encoder1_count:-1
+09-02 18:38:49:293    encoder1_count:-1
+09-02 18:38:49:392    encoder1_count:-1
+09-02 18:38:49:493    encoder1_count:-1
+09-02 18:38:49:593    encoder1_count:-1
+09-02 18:38:49:693    encoder1_count:-1
+09-02 18:38:49:793    encoder1_count:-1
+09-02 18:38:49:894    encoder1_count:-1
+09-02 18:38:49:993    encoder1_count:-1
+09-02 18:38:50:093    encoder1_count:-1
+09-02 18:38:50:194    encoder1_count:-1
+09-02 18:38:50:294    encoder1_count:-1
+09-02 18:38:50:394    encoder1_count:-1
+09-02 18:38:50:494    encoder1_count:-1
+09-02 18:38:50:593    encoder1_count:-1
+09-02 18:38:50:694    encoder1_count:-1
+09-02 18:38:50:794    encoder1_count:-1
+09-02 18:38:50:894    encoder1_count:-1
+09-02 18:38:50:994    encoder1_count:-1
+09-02 18:38:51:095    encoder1_count:-1
+09-02 18:38:51:194    encoder1_count:-1
+09-02 18:38:51:294    encoder1_count:-1
+09-02 18:38:51:394    encoder1_count:-1
+09-02 18:38:51:495    encoder1_count:-1
+09-02 18:38:51:594    encoder1_count:-1
+09-02 18:38:51:695    encoder1_count:-1
+09-02 18:38:51:796    encoder1_count:-1
+09-02 18:38:51:895    encoder1_count:-1
+09-02 18:38:51:996    encoder1_count:-1
+09-02 18:38:52:095    encoder1_count:-1
+09-02 18:38:52:195    encoder1_count:-1
+09-02 18:38:52:296    encoder1_count:-1
+09-02 18:38:52:397    encoder1_count:-1
+09-02 18:38:52:495    encoder1_count:-1
+09-02 18:38:52:596    encoder1_count:-1
+09-02 18:38:52:696    encoder1_count:-1
+09-02 18:38:52:796    encoder1_count:-1
+09-02 18:38:52:896    encoder1_count:-1
+09-02 18:38:52:996    encoder1_count:-1
+09-02 18:38:53:098    encoder1_count:-1
+09-02 18:38:53:196    encoder1_count:-1
+09-02 18:38:53:296    encoder1_count:-1
+09-02 18:38:53:397    encoder1_count:-1
+09-02 18:38:53:497    encoder1_count:-1
+09-02 18:38:53:597    encoder1_count:-1
+09-02 18:38:53:697    encoder1_count:-1
+09-02 18:38:53:797    encoder1_count:-1
+09-02 18:38:53:897    encoder1_count:-1
+09-02 18:38:53:997    encoder1_count:-1
+09-02 18:38:54:097    encoder1_count:-1
+09-02 18:38:54:198    encoder1_count:-1
+09-02 18:38:54:297    encoder1_count:-1
+09-02 18:38:54:398    encoder1_count:-1
+09-02 18:38:54:498    encoder1_count:-1
+09-02 18:38:54:598    encoder1_count:-1
+09-02 18:38:54:698    encoder1_count:-1
+09-02 18:38:54:798    encoder1_count:-1
+09-02 18:38:54:898    encoder1_count:-1
+09-02 18:38:54:999    encoder1_count:-1
+09-02 18:38:55:099    encoder1_count:-1
+09-02 18:38:55:199    encoder1_count:-1
+09-02 18:38:55:299    encoder1_count:-1
+09-02 18:38:55:399    encoder1_count:-1
+09-02 18:38:55:500    encoder1_count:-1
+09-02 18:38:55:599    encoder1_count:-1
+09-02 18:38:55:699    encoder1_count:-1
+09-02 18:38:55:799    encoder1_count:-1
+09-02 18:38:55:900    encoder1_count:-1
+09-02 18:38:56:000    encoder1_count:-1
+09-02 18:38:56:099    encoder1_count:-1
+09-02 18:38:56:200    encoder1_count:-1
+09-02 18:38:56:299    encoder1_count:-1
+09-02 18:38:56:399    encoder1_count:-1
+09-02 18:38:56:499    encoder1_count:-1
+09-02 18:38:56:599    encoder1_count:-1
+09-02 18:38:56:700    encoder1_count:-1
+09-02 18:38:56:800    encoder1_count:-1
+09-02 18:38:56:900    encoder1_count:-1
+09-02 18:38:57:000    encoder1_count:-1
+09-02 18:38:57:100    encoder1_count:-1
+09-02 18:38:57:200    encoder1_count:-1
+09-02 18:38:57:301    encoder1_count:-1
+09-02 18:38:57:401    encoder1_count:-1
+09-02 18:38:57:501    encoder1_count:-1
+09-02 18:38:57:601    encoder1_count:-1
+09-02 18:38:57:701    encoder1_count:-1
+09-02 18:38:57:801    encoder1_count:-1
+09-02 18:38:57:902    encoder1_count:-1
+09-02 18:38:58:002    encoder1_count:-1
+09-02 18:38:58:102    encoder1_count:-1
+09-02 18:38:58:202    encoder1_count:-1
+09-02 18:38:58:302    encoder1_count:-1
+09-02 18:38:58:403    encoder1_count:-1
+09-02 18:38:58:502    encoder1_count:-1
+09-02 18:38:58:603    encoder1_count:-1
+09-02 18:38:58:703    encoder1_count:-1
+09-02 18:38:58:803    encoder1_count:-1
+09-02 18:38:58:903    encoder1_count:-1
+09-02 18:38:59:004    encoder1_count:-1
+09-02 18:38:59:104    encoder1_count:-1
+09-02 18:38:59:203    encoder1_count:-1
+09-02 18:38:59:303    encoder1_count:-1
+09-02 18:38:59:403    encoder1_count:-1
+09-02 18:38:59:503    encoder1_count:-1
+09-02 18:38:59:603    encoder1_count:-1
+09-02 18:38:59:703    encoder1_count:-1
+09-02 18:38:59:804    encoder1_count:-1
+09-02 18:38:59:904    encoder1_count:-1
+09-02 18:39:00:004    encoder1_count:-1
+09-02 18:39:00:104    encoder1_count:-1
+09-02 18:39:00:205    encoder1_count:-1
+09-02 18:39:00:305    encoder1_count:-1
+09-02 18:39:00:405    encoder1_count:-1
+09-02 18:39:00:504    encoder1_count:-1
+09-02 18:39:00:604    encoder1_count:-1
+09-02 18:39:00:705    encoder1_count:-1
+09-02 18:39:00:805    encoder1_count:-1
+09-02 18:39:00:906    encoder1_count:-1
+09-02 18:39:01:006    encoder1_count:-1
+09-02 18:39:01:105    encoder1_count:-1
+09-02 18:39:01:205    encoder1_count:-1
+09-02 18:39:01:305    encoder1_count:-1
+09-02 18:39:01:406    encoder1_count:-1
+09-02 18:39:01:506    encoder1_count:-1
+09-02 18:39:01:606    encoder1_count:-1
+09-02 18:39:01:706    encoder1_count:-1
+09-02 18:39:01:807    encoder1_count:-1
+09-02 18:39:01:905    encoder1_count:-1
+09-02 18:39:02:006    encoder1_count:-1
+09-02 18:39:02:105    encoder1_count:-1
+09-02 18:39:02:207    encoder1_count:-1
+09-02 18:39:02:307    encoder1_count:-1
+09-02 18:39:02:406    encoder1_count:-1
+09-02 18:39:02:507    encoder1_count:-1
+09-02 18:39:02:607    encoder1_count:-1
+09-02 18:39:02:707    encoder1_count:-1
+09-02 18:39:02:807    encoder1_count:-1
+09-02 18:39:02:908    encoder1_count:-1
+09-02 18:39:03:007    encoder1_count:-1
+09-02 18:39:03:108    encoder1_count:-1
+09-02 18:39:03:208    encoder1_count:-1
+09-02 18:39:03:307    encoder1_count:-1
+09-02 18:39:03:407    encoder1_count:-1
+09-02 18:39:03:508    encoder1_count:-1
+09-02 18:39:03:608    encoder1_count:-1
+09-02 18:39:03:708    encoder1_count:-1
+09-02 18:39:03:808    encoder1_count:-1
+09-02 18:39:03:908    encoder1_count:-1
+09-02 18:39:04:009    encoder1_count:-1
+09-02 18:39:04:109    encoder1_count:-1
+09-02 18:39:04:208    encoder1_count:-1
+09-02 18:39:04:309    encoder1_count:-1
+09-02 18:39:04:409    encoder1_count:-1
+09-02 18:39:04:509    encoder1_count:-1
+09-02 18:39:04:609    encoder1_count:-1
+09-02 18:39:04:709    encoder1_count:-1
+09-02 18:39:04:809    encoder1_count:-1
+09-02 18:39:04:910    encoder1_count:-1
+09-02 18:39:05:010    encoder1_count:-1
+09-02 18:39:05:110    encoder1_count:-1
+09-02 18:39:05:210    encoder1_count:-1
+09-02 18:39:05:310    encoder1_count:-1
+09-02 18:39:05:410    encoder1_count:-1
+09-02 18:39:05:510    encoder1_count:-1
+09-02 18:39:05:610    encoder1_count:-1
+09-02 18:39:05:711    encoder1_count:-1
+09-02 18:39:05:811    encoder1_count:-1
+09-02 18:39:05:911    encoder1_count:-1
+09-02 18:39:06:011    encoder1_count:-1
+09-02 18:39:06:111    encoder1_count:-1
+09-02 18:39:06:211    encoder1_count:-1
+09-02 18:39:06:311    encoder1_count:-1
+09-02 18:39:06:411    encoder1_count:-1
+09-02 18:39:06:512    encoder1_count:-1
+09-02 18:39:06:612    encoder1_count:-1
+09-02 18:39:06:711    encoder1_count:-1
+09-02 18:39:06:812    encoder1_count:-1
+09-02 18:39:06:912    encoder1_count:-1
+09-02 18:39:07:012    encoder1_count:-1
+09-02 18:39:07:112    encoder1_count:-1
+09-02 18:39:07:212    encoder1_count:-1
+09-02 18:39:07:313    encoder1_count:-1
+09-02 18:39:07:413    encoder1_count:-1
+09-02 18:39:07:512    encoder1_count:-1
+09-02 18:39:07:612    encoder1_count:-1
+09-02 18:39:07:713    encoder1_count:-1
+09-02 18:39:07:813    encoder1_count:-1
+09-02 18:39:07:913    encoder1_count:-1
+09-02 18:39:08:013    encoder1_count:-1
+09-02 18:39:08:113    encoder1_count:-1
+09-02 18:39:08:213    encoder1_count:-1
+09-02 18:39:08:313    encoder1_count:-1
+09-02 18:39:08:415    encoder1_count:-1
+09-02 18:39:08:515    encoder1_count:-1
+09-02 18:39:08:614    encoder1_count:-1
+09-02 18:39:08:715    encoder1_count:-1
+09-02 18:39:08:815    encoder1_count:-1
+09-02 18:39:08:914    encoder1_count:-1
+09-02 18:39:09:015    encoder1_count:-1
+09-02 18:39:09:115    encoder1_count:-1
+09-02 18:39:09:215    encoder1_count:-1
+09-02 18:39:09:315    encoder1_count:-1
+09-02 18:39:09:415    encoder1_count:-1
+09-02 18:39:09:516    encoder1_count:-1
+09-02 18:39:09:615    encoder1_count:-1
+09-02 18:39:09:715    encoder1_count:-1
+09-02 18:39:09:816    encoder1_count:-1
+09-02 18:39:09:916    encoder1_count:-1
+09-02 18:39:10:015    encoder1_count:-1
+09-02 18:39:10:116    encoder1_count:-1
+09-02 18:39:10:216    encoder1_count:-1
+09-02 18:39:10:317    encoder1_count:-1
+09-02 18:39:10:416    encoder1_count:-1
+09-02 18:39:10:516    encoder1_count:-1
+09-02 18:39:10:618    encoder1_count:-1
+09-02 18:39:10:716    encoder1_count:-1
+09-02 18:39:10:817    encoder1_count:-1
+09-02 18:39:10:917    encoder1_count:-1
+09-02 18:39:11:018    encoder1_count:-1
+09-02 18:39:11:118    encoder1_count:-1
+09-02 18:39:11:218    encoder1_count:-1
+09-02 18:39:11:318    encoder1_count:-1
+09-02 18:39:11:418    encoder1_count:-1
+09-02 18:39:11:518    encoder1_count:-1
+09-02 18:39:11:618    encoder1_count:-1
+09-02 18:39:11:719    encoder1_count:-1
+09-02 18:39:11:819    encoder1_count:-1
+09-02 18:39:11:918    encoder1_count:-1
+09-02 18:39:12:019    encoder1_count:-1
+09-02 18:39:12:118    encoder1_count:-1
+09-02 18:39:12:219    encoder1_count:-1
+09-02 18:39:12:319    encoder1_count:-1
+09-02 18:39:12:419    encoder1_count:-1
+09-02 18:39:12:519    encoder1_count:-1
+09-02 18:39:12:619    encoder1_count:-1
+09-02 18:39:12:720    encoder1_count:-1
+09-02 18:39:12:819    encoder1_count:-1
+09-02 18:39:12:920    encoder1_count:-1
+09-02 18:39:13:020    encoder1_count:-1
+09-02 18:39:13:120    encoder1_count:-1
+09-02 18:39:13:219    encoder1_count:-1
+09-02 18:39:13:320    encoder1_count:-1
+09-02 18:39:13:420    encoder1_count:-1
+09-02 18:39:13:520    encoder1_count:-1
+09-02 18:39:13:620    encoder1_count:-1
+09-02 18:39:13:721    encoder1_count:-1
+09-02 18:39:13:821    encoder1_count:-1
+09-02 18:39:13:920    encoder1_count:-1
+09-02 18:39:14:022    encoder1_count:-1
+09-02 18:39:14:121    encoder1_count:-1
+09-02 18:39:14:221    encoder1_count:-1
+09-02 18:39:14:322    encoder1_count:-1
+09-02 18:39:14:421    encoder1_count:-1
+09-02 18:39:14:521    encoder1_count:-1
+09-02 18:39:14:621    encoder1_count:-1
+09-02 18:39:14:721    encoder1_count:-1
+09-02 18:39:14:822    encoder1_count:-1
+09-02 18:39:14:922    encoder1_count:-1
+09-02 18:39:15:021    encoder1_count:-1
+09-02 18:39:15:123    encoder1_count:-1
+09-02 18:39:15:222    encoder1_count:-1
+09-02 18:39:15:322    encoder1_count:-1
+09-02 18:39:15:422    encoder1_count:-1
+09-02 18:39:15:522    encoder1_count:-1
+09-02 18:39:15:623    encoder1_count:-1
+09-02 18:39:15:723    encoder1_count:-1
+09-02 18:39:15:822    encoder1_count:-1
+09-02 18:39:15:923    encoder1_count:-1
+09-02 18:39:16:023    encoder1_count:-1
+09-02 18:39:16:123    encoder1_count:-1
+09-02 18:39:16:223    encoder1_count:-1
+09-02 18:39:16:323    encoder1_count:-1
+09-02 18:39:16:424    encoder1_count:-1
+09-02 18:39:16:523    encoder1_count:-1
+09-02 18:39:16:623    encoder1_count:-1
+09-02 18:39:16:724    encoder1_count:-1
+09-02 18:39:16:824    encoder1_count:-1
+09-02 18:39:16:924    encoder1_count:-1
+09-02 18:39:17:024    encoder1_count:-1
+09-02 18:39:17:125    encoder1_count:-1
+09-02 18:39:17:224    encoder1_count:-1
+09-02 18:39:17:324    encoder1_count:-1
+09-02 18:39:17:425    encoder1_count:-1
+09-02 18:39:17:525    encoder1_count:-1
+09-02 18:39:17:625    encoder1_count:-1
+09-02 18:39:17:724    encoder1_count:-1
+09-02 18:39:17:825    encoder1_count:-1
+09-02 18:39:17:925    encoder1_count:-1
+09-02 18:39:18:025    encoder1_count:-1
+09-02 18:39:18:125    encoder1_count:-1
+09-02 18:39:18:225    encoder1_count:-1
+09-02 18:39:18:326    encoder1_count:-1
+09-02 18:39:18:425    encoder1_count:-1
+09-02 18:39:18:525    encoder1_count:-1
+09-02 18:39:18:626    encoder1_count:-1
+09-02 18:39:18:726    encoder1_count:-1
+09-02 18:39:18:826    encoder1_count:-1
+09-02 18:39:18:926    encoder1_count:-1
+09-02 18:39:19:026    encoder1_count:-1
+09-02 18:39:19:127    encoder1_count:-1
+09-02 18:39:19:227    encoder1_count:-1
+09-02 18:39:19:326    encoder1_count:-1
+09-02 18:39:19:427    encoder1_count:-1
+09-02 18:39:19:526    encoder1_count:-1
+09-02 18:39:19:627    encoder1_count:-1
+09-02 18:39:19:726    encoder1_count:-1
+09-02 18:39:19:827    encoder1_count:-1
+09-02 18:39:19:927    encoder1_count:-1
+09-02 18:39:20:028    encoder1_count:-1
+09-02 18:39:20:128    encoder1_count:-1
+09-02 18:39:20:228    encoder1_count:-1
+09-02 18:39:20:328    encoder1_count:-1
+09-02 18:39:20:427    encoder1_count:-1
+09-02 18:39:20:528    encoder1_count:-1
+09-02 18:39:20:628    encoder1_count:-1
+09-02 18:39:20:728    encoder1_count:-1
+09-02 18:39:20:828    encoder1_count:-1
+09-02 18:39:20:929    encoder1_count:-1
+09-02 18:39:21:028    encoder1_count:-1
+09-02 18:39:21:128    encoder1_count:-1
+09-02 18:39:21:228    encoder1_count:-1
+09-02 18:39:21:329    encoder1_count:-1
+09-02 18:39:21:430    encoder1_count:-1
+09-02 18:39:21:529    encoder1_count:-1
+09-02 18:39:21:629    encoder1_count:-1
+09-02 18:39:21:730    encoder1_count:-1
+09-02 18:39:21:830    encoder1_count:-1
+09-02 18:39:21:929    encoder1_count:-1
+09-02 18:39:22:030    encoder1_count:-1
+09-02 18:39:22:130    encoder1_count:-1
+09-02 18:39:22:230    encoder1_count:-1
+09-02 18:39:22:330    encoder1_count:-1
+09-02 18:39:22:431    encoder1_count:-1
+09-02 18:39:22:531    encoder1_count:-1
+09-02 18:39:22:631    encoder1_count:-1
+09-02 18:39:22:731    encoder1_count:-1
+09-02 18:39:22:831    encoder1_count:-1
+09-02 18:39:22:932    encoder1_count:-1
+09-02 18:39:23:032    encoder1_count:-1
+09-02 18:39:23:131    encoder1_count:-1
+09-02 18:39:23:231    encoder1_count:-1
+09-02 18:39:23:331    encoder1_count:-1
+09-02 18:39:23:432    encoder1_count:-1
+09-02 18:39:23:532    encoder1_count:-1
+09-02 18:39:23:632    encoder1_count:-1
+09-02 18:39:23:732    encoder1_count:-1
+09-02 18:39:23:832    encoder1_count:-1
+09-02 18:39:23:932    encoder1_count:-1
+09-02 18:39:24:033    encoder1_count:-1
+09-02 18:39:24:133    encoder1_count:-1
+09-02 18:39:24:233    encoder1_count:-1
+09-02 18:39:24:333    encoder1_count:-1
+09-02 18:39:24:433    encoder1_count:-1
+09-02 18:39:24:533    encoder1_count:-1
+09-02 18:39:24:633    encoder1_count:-1
+09-02 18:39:24:734    encoder1_count:-1
+09-02 18:39:24:834    encoder1_count:-1
+09-02 18:39:24:934    encoder1_count:-1
+09-02 18:39:25:034    encoder1_count:-1
+09-02 18:39:25:134    encoder1_count:-1
+09-02 18:39:25:234    encoder1_count:-1
+09-02 18:39:25:334    encoder1_count:-1
+09-02 18:39:25:434    encoder1_count:-1
+09-02 18:39:25:534    encoder1_count:-1
+09-02 18:39:25:635    encoder1_count:-1
+09-02 18:39:25:735    encoder1_count:-1
+09-02 18:39:25:835    encoder1_count:-1
+09-02 18:39:25:935    encoder1_count:-1
+09-02 18:39:26:035    encoder1_count:-1
+09-02 18:39:26:135    encoder1_count:-1
+09-02 18:39:26:236    encoder1_count:-1
+09-02 18:39:26:336    encoder1_count:-1
+09-02 18:39:26:436    encoder1_count:-1
+09-02 18:39:26:536    encoder1_count:-1
+09-02 18:39:26:636    encoder1_count:-1
+09-02 18:39:26:736    encoder1_count:-1
+09-02 18:39:26:836    encoder1_count:-1
+09-02 18:39:26:937    encoder1_count:-1
+09-02 18:39:27:036    encoder1_count:-1
+09-02 18:39:27:137    encoder1_count:-1
+09-02 18:39:27:237    encoder1_count:-1
+09-02 18:39:27:337    encoder1_count:-1
+09-02 18:39:27:438    encoder1_count:-1
+09-02 18:39:27:537    encoder1_count:-1
+09-02 18:39:27:637    encoder1_count:-1
+09-02 18:39:27:737    encoder1_count:-1
+09-02 18:39:27:837    encoder1_count:-1
+09-02 18:39:27:937    encoder1_count:-1
+09-02 18:39:28:037    encoder1_count:-1
+09-02 18:39:28:138    encoder1_count:-1
+09-02 18:39:28:237    encoder1_count:-1
+09-02 18:39:28:338    encoder1_count:-1
+09-02 18:39:28:438    encoder1_count:-1
+09-02 18:39:28:539    encoder1_count:-1
+09-02 18:39:28:639    encoder1_count:-1
+09-02 18:39:28:738    encoder1_count:-1
+09-02 18:39:28:840    encoder1_count:-1
+09-02 18:39:28:938    encoder1_count:-1
+09-02 18:39:29:039    encoder1_count:-1
+09-02 18:39:29:138    encoder1_count:-1
+09-02 18:39:29:239    encoder1_count:-1
+09-02 18:39:29:339    encoder1_count:-1
+09-02 18:39:29:439    encoder1_count:-1
+09-02 18:39:29:540    encoder1_count:-1
+09-02 18:39:29:641    encoder1_count:-1
+09-02 18:39:29:740    encoder1_count:-1
+09-02 18:39:29:840    encoder1_count:-1
+09-02 18:39:29:940    encoder1_count:-1
+09-02 18:39:30:040    encoder1_count:-1
+09-02 18:39:30:141    encoder1_count:-1
+09-02 18:39:30:241    encoder1_count:-1
+09-02 18:39:30:341    encoder1_count:-1
+09-02 18:39:30:441    encoder1_count:-1
+09-02 18:39:30:542    encoder1_count:-1
+09-02 18:39:30:641    encoder1_count:-1
+09-02 18:39:30:742    encoder1_count:-1
+09-02 18:39:30:841    encoder1_count:-1
+09-02 18:39:30:941    encoder1_count:-1
+09-02 18:39:31:042    encoder1_count:-1
+09-02 18:39:31:142    encoder1_count:-1
+09-02 18:39:31:243    encoder1_count:-1
+09-02 18:39:31:342    encoder1_count:-1
+09-02 18:39:31:442    encoder1_count:-1
+09-02 18:39:31:542    encoder1_count:-1
+09-02 18:39:31:643    encoder1_count:-1
+09-02 18:39:31:742    encoder1_count:-1
+09-02 18:39:31:842    encoder1_count:-1
+09-02 18:39:31:943    encoder1_count:-1
+09-02 18:39:32:043    encoder1_count:-1
+09-02 18:39:32:143    encoder1_count:-1
+09-02 18:39:32:243    encoder1_count:-1
+09-02 18:39:32:344    encoder1_count:-1
+09-02 18:39:32:443    encoder1_count:-1
+09-02 18:39:32:543    encoder1_count:-1
+09-02 18:39:32:644    encoder1_count:-1
+09-02 18:39:32:744    encoder1_count:-1
+09-02 18:39:32:844    encoder1_count:-1
+09-02 18:39:32:945    encoder1_count:-1
+09-02 18:39:33:045    encoder1_count:-1
+09-02 18:39:33:144    encoder1_count:-1
+09-02 18:39:33:245    encoder1_count:-1
+09-02 18:39:33:345    encoder1_count:-1
+09-02 18:39:33:445    encoder1_count:-1
+09-02 18:39:33:545    encoder1_count:-1
+09-02 18:39:33:645    encoder1_count:-1
+09-02 18:39:33:745    encoder1_count:-1
+09-02 18:39:33:845    encoder1_count:-1
+09-02 18:39:33:945    encoder1_count:-1
+09-02 18:39:34:045    encoder1_count:-1
+09-02 18:39:34:146    encoder1_count:-1
+09-02 18:39:34:246    encoder1_count:-1
+09-02 18:39:34:347    encoder1_count:-1
+09-02 18:39:34:447    encoder1_count:-1
+09-02 18:39:34:546    encoder1_count:-1
+09-02 18:39:34:646    encoder1_count:-1
+09-02 18:39:34:747    encoder1_count:-1
+09-02 18:39:34:847    encoder1_count:-1
+09-02 18:39:34:948    encoder1_count:-1
+09-02 18:39:35:048    encoder1_count:-1
+09-02 18:39:35:148    encoder1_count:-1
+09-02 18:39:35:248    encoder1_count:-1
+09-02 18:39:35:348    encoder1_count:-1
+09-02 18:39:35:448    encoder1_count:-1
+09-02 18:39:35:548    encoder1_count:-1
+09-02 18:39:35:649    encoder1_count:-1
+09-02 18:39:35:748    encoder1_count:-1
+09-02 18:39:35:849    encoder1_count:-1
+09-02 18:39:35:948    encoder1_count:-1
+09-02 18:39:36:048    encoder1_count:-1
+09-02 18:39:36:149    encoder1_count:-1
+09-02 18:39:36:248    encoder1_count:-1
+09-02 18:39:36:349    encoder1_count:-1
+09-02 18:39:36:449    encoder1_count:-1
+09-02 18:39:36:549    encoder1_count:-1
+09-02 18:39:36:649    encoder1_count:-1
+09-02 18:39:36:749    encoder1_count:-1
+09-02 18:39:36:849    encoder1_count:-1
+09-02 18:39:36:949    encoder1_count:-1
+09-02 18:39:37:052    encoder1_count:-1
+09-02 18:39:37:150    encoder1_count:-1
+09-02 18:39:37:250    encoder1_count:-1
+09-02 18:39:37:351    encoder1_count:-1
+09-02 18:39:37:450    encoder1_count:-1
+09-02 18:39:37:550    encoder1_count:-1
+09-02 18:39:37:650    encoder1_count:-1
+09-02 18:39:37:751    encoder1_count:-1
+09-02 18:39:37:851    encoder1_count:-1
+09-02 18:39:37:951    encoder1_count:-1
+09-02 18:39:38:051    encoder1_count:-1
+09-02 18:39:38:152    encoder1_count:-1
+09-02 18:39:38:252    encoder1_count:-1
+09-02 18:39:38:352    encoder1_count:-1
+09-02 18:39:38:452    encoder1_count:-1
+09-02 18:39:38:552    encoder1_count:-1
+09-02 18:39:38:653    encoder1_count:-1
+09-02 18:39:38:752    encoder1_count:-1
+09-02 18:39:38:852    encoder1_count:-1
+09-02 18:39:38:952    encoder1_count:-1
+09-02 18:39:39:052    encoder1_count:-1
+09-02 18:39:39:153    encoder1_count:-1
+09-02 18:39:39:252    encoder1_count:-1
+09-02 18:39:39:353    encoder1_count:-1
+09-02 18:39:39:453    encoder1_count:-1
+09-02 18:39:39:554    encoder1_count:-1
+09-02 18:39:39:653    encoder1_count:-1
+09-02 18:39:39:753    encoder1_count:-1
+09-02 18:39:39:854    encoder1_count:-1
+09-02 18:39:39:954    encoder1_count:-1
+09-02 18:39:40:054    encoder1_count:-1
+09-02 18:39:40:153    encoder1_count:-1
+09-02 18:39:40:254    encoder1_count:-1
+09-02 18:39:40:354    encoder1_count:-1
+09-02 18:39:40:453    encoder1_count:-1
+09-02 18:39:40:554    encoder1_count:-1
+09-02 18:39:40:654    encoder1_count:-1
+09-02 18:39:40:754    encoder1_count:-1
+09-02 18:39:40:854    encoder1_count:-1
+09-02 18:39:40:955    encoder1_count:-1
+09-02 18:39:41:055    encoder1_count:-1
+09-02 18:39:41:155    encoder1_count:-1
+09-02 18:39:41:255    encoder1_count:-1
+09-02 18:39:41:355    encoder1_count:-1
+09-02 18:39:41:455    encoder1_count:-1
+09-02 18:39:41:556    encoder1_count:-1
+09-02 18:39:41:656    encoder1_count:-1
+09-02 18:39:41:756    encoder1_count:-1
+09-02 18:39:41:856    encoder1_count:-1
+09-02 18:39:41:956    encoder1_count:-1
+09-02 18:39:42:056    encoder1_count:-1
+09-02 18:39:42:156    encoder1_count:-1
+09-02 18:39:42:256    encoder1_count:-1
+09-02 18:39:42:356    encoder1_count:-1
+09-02 18:39:42:456    encoder1_count:-1
+09-02 18:39:42:556    encoder1_count:-1
+09-02 18:39:42:657    encoder1_count:-1
+09-02 18:39:42:758    encoder1_count:-1
+09-02 18:39:42:857    encoder1_count:-1
+09-02 18:39:42:957    encoder1_count:-1
+09-02 18:39:43:057    encoder1_count:-1
+09-02 18:39:43:157    encoder1_count:-1
+09-02 18:39:43:257    encoder1_count:-1
+09-02 18:39:43:358    encoder1_count:-1
+09-02 18:39:43:458    encoder1_count:-1
+09-02 18:39:43:558    encoder1_count:-1
+09-02 18:39:43:658    encoder1_count:-1
+09-02 18:39:43:758    encoder1_count:-1
+09-02 18:39:43:858    encoder1_count:-1
+09-02 18:39:43:958    encoder1_count:-1
+09-02 18:39:44:058    encoder1_count:-1
+09-02 18:39:44:158    encoder1_count:-1
+09-02 18:39:44:258    encoder1_count:-1
+09-02 18:39:44:358    encoder1_count:-1
+09-02 18:39:44:458    encoder1_count:-1
+09-02 18:39:44:559    encoder1_count:-1
+09-02 18:39:44:659    encoder1_count:-1
+09-02 18:39:44:759    encoder1_count:-1
+09-02 18:39:44:860    encoder1_count:-1
+09-02 18:39:44:960    encoder1_count:-1
+09-02 18:39:45:060    encoder1_count:-1
+09-02 18:39:45:160    encoder1_count:-1
+09-02 18:39:45:260    encoder1_count:-1
+09-02 18:39:45:360    encoder1_count:-1
+09-02 18:39:45:460    encoder1_count:-1
+09-02 18:39:45:561    encoder1_count:-1
+09-02 18:39:45:660    encoder1_count:-1
+09-02 18:39:45:761    encoder1_count:-1
+09-02 18:39:45:861    encoder1_count:-1
+09-02 18:39:45:961    encoder1_count:-1
+09-02 18:39:46:061    encoder1_count:-1
+09-02 18:39:46:161    encoder1_count:-1
+09-02 18:39:46:262    encoder1_count:-1
+09-02 18:39:46:361    encoder1_count:-1
+09-02 18:39:46:461    encoder1_count:-1
+09-02 18:39:46:562    encoder1_count:-1
+09-02 18:39:46:662    encoder1_count:-1
+09-02 18:39:46:675 TX:pin status all
+09-02 18:39:46:677    [32m[934121] I/TEST.GPIO tshell: PIN 0, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:678    [0m[32m[934132] I/TEST.GPIO tshell: PIN 1, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:680    [0m[32m[934143] I/TEST.GPIO tshell: PIN 2, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:681    [0m[32m[934155] I/TEST.GPIO tshell: PIN 3, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:682    [0m[32m[934165] I/TEST.GPIO tshell: PIN 4, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:683    [0m[32m[934176] I/TEST.GPIO tshell: PIN 5, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:684    [0m[32m[934187] I/TEST.GPIO tshell: PIN 6, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:685    [0m[32m[934197] I/TEST.GPIO tshell: PIN 7, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:687    [0m[32m[934208] I/TEST.GPIO tshell: PIN 8, FUNC=1, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:688    [0m[32m[934218] I/TEST.GPIO tshell: PIN 9, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:689    [0m[32m[934229] I/TEST.GPIO tshell: PIN 10, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:690    [0m[32m[934240] I/TEST.GPIO tshell: PIN 11, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:691    [0m[32m[934251] I/TEST.GPIO tshell: PIN 12, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:692    [0m[32m[934262] I/TEST.GPIO tshell: PIN 13, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:693    [0m[32m[934272] I/TEST.GPIO tshell: PIN 14, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:695    [0m[32m[934283] I/TEST.GPIO tshell: PIN 15, FUNC=1, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:695    [0m[32m[934294] I/TEST.GPIO tshell: PIN 16, FUNC=1, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:696    [0m[32m[934305] I/TEST.GPIO tshell: PIN 17, FUNC=1, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:697    [0m[32m[934316] I/TEST.GPIO tshell: PIN 18, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:698    [0m[32m[934327] I/TEST.GPIO tshell: PIN 19, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:700    [0m[32m[934338] I/TEST.GPIO tshell: PIN 20, FUNC=0, VAL=0, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:701    [0m[32m[934349] I/TEST.GPIO tshell: PIN 21, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:702    [0m[32m[934360] I/TEST.GPIO tshell: PIN 22, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:703    [0m[32m[934370] I/TEST.GPIO tshell: PIN 23, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:704    [0m[32m[934381] I/TEST.GPIO tshell: PIN 24, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:706    [0m[32m[934391] I/TEST.GPIO tshell: PIN 25, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=19
+09-02 18:39:46:707    [0m[32m[934404] I/TEST.GPIO tshell: PIN 26, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=1a
+09-02 18:39:46:708    [0m[32m[934417] I/TEST.GPIO tshell: PIN 27, FUNC=0, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:709    [0m[32m[934428] I/TEST.GPIO tshell: PIN 28, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:710    [0m[32m[934439] I/TEST.GPIO tshell: PIN 29, FUNC=0, VAL=1, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:712    [0m[32m[934450] I/TEST.GPIO tshell: PIN 30, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:713    [0m[32m[934461] I/TEST.GPIO tshell: PIN 31, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:714    [0m[32m[934471] I/TEST.GPIO tshell: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:715    [0m[32m[934482] I/TEST.GPIO tshell: PIN 33, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:716    [0m[32m[934493] I/TEST.GPIO tshell: PIN 34, FUNC=0, VAL=0, DIG_IO_PD, GPIO_MODE_IT_RISING_FALLING, irqhdr=10041965, arg=22
+09-02 18:39:46:718    [0m[32m[934506] I/TEST.GPIO tshell: PIN 35, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:719    [0m[32m[934517] I/TEST.GPIO tshell: PIN 36, FUNC=4, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:720    [0m[32m[934528] I/TEST.GPIO tshell: PIN 37, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:721    [0m[32m[934538] I/TEST.GPIO tshell: PIN 38, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:722    [0m[32m[934549] I/TEST.GPIO tshell: PIN 39, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:723    [0m[32m[934560] I/TEST.GPIO tshell: PIN 40, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:725    [0m[32m[934571] I/TEST.GPIO tshell: PIN 41, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:726    [0m[32m[934581] I/TEST.GPIO tshell: PIN 42, FUNC=4, VAL=1, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:727    [0m[32m[934592] I/TEST.GPIO tshell: PIN 43, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_IT_FALLING, irqhdr=10007909, arg=0
+09-02 18:39:46:728    [0m[32m[934604] I/TEST.GPIO tshell: PIN 44, FUNC=0, VAL=1, DIG_IO, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:729    [0m[32m[934615] I/TEST.GPIO tshell: PIN 45, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:731    [0m[32m[934625] I/TEST.GPIO tshell: PIN 46, FUNC=-1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:732    [0m[32m[934636] I/TEST.GPIO tshell: PIN 47, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:733    [0m[32m[934647] I/TEST.GPIO tshell: PIN 48, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:734    [0m[32m[934657] I/TEST.GPIO tshell: PIN 49, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:735    [0m[32m[934668] I/TEST.GPIO tshell: PIN 50, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:737    [0m[32m[934678] I/TEST.GPIO tshell: PIN 51, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:738    [0m[32m[934689] I/TEST.GPIO tshell: PIN 52, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:739    [0m[32m[934700] I/TEST.GPIO tshell: PIN 53, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:740    [0m[32m[934711] I/TEST.GPIO tshell: PIN 54, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:741    [0m[32m[934721] I/TEST.GPIO tshell: PIN 55, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:743    [0m[32m[934732] I/TEST.GPIO tshell: PIN 56, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:744    [0m[32m[934743] I/TEST.GPIO tshell: PIN 57, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:745    [0m[32m[934754] I/TEST.GPIO tshell: PIN 58, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:746    [0m[32m[934765] I/TEST.GPIO tshell: PIN 59, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:748    [0m[32m[934775] I/TEST.GPIO tshell: PIN 60, FUNC=4, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:748    [0m[32m[934786] I/TEST.GPIO tshell: PIN 61, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:750    [0m[32m[934797] I/TEST.GPIO tshell: PIN 62, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:751    [0m[32m[934808] I/TEST.GPIO tshell: PIN 63, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:752    [0m[32m[934818] I/TEST.GPIO tshell: PIN 64, FUNC=1, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:753    [0m[32m[934829] I/TEST.GPIO tshell: PIN 65, FUNC=7, VAL=1, DIG_IO_PU, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:755    [0m[32m[934840] I/TEST.GPIO tshell: PIN 66, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:756    [0m[32m[934851] I/TEST.GPIO tshell: PIN 67, FUNC=2, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:757    [0m[32m[934861] I/TEST.GPIO tshell: PIN 68, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:758    [0m[32m[934872] I/TEST.GPIO tshell: PIN 69, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:759    [0m[32m[934883] I/TEST.GPIO tshell: PIN 70, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:760    [0m[32m[934894] I/TEST.GPIO tshell: PIN 71, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:761    [0m[32m[934904] I/TEST.GPIO tshell: PIN 72, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:762    [0mencoder1_count:-1
+09-02 18:39:46:763    [32m[934919] I/TEST.GPIO tshell: PIN 73, FUNC=5, VAL=1, UNKNOW, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:764    [0m[32m[934930] I/TEST.GPIO tshell: PIN 74, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:765    [0m[32m[934940] I/TEST.GPIO tshell: PIN 75, FUNC=5, VAL=1, UNKNOW, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:766    [0m[32m[934951] I/TEST.GPIO tshell: PIN 76, FUNC=5, VAL=1, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:767    [0m[32m[934962] I/TEST.GPIO tshell: PIN 77, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:769    [0m[32m[934972] I/TEST.GPIO tshell: PIN 78, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:770    [0m[32m[934983] I/TEST.GPIO tshell: PIN 79, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:771    [0m[32m[934994] I/TEST.GPIO tshell: PIN 80, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:772    [0m[32m[935004] I/TEST.GPIO tshell: PIN 81, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:773    [0m[32m[935015] I/TEST.GPIO tshell: PIN 82, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:775    [0m[32m[935025] I/TEST.GPIO tshell: PIN 83, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg
+09-02 18:39:46:776    =/
+09-02 18:39:46:777    [0m[32m[935036] I/TEST.GPIO tshell: PIN 84, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:780    [0m[32m[935064] I/TEST.GPIO tshell: PIN 85, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:781    [0m[32m[935084] I/TEST.GPIO tshell: PIN 86, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:782    [0m[32m[935095] I/TEST.GPIO tshell: PIN 87, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:783    [0m[32m[935106] I/TEST.GPIO tshell: PIN 88, FUNC=1, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:784    [0m[32m[935116] I/TEST.GPIO tshell: PIN 89, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+09-02 18:39:46:786    [0m[32m[935129] I/TEST.GPIO tshell: PIN 90, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_IT_RISING_FALLING, irqhdr=/, arg=/
+09-02 18:39:46:787    [0m[32m[935140] I/TEST.GPIO tshell: PIN 91, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:788    [0m[32m[935151] I/TEST.GPIO tshell: PIN 92, FUNC=4, VAL=1, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:790    [0m[32m[935162] I/TEST.GPIO tshell: PIN 93, FUNC=6, VAL=1, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:790    [0m[32m[935172] I/TEST.GPIO tshell: PIN 94, FUNC=0, VAL=1, ANA_IN, GPIO_MODE_OUTPUT, irqhdr=/, arg=/
+09-02 18:39:46:791    [0m[32m[935183] I/TEST.GPIO tshell: PIN 95, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:833    [0m[32m[935194] I/TEST.GPIO tshell: PIN 96, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:836    [0m[32m[935205] I/TEST.GPIO tshell: PIN 97, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:836    [0m[32m[935216] I/TEST.GPIO tshell: PIN 98, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:837    [0m[32m[935226] I/TEST.GPIO tshell: PIN 99, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:837    [0m[32m[935237] I/TEST.GPIO tshell: PIN 100, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:837    [0m[32m[935248] I/TEST.GPIO tshell: PIN 101, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:838    [0m[32m[935259] I/TEST.GPIO tshell: PIN 102, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:838    [0m[32m[935270] I/TEST.GPIO tshell: PIN 103, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:838    [0m[32m[935281] I/TEST.GPIO tshell: PIN 104, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:839    [0m[32m[935292] I/TEST.GPIO tshell: PIN 105, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:840    [0m[32m[935303] I/TEST.GPIO tshell: PIN 106, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:840    [0m[32m[935314] I/TEST.GPIO tshell: PIN 107, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:840    [0m[32m[935325] I/TEST.GPIO tshell: PIN 108, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:841    [0m[32m[935336] I/TEST.GPIO tshell: PIN 109, FUNC=4, VAL=0, DIG_IO_PD, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:841    [0m[32m[935347] I/TEST.GPIO tshell: PIN 110, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:842    [0m[32m[935358] I/TEST.GPIO tshell: PIN 111, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:842    [0m[32m[935369] I/TEST.GPIO tshell: PIN 112, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:842    [0m[32m[935380] I/TEST.GPIO tshell: PIN 113, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:843    [0m[32m[935390] I/TEST.GPIO tshell: PIN 114, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:843    [0m[32m[935401] I/TEST.GPIO tshell: PIN 115, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:843    [0m[32m[935412] I/TEST.GPIO tshell: PIN 116, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:844    [0m[32m[935423] I/TEST.GPIO tshell: PIN 117, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:844    [0m[32m[935434] I/TEST.GPIO tshell: PIN 118, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:844    [0m[32m[935444] I/TEST.GPIO tshell: PIN 119, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:844    [0m[32m[935455] I/TEST.GPIO tshell: PIN 120, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:845    [0m[32m[935466] I/TEST.GPIO tshell: PIN 121, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:845    [0m[32m[935477] I/TEST.GPIO tshell: PIN 122, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:845    [0m[32m[935488] I/TEST.GPIO tshell: PIN 123, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:846    [0m[32m[935499] I/TEST.GPIO tshell: PIN 124, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:847    [0m[32m[935509] I/TEST.GPIO tshell: PIN 125, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:847    [0m[32m[935520] I/TEST.GPIO tshell: PIN 126, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:847    [0m[32m[935531] I/TEST.GPIO tshell: PIN 127, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:848    [0m[32m[935542] I/TEST.GPIO tshell: PIN 128, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:848    [0m[32m[935552] I/TEST.GPIO tshell: PIN 129, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:848    [0m[32m[935563] I/TEST.GPIO tshell: PIN 130, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:848    [0m[32m[935574] I/TEST.GPIO tshell: PIN 131, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:849    [0m[32m[935585] I/TEST.GPIO tshell: PIN 132, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:850    [0m[32m[935595] I/TEST.GPIO tshell: PIN 133, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:850    [0m[32m[935606] I/TEST.GPIO tshell: PIN 134, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:850    [0m[32m[935617] I/TEST.GPIO tshell: PIN 135, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:850    [0m[32m[935628] I/TEST.GPIO tshell: PIN 136, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:851    [0m[32m[935639] I/TEST.GPIO tshell: PIN 137, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:851    [0m[32m[935650] I/TEST.GPIO tshell: PIN 138, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:851    [0m[32m[935661] I/TEST.GPIO tshell: PIN 139, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:852    [0m[32m[935672] I/TEST.GPIO tshell: PIN 140, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:853    [0m[32m[935683] I/TEST.GPIO tshell: PIN 141, FUNC=4, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:854    [0m[32m[935693] I/TEST.GPIO tshell: PIN 142, FUNC=6, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:854    [0m[32m[935704] I/TEST.GPIO tshell: PIN 143, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:855    [0m[32m[935715] I/TEST.GPIO tshell: PIN 144, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:855    [0m[32m[935726] I/TEST.GPIO tshell: PIN 145, FUNC=1, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:855    [0m[32m[935736] I/TEST.GPIO tshell: PIN 146, FUNC=7, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:855    [0m[32m[935747] I/TEST.GPIO tshell: PIN 147, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:856    [0m[32m[935758] I/TEST.GPIO tshell: PIN 148, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:856    [0m[32m[935769] I/TEST.GPIO tshell: PIN 149, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:857    [0m[32m[935780] I/TEST.GPIO tshell: PIN 150, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:858    [0m[32m[935791] I/TEST.GPIO tshell: PIN 151, FUNC=2, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:858    [0m[32m[935802] I/TEST.GPIO tshell: PIN 152, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:860    [0m[32m[935812] I/TEST.GPIO tshell: PIN 153, FUNC=0, VAL=0, DIG_IO, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:860    [0m[32m[935823] I/TEST.GPIO tshell: PIN 154, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:861    [0m[32m[935834] I/TEST.GPIO tshell: PIN 155, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:863    [0m[32m[935845] I/TEST.GPIO tshell: PIN 156, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:864    [0mencoder1_count:-1
+09-02 18:39:46:864    [32m[935859] I/TEST.GPIO tshell: PIN 157, FUNC=5, VAL=0, UNKNOW, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:866    [0m[32m[935870] I/TEST.GPIO tshell: PIN 158, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:867    [0m[32m[935881] I/TEST.GPIO tshell: PIN 159, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:868    [0m[32m[935892] I/TEST.GPIO tshell: PIN 160, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:869    [0m[32m[935902] I/TEST.GPIO tshell: PIN 161, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:870    [0m[32m[935913] I/TEST.GPIO tshell: PIN 162, FUNC=0, VAL=0, DIG_OUT_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:871    [0m[32m[9359
+09-02 18:39:46:872    24] I/TEST.GPIO tshell: PIN 1
+09-02 18:39:46:873    63, FUNC=0, VAL=0, ANA_IN, GPIO_MODE_INPUT, irqhdr=/, arg=/
+09-02 18:39:46:875    [0mmsh />msh />
+09-02 18:39:46:964    encoder1_count:-1
+09-02 18:39:47:084    encoder1_count:-1
+09-02 18:39:47:164    encoder1_count:-1
+09-02 18:39:47:264    encoder1_count:-1
+09-02 18:39:47:365    encoder1_count:-1
+09-02 18:39:47:465    encoder1_count:-1
+09-02 18:39:47:565    encoder1_count:-1
+09-02 18:39:47:665    encoder1_count:-1
+09-02 18:39:47:765    encoder1_count:-1
+09-02 18:39:47:865    encoder1_count:-1
+09-02 18:39:47:967    encoder1_count:-1
+09-02 18:39:48:066    encoder1_count:-1
+09-02 18:39:48:166    encoder1_count:-1
+09-02 18:39:48:266    encoder1_count:-1
+09-02 18:39:48:366    encoder1_count:-1
+09-02 18:39:48:466    encoder1_count:-1
+09-02 18:39:48:566    encoder1_count:-1
+09-02 18:39:48:666    encoder1_count:-1
+09-02 18:39:48:766    encoder1_count:-1
+09-02 18:39:48:866    encoder1_count:-1
+09-02 18:39:48:967    encoder1_count:-1
+09-02 18:39:49:066    encoder1_count:-1
+09-02 18:39:49:167    encoder1_count:-1
+09-02 18:39:49:267    encoder1_count:-1
+09-02 18:39:49:367    encoder1_count:-1
+09-02 18:39:49:467    encoder1_count:-1
+09-02 18:39:49:567    encoder1_count:-1
+09-02 18:39:49:667    encoder1_count:-1
+09-02 18:39:49:768    encoder1_count:-1
+09-02 18:39:49:868    encoder1_count:-1
+09-02 18:39:49:968    encoder1_count:-1
+09-02 18:39:50:068    encoder1_count:-1

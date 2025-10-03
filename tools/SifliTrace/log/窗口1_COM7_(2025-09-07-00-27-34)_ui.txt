@@ -1,0 +1,120 @@
+09-07 00:27:34:296    
+09-07 00:27:34:298    CO5300_ReadID 0x331100 
+09-07 00:27:34:300    [32m[6085] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-07 00:27:34:302    
+09-07 00:27:34:305    [0m
+09-07 00:27:34:488    
+09-07 00:27:34:488    CO5300_ReadID 0x331100 
+09-07 00:27:34:489    [32m[7822] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-07 00:27:34:490    
+09-07 00:27:34:491    [0m[32m[7829] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+09-07 00:27:34:493    [0m[32m[7835] I/drv.lcd lcd_task: HW open done.
+09-07 00:27:34:495    [0m[32m[7841] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+09-07 00:27:34:496    [0m[32m[7847] I/drv.lcd lcd_task: open done.
+09-07 00:27:34:497    [0m[32m[7852] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+09-07 00:27:34:498    [0m[32m[7859] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+09-07 00:27:34:500    [0m[32m[7867] I/TOUCH app_watc: Open
+09-07 00:27:34:501    [0m[32m[7871] I/TOUCH tp_init: Find touch screen driver...
+09-07 00:27:34:503    [0m[32m[7878] I/TOUCH tp_init: Probe 10007795
+09-07 00:27:34:504    [0m[32m[7883] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 00:27:34:505    [0m[32m[7889] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+09-07 00:27:34:507    [0m[7897] D/drv.chsc6417 tp_init: chsc6417 init
+09-07 00:27:34:508    chsc6417 id=0x0
+09-07 00:27:34:508    [32m[7905] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-07 00:27:34:509    [0m[7911] D/drv.chsc6417 tp_init: chsc6417 init OK
+09-07 00:27:34:510    [32m[7916] I/TOUCH app_watc: Opened.
+09-07 00:27:34:512    [0m[32m[7938] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+09-07 00:27:34:514    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+09-07 00:27:34:716    Boot count: 63
+09-07 00:27:34:722    [32m[9942] I/drv.rtc app_watc: Get initial cycles: 1058260 rtc=
+09-07 00:27:34:724    1735689624.0039
+09-07 00:27:34:724    
+09-07 00:27:34:725    [0m
+09-07 00:27:34:728    [32m[9998] I/drv.rtc app_watc: Get initial cycles: 1058260 rtc=1735689600.0039
+09-07 00:27:34:729    
+09-07 00:27:34:730    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+09-07 00:27:34:734    [32m[10058] I/drv.lcd lcd_task: set brightness 100
+09-07 00:27:34:738    [0m[32m[10064] I/drv.lcd lcd_task: display on
+09-07 00:27:34:738    [0m[32m[10069] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-07 00:27:34:739    [0m[10077] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1067.
+09-07 00:27:34:739    [32m[10087] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 00:27:34:740    [0m
+09-07 00:27:34:768    [10367] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-07 00:27:34:769    [32m[10376] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1067
+09-07 00:27:34:771    [0m[32m[10384] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20063758
+09-07 00:27:34:771    [0m[32m[10392] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+09-07 00:27:34:772    [0m[10400] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-07 00:27:34:773    [32m[10408] I/APP.SCHE app_watc: app[MainScreen] do START, 20063758
+09-07 00:27:34:774    [0m[32m[10415] I/APP.FWK.INT app_watc: [MainScreen]
+09-07 00:27:34:776    [0m[10421] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20063758] to gui_app_mbx tick:1104.
+09-07 00:27:34:776    [32m[10431] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1104
+09-07 00:27:34:777    [0m[10440] D/APP.SCHE app_watc: app[MainScreen] create page[root] 20063824
+09-07 00:27:34:777    [10447] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-07 00:27:34:779    [10456] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-07 00:27:34:780    [32m[10465] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART
+09-07 00:27:34:781    , 20063824
+09-07 00:27:34:781    [0m
+09-07 00:27:34:787    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+09-07 00:27:34:790    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+09-07 00:27:34:799    [32m[10639] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 20063824
+09-07 00:27:34:799    [0m[32m[10648] I/APP.SCHE app_watc: Try setup trans-anim
+09-07 00:27:34:801    [0m[32m[10654] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-07 00:27:34:801    [0m[10661] D/APP.SCHE app_watc: app_schedule_tas
+09-07 00:27:34:802    k done.
+09-07 00:27:36:995    [Music] Volume set to 75%
+09-07 00:27:37:045    [Music] Volume set to 80%
+09-07 00:27:37:095    [Music] Volume set to 85%
+09-07 00:27:37:447    [Music] Volume set to 90%
+09-07 00:27:37:497    [Music] Volume set to 95%
+09-07 00:27:37:597    [Music] Volume set to 100%
+09-07 00:27:37:798    [Music] Volume set to 95%
+09-07 00:27:37:899    [Music] Volume set to 90%
+09-07 00:27:38:400    [Music] Volume set to 85%
+09-07 00:27:38:500    [Music] Volume set to 80%
+09-07 00:27:39:051    [Music] Volume set to 85%
+09-07 00:27:39:503    [Music] Volume set to 90%
+09-07 00:27:39:553    [Music] Volume set to 95%
+09-07 00:27:39:604    [Music] Volume set to 100%
+09-07 00:27:41:158    [Music] Volume set to 95%
+09-07 00:27:41:208    [Music] Volume set to 90%
+09-07 00:27:41:258    [Music] Volume set to 85%
+09-07 00:27:41:659    [Music] Volume set to 80%
+09-07 00:27:41:710    [Music] Volume set to 75%
+09-07 00:27:41:760    [Music] Volume set to 70%
+09-07 00:27:42:163    [Music] Volume set to 65%
+09-07 00:27:42:211    [Music] Volume set to 60%
+09-07 00:27:42:261    [Music] Volume set to 55%
+09-07 00:27:42:612    [Music] Volume set to 50%
+09-07 00:27:42:663    [Music] Volume set to 45%
+09-07 00:27:42:713    [Music] Volume set to 40%
+09-07 00:27:43:014    [Music] Volume set to 45%
+09-07 00:27:43:064    [Music] Volume set to 40%
+09-07 00:27:43:164    [Music] Volume set to 35%
+09-07 00:27:43:515    [Music] Volume set to 30%
+09-07 00:27:43:566    [Music] Volume set to 25%
+09-07 00:27:43:616    [Music] Volume set to 20%
+09-07 00:27:43:967    [Music] Volume set to 15%
+09-07 00:27:44:018    [Music] Volume set to 10%
+09-07 00:27:44:369    [Music] Volume set to 5%
+09-07 00:27:44:468    [Music] Volume set to 10%
+09-07 00:27:44:971    [Music] Volume set to 5%
+09-07 00:27:45:022    [Music] Volume set to 10%
+09-07 00:27:45:071    [Music] Volume set to 15%
+09-07 00:27:45:121    [Music] Volume set to 20%
+09-07 00:27:45:171    [Music] Volume set to 15%
+09-07 00:27:45:472    [Music] Volume set to 20%
+09-07 00:27:45:522    [Music] Volume set to 25%
+09-07 00:27:45:572    [Music] Volume set to 30%
+09-07 00:27:45:622    [Music] Volume set to 35%
+09-07 00:27:45:974    [Music] Volume set to 40%
+09-07 00:27:46:024    [Music] Volume set to 45%
+09-07 00:27:46:073    [Music] Volume set to 50%
+09-07 00:27:46:173    [Music] Volume set to 55%
+09-07 00:27:46:525    [Music] Volume set to 60%
+09-07 00:27:46:575    [Music] Volume set to 65%
+09-07 00:27:46:626    [Music] Volume set to 70%
+09-07 00:27:46:675    [Music] Volume set to 65%
+09-07 00:27:47:077    [Music] Volume set to 60%
+09-07 00:27:47:177    [Music] Volume set to 55%
+09-07 00:27:47:227    [Music] Volume set to 50%
+09-07 00:27:47:278    [Music] Volume set to 45%

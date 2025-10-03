@@ -1,0 +1,778 @@
+09-06 22:44:54:182    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+09-06 22:44:54:183    NAND ID 0x21
+09-06 22:44:54:184    aaef
+09-06 22:44:54:185    det bbm table with 1, 1, 2
+09-06 22:44:54:185    detect result 2
+09-06 22:44:54:186    V1 1 in block 992, V2 0 in block 994
+09-06 22:44:54:188    Latest version 1
+09-06 22:44:54:188    V1 1 in block 993, V2 0 in block 995
+09-06 22:44:54:189    Latest version 1
+09-06 22:44:54:190    v1 1 in blk 992, v2 1 in block 993
+09-06 22:44:54:190    BBM MEM: ctx 20036b1c, map1 2003670c, map2 20036914 
+09-06 22:44:54:191    sif_bbm_init done
+09-06 22:44:54:191    
+09-06 22:44:54:192     \ | /
+09-06 22:44:54:192    - SiFli Corporation
+09-06 22:44:54:193     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+09-06 22:44:54:194     2020 - 2022 Copyright by SiFli team
+09-06 22:44:54:194    cal data cc_mn:10 cc_mp:19 cv_vctrl:39 prog_vlp2:8
+09-06 22:44:54:195    mount /dev sucess
+09-06 22:44:54:196    [32m[394] I/drv.rtc main: PSCLR=0x236f5100 DivAI=35 DivAF=7124 B=256
+09-06 22:44:54:197    [0m[32m[402] I/drv.rtc main: RC10K Freq=9kHz, cycle=1058308, rtc ppm=0
+09-06 22:44:54:198    
+09-06 22:44:54:199    [0m[32m[410] I/drv.rtc main: DIVA=35, DIVA_FRA=7109, DIVB=256
+09-06 22:44:54:200    
+09-06 22:44:54:201    [0m[32m[416] I/drv.rtc main: Init RTC, wake = 1
+09-06 22:44:54:202    
+09-06 22:44:54:203    [0mNAND factory magic error 0xffffffff vs 0x53450617
+09-06 22:44:54:204    [32m[430] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+09-06 22:44:54:205    
+09-06 22:44:54:205    [0m[32m[436] I/drv.audprc main: HAL_AUDPRC_Init res 0
+09-06 22:44:54:207    
+09-06 22:44:54:207    [0m[31m[443] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+09-06 22:44:54:208    [0m[32m[450] I/drv.encoder main: encoder1 init success!!
+09-06 22:44:54:209    [0m[31m[456] E/drv.encoder main: encoder1 register success
+09-06 22:44:54:210    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+09-06 22:44:54:211    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-06 22:44:54:219    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-06 22:44:54:220    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+09-06 22:44:54:220    [32m[502] I/TOUCH main: Regist touch screen driver, probe=0x10007795 
+09-06 22:44:54:221    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+09-06 22:44:54:221    mount fs[yaffs] on / failed.
+09-06 22:44:54:221    Register root to mtd device with base addr 0x62580000
+09-06 22:44:54:222    mount dev: 44, 983
+09-06 22:44:54:408    Get phy blk for 992 fail when read
+09-06 22:44:54:415    [32m[2213] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:416    
+09-06 22:44:54:416    [0mGet phy blk for 993 fail when read
+09-06 22:44:54:416    [32m[2224] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:416    
+09-06 22:44:54:417    [0mGet phy blk for 994 fail when read
+09-06 22:44:54:417    [32m[2234] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:418    
+09-06 22:44:54:418    [0mGet phy blk for 995 fail when read
+09-06 22:44:54:418    [32m[2244] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:419    
+09-06 22:44:54:419    [0mGet phy blk for 996 fail when read
+09-06 22:44:54:420    [32m[2254] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:420    
+09-06 22:44:54:420    [0mGet phy blk for 997 fail when read
+09-06 22:44:54:420    [32m[2264] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:421    
+09-06 22:44:54:421    [0mGet phy blk for 998 fail when read
+09-06 22:44:54:422    [32m[2274] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:422    
+09-06 22:44:54:422    [0mGet phy blk for 999 fail when read
+09-06 22:44:54:422    [32m[2284] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:423    
+09-06 22:44:54:423    [0mGet phy blk for 1000 fail when read
+09-06 22:44:54:423    [32m[2295] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:424    
+09-06 22:44:54:424    [0mGet phy blk for 1001 fail when read
+09-06 22:44:54:424    [32m[2305] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:425    
+09-06 22:44:54:425    [0mGet phy blk for 1002 fail when read
+09-06 22:44:54:425    [32m[2315] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:426    
+09-06 22:44:54:426    [0mGet phy blk for 1003 fail when read
+09-06 22:44:54:427    [32m[2325] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:427    
+09-06 22:44:54:428    [0mGet phy blk for 1004 fail when read
+09-06 22:44:54:428    [32m[2336] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:428    
+09-06 22:44:54:429    [0mGet phy blk for 1005 fail when read
+09-06 22:44:54:429    [32m[2346] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:429    
+09-06 22:44:54:429    [0mGet phy blk for 1006 fail when read
+09-06 22:44:54:430    [32m[2356] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:430    
+09-06 22:44:54:430    [0mGet phy blk for 1007 fail when read
+09-06 22:44:54:431    [32m[2366] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:431    
+09-06 22:44:54:432    [0mGet phy blk for 1008 fail when read
+09-06 22:44:54:433    [32m[2376] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:433    
+09-06 22:44:54:433    [0mGet phy blk for 1009 fail when read
+09-06 22:44:54:434    [32m[2387] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:434    
+09-06 22:44:54:435    [0mGet phy blk for 1010 fail when read
+09-06 22:44:54:435    [32m[2397] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:435    
+09-06 22:44:54:436    [0mGet phy blk for 1011 fail when read
+09-06 22:44:54:436    [32m[2407] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:436    
+09-06 22:44:54:437    [0mGet phy blk for 1012 fail when read
+09-06 22:44:54:437    [32m[2417] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:437    
+09-06 22:44:54:437    [0mGet phy blk for 1013 fail when read
+09-06 22:44:54:438    [32m[2428] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:438    
+09-06 22:44:54:438    [0mGet phy blk for 1014 fail when read
+09-06 22:44:54:439    [32m[2438] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:439    
+09-06 22:44:54:439    [0mGet phy blk for 1015 fail when read
+09-06 22:44:54:440    [32m[2448] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:440    
+09-06 22:44:54:441    [0mGet phy blk for 1016 fail when read
+09-06 22:44:54:441    [32m[2458] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:441    
+09-06 22:44:54:442    [0mGet phy blk for 1017 fail when read
+09-06 22:44:54:442    [32m[2468] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:442    
+09-06 22:44:54:443    [0mGet phy blk for 1018 fail when read
+09-06 22:44:54:443    [32m[2479] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:443    
+09-06 22:44:54:444    [0mGet phy blk for 1019 fail when read
+09-06 22:44:54:444    [32m[2489] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:444    
+09-06 22:44:54:444    [0mGet phy blk for 1020 fail when read
+09-06 22:44:54:444    [32m[2499] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:445    
+09-06 22:44:54:445    [0mGet phy blk for 1021 fail when read
+09-06 22:44:54:445    [32m[2509] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:445    
+09-06 22:44:54:446    [0mGet phy blk for 1022 fail when read
+09-06 22:44:54:446    [32m[2520] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:446    
+09-06 22:44:54:447    [0mGet phy blk for 1023 fail when read
+09-06 22:44:54:447    [32m[2530] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:447    
+09-06 22:44:54:448    [0mGet phy blk for 1024 fail when read
+09-06 22:44:54:448    [32m[2540] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:449    
+09-06 22:44:54:449    [0mGet phy blk for 1025 fail when read
+09-06 22:44:54:449    [32m[2550] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:465    
+09-06 22:44:54:467    [0mGet phy blk for 1026 fail when read
+09-06 22:44:54:467    [32m[2561] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:467    
+09-06 22:44:54:468    [0mGet phy blk for 1027 fail when read
+09-06 22:44:54:469    [32m[2571] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:469    
+09-06 22:44:54:470    [0m
+09-06 22:44:54:619    Get phy blk for 992 fail when read
+09-06 22:44:54:620    [32m[4273] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:621    
+09-06 22:44:54:621    [0mGet phy blk for 993 fail when read
+09-06 22:44:54:622    [32m[4283] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:622    
+09-06 22:44:54:623    [0mGet phy blk for 994 fail when read
+09-06 22:44:54:623    [32m[4293] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:623    
+09-06 22:44:54:623    [0mGet phy blk for 995 fail when read
+09-06 22:44:54:624    [32m[4303] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:624    
+09-06 22:44:54:625    [0mGet phy blk for 996 fail when read
+09-06 22:44:54:625    [32m[4313] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:625    
+09-06 22:44:54:625    [0mGet phy blk for 997 fail when read
+09-06 22:44:54:626    [32m[4323] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:626    
+09-06 22:44:54:627    [0mGet phy blk for 998 fail when read
+09-06 22:44:54:628    [32m[4334] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:628    
+09-06 22:44:54:628    [0mGet phy blk for 999 fail when read
+09-06 22:44:54:629    [32m[4344] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:629    
+09-06 22:44:54:630    [0mGet phy blk for 1000 fail when read
+09-06 22:44:54:630    [32m[4354] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:630    
+09-06 22:44:54:630    [0mGet phy blk for 1001 fail when read
+09-06 22:44:54:631    [32m[4364] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:631    
+09-06 22:44:54:632    [0mGet phy blk for 1002 fail when read
+09-06 22:44:54:632    [32m[4375] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:632    
+09-06 22:44:54:633    [0mGet phy blk for 1003 fail when read
+09-06 22:44:54:633    [32m[4385] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:634    
+09-06 22:44:54:634    [0mGet phy blk for 1004 fail when read
+09-06 22:44:54:636    [32m[4395] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:636    
+09-06 22:44:54:636    [0mGet phy blk for 1005 fail when read
+09-06 22:44:54:637    [32m[4405] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:637    
+09-06 22:44:54:637    [0mGet phy blk for 1006 fail when read
+09-06 22:44:54:638    [32m[4416] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:638    
+09-06 22:44:54:639    [0mGet phy blk for 1007 fail when read
+09-06 22:44:54:639    [32m[4426] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:639    
+09-06 22:44:54:640    [0mGet phy blk for 1008 fail when read
+09-06 22:44:54:640    [32m[4436] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:641    
+09-06 22:44:54:641    [0mGet phy blk for 1009 fail when read
+09-06 22:44:54:642    [32m[4446] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:642    
+09-06 22:44:54:642    [0mGet phy blk for 1010 fail when read
+09-06 22:44:54:642    [32m[4457] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:643    
+09-06 22:44:54:643    [0mGet phy blk for 1011 fail when read
+09-06 22:44:54:643    [32m[4467] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:644    
+09-06 22:44:54:645    [0mGet phy blk for 1012 fail when read
+09-06 22:44:54:645    [32m[4477] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:645    
+09-06 22:44:54:646    [0mGet phy blk for 1013 fail when read
+09-06 22:44:54:646    [32m[4487] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:647    
+09-06 22:44:54:647    [0mGet phy blk for 1014 fail when read
+09-06 22:44:54:648    [32m[4498] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:648    
+09-06 22:44:54:648    [0mGet phy blk for 1015 fail when read
+09-06 22:44:54:649    [32m[4508] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:649    
+09-06 22:44:54:649    [0mGet phy blk for 1016 fail when read
+09-06 22:44:54:650    [32m[4518] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:650    
+09-06 22:44:54:650    [0mGet phy blk for 1017 fail when read
+09-06 22:44:54:651    [32m[4528] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:651    
+09-06 22:44:54:652    [0mGet phy blk for 1018 fail when read
+09-06 22:44:54:652    [32m[4539] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:652    
+09-06 22:44:54:653    [0mGet phy blk for 1019 fail when read
+09-06 22:44:54:653    [32m[4549] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:653    
+09-06 22:44:54:654    [0mGet phy blk for 1020 fail when read
+09-06 22:44:54:654    [32m[4559] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:655    
+09-06 22:44:54:655    [0mGet phy blk for 1021 fail when read
+09-06 22:44:54:656    [32m[4569] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:656    
+09-06 22:44:54:656    [0mGet phy blk for 1022 fail when read
+09-06 22:44:54:657    [32m[4580] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:674    
+09-06 22:44:54:675    [0mGet phy blk for 1023 fail when read
+09-06 22:44:54:676    [32m[4590] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:676    
+09-06 22:44:54:676    [0mGet phy blk for 1024 fail when read
+09-06 22:44:54:676    [32m[4600] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:677    
+09-06 22:44:54:677    [0mGet phy blk for 1025 fail when read
+09-06 22:44:54:678    [32m[4610] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:678    
+09-06 22:44:54:678    [0mGet phy blk for 1026 fail when read
+09-06 22:44:54:679    [32m[4621] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:679    
+09-06 22:44:54:679    [0mGet phy blk for 1027 fail when read
+09-06 22:44:54:680    [32m[4631] I/drv.spi_nand main: rt_nand_read_page RES 0
+09-06 22:44:54:680    
+09-06 22:44:54:681    [0m
+09-06 22:44:54:714    mount:0
+09-06 22:44:54:714    mount fs on flash to root success
+09-06 22:44:54:716    [FlashDB] Starting initialization...
+09-06 22:44:54:717    [FlashDB] Mutex initialized
+09-06 22:44:54:717    [FlashDB] KVDB Config:
+09-06 22:44:54:717      Path: /sys/db/fdb_kvdb
+09-06 22:44:54:718      Sector Size: 4096
+09-06 22:44:54:718      Max Size: 16384 (0x4000)
+09-06 22:44:54:719      File Mode: true
+09-06 22:44:54:725    [FlashDB] KVDB initialized successfully
+09-06 22:44:54:726    [FlashDB] TSDB Config:
+09-06 22:44:54:727      Path: /sys/db/fdb_tsdb
+09-06 22:44:54:727      Max Size: 16384
+09-06 22:44:54:729    [FlashDB] TSDB initialized successfully
+09-06 22:44:54:730    [FlashDB] All initialization complete
+09-06 22:44:54:731    [32m[5284] I/drv.lcd app_watc: [NONE] -> [OPENING]
+09-06 22:44:54:732    [0m[32m[5289] I/drv.lcd lcd_task: open
+09-06 22:44:54:732    [0m[32m[5294] I/drv.epic lcd_task: drv_gpu opened.
+09-06 22:44:54:733    [0m[32m[5299] I/drv.lcd lcd_task: HW open
+09-06 22:44:54:733    [0m[32m[5310] I/drv.lcd lcd_task: Try registered LCD driver...
+09-06 22:44:54:735    [0mmsh />
+09-06 22:44:54:803    
+09-06 22:44:54:803    CO5300_ReadID 0x331100 
+09-06 22:44:54:805    [32m[5951] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-06 22:44:54:805    
+09-06 22:44:54:806    [0m
+09-06 22:44:54:995    
+09-06 22:44:54:996    CO5300_ReadID 0x331100 
+09-06 22:44:54:996    [32m[7690] I/co5300 lcd_task: LCD module use CO5300 IC 
+09-06 22:44:54:997    
+09-06 22:44:54:998    [0m[32m[7697] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+09-06 22:44:54:998    [0m[32m[7703] I/drv.lcd lcd_task: HW open done.
+09-06 22:44:54:999    [0m[32m[7709] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+09-06 22:44:54:999    [0m[32m[7715] I/drv.lcd lcd_task: open done.
+09-06 22:44:54:999    [0m[32m[7720] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+09-06 22:44:55:000    [0m[32m[7726] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+09-06 22:44:55:001    [0m[32m[7735] I/TOUCH app_watc: Open
+09-06 22:44:55:001    [0m[32m[7739] I/TOUCH tp_init: Find touch screen driver...
+09-06 22:44:55:002    [0m[32m[7745] I/TOUCH tp_init: Probe 10007795
+09-06 22:44:55:003    [0m[32m[7751] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-06 22:44:55:003    [0m[32m[7757] I/TOUCH tp_init: touch screen found driver  0x20036564, chsc6417
+09-06 22:44:55:004    [0m[7765] D/drv.chsc6417 tp_init: chsc6417 init
+09-06 22:44:55:005    chsc6417 id=0x0
+09-06 22:44:55:005    [32m[7773] I/drv.chsc6417 tp_init: chsc6417 probe OK
+09-06 22:44:55:005    [0m[7779] D/drv.chsc6417 tp_init: chsc6417 init OK
+09-06 22:44:55:006    [32m[7784] I/TOUCH app_watc: Opened.
+09-06 22:44:55:007    [0m
+09-06 22:44:55:008    [32m[7806] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+09-06 22:44:55:009    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+09-06 22:44:55:010    
+09-06 22:44:55:241    Boot count: 36
+09-06 22:44:55:242    [32m[9803] I/drv.rtc app_watc: Get initial cycles: 1058308 rtc=1735689925.0039
+09-06 22:44:55:243    
+09-06 22:44:55:244    [0m[32m[9859] I/drv.rtc app_watc: Get initial cycles: 1058308 rtc=1735689600.0039
+09-06 22:44:55:244    
+09-06 22:44:55:244    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+09-06 22:44:55:244    [32m[9901] I/drv.lcd lcd_task: set brightness 100
+09-06 22:44:55:245    [0m[32m[9907] I/drv.lcd lcd_task: display on
+09-06 22:44:55:245    [0m[32m[9912] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+09-06 22:44:55:246    [0m[9920] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:1049.
+09-06 22:44:55:246    [32m[9930] I/APP.FWK.INT app_watc: [MainScreen]
+09-06 22:44:55:247    [0m
+09-06 22:44:55:273    [10208] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+09-06 22:44:55:274    [32m[10217] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1049
+09-06 22:44:55:275    [0m[32m[10226] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 200636fc
+09-06 22:44:55:276    [0m[32m[10233] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+09-06 22:44:55:277    [0m[10241] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+09-06 22:44:55:278    [32m[10249] I/APP.SCHE app_watc: app[MainScreen] do START, 200636fc
+09-06 22:44:55:279    [0m[32m[10256] I/APP.FWK.INT app_watc: [MainScreen]
+09-06 22:44:55:280    [0m[10262] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200636fc] to gui_app_mbx tick:1086.
+09-06 22:44:55:281    [32m[10272] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1086
+09-06 22:44:55:281    [0m[10281] D/APP.SCHE app_watc: app[MainScreen] create page[root] 200637c8
+09-06 22:44:55:282    [10288] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+09-06 22:44:55:283    [10297] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+09-06 22:44:55:285    [32m[10306] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART
+09-06 22:44:55:286    , 200637c8
+09-06 22:44:55:286    [0m
+09-06 22:44:55:291    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+09-06 22:44:55:292    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 m
+09-06 22:44:55:293    s, vol=70%)
+09-06 22:44:55:302    [32m[10463] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 200637c8
+09-06 22:44:55:303    [0m[32m[10472] I/APP.SCHE app_watc: Try setup trans-anim
+09-06 22:44:55:303    [0m[32m[10478] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+09-06 22:44:55:304    [0m[10485] D/APP.SCHE app_watc: app_schedule_tas
+09-06 22:44:55:305    k done.
+09-06 22:44:56:694    Scroll DOWN pressed
+09-06 22:44:57:039    Scroll UP pressed
+09-06 22:44:57:084    Scroll DOWN pressed
+09-06 22:44:57:087    Scroll DOWN pressed
+09-06 22:44:57:089    Scroll UP pressed
+09-06 22:44:57:091    Scroll UP pressed
+09-06 22:44:57:100    Scroll DOWN pressed
+09-06 22:44:57:106    Scroll UP pressed
+09-06 22:44:57:109    Scroll DOWN pressed
+09-06 22:44:57:134    Scroll UP pressedScroll DOWN pressed
+09-06 22:44:57:135    Scroll DOWN pressed
+09-06 22:44:57:658    Scroll UP pressed
+09-06 22:44:57:667    Scroll UP pressedScroll UP press
+09-06 22:44:57:670    edScroll UP pressedScroll UP press
+09-06 22:44:57:671    edScroll DOWN pressedScroll DOWN
+09-06 22:44:57:672     pressedScroll UP pressedScroll 
+09-06 22:44:57:674    UP pressedScroll UP pressedScrol
+09-06 22:44:57:676    l UP pressedScroll DOWN pressedS
+09-06 22:44:57:677    croll UP pressed
+09-06 22:44:57:678    Scroll DOWN pressedScroll UP pre
+09-06 22:44:57:680    ssedScroll UP pressedScroll DOWN
+09-06 22:44:57:681     pressed
+09-06 22:44:57:726    Scroll UP pressed
+09-06 22:44:57:734    Scroll DOWN pressedScroll DOWN p
+09-06 22:44:57:736    ressedScroll UP pressedScroll DO
+09-06 22:44:57:738    WN pressedScroll DOWN pressed
+09-06 22:44:57:739    Scroll DOWN pressedScroll DOWN p
+09-06 22:44:57:740    ressedScroll UP pressedScroll UP
+09-06 22:44:57:742     pressedScroll UP pressed
+09-06 22:44:57:746    Scroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:44:57:748    WN pressedScroll UP pressedScroll UP pressedScroll UP pressedScr
+09-06 22:44:57:749    oll DOWN pressed
+09-06 22:44:57:788    Scroll UP pressed
+09-06 22:44:57:827    Scroll DOWN pressed
+09-06 22:44:58:271    Scroll UP pressed
+09-06 22:44:58:312    Scroll DOWN pressed
+09-06 22:44:58:370    Scroll UP pressed
+09-06 22:44:58:396    Scroll DOWN pressed
+09-06 22:44:58:398    Scroll UP pressedScroll UP press
+09-06 22:44:58:399    ed
+09-06 22:44:58:406    Scroll DOWN pressed
+09-06 22:44:58:492    Scroll UP pressed
+09-06 22:44:58:533    Scroll UP pressedScroll UP press
+09-06 22:44:58:534    edScroll DOWN pressed
+09-06 22:44:58:536    Scroll UP pressed
+09-06 22:44:58:543    Scroll UP pressedScroll DOWN pre
+09-06 22:44:58:546    ssedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:44:58:548    UP pressedScroll DOWN pressed
+09-06 22:44:58:673    Scroll UP pressed
+09-06 22:44:58:706    Scroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:44:58:707    WN pressedScroll UP pressedScroll DOWN pressedScroll DOWN presse
+09-06 22:44:58:708    d
+09-06 22:44:58:711    Scroll DOWN pressed
+09-06 22:44:58:719    Scroll UP pressedScroll UP pressedScroll UP pressed
+09-06 22:44:58:722    Scroll UP pressedScroll UP press
+09-06 22:44:58:723    ed
+09-06 22:44:58:732    Scroll DOWN pressed
+09-06 22:44:58:801    Scroll UP pressed
+09-06 22:44:58:838    Scroll DOWN pressed
+09-06 22:44:58:843    Scroll UP pressedScroll UP press
+09-06 22:44:58:844    edScroll DOWN pressedScroll UP p
+09-06 22:44:58:846    ressedScroll UP pressed
+09-06 22:44:58:853    Scroll UP pressed
+09-06 22:44:58:855    Scroll DOWN pressedScroll UP pre
+09-06 22:44:58:856    ssed
+09-06 22:44:58:859    Scroll UP pressed
+09-06 22:44:58:862    Scroll UP pressed
+09-06 22:44:58:863    Scroll UP pressedScroll DOWN pre
+09-06 22:44:58:864    ssed
+09-06 22:44:58:865    Scroll DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN
+09-06 22:44:58:868     pressedScroll DOWN pressed
+09-06 22:44:58:872    Scroll UP pressedScroll DOWN pre
+09-06 22:44:58:873    ssed
+09-06 22:44:58:951    Scroll UP pressed
+09-06 22:44:58:958    Scroll DOWN pressedScroll UP pre
+09-06 22:44:58:959    ssed
+09-06 22:44:58:964    Scroll UP pressed
+09-06 22:44:58:968    Scroll DOWN pressed
+09-06 22:44:58:972    Scroll DOWN pressedScroll DOWN p
+09-06 22:44:58:973    ressed
+09-06 22:44:58:975    Scroll DOWN pressedScroll DOWN p
+09-06 22:44:58:975    ressedScroll DOWN pressed
+09-06 22:44:58:977    Scroll UP pressedScroll DOWN pre
+09-06 22:44:58:978    ssed
+09-06 22:44:58:982    Scroll UP pressedScroll DOWN pre
+09-06 22:44:58:983    ssedScroll DOWN pressedScroll DO
+09-06 22:44:58:984    WN pressedScroll DOWN pressed
+09-06 22:44:58:985    Scroll DOWN pressedScroll UP pre
+09-06 22:44:58:988    ssedScroll UP pressed
+09-06 22:44:58:992    Scroll UP pressedScroll UP press
+09-06 22:44:58:993    ed
+09-06 22:44:58:996    Scroll DOWN pressed
+09-06 22:44:59:103    Scroll UP pressed
+09-06 22:44:59:129    Scroll DOWN pressedScroll DOWN pressed
+09-06 22:44:59:135    Scroll DOWN pressedScroll DOWN p
+09-06 22:44:59:136    ressed
+09-06 22:44:59:142    Scroll UP pressedScroll DOWN pre
+09-06 22:44:59:144    ssedScroll DOWN pressed
+09-06 22:44:59:154    Scroll DOWN pressed
+09-06 22:44:59:200    Scroll UP pressed
+09-06 22:44:59:203    Scroll UP pressedScroll UP press
+09-06 22:44:59:204    ed
+09-06 22:44:59:206    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:44:59:209    DOWN pressedScroll DOWN pressed
+09-06 22:44:59:213    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:44:59:214    DOWN pressedScroll DOWN pressedS
+09-06 22:44:59:216    croll DOWN pressed
+09-06 22:44:59:342    Scroll UP pressed
+09-06 22:45:00:353    Scroll DOWN pressed
+09-06 22:45:00:354    Scroll UP pressedScroll DOWN pre
+09-06 22:45:00:356    ssed
+09-06 22:45:00:358    Scroll UP pressedScroll UP press
+09-06 22:45:00:360    edScroll UP pressedScroll DOWN p
+09-06 22:45:00:362    ressedScroll UP pressed
+09-06 22:45:00:383    Scroll DOWN pressed
+09-06 22:45:01:153    Scroll UP pressed
+09-06 22:45:01:206    Scroll DOWN pressedScroll UP pressed
+09-06 22:45:01:213    Scroll DOWN pressed
+09-06 22:45:01:215    Scroll DOWN pressedScroll UP pre
+09-06 22:45:01:217    ssed
+09-06 22:45:01:219    Scroll UP pressedScroll DOWN pre
+09-06 22:45:01:220    ssed
+09-06 22:45:01:222    Scroll DOWN pressed
+09-06 22:45:01:828    Scroll DOWN pressedScroll DOWN pressedScroll DOWN p
+09-06 22:45:01:830    ressed
+09-06 22:45:02:515    Scroll UP pressed
+09-06 22:45:02:537    Scroll UP pressed
+09-06 22:45:02:539    Scroll UP pressed
+09-06 22:45:02:549    Scroll UP pressed
+09-06 22:45:02:551    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:02:552    ressedScroll DOWN pressedScroll 
+09-06 22:45:02:553    DOWN pressedScroll UP pressed
+09-06 22:45:02:555    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:02:557    ressedScroll UP pressed
+09-06 22:45:02:559    Scroll UP pressedScroll UP press
+09-06 22:45:02:561    edScroll DOWN pressed
+09-06 22:45:02:562    Scroll UP pressed
+09-06 22:45:02:565    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:02:567    ressed
+09-06 22:45:02:570    Scroll UP pressed
+09-06 22:45:02:590    Scroll DOWN pressed
+09-06 22:45:03:697    Scroll UP pressed
+09-06 22:45:04:172    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:45:04:175    ssedScroll UP pressed
+09-06 22:45:04:179    Scroll UP pressed
+09-06 22:45:04:182    Scroll DOWN pressed
+09-06 22:45:04:184    Scroll UP pressedScroll DOWN pre
+09-06 22:45:04:185    ssed
+09-06 22:45:04:189    Scroll UP pressed
+09-06 22:45:04:190    Scroll UP pressedScroll UP press
+09-06 22:45:04:191    ed
+09-06 22:45:04:193    Scroll UP pressed
+09-06 22:45:04:226    Scroll UP pressed
+09-06 22:45:04:242    Scroll DOWN pressed
+09-06 22:45:04:797    Scroll UP pressed
+09-06 22:45:04:840    Scroll DOWN pressed
+09-06 22:45:05:642    Scroll UP pressed
+09-06 22:45:05:661    Scroll DOWN pressed
+09-06 22:45:05:723    Scroll UP pressed
+09-06 22:45:05:832    Scroll UP pressedScroll DOWN pressed
+09-06 22:45:06:173    Scroll UP pressed
+09-06 22:45:06:868    Scroll DOWN pressedScroll UP pressed
+09-06 22:45:06:871    Scroll UP pressedScroll UP press
+09-06 22:45:06:872    ed
+09-06 22:45:06:874    Scroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:45:06:875    WN pressedScroll DOWN pressedScr
+09-06 22:45:06:877    oll DOWN pressedScroll UP presse
+09-06 22:45:06:878    dScroll UP pressed
+09-06 22:45:06:880    Scroll UP pressedScroll UP press
+09-06 22:45:06:882    edScroll UP pressedScroll DOWN p
+09-06 22:45:06:883    ressed
+09-06 22:45:06:928    Scroll UP pressed
+09-06 22:45:06:952    Scroll UP pressedScroll DOWN pressedScroll UP pressedScroll DOWN
+09-06 22:45:06:952     pressedScroll UP pressedScroll 
+09-06 22:45:06:953    DOWN pressed
+09-06 22:45:06:954    Scroll DOWN pressedScroll UP pre
+09-06 22:45:06:956    ssed
+09-06 22:45:06:962    Scroll DOWN pressed
+09-06 22:45:07:038    Scroll UP pressed
+09-06 22:45:07:052    Scroll DOWN pressed
+09-06 22:45:07:054    Scroll UP pressed
+09-06 22:45:07:058    Scroll DOWN pressed
+09-06 22:45:07:063    Scroll UP pressedScroll UP press
+09-06 22:45:07:065    edScroll UP pressed
+09-06 22:45:07:069    Scroll DOWN pressed
+09-06 22:45:07:076    Scroll UP pressed
+09-06 22:45:07:082    Scroll DOWN pressed
+09-06 22:45:07:147    Scroll UP pressed
+09-06 22:45:07:165    Scroll UP pressed
+09-06 22:45:07:166    Scroll UP pressed
+09-06 22:45:07:172    Scroll UP pressed
+09-06 22:45:07:174    Scroll DOWN pressed
+09-06 22:45:07:175    Scroll UP pressedScroll UP press
+09-06 22:45:07:177    edScroll DOWN pressed
+09-06 22:45:07:178    Scroll DOWN pressedScroll UP pre
+09-06 22:45:07:180    ssedScroll UP pressedScroll DOWN
+09-06 22:45:07:181     pressed
+09-06 22:45:07:189    Scroll DOWN pressedScroll UP pre
+09-06 22:45:07:191    ssedScroll DOWN pressedScroll UP
+09-06 22:45:07:192     pressedScroll DOWN pressedScrol
+09-06 22:45:07:194    l DOWN pressedScroll UP pressed
+09-06 22:45:07:195    Scroll UP pressed
+09-06 22:45:07:257    Scroll DOWN pressed
+09-06 22:45:07:292    Scroll UP pressed
+09-06 22:45:07:486    Scroll UP pressed
+09-06 22:45:07:486    Scroll DOWN pressed
+09-06 22:45:07:530    Scroll UP pressed
+09-06 22:45:07:542    Scroll UP pressed
+09-06 22:45:07:547    Scroll DOWN pressed
+09-06 22:45:07:550    Scroll UP pressed
+09-06 22:45:07:553    Scroll UP pressedScroll DOWN pre
+09-06 22:45:07:554    ssedScroll DOWN pressed
+09-06 22:45:07:556    Scroll UP pressed
+09-06 22:45:07:559    Scroll DOWN pressed
+09-06 22:45:07:603    Scroll UP pressed
+09-06 22:45:07:626    Scroll UP pressedScroll UP press
+09-06 22:45:07:627    edScroll DOWN pressedScroll UP p
+09-06 22:45:07:628    ressedScroll UP pressedScroll UP
+09-06 22:45:07:630     pressedScroll UP pressed
+09-06 22:45:07:631    Scroll DOWN pressed
+09-06 22:45:07:688    Scroll UP pressed
+09-06 22:45:07:705    Scroll DOWN pressed
+09-06 22:45:07:707    Scroll UP pressed
+09-06 22:45:07:710    Scroll UP pressedScroll DOWN pre
+09-06 22:45:07:712    ssedScroll UP pressed
+09-06 22:45:07:714    Scroll DOWN pressedScroll UP pre
+09-06 22:45:07:716    ssedScroll DOWN pressed
+09-06 22:45:07:719    Scroll UP pressedScroll DOWN pre
+09-06 22:45:07:720    ssed
+09-06 22:45:07:776    Scroll UP pressed
+09-06 22:45:07:794    Scroll DOWN pressedScroll UP pre
+09-06 22:45:07:795    ssed
+09-06 22:45:07:801    Scroll UP pressedScroll DOWN pressedScroll UP pre
+09-06 22:45:07:804    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll UP pressedScroll DOWN presse
+09-06 22:45:07:805    dScroll DOWN pressed
+09-06 22:45:07:807    Scroll UP pressedScroll DOWN pre
+09-06 22:45:07:810    ssedScroll DOWN pressedScroll DO
+09-06 22:45:07:810    WN pressed
+09-06 22:45:07:814    Scroll DOWN pressed
+09-06 22:45:07:896    Scroll UP pressed
+09-06 22:45:07:916    Scroll UP pressedScroll UP press
+09-06 22:45:07:918    edScroll DOWN pressed
+09-06 22:45:07:921    Scroll DOWN pressed
+09-06 22:45:07:924    Scroll DOWN pressed
+09-06 22:45:07:925    Scroll DOWN pressedScroll UP pre
+09-06 22:45:07:926    ssed
+09-06 22:45:07:934    Scroll DOWN pressed
+09-06 22:45:07:948    Scroll UP pressedScroll DOWN pre
+09-06 22:45:07:949    ssed
+09-06 22:45:07:952    Scroll DOWN pressed
+09-06 22:45:07:963    Scroll UP pressed
+09-06 22:45:07:974    Scroll DOWN pressed
+09-06 22:45:07:993    Scroll UP pressed
+09-06 22:45:08:029    Scroll DOWN pressed
+09-06 22:45:08:304    Scroll UP pressed
+09-06 22:45:08:323    Scroll DOWN pressed
+09-06 22:45:08:360    Scroll UP pressed
+09-06 22:45:08:373    Scroll UP pressedScroll DOWN pre
+09-06 22:45:08:373    ssed
+09-06 22:45:08:400    Scroll UP pressed
+09-06 22:45:08:415    Scroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll 
+09-06 22:45:08:416    DOWN pressedScroll UP pressedScroll UP pressedScroll DOWN presse
+09-06 22:45:08:417    dScroll DOWN pressed
+09-06 22:45:08:465    Scroll UP pressed
+09-06 22:45:08:496    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:08:497    ressed
+09-06 22:45:08:579    Scroll UP pressed
+09-06 22:45:08:592    Scroll DOWN pressed
+09-06 22:45:08:593    Scroll UP pressedScroll UP press
+09-06 22:45:08:595    edScroll UP pressed
+09-06 22:45:08:600    Scroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP p
+09-06 22:45:08:601    ressedScroll UP pressedScroll DO
+09-06 22:45:08:602    WN pressedScroll UP pressedScrol
+09-06 22:45:08:605    l DOWN pressedScroll UP pressed
+09-06 22:45:08:608    Scroll DOWN pressed
+09-06 22:45:08:680    Scroll UP pressed
+09-06 22:45:08:701    Scroll DOWN pressedScroll UP pre
+09-06 22:45:08:702    ssed
+09-06 22:45:08:716    Scroll UP pressedScroll UP press
+09-06 22:45:08:718    edScroll UP pressedScroll UP pre
+09-06 22:45:08:719    ssed
+09-06 22:45:08:723    Scroll DOWN pressed
+09-06 22:45:08:725    Scroll DOWN pressedScroll UP pre
+09-06 22:45:08:726    ssed
+09-06 22:45:08:728    Scroll UP pressedScroll DOWN pre
+09-06 22:45:08:729    ssedScroll DOWN pressedScroll UP
+09-06 22:45:08:730     pressedScroll UP pressed
+09-06 22:45:08:731    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:08:733    ressedScroll DOWN pressed
+09-06 22:45:08:741    Scroll UP pressed
+09-06 22:45:08:744    Scroll DOWN pressed
+09-06 22:45:08:962    Scroll DOWN pressedScroll DOWN pressedScroll UP pressed
+09-06 22:45:08:963    Scroll UP pressed
+09-06 22:45:08:972    Scroll UP pressedScroll DOWN pressedScroll UP pre
+09-06 22:45:08:973    ssed
+09-06 22:45:08:978    Scroll DOWN pressed
+09-06 22:45:08:982    Scroll UP pressed
+09-06 22:45:08:988    Scroll UP pressed
+09-06 22:45:09:059    Scroll DOWN pressed
+09-06 22:45:09:070    Scroll UP pressedScroll DOWN pressedScroll UP pressed
+09-06 22:45:09:073    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:09:075    ressedScroll DOWN pressedScroll 
+09-06 22:45:09:076    UP pressed
+09-06 22:45:09:094    Scroll DOWN pressed
+09-06 22:45:09:104    Scroll UP pressed
+09-06 22:45:09:116    Scroll DOWN pressed
+09-06 22:45:09:125    Scroll UP pressedScroll DOWN pre
+09-06 22:45:09:126    ssedScroll DOWN pressedScroll UP
+09-06 22:45:09:127     pressed
+09-06 22:45:09:146    Scroll DOWN pressed
+09-06 22:45:09:154    Scroll UP pressedScroll UP press
+09-06 22:45:09:156    edScroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:45:09:157     pressed
+09-06 22:45:09:183    Scroll DOWN pressed
+09-06 22:45:09:221    Scroll UP pressedScroll DOWN pressedScroll UP pressed
+09-06 22:45:09:299    Scroll DOWN pressed
+09-06 22:45:09:574    Scroll UP pressedScroll UP press
+09-06 22:45:09:576    edScroll DOWN pressedScroll UP pressed
+09-06 22:45:09:586    Scroll DOWN pressed
+09-06 22:45:09:589    Scroll DOWN pressed
+09-06 22:45:09:591    Scroll UP pressed
+09-06 22:45:09:624    Scroll DOWN pressed
+09-06 22:45:09:631    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:45:09:634    ssedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pres
+09-06 22:45:09:636    sedScroll UP pressed
+09-06 22:45:09:655    Scroll DOWN pressed
+09-06 22:45:09:657    Scroll DOWN pressedScroll UP pre
+09-06 22:45:09:658    ssedScroll DOWN pressedScroll UP pressedScroll UP pressedScroll 
+09-06 22:45:09:659    UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:45:09:661    sedScroll UP pressed
+09-06 22:45:09:675    Scroll DOWN pressed
+09-06 22:45:09:679    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:45:09:680    ssed
+09-06 22:45:09:699    Scroll DOWN pressed
+09-06 22:45:09:700    Scroll UP pressedScroll DOWN pre
+09-06 22:45:09:701    ssed
+09-06 22:45:09:703    Scroll DOWN pressed
+09-06 22:45:09:705    Scroll UP pressed
+09-06 22:45:09:728    Scroll DOWN pressed
+09-06 22:45:09:734    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:09:735    ressedScroll DOWN pressed
+09-06 22:45:09:739    Scroll DOWN pressedScroll UP pressed
+09-06 22:45:09:744    Scroll DOWN pressedScroll UP pre
+09-06 22:45:09:745    ssedScroll UP pressedScroll DOWN
+09-06 22:45:09:747     pressedScroll DOWN pressed
+09-06 22:45:10:108    Scroll DOWN pressed
+09-06 22:45:10:114    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN pressedScroll DO
+09-06 22:45:10:116    WN pressedScroll UP pressed
+09-06 22:45:10:117    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:10:118    ressedScroll UP pressedScroll UP
+09-06 22:45:10:119     pressedScroll UP pressedScroll 
+09-06 22:45:10:121    DOWN pressedScroll DOWN pressedS
+09-06 22:45:10:122    croll UP pressed
+09-06 22:45:10:123    Scroll DOWN pressedScroll UP pre
+09-06 22:45:10:124    ssed
+09-06 22:45:10:150    Scroll DOWN pressed
+09-06 22:45:10:152    Scroll UP pressedScroll DOWN pre
+09-06 22:45:10:153    ssedScroll DOWN pressedScroll UP
+09-06 22:45:10:154     pressedScroll UP pressedScroll 
+09-06 22:45:10:156    UP pressed
+09-06 22:45:10:170    Scroll DOWN pressed
+09-06 22:45:10:178    Scroll UP pressed
+09-06 22:45:10:191    Scroll DOWN pressed
+09-06 22:45:10:196    Scroll UP pressedScroll DOWN pressedScroll DOWN pressedScroll DO
+09-06 22:45:10:198    WN pressedScroll UP pressed
+09-06 22:45:10:210    Scroll DOWN pressed
+09-06 22:45:10:212    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:10:213    ressedScroll UP pressedScroll UP
+09-06 22:45:10:214     pressed
+09-06 22:45:10:234    Scroll DOWN pressed
+09-06 22:45:10:245    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:10:246    ressedScroll UP pressedScroll UP
+09-06 22:45:10:248     pressedScroll UP pressedScroll 
+09-06 22:45:10:249    UP pressed
+09-06 22:45:10:562    Scroll DOWN pressed
+09-06 22:45:10:571    Scroll UP pressed
+09-06 22:45:10:572    Scroll DOWN pressedScroll DOWN p
+09-06 22:45:10:574    ressed
+09-06 22:45:10:576    Scroll UP pressedScroll UP press
+09-06 22:45:10:578    edScroll UP pressed
+09-06 22:45:10:581    Scroll UP pressed
+09-06 22:45:10:607    Scroll DOWN pressed
+09-06 22:45:10:610    Scroll UP pressedScroll UP pressedScroll UP pressedScroll UP pre
+09-06 22:45:10:612    ssedScroll UP pressedScroll UP p
+09-06 22:45:10:613    ressedScroll UP pressedScroll UP
+09-06 22:45:10:614     pressedScroll UP pressed
+09-06 22:45:10:628    Scroll DOWN pressed
+09-06 22:45:10:630    Scroll DOWN pressed
+09-06 22:45:10:632    Scroll UP pressedScroll UP pressedScroll UP pressedScroll DOWN p
+09-06 22:45:10:634    ressedScroll DOWN pressed
+09-06 22:45:10:635    Scroll UP pressed
+09-06 22:45:10:645    Scroll DOWN pressed
+09-06 22:45:10:649    Scroll UP pressed
+09-06 22:45:10:661    Scroll DOWN pressedScroll UP pre
+09-06 22:45:10:663    ssed
+09-06 22:45:10:665    Scroll DOWN pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP pressedScroll UP
+09-06 22:45:10:666     pressed
+09-06 22:45:10:683    Scroll DOWN pressed
+09-06 22:45:10:685    Scroll UP pressedScroll DOWN pre
+09-06 22:45:10:687    ssedScroll DOWN pressedScroll UP
+09-06 22:45:10:688     pressed
+09-06 22:45:10:690    Scroll UP pressed
+09-06 22:45:10:691    Scroll UP pressedScroll DOWN pre
+09-06 22:45:10:693    ssedScroll UP pressedScroll DOWN
+09-06 22:45:10:695     pressed
+09-06 22:45:10:696    Scroll UP pressed
+09-06 22:45:11:049    Scroll DOWN pressed
+09-06 22:45:11:051    Scroll DOWN pressed
+09-06 22:45:11:054    Scroll UP pressedScroll UP pressedScroll DOWN pressedScroll DOWN
+09-06 22:45:11:054     pressedScroll DOWN pressedScrol
+09-06 22:45:11:056    l UP pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pr
+09-06 22:45:11:057    essedScroll UP pressed
+09-06 22:45:11:077    Scroll DOWN pressed
+09-06 22:45:11:085    Scroll UP pressed
+09-06 22:45:11:086    Scroll UP pressedScroll DOWN pre
+09-06 22:45:11:088    ssedScroll DOWN pressedScroll UP
+09-06 22:45:11:089     pressed
+09-06 22:45:11:109    Scroll DOWN pressed
+09-06 22:45:11:116    Scroll UP pressed
+09-06 22:45:11:143    Scroll DOWN pressed
+09-06 22:45:11:156    Scroll UP pressed
+09-06 22:45:11:158    Scroll DOWN pressedScroll UP pre
+09-06 22:45:11:161    ssedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pressedScroll DOWN pres
+09-06 22:45:11:161    sedScroll DOWN pressedScroll UP 
+09-06 22:45:11:162    pressed
+09-06 22:45:11:209    Scroll DOWN pressed
+09-06 22:45:11:706    Scroll DOWN pressed
+09-06 22:45:12:715    Scroll DOWN pressed
+09-06 22:45:13:975    Scroll UP pressed
+09-06 22:45:15:043    Scroll UP pressed
+09-06 22:45:15:099    Scroll DOWN pressed
+09-06 22:45:15:114    Scroll DOWN pressed

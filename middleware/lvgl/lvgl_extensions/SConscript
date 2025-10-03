@@ -1,0 +1,15 @@
+from building import * 
+import rtconfig
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd]
+lib = []
+if GetDepend("DISABLE_LVGL_V9"):
+    lib = [GroupLibName("lvgl_extensions")]
+
+obj = DefineGroup('lib_lvgl_extensions', src, depend = [''], CPPPATH = inc, LIBS=lib, LIBPATH=inc)
+Return('obj')

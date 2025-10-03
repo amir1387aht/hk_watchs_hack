@@ -1,0 +1,17 @@
+from building import * 
+import rtconfig
+
+# get current dir path
+cwd = GetCurrentDir()
+
+# init src and inc vars
+src = []
+inc = [cwd]
+
+src = src + Glob('*.c')
+
+LOCAL_CCFLAGS = ''
+
+group = DefineGroup('Utils', src, depend = [''], CPPPATH = inc, LOCAL_CCFLAGS = LOCAL_CCFLAGS)
+
+Return('group')

@@ -1,0 +1,6 @@
+config BSP_USING_PC_SIMULATOR
+    bool
+    select SOC_SIMULATOR
+    default y
+
+rsource "../Kconfig.board"

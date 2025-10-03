@@ -1,0 +1,1815 @@
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000080
+NAND ID 0x7171cd
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036a04, map1 200365f4, map2 200367fc 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 28 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:18 cv_vctrl:36 prog_vlp2:9
+mount /dev sucess
+[32m[401] I/drv.rtc main: PSCLR=0x25402500 DivAI=37 DivAF=4105 B=256
+[0m[32m[409] I/drv.rtc main: RC10K Freq=9kHz, cycle=1006712, rtc ppm=0
+
+[0m[32m[417] I/drv.rtc main: DIVA=37, DIVA_FRA=4096, DIVB=256
+
+[0m[32m[424] I/drv.rtc main: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[439] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[445] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[32m[452] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[500] I/TOUCH main: Regist touch screen driver, probe=0x10007765 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2090
+call par CFG1(3313)
+fc 7, xtal 2000, pll 1675
+mount fs[yaffs] on / failed.
+[32m[569] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[575] I/drv.lcd lcd_task: open
+[0m[32m[580] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[586] I/drv.lcd lcd_task: HW open
+[0m[32m[597] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x0 
+
+CO5300_ReadID 0x0 
+[32m[1268] I/drv.lcd lcd_task: Try lcd co5300, read id:0h, expect:331100h
+[0m[33m[1277] W/drv.lcd lcd_task: unknow lcd!
+[0m[32m[1282] I/drv.lcd lcd_task: HW open done.
+[0m[32m[1287] I/drv.lcd lcd_task: Close LCD to save power
+[0m[32m[1294] I/drv.lcd lcd_task: HW close
+[0m[32m[1299] I/drv.lcd lcd_task: HW close done.
+[0m[32m[1304] I/drv.lcd lcd_task: [OPENING] -> [NOT_FIND]
+[0m[32m[1311] I/drv.lcd lcd_task: open done.
+[0m[32m[1316] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[1323] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[1331] I/TOUCH app_watc: Open
+[0m[32m[1336] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[1343] I/TOUCH tp_init: Probe 10007765
+[0m[32m[1348] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[1354] I/TOUCH tp_init: touch screen found driver  0x20036444, chsc6417
+[0m[1363] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[1371] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[1377] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[1383] I/TOUCH app_watc: Opened.
+[0m[32m[1406] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+[3336] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:310.
+[32m[3346] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[3637] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[3646] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:310
+[0m[32m[3654] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 20048370
+[0m[32m[3662] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[3670] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[3679] I/APP.SCHE app_watc: app[MainScreen] do START, 20048370
+[0m[32m[3686] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[3692] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20048370] to gui_app_mbx tick:347.
+[32m[3703] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:347
+[0m[3712] D/APP.SCHE app_watc: app[MainScreen] create page[root] 2004843c
+[3719] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[3728] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[3738] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 2004843c
+[0m[Music] Track Set: Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist
+[32m[3845] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 2004843c
+[0m[32m[3854] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[3860] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[3867] D/APP.SCHE app_watc: app_schedule_task done.
+[69526] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[69533] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=199
+[69647] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[69653] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=199
+[69767] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[69774] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=199
+[69888] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[69894] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=198
+[70009] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[70015] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=198
+[70130] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[70136] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=198
+[70250] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[70257] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=198
+[70371] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[70377] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=197
+[70492] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[70498] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=195
+[70612] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[70619] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=176, Y=191
+[70733] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[70739] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=177, Y=186
+[70853] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[70860] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=178, Y=179
+[70974] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[70980] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=179, Y=172
+[71094] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[71101] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=179, Y=165
+[71215] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[71221] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=159
+[71335] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[71342] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=153
+[71456] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[71462] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=147
+[71576] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[71583] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=143
+[71697] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[71703] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=181, Y=138
+[71817] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[71824] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=181, Y=135
+[71938] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[71945] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=181, Y=132
+[72058] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[72065] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=181, Y=129
+[72179] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[72185] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=181, Y=126
+[72299] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[72306] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=124
+[72420] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[72426] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=121
+[72540] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[72547] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=120
+[72661] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[72667] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=118
+[72781] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[72788] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=117
+[72902] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[72908] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=116
+[73022] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[73029] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=115
+[73142] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[73149] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=114
+[73263] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[73269] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=114
+[73383] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[73389] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=114
+[73503] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[73509] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=114
+[73623] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[73629] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=114
+[73743] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[73749] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=115
+[73863] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[73870] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=181, Y=116
+[73983] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[73990] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=181, Y=118
+[74104] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[74110] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=182, Y=121
+[74224] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[74230] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=183, Y=126
+[74344] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[74350] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=185, Y=131
+[74464] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[74470] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=187, Y=137
+[74584] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[74590] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=189, Y=143
+[74704] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[74711] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=190, Y=149
+[74824] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[74831] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=192, Y=155
+[74944] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[74950] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=193, Y=159
+[75064] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[75071] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=195, Y=164
+[75185] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[75191] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=196, Y=168
+[75305] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[75311] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=197, Y=171
+[75425] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[75431] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=198, Y=174
+[75545] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[75552] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=199, Y=176
+[75665] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[75672] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=200, Y=178
+[75786] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[75792] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=201, Y=180
+[75906] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[75912] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=201, Y=182
+[76026] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[76032] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=202, Y=183
+[76146] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[76153] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=202, Y=184
+[76267] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[76273] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=185
+[76387] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[76393] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=186
+[76507] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[76513] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=187
+[76627] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[76633] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=188
+[76747] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[76754] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=188
+[76867] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[76874] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=189
+[76987] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[76994] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=190
+[77108] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[77114] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=190
+[77228] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[77234] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=190
+[77348] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[77354] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=191
+[77468] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[77475] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=191
+[77588] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[77595] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=191
+[77709] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[77715] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=191
+[77829] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[77835] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=191
+[77949] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[77955] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=192
+[78069] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[78076] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=192
+[78190] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[78196] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=192
+[78310] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[78316] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=192
+[78430] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[78436] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=192
+[78550] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[78557] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=203, Y=192
+[78670] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[78677] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=202, Y=191
+[78791] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[78797] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=202, Y=191
+[78911] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[78917] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=202, Y=191
+[79031] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[79037] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=202, Y=190
+[79151] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[79158] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=202, Y=190
+[79271] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[79278] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=202, Y=190
+[79392] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[79398] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=202, Y=189
+[79512] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[79518] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=201, Y=188
+[79632] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[79638] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=201, Y=188
+[79752] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[79759] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=201, Y=187
+[79872] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[79879] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=201, Y=186
+[79993] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[79999] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=201, Y=185
+[80113] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[80119] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=200, Y=183
+[80233] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[80239] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=200, Y=181
+[80353] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[80359] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=199, Y=179
+[80473] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[80479] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=197, Y=177
+[80593] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[80600] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=195, Y=175
+[80713] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[80720] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=192, Y=173
+[80834] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[80840] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=188, Y=171
+[80954] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[80960] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=182, Y=169
+[81074] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[81080] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=176, Y=167
+[81194] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[81201] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=168, Y=166
+[81314] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[81321] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=159, Y=167
+[81435] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[81441] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=149, Y=167
+[81555] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[81561] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=139, Y=169
+[81675] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[81681] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=129, Y=171
+[81795] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[81802] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=119, Y=175
+[81916] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[81922] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=110, Y=179
+[82036] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[82042] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=102, Y=184
+[82156] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[82162] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=95, Y=189
+[82276] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[82283] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=88, Y=195
+[82396] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[82403] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=82, Y=200
+[82517] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[82523] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=77, Y=206
+[82637] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[82644] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=73, Y=211
+[82758] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[82764] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=69, Y=217
+[82878] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[82885] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=66, Y=222
+[82999] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[83005] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=64, Y=227
+[83120] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[83126] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=61, Y=232
+[83240] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[83246] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=59, Y=237
+[83361] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[83367] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=57, Y=241
+[83481] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[83487] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=56, Y=246
+[83601] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[83608] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=54, Y=250
+[83722] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[83728] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=54, Y=254
+[83842] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[83849] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=53, Y=258
+[83963] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[83969] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=52, Y=262
+[84083] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[84090] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=52, Y=266
+[84204] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[84210] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=52, Y=269
+[84324] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[84330] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=51, Y=273
+[84445] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[84451] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=51, Y=276
+[84565] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[84572] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=51, Y=280
+[84686] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[84692] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=51, Y=283
+[84806] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[84813] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=51, Y=286
+[84927] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[84933] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=51, Y=289
+[85047] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[85054] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=51, Y=292
+[85167] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[85174] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=51, Y=295
+[85288] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[85294] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=51, Y=298
+[85408] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[85414] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=52, Y=300
+[85529] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[85535] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=52, Y=303
+[85649] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[85656] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=52, Y=306
+[85770] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[85776] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=52, Y=309
+[85890] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[85897] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=53, Y=312
+[86011] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[86017] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=53, Y=314
+[86131] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[86138] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=53, Y=317
+[86252] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[86258] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=54, Y=319
+[86372] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[86379] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=54, Y=322
+[86493] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[86499] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=55, Y=324
+[86613] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[86620] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=55, Y=326
+[86734] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[86740] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=56, Y=328
+[86854] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[86860] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=57, Y=330
+[86974] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[86981] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=58, Y=332
+[87095] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[87101] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=58, Y=334
+[87216] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[87222] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=59, Y=335
+[87336] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[87342] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=61, Y=337
+[87457] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[87463] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=62, Y=338
+[87577] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[87583] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=64, Y=339
+[87698] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[87704] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=66, Y=340
+[87818] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[87824] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=69, Y=341
+[87939] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[87945] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=72, Y=342
+[88059] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[88065] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=76, Y=342
+[88180] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[88186] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=81, Y=342
+[88300] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[88306] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=86, Y=342
+[88421] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[88427] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=91, Y=342
+[88541] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[88548] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=97, Y=341
+[88662] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[88668] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=103, Y=340
+[88782] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[88789] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=109, Y=339
+[88903] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[88909] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=115, Y=338
+[89023] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[89030] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=121, Y=336
+[89144] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[89150] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=127, Y=333
+[89264] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[89271] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=132, Y=331
+[89385] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[89391] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=138, Y=328
+[89505] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[89512] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=143, Y=325
+[89626] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[89632] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=148, Y=321
+[89746] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[89753] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=152, Y=318
+[89867] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[89873] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=157, Y=314
+[89987] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[89993] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=160, Y=311
+[90107] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[90114] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=164, Y=307
+[90228] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[90234] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=167, Y=304
+[90348] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[90354] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=169, Y=301
+[90468] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[90475] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=171, Y=297
+[90589] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[90595] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=173, Y=294
+[90709] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[90715] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=175, Y=291
+[90829] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[90835] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=176, Y=287
+[90949] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[90956] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=177, Y=284
+[91069] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[91076] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=178, Y=281
+[91190] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[91196] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=179, Y=277
+[91310] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[91316] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=179, Y=274
+[91430] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[91436] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=270
+[91550] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[91556] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=266
+[91670] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[91677] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=261
+[91790] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[91797] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=256
+[91911] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[91917] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=250
+[92031] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[92037] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=245
+[92151] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[92157] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=239
+[92271] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[92278] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=234
+[92391] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[92398] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=228
+[92511] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[92518] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=223
+[92632] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[92638] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=218
+[92752] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[92758] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=213
+[92872] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[92878] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=208
+[92992] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[92998] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=203
+[93112] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[93119] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=198
+[93232] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[93239] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=180, Y=193
+[93353] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[93359] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=181, Y=188
+[93473] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[93479] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=181, Y=184
+[93593] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[93599] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=182, Y=179
+[93713] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[93719] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=183, Y=176
+[93833] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[93840] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=184, Y=172
+[93953] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[93960] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=185, Y=169
+[94074] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[94080] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=186, Y=166
+[94193] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[94200] D/drv.chsc6417 tpread: chsc6417 read_point
+event=1, X=186, Y=166
+[98049] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[98055] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[98169] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[98175] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[98289] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[98296] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[98410] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[98416] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[98530] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[98537] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[98651] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[98657] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[98772] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[98778] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[98892] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[98899] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[99013] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[99020] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[99133] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[99140] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[99254] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[99260] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[99374] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[99381] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[99494] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[99500] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[99614] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[99620] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[99735] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[99741] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[99856] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[99862] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[99976] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[99983] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[100097] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[100104] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[100218] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[100224] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[100338] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[100344] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[100458] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[100464] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[100578] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[100584] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[100698] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[100704] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[100818] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[100824] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[100939] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[100945] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=208
+[101060] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[101066] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=209
+[101180] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[101187] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=209
+[101301] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[101307] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=210
+[101421] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[101428] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=211
+[101542] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[101548] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=212
+[101662] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[101668] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=323, Y=213
+[101782] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[101789] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=324, Y=214
+[101902] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[101908] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=324, Y=216
+[102022] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[102029] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=324, Y=217
+[102143] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[102150] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=325, Y=219
+[102264] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[102270] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=325, Y=221
+[102385] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[102391] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=325, Y=223
+[102505] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[102512] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=325, Y=225
+[102626] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[102633] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=227
+[102746] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[102753] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=228
+[102866] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[102873] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=230
+[102986] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[102993] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=232
+[103107] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[103113] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=234
+[103227] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[103233] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=235
+[103348] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[103354] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=237
+[103468] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[103475] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=238
+[103589] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[103595] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=239
+[103710] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[103716] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=240
+[103831] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[103837] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=241
+[103951] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[103957] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=243
+[104071] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[104077] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=244
+[104191] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[104197] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=245
+[104311] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[104317] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=246
+[104431] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[104438] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=247
+[104552] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[104558] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=248
+[104673] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[104679] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=248
+[104793] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[104800] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=249
+[104914] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[104920] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=250
+[105034] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[105041] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=250
+[105154] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[105161] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=251
+[105274] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[105281] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=251
+[105394] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[105401] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=252
+[105515] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[105521] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=252
+[105635] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[105641] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=253
+[105756] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[105762] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=253
+[105876] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[105883] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=254
+[105997] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[106003] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=328, Y=254
+[106118] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[106124] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=254
+[106238] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[106245] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=255
+[106358] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[106365] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=255
+[106478] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[106485] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=255
+[106598] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[106605] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=256
+[106719] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[106725] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=256
+[106839] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[106845] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=327, Y=257
+[106960] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[106966] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=257
+[107080] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[107087] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=257
+[107201] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[107208] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=258
+[107322] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[107329] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=258
+[107443] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[107449] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=259
+[107563] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[107569] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=259
+[107683] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[107690] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=326, Y=260
+[107803] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[107810] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=147, Y=260
+[107924] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[107930] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=82, Y=261
+[108044] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[108051] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=54, Y=262
+[108165] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[108171] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=39, Y=264
+[108286] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[108293] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=30, Y=266
+[108407] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[108414] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=24, Y=268
+[108528] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[108534] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=20, Y=269
+[108649] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[108656] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=17, Y=270
+[108770] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[108776] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=15, Y=271
+[108890] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[108896] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=13, Y=272
+[109010] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[109017] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=12, Y=273
+[109130] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[109137] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=10, Y=273
+[109250] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[109257] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=8, Y=274
+[109371] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[109377] D/drv.chsc6417 tpread: chsc6417 read_point
+event=1, X=8, Y=274
+[120700] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[120706] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[120820] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[120827] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[120940] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[120947] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[121061] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[121067] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[121181] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[121187] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[121301] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[121307] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[121421] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[121427] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[121541] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[121548] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[121661] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[121668] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[121782] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[121788] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[121902] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[121908] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[122022] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[122029] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=99, Y=200
+[122142] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[122149] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=100, Y=200
+[122263] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[122269] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=100, Y=200
+[122383] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[122389] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=101, Y=200
+[122503] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[122509] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=102, Y=201
+[122623] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[122630] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=103, Y=201
+[122743] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[122750] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=104, Y=202
+[122864] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[122870] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=106, Y=203
+[122984] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[122990] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=108, Y=204
+[123104] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[123111] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=110, Y=205
+[123224] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[123231] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=113, Y=207
+[123345] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[123351] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=115, Y=210
+[123465] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[123471] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=118, Y=213
+[123585] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[123591] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=121, Y=216
+[123705] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[123711] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=124, Y=218
+[123825] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[123832] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=127, Y=222
+[123945] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[123952] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=129, Y=225
+[124066] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[124072] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=132, Y=228
+[124186] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[124192] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=134, Y=232
+[124306] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[124312] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=137, Y=235
+[124426] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[124432] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=139, Y=239
+[124546] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[124553] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=141, Y=242
+[124666] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[124673] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=143, Y=246
+[124786] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[124793] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=146, Y=250
+[124907] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[124913] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=148, Y=253
+[125027] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[125033] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=150, Y=258
+[125147] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[125154] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=152, Y=262
+[125267] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[125274] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=154, Y=267
+[125388] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[125394] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=156, Y=271
+[125508] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[125514] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=158, Y=276
+[125628] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[125634] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=160, Y=280
+[125748] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[125755] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=161, Y=285
+[125868] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[125875] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=163, Y=289
+[125989] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[125995] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=164, Y=293
+[126109] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[126115] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=165, Y=297
+[126229] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[126236] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=166, Y=301
+[126349] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[126356] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=167, Y=305
+[126469] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[126476] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=168, Y=308
+[126590] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[126596] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=169, Y=312
+[126709] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[126716] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=169, Y=315
+[126830] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[126836] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=170, Y=318
+[126950] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[126956] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=171, Y=321
+[127070] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[127076] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=171, Y=324
+[127190] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[127197] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=171, Y=327
+[127310] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[127317] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=172, Y=330
+[127431] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[127437] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=172, Y=332
+[127551] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[127557] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=172, Y=334
+[127671] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[127677] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=172, Y=336
+[127791] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[127798] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=172, Y=338
+[127911] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[127918] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=172, Y=339
+[128031] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[128038] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=172, Y=340
+[128152] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[128158] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=172, Y=341
+[128272] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[128278] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=172, Y=341
+[128392] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[128399] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=171, Y=341
+[128512] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[128519] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=171, Y=341
+[128632] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[128639] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=170, Y=340
+[128752] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[128759] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=169, Y=339
+[128873] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[128879] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=168, Y=338
+[128993] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[128999] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=168, Y=337
+[129113] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[129120] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=167, Y=336
+[129233] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[129240] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=166, Y=335
+[129354] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[129360] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=166, Y=333
+[129474] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[129480] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=165, Y=331
+[129594] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[129600] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=164, Y=330
+[129714] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[129720] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=164, Y=327
+[129834] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[129841] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=163, Y=325
+[129954] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[129961] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=162, Y=321
+[130075] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[130081] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=161, Y=318
+[130195] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[130201] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=160, Y=315
+[130315] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[130321] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=160, Y=311
+[130435] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[130441] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=159, Y=307
+[130555] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[130562] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=158, Y=303
+[130675] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[130682] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=158, Y=299
+[130796] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[130802] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=157, Y=295
+[130916] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[130922] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=157, Y=291
+[131036] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[131042] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=156, Y=287
+[131156] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[131162] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=155, Y=283
+[131276] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[131283] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=155, Y=279
+[131396] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[131403] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=154, Y=275
+[131517] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[131523] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=154, Y=271
+[131637] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[131643] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=153, Y=267
+[131757] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[131764] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=153, Y=263
+[131877] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[131884] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=152, Y=258
+[131997] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[132004] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=152, Y=254
+[132118] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[132124] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=151, Y=250
+[132238] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[132244] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=151, Y=247
+[132358] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[132364] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=151, Y=243
+[132478] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[132485] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=150, Y=240
+[132598] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[132605] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=150, Y=237
+[132719] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[132725] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=149, Y=235
+[132839] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[132845] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=149, Y=233
+[132959] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[132966] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=149, Y=230
+[133079] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[133086] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=149, Y=229
+[133199] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[133206] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=148, Y=227
+[133319] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[133326] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=148, Y=225
+[133440] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[133446] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=148, Y=224
+[133560] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[133566] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=148, Y=223
+[133680] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[133686] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=148, Y=222
+[133800] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[133807] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=148, Y=221
+[133920] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[133927] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=148, Y=220
+[134040] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[134047] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=147, Y=219
+[134161] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[134167] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=147, Y=218
+[134281] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[134287] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=147, Y=217
+[134401] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[134407] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=147, Y=216
+[134521] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[134528] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=147, Y=216
+[134641] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[134648] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=147, Y=215
+[134761] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[134768] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=147, Y=215
+[134882] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[134888] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=146, Y=214
+[135002] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[135008] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=146, Y=213
+[135122] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[135129] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=146, Y=213
+[135242] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[135249] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=146, Y=212
+[135362] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[135369] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=146, Y=212
+[135483] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[135489] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=146, Y=212
+[135603] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[135609] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=145, Y=211
+[135723] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[135729] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=145, Y=210
+[135843] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[135849] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=144, Y=208
+[135963] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[135969] D/drv.chsc6417 tpread: chsc6417 read_point
+event=2, X=143, Y=206
+[136082] D/drv.chsc6417 ISR: chsc6417 touch_irq_handler
+
+[136089] D/drv.chsc6417 tpread: chsc6417 read_point
+event=1, X=143, Y=206

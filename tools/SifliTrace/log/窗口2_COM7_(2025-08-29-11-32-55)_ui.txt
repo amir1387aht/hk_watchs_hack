@@ -1,0 +1,230 @@
+08-29 11:32:55:202    SFBL
+08-29 11:32:57:417    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+08-29 11:32:57:419    NAND ID 0x7171cd
+08-29 11:32:57:420    det bbm table with 1, 1, 2
+08-29 11:32:57:420    detect result 2
+08-29 11:32:57:421    V1 1 in block 992, V2 0 in block 994
+08-29 11:32:57:422    Latest version 1
+08-29 11:32:57:423    V1 1 in block 993, V2 0 in block 995
+08-29 11:32:57:423    Latest version 1
+08-29 11:32:57:424    v1 1 in blk 992, v2 1 in block 993
+08-29 11:32:57:424    BBM MEM: ctx 20036a04, map1 200365f4, map2 200367fc 
+08-29 11:32:57:425    sif_bbm_init done
+08-29 11:32:57:426    
+08-29 11:32:57:427     \ | /
+08-29 11:32:57:427    - SiFli Corporation
+08-29 11:32:57:427     / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+08-29 11:32:57:428     2020 - 2022 Copyright by SiFli team
+08-29 11:32:57:429    cal data cc_mn:10 cc_mp:18 cv_vctrl:36 prog_vlp2:9
+08-29 11:32:57:430    mount /dev sucess
+08-29 11:32:57:430    [32m[409] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+08-29 11:32:57:432    [0m[32m[417] I/drv.rtc main: RC10K Freq=9kHz, cycle=1006573, rtc ppm=0
+08-29 11:32:57:433    
+08-29 11:32:57:433    [0m[32m[426] I/drv.rtc main: DIVA=37, DIVA_FRA=4180, DIVB=256
+08-29 11:32:57:434    
+08-29 11:32:57:435    [0m[32m[433] I/drv.rtc main: Init RTC, wake = 0
+08-29 11:32:57:437    
+08-29 11:32:57:437    [0mNAND factory magic error 0xffffffff vs 0x53450617
+08-29 11:32:57:439    [32m[489] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+08-29 11:32:57:440    
+08-29 11:32:57:440    [0m[32m[496] I/drv.audprc main: HAL_AUDPRC_Init res 0
+08-29 11:32:57:441    
+08-29 11:32:57:442    [0m[32m[502] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+08-29 11:32:57:444    
+08-29 11:32:57:444    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+08-29 11:32:57:446    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-29 11:32:57:447    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-29 11:32:57:454    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+08-29 11:32:57:457    [32m[550] I/TOUCH main: Regist touch screen driver, probe=0x1000775d 
+08-29 11:32:57:457    [0mlvsf_font_load: faces 2 ft_cache_size 300000
+08-29 11:32:57:460    call par CFG1(3313)
+08-29 11:32:57:462    fc 9, xtal 2000, pll 2092
+08-29 11:32:57:464    call par CFG1(3313)
+08-29 11:32:57:464    fc 7, xtal 2000, pll 1677
+08-29 11:32:57:465    mount fs[yaffs] on / failed.
+08-29 11:32:57:465    [32m[619] I/drv.lcd app_watc: [NONE] -> [OPENING]
+08-29 11:32:57:469    [0m[32m[625] I/drv.lcd lcd_task: open
+08-29 11:32:57:471    [0m[32m[630] I/drv.epic lcd_task: drv_gpu opened.
+08-29 11:32:57:471    [0m[32m[636] I/drv.lcd lcd_task: HW open
+08-29 11:32:57:472    [0m[32m[647] I/drv.lcd lcd_task: Try registered LCD driver...
+08-29 11:32:57:474    [0mmsh />
+08-29 11:32:57:521    
+08-29 11:32:57:521    CO5300_ReadID 0x331100 
+08-29 11:32:57:522    [32m[1322] I/co5300 lcd_task: LCD module use CO5300 IC 
+08-29 11:32:57:523    
+08-29 11:32:57:523    [0m
+08-29 11:32:57:711    
+08-29 11:32:57:712    CO5300_ReadID 0x331100 
+08-29 11:32:57:713    [32m[3144] I/co5300 lcd_task: LCD module use CO5300 IC 
+08-29 11:32:57:713    
+08-29 11:32:57:714    [0m[32m[3151] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+08-29 11:32:57:714    [0m[32m[3157] I/drv.lcd lcd_task: HW open done.
+08-29 11:32:57:715    [0m[32m[3163] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+08-29 11:32:57:717    [0m[32m[3170] I/drv.lcd lcd_task: open done.
+08-29 11:32:57:717    [0m[32m[3175] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+08-29 11:32:57:718    [0m[32m[3182] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+08-29 11:32:57:718    [0m[32m[3190] I/TOUCH app_watc: Open
+08-29 11:32:57:720    [0m[32m[3195] I/TOUCH tp_init: Find touch screen driver...
+08-29 11:32:57:720    [0m[32m[3202] I/TOUCH tp_init: Probe 1000775d
+08-29 11:32:57:720    [0m[32m[3207] I/drv.chsc6417 tp_init: chsc6417 probe OK
+08-29 11:32:57:721    [0m[32m[3213] I/TOUCH tp_init: touch screen found driver  0x20036444, chsc6417
+08-29 11:32:57:721    [0m[3222] D/drv.chsc6417 tp_init: chsc6417 init
+08-29 11:32:57:722    chsc6417 id=0x0
+08-29 11:32:57:722    [32m[3230] I/drv.chsc6417 tp_init: chsc6417 probe OK
+08-29 11:32:57:723    [0m[3237] D/drv.chsc6417 tp_init: chsc6417 init OK
+08-29 11:32:57:723    [32m[3242] I/TOUCH app_watc: Opened.
+08-29 11:32:57:724    [0m
+08-29 11:32:57:725    [32m[3265] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+08-29 11:32:57:727    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+08-29 11:32:57:927    [32m[5194] I/drv.lcd lcd_task: set brightness 100
+08-29 11:32:57:928    [0m[32m[5200] I/drv.lcd lcd_task: display on
+08-29 11:32:57:930    [0m[32m[5205] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+08-29 11:32:57:930    [0m[5213] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:506.
+08-29 11:32:57:931    [32m[5224] I/APP.FWK.INT
+08-29 11:32:57:932     app_watc: [MainScreen]
+08-29 11:32:57:932    [0m
+08-29 11:32:57:961    [5515] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+08-29 11:32:57:962    [32m[5524] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:506
+08-29 11:32:57:964    [0m[32m[5532] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 2004c694
+08-29 11:32:57:964    [0m[32m[5540] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+08-29 11:32:57:965    [0m[5548] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+08-29 11:32:57:966    [32m[5556] I/APP.SCHE app_watc: app[MainScreen] do START, 2004c694
+08-29 11:32:57:966    [0m[32m[5564] I/APP.FWK.INT app_watc: [MainScreen]
+08-29 11:32:57:968    [0m[5570] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x2004c694] to gui_app_mbx tick:543.
+08-29 11:32:57:969    [32m[5581] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:543
+08-29 11:32:57:970    [0m[5590] D/APP.SCHE app_watc: app[MainScreen] create page[root] 2004c760
+08-29 11:32:57:971    [5597] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+08-29 11:32:57:972    [5606] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+08-29 11:32:57:972    [32m[5616] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 2004c760
+08-29 11:32:57:973    [0
+08-29 11:32:57:974    m
+08-29 11:32:57:978    [Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+08-29 11:32:57:979    [Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 m
+08-29 11:32:57:980    s, vol=70%)
+08-29 11:32:57:989    [32m[5774] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 2004c760
+08-29 11:32:57:990    [0m[32m[5783] I/APP.SCHE app_watc: Try setup trans-anim
+08-29 11:32:57:991    [0m[32m[5789] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+08-29 11:32:57:992    [0m[5796] D/APP.SCHE app_watc: app_schedule_task do
+08-29 11:32:57:992    ne.
+08-29 11:35:27:955    [Music] Stopped
+08-29 11:36:56:166    [31m[2277272] E/drv.i2c tpread: bus err:1, xfer:0/2, i2c_stat:20, i2c_errcode=24
+08-29 11:36:56:166    [0m[31m[2277283] E/drv.i2c tpread: reset and send 9 clks
+08-29 11:36:56:181    [0m
+08-29 11:36:56:416    [31m[2279544] E/drv.lcd lcd_task: draw_core timeout
+08-29 11:36:56:417    [0m[31m[2279550] E/drv.lcd lcd_task: Error, Clear p_drv_ops 100ae444, sem_v=0
+08-29 11:36:56:417    [0m[31m[2279558] E/drv.lcd lcd_task: irq_en=0
+08-29 11:36:56:417    [0m[31m[2279564] E/drv.lcd lcd_task: LCDC1_irq_en=1, active=0, pending=0
+08-29 11:36:56:417    [0m[31m[2279572] E/drv.lcd lcd_task: hlcdc errcode=0, lock=0, state=2
+08-29 11:36:56:417    [0m[31m[2279579] E/drv.lcd lcd_task: LCDC STATUS=1,TE=3
+08-29 11:36:56:417    [0m[31m[2279586] E/drv.lcd lcd_task: HAL dbg cnt f0, f0, ef
+08-29 11:36:56:417    [0m[31m[2279592] E/drv.lcd lcd_task: DRV dbg cnt f0, ef, ef
+08-29 11:36:56:417    [0m[31m[2279599] E/drv.lcd lcd_task: LCDC CANVAS TL=0,BR=1c10185,SETTING=a0141,IRQ=0
+08-29 11:36:56:417    [0m[31m[2279608] E/drv.lcd lcd_task: LCDC LAYER0 CFG=14618ff0,TL=0,BR=1c10185,SRC=604732c0,DEC=0
+08-29 11:36:56:417    [0m[31m[2279619] E/drv.lcd lcd_task: LCDC LAYER1 CFG=0,TL=0,BR=0,SRC=0
+08-29 11:36:56:417    [0m
+08-29 11:36:56:448    [31m[2279906] E/drv.lcd lcd_task: Error, Clear p_drv_ops 100ae444, sem_v=0
+08-29 11:36:56:448    [0m[31m[2279914] E/drv.lcd lcd_task: irq_en=0
+08-29 11:36:56:448    [0m[31m[2279919] E/drv.lcd lcd_task: LCDC1_irq_en=1, active=0, pending=0
+08-29 11:36:56:448    [0m[31m[2279927] E/drv.lcd lcd_task: hlcdc errcode=0, lock=0, state=2
+08-29 11:36:56:448    [0m[31m[2279935] E/drv.lcd lcd_task: LCDC STATUS=1,TE=3
+08-29 11:36:56:448    [0m[31m[2279941] E/drv.lcd lcd_task: HAL dbg cnt f0, f0, ef
+08-29 11:36:56:448    [0m[31m[2279948] E/drv.lcd lcd_task: DRV dbg cnt f0, ef, ef
+08-29 11:36:56:464    [0m[31m[2279955] E/drv.lcd lcd_task: LCDC CANVAS TL=0,BR=1c10185,SETTING=a0141,IRQ=0
+08-29 11:36:56:464    [0m[31m[2279964] E/drv.lcd lcd_task: LCDC LAYER0 CFG=14618ff0,TL=0,BR=1c10185,SRC=604732c0,DEC=0
+08-29 11:36:56:464    [0m[31m[2279975] E/drv.lcd lcd_task: LCDC LAYER1 CFG=0,TL=0,BR=0,SRC=0
+08-29 11:36:56:464    [0m[32m[2279982] I/drv.lcd lcd_task: [ON] -> [TIMEOUT]
+08-29 11:36:56:464    [0m[31m[2279989] E/drv.lcd lcd_task: lcd_timeout_error draw_core, 1698
+08-29 11:36:56:464    [0mAssertion failed at function:draw_core, line number:1699 ,(0)
+08-29 11:36:56:464    Previous ISR enable 0
+08-29 11:36:56:464    ===================
+08-29 11:36:56:464    Thread Info        
+08-29 11:36:56:464    ===================
+08-29 11:36:56:464             pri  status      sp      top     stack size max used left tick  error
+08-29 11:36:56:464    -------- ---  ------- ---------- ---------- ----------  ------  ---------- ---
+08-29 11:36:56:464    tpread    10  suspend 0x2001d5b8 0x2001d6c4 0x00000400    87%   0x00000005 000
+08-29 11:36:56:464    lcd_task  12  ready   0x2001d128 0x2001d2c4 0x00000800    44%   0x00000009 000
+08-29 11:36:56:464    tshell    20  suspend 0x2004c0b0 0x2004c22c 0x00001000    16%   0x0000000a 000
+08-29 11:36:56:464    app_watc  19  ready   0x2003d428 0x2003d530 0x00004000    13%   0x00000004 -02
+08-29 11:36:56:479    epic_tas  13  suspend 0x2001e418 0x2001e6c4 0x00001000    56%   0x00000006 000
+08-29 11:36:56:481    tidle     31  ready   0x2003d778 0x2003d7cc 0x00000200    21%   0x0000001d 000
+08-29 11:36:56:481    timer      4  suspend 0x20029198 0x200291ec 0x00000400    08%   0x00000009 000
+08-29 11:36:56:481    ===================
+08-29 11:36:56:481    Mailbox Info       
+08-29 11:36:56:481    ===================
+08-29 11:36:56:481            entry size suspend thread
+08-29 11:36:56:481    ------- ----  ---- --------------
+08-29 11:36:56:481    appfwk  0000  0010 0
+08-29 11:36:56:481    ===================
+08-29 11:36:56:481    MessageQueue Info  
+08-29 11:36:56:481    ===================
+08-29 11:36:56:481             entry suspend thread
+08-29 11:36:56:481    -------- ----  --------------
+08-29 11:36:56:481    drv_lcd  0000  0
+08-29 11:36:56:481    drv_epic 0000  1:epic_tasÅ
+08-29 11:36:56:481    ===================
+08-29 11:36:56:481    Mutex Info         
+08-29 11:36:56:481    ===================
+08-29 11:36:56:481               owner  hold suspend thread
+08-29 11:36:56:481    -------- -------- ---- --------------
+08-29 11:36:56:481    tplck    (null)   0000 0
+08-29 11:36:56:481    ymutex   (null)   0000 0
+08-29 11:36:56:481    rtc      (null)   0000 0
+08-29 11:36:56:481    ulog loc (null)   0000 0
+08-29 11:36:56:481    fslock   (null)   0000 0
+08-29 11:36:56:481    i2c_bus_ (null)   0000 0
+08-29 11:36:56:481    i2c_bus_ (null)   0000 0
+08-29 11:36:56:481    ===================
+08-29 11:36:56:481    Semaphore Info     
+08-29 11:36:56:481    ===================
+08-29 11:36:56:481             v   suspend thread
+08-29 11:36:56:481    -------- --- --------------
+08-29 11:36:56:481    app_sche 001 0
+08-29 11:36:56:481    btn      001 0
+08-29 11:36:56:481    lv_data  001 0
+08-29 11:36:56:481    tp_ctrl  001 0
+08-29 11:36:56:481    lv_lcd   001 0
+08-29 11:36:56:481    lcd_msg  000 0
+08-29 11:36:56:481    lcd_draw 000 0
+08-29 11:36:56:481    drv_lcd  000 0
+08-29 11:36:56:481    shrx     000 0
+08-29 11:36:56:481    epic_rl  002 0
+08-29 11:36:56:481    epic     001 0
+08-29 11:36:56:481    chsc6417 000 1:tpread
+08-29 11:36:56:495    app_ft_m 001 0
+08-29 11:36:56:495    app_mess 001 0
+08-29 11:36:56:495    app_imag 001 0
+08-29 11:36:56:495    app_imag 001 0
+08-29 11:36:56:495    aes_drv  001 0
+08-29 11:36:56:495    drv_eDma 001 0
+08-29 11:36:56:495    nandlock 001 0
+08-29 11:36:56:495    gpadc    001 0
+08-29 11:36:56:495    i2c4     000 0
+08-29 11:36:56:495    i2c1     000 0
+08-29 11:36:56:495    heap     001 0
+08-29 11:36:56:495    ===================
+08-29 11:36:56:495    Memory Info     
+08-29 11:36:56:495    ===================
+08-29 11:36:56:495    total memory: 229524 used memory : 22404 maximum allocated memory: 27308
+08-29 11:36:56:495    ===================
+08-29 11:36:56:495    MemoryHeap Info     
+08-29 11:36:56:495    ===================
+08-29 11:36:56:495              pool size  max used size available size
+08-29 11:36:56:495    -------- ---------- ------------- --------------
+08-29 11:36:56:495    app_ft_m 400000     43156         359300
+08-29 11:36:56:495    app_mess 96000      72            95928
+08-29 11:36:56:495    app_imag 50000      72            49928
+08-29 11:36:56:495    app_imag 500000     72            499928
+08-29 11:36:56:495    =====================
+08-29 11:36:56:495    PSP: 0x0x2001d1a4, MSP: 0x0x20001fe0
+08-29 11:36:56:508    =====================
+08-29 11:36:56:508     sp: 0x2001d200
+08-29 11:36:56:508    psr: 0x40000000
+08-29 11:36:56:508    r00: 0x00000000
+08-29 11:36:56:508    r01: 0x00000017
+08-29 11:36:56:508    r02: 0x00000259
+08-29 11:36:56:508    r03: 0x30000000
+08-29 11:36:56:508    r12: 0x10068e1d
+08-29 11:36:56:508     lr: 0x10051d2b
+08-29 11:36:56:508     pc: 0x10051d2b
+08-29 11:36:56:508    =====================
+08-29 11:36:56:511    fatal error on thread: lcd_taskÅ

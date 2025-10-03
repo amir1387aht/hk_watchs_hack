@@ -1,0 +1,10 @@
+#APP specific configuration.
+config CUSTOM_MEM_MAP
+    bool 
+	select custom_mem_map
+	default y    
+
+config NODE_ADDR
+    int "Node address" 
+	default 12   
+      

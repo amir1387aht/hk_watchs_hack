@@ -1,0 +1,1819 @@
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[389] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[396] I/drv.rtc: RC10K Freq=9kHz, cycle=1058079, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7235, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[422] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[428] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[452] E/drv.encoder: encoder1 register success
+[0m[31m[458] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[470] E/drv.encoder: encoder2 register success
+[0m[32m[476] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:4
+encoder1_count:0
+encoder2_count:21
+encoder1_count:0
+encoder2_count:47
+encoder1_count:0
+encoder2_count:55
+encoder1_count:0
+encoder2_count:110
+encoder1_count:0
+encoder2_count:137
+encoder1_count:0
+encoder2_count:173
+encoder1_count:0
+encoder2_count:216
+encoder1_count:0
+encoder2_count:306
+encoder1_count:0
+encoder2_count:364
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058261, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7135, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2021
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:14
+encoder1_count:0
+encoder2_count:27
+encoder1_count:0
+encoder2_count:69
+encoder1_count:0
+encoder2_count:167
+encoder1_count:0
+encoder2_count:274
+encoder1_count:0
+encoder2_count:275
+encoder1_count:0
+encoder2_count:305
+encoder1_count:0
+encoder2_count:322
+encoder1_count:0
+encoder2_count:341
+encoder1_count:0
+encoder2_count:376
+encoder1_count:0
+encoder2_count:380
+encoder1_count:0
+encoder2_count:396
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058212, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7162, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:15
+encoder1_count:0
+encoder2_count:32
+encoder1_count:0
+encoder2_count:38
+encoder1_count:0
+encoder2_count:49
+encoder1_count:0
+encoder2_count:51
+encoder1_count:0
+encoder2_count:56
+encoder1_count:0
+encoder2_count:74
+encoder1_count:0
+encoder2_count:121
+encoder1_count:0
+encoder2_count:132
+encoder1_count:0
+encoder2_count:166
+encoder1_count:0
+encoder2_count:210
+encoder1_count:0
+encoder2_count:244
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058202, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7167, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:25
+encoder1_count:0
+encoder2_count:37
+encoder1_count:0
+encoder2_count:36
+encoder1_count:0
+encoder2_count:46
+encoder1_count:0
+encoder2_count:42
+encoder1_count:0
+encoder2_count:116
+encoder1_count:0
+encoder2_count:132
+encoder1_count:0
+encoder2_count:132
+encoder1_count:0
+encoder2_count:178
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058246, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7143, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:54
+encoder1_count:0
+encoder2_count:76
+encoder1_count:0
+encoder2_count:71
+encoder1_count:0
+encoder2_count:149
+encoder1_count:0
+encoder2_count:251
+encoder1_count:0
+encoder2_count:271
+encoder1_count:0
+encoder2_count:319
+encoder1_count:0
+encoder2_count:364
+encoder1_count:0
+encoder2_count:364
+encoder1_count:0
+encoder2_count:364
+encoder1_count:0
+encoder2_count:396
+encoder1_count:0
+encoder2_count:403
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058215, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7160, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[441] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[466] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:80
+encoder1_count:0
+encoder2_count:135
+encoder1_count:0
+encoder2_count:194
+encoder1_count:0
+encoder2_count:222
+encoder1_count:0
+encoder2_count:249
+encoder1_count:0
+encoder2_count:279
+encoder1_count:0
+encoder2_count:287
+encoder1_count:0
+encoder2_count:303
+encoder1_count:0
+encoder2_count:327
+encoder1_count:0
+encoder2_count:311
+encoder1_count:0
+encoder2_count:337
+encoder1_count:0
+encoder2_count:398
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058148, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7197, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:47
+encoder1_count:0
+encoder2_count:77
+encoder1_count:0
+encoder2_count:173
+encoder1_count:0
+encoder2_count:220
+encoder1_count:0
+encoder2_count:262
+encoder1_count:0
+encoder2_count:311
+encoder1_count:0
+encoder2_count:313
+encoder1_count:0
+encoder2_count:339
+encoder1_count:0
+encoder2_count:387
+encoder1_count:0
+encoder2_count:387
+encoder1_count:0
+encoder2_count:430
+encoder1_count:0
+encoder2_count:556
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058110, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7218, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2018
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:27
+encoder1_count:0
+encoder2_count:52
+encoder1_count:0
+encoder2_count:51
+encoder1_count:0
+encoder2_count:94
+encoder1_count:0
+encoder2_count:95
+encoder1_count:0
+encoder2_count:95
+encoder1_count:0
+encoder2_count:95
+encoder1_count:0
+encoder2_count:95
+encoder1_count:0
+encoder2_count:95
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058181, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7179, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058168, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7186, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[458] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058095, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7226, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058231, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7152, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[458] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[396] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[403] I/drv.rtc: RC10K Freq=9kHz, cycle=1058160, rtc ppm=0
+
+[0m[32m[410] I/drv.rtc: DIVA=35, DIVA_FRA=7191, DIVB=256
+
+[0m[32m[416] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[429] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[435] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[441] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[447] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[453] I/drv.encoder: encoder1 init success!!
+[0m[31m[459] E/drv.encoder: encoder1 register success
+[0m[31m[465] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[471] I/drv.encoder: encoder2 init success!!
+[0m[31m[477] E/drv.encoder: encoder2 register success
+[0m[32m[483] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+[32m[45064] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:15
+encoder1_count:0
+[32m[94344] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:32
+encoder1_count:0
+msh />msh />encoder2_count:42
+encoder1_count:0
+msh />msh />SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058221, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7157, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />[32m[1407] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:8
+encoder1_count:0
+encoder2_count:61
+encoder1_count:0
+encoder2_count:165
+encoder1_count:0
+[32m[28234] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:211
+encoder1_count:0
+[32m[38019] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[43759] I/TEST.GPIO: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:236
+encoder1_count:0
+[32m[52654] I/TEST.GPIO: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:255
+encoder1_count:0
+encoder2_count:287
+encoder1_count:0
+[32m[66531] I/TEST.GPIO: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:308
+encoder1_count:0
+encoder2_count:375
+encoder1_count:0
+encoder2_count:402
+encoder1_count:0
+encoder2_count:425
+encoder1_count:0
+encoder2_count:425
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058217, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7159, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[466] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />[32m[6443] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:20
+encoder1_count:0
+[32m[22493] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:20
+encoder1_count:0
+[32m[32285] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:78
+encoder1_count:0
+[32m[38156] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:123
+encoder1_count:0
+[32m[46592] I/TEST.GPIO: PIN 32, FUNC=5, VAL=1, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[50353] I/TEST.GPIO: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />[32m[54785] I/TEST.GPIO: PIN 32, FUNC=5, VAL=0, DIG_IO_PU, GPIO_MODE_INPUT, irqhdr=/, arg=/
+[0mmsh />msh />encoder2_count:154
+encoder1_count:0
+encoder2_count:159
+encoder1_count:0
+encoder2_count:159
+encoder1_count:0
+encoder2_count:159
+encoder1_count:0
+encoder2_count:159
+encoder1_count:0
+encoder2_count:159
+encoder1_count:0
+encoder2_count:159
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058302, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7113, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[466] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058275, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7127, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058220, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7158, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2018
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058209, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7164, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058238, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7148, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058130, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7207, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[434] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[396] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[403] I/drv.rtc: RC10K Freq=9kHz, cycle=1058202, rtc ppm=0
+
+[0m[32m[410] I/drv.rtc: DIVA=35, DIVA_FRA=7167, DIVB=256
+
+[0m[32m[416] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[429] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[435] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[441] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[447] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[453] I/drv.encoder: encoder1 init success!!
+[0m[31m[459] E/drv.encoder: encoder1 register success
+[0m[31m[465] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[471] I/drv.encoder: encoder2 init success!!
+[0m[31m[477] E/drv.encoder: encoder2 register success
+[0m[32m[483] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058140, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7202, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058189, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7175, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[441] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[466] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000040
+NAND ID 0x21aaef
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 2000aff4, map1 2000abe4, map2 2000adec 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+mount /dev sucess
+[32m[390] I/drv.rtc: PSCLR=0x23709900 DivAI=35 DivAF=7206 B=256
+[0m[32m[397] I/drv.rtc: RC10K Freq=9kHz, cycle=1058169, rtc ppm=0
+
+[0m[32m[404] I/drv.rtc: DIVA=35, DIVA_FRA=7186, DIVB=256
+
+[0m[32m[410] I/drv.rtc: Init RTC, wake = 1
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[423] I/drv.audprc: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[429] I/drv.audprc: HAL_AUDPRC_Init res 0
+
+[0m[32m[435] I/drv.audcodec: HAL_AUDCODEC_Init res 0
+
+[0m[31m[440] E/drv.encoder: HAL_GPT_Encoder_Init encoder1 success
+[0m[32m[447] I/drv.encoder: encoder1 init success!!
+[0m[31m[453] E/drv.encoder: encoder1 register success
+[0m[31m[459] E/drv.encoder: HAL_GPT_Encoder_Init encoder2 success
+[0m[32m[465] I/drv.encoder: encoder2 init success!!
+[0m[31m[471] E/drv.encoder: encoder2 register success
+[0m[32m[477] I/TOUCH: Regist touch screen driver, probe=100060d5 
+[0mcall par CFG1(3313)
+fc 9, xtal 2000, pll 2019
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2020
+Found encoder devices: encoder1 and encoder2
+Encoder devices initialized successfully
+succeed encoder_example_init
+Start Get_count!
+encoder2_count:0
+encoder1_count:0
+msh />encoder2_count:0
+encoder1_count:0
+encoder2_count:0
+encoder1_count:0

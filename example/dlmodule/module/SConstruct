@@ -1,0 +1,91 @@
+# File      : SConstruct.py
+#             Building Script for User Applications
+# This file is part of RT-Thread RTOS
+# COPYRIGHT (C) 2006 - 2015, RT-Thread Development Team
+#
+#  This program is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 2 of the License, or
+#  (at your option) any later version.
+#
+#  This program is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+#
+#  You should have received a copy of the GNU General Public License along
+#  with this program; if not, write to the Free Software Foundation, Inc.,
+#  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+#
+# Change Logs:
+# Date           Author       Notes
+# 2015-02-07     Bernard      The firstly version
+# 2018-04-15     Bernard      Add the build option for library
+#
+
+import os
+import sys
+import subprocess
+
+# from ua import BuildApplication
+from ua import BuildLibrary
+
+import rtconfig
+
+from building import *
+
+AddOption('--board',
+                    dest = 'libboard',
+                    type = 'string',
+                    default= None,
+                    help = 'board name')   
+
+
+# workaround for add resource
+# Ensure directory is created before any builder is executed
+# If the path is not present, it would not be added in "include path" and 'lang_pack.h' dependency would not work
+os.system("mkdir output")
+os.system("mkdir output\\res")
+os.system("mkdir output\\res\\strings")
+
+# Copy dependent files
+def copy_dependent_files():
+    build_path = 'build_' + GetOption('libboard') + '_hcpu'
+    os.system(f'echo copy /Y ..\\project\\{build_path}\\rtconfig.h .')
+    os.system("copy /Y ..\\project\\rtua.py .")
+    os.system(f'copy /Y ..\\project\\{build_path}\\rtconfig.h .')
+    os.system(f"copy /Y ..\\project\\{build_path}\\rtconfig_project.h .")
+    os.system(f"copy /Y ..\\project\\{build_path}\\cconfig.h .")
+    # if GetDepend('CUSTOM_MEM_MAP'):
+    os.system(f"copy /Y ..\\project\\{build_path}\\custom_mem_map.h .")
+    os.system(f"copy /Y ..\\project\\{build_path}\\ptab.h .")
+
+copy_dependent_files()
+
+def gen_rtconfig_h():
+    fpout=open(os.path.join('rtconfig.h'),"a+")
+    print("\n\n#ifndef RTCONFIG_DL_H_\n#define RTCONFIG_DL_H_\n#define BUILD_DLMODULE  1\n#endif\n\n", file=fpout)
+    if os.path.exists('cconfig.h'):
+        print("\n\n#define HAVE_CCONFIG_H 1\n\n", file=fpout)
+    fpout.close()
+
+gen_rtconfig_h()
+
+# read module_name.h, MODULE_NAME is defined in module_name.h.
+PreProcessor = PatchedPreProcessor()
+f = open('./module_name.h', 'r')
+contents = f.read()
+f.close()
+
+PreProcessor.process_contents(contents)
+BuildOptions = PreProcessor.cpp_namespace
+
+target_name = BuildOptions['MODULE_NAME']
+pgm_res_output = target_name + '_res.so'
+pgm_output = target_name + '.so'
+
+# build resource module
+BuildLibrary(pgm_res_output, 'src/resource/SConscript', 'res')
+
+# build code module
+BuildLibrary(pgm_output, 'src/app/SConscript', 'app')

@@ -1,0 +1,201 @@
+SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x7171cd
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036a04, map1 200365f4, map2 200367fc 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:18 cv_vctrl:36 prog_vlp2:9
+mount /dev sucess
+[32m[409] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+[0m[32m[417] I/drv.rtc main: RC10K Freq=9kHz, cycle=1006780, rtc ppm=0
+
+[0m[32m[425] I/drv.rtc main: DIVA=37, DIVA_FRA=4054, DIVB=256
+
+[0m[32m[433] I/drv.rtc main: Init RTC, wake = 0
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[489] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[496] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[32m[502] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[550] I/TOUCH main: Regist touch screen driver, probe=0x1000775d 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2090
+call par CFG1(3313)
+fc 7, xtal 2000, pll 1675
+mount fs[yaffs] on / failed.
+[32m[619] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[625] I/drv.lcd lcd_task: open
+[0m[32m[630] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[635] I/drv.lcd lcd_task: HW open
+[0m[32m[647] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[1321] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[3140] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[3147] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[3154] I/drv.lcd lcd_task: HW open done.
+[0m[32m[3159] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[3166] I/drv.lcd lcd_task: open done.
+[0m[32m[3172] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[3178] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[3186] I/TOUCH app_watc: Open
+[0m[32m[3191] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[3198] I/TOUCH tp_init: Probe 1000775d
+[0m[32m[3203] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[3210] I/TOUCH tp_init: touch screen found driver  0x20036444, chsc6417
+[0m[3218] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[3226] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[3233] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[3238] I/TOUCH app_watc: Opened.
+[0m[32m[3261] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+[32m[5188] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[5195] I/drv.lcd lcd_task: display on
+[0m[32m[5200] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[5208] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:506.
+[32m[5218] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[5509] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[5518] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:506
+[0m[32m[5527] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 2004c694
+[0m[32m[5535] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[5542] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[5551] I/APP.SCHE app_watc: app[MainScreen] do START, 2004c694
+[0m[32m[5559] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[5565] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x2004c694] to gui_app_mbx tick:543.
+[32m[5575] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:543
+[0m[5584] D/APP.SCHE app_watc: app[MainScreen] create page[root] 2004c760
+[5592] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[5601] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[5610] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 2004c760
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[5768] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 2004c760
+[0m[32m[5777] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[5783] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[5790] D/APP.SCHE app_watc: app_schedule_task done.
+dfs_statfs failed.
+msh />msh />SFBL
+Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+NAND ID 0x7171cd
+det bbm table with 1, 1, 2
+detect result 2
+V1 1 in block 992, V2 0 in block 994
+Latest version 1
+V1 1 in block 993, V2 0 in block 995
+Latest version 1
+v1 1 in blk 992, v2 1 in block 993
+BBM MEM: ctx 20036a04, map1 200365f4, map2 200367fc 
+sif_bbm_init done
+
+ \ | /
+- SiFli Corporation
+ / | \     build on Aug 29 2025, 2.4.0 build 34b93d96
+ 2020 - 2022 Copyright by SiFli team
+cal data cc_mn:10 cc_mp:18 cv_vctrl:36 prog_vlp2:9
+mount /dev sucess
+[32m[410] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+[0m[32m[418] I/drv.rtc main: RC10K Freq=9kHz, cycle=1006635, rtc ppm=0
+
+[0m[32m[426] I/drv.rtc main: DIVA=37, DIVA_FRA=4142, DIVB=256
+
+[0m[32m[434] I/drv.rtc main: Init RTC, wake = 0
+
+[0mNAND factory magic error 0xffffffff vs 0x53450617
+[32m[490] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+
+[0m[32m[497] I/drv.audprc main: HAL_AUDPRC_Init res 0
+
+[0m[32m[503] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+
+[0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+[32m[551] I/TOUCH main: Regist touch screen driver, probe=0x1000775d 
+[0mlvsf_font_load: faces 2 ft_cache_size 300000
+call par CFG1(3313)
+fc 9, xtal 2000, pll 2089
+call par CFG1(3313)
+fc 7, xtal 2000, pll 1675
+mount fs[yaffs] on / failed.
+[32m[620] I/drv.lcd app_watc: [NONE] -> [OPENING]
+[0m[32m[626] I/drv.lcd lcd_task: open
+[0m[32m[631] I/drv.epic lcd_task: drv_gpu opened.
+[0m[32m[637] I/drv.lcd lcd_task: HW open
+[0m[32m[648] I/drv.lcd lcd_task: Try registered LCD driver...
+[0mmsh />
+CO5300_ReadID 0x331100 
+[32m[1323] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m
+CO5300_ReadID 0x331100 
+[32m[3144] I/co5300 lcd_task: LCD module use CO5300 IC 
+
+[0m[32m[3151] I/drv.lcd lcd_task: Found lcd co5300 id:331100h
+[0m[32m[3158] I/drv.lcd lcd_task: HW open done.
+[0m[32m[3163] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+[0m[32m[3170] I/drv.lcd lcd_task: open done.
+[0m[32m[3176] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+[0m[32m[3182] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+[0m[32m[3191] I/TOUCH app_watc: Open
+[0m[32m[3195] I/TOUCH tp_init: Find touch screen driver...
+[0m[32m[3202] I/TOUCH tp_init: Probe 1000775d
+[0m[32m[3207] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[32m[3214] I/TOUCH tp_init: touch screen found driver  0x20036444, chsc6417
+[0m[3222] D/drv.chsc6417 tp_init: chsc6417 init
+chsc6417 id=0x0
+[32m[3231] I/drv.chsc6417 tp_init: chsc6417 probe OK
+[0m[3237] D/drv.chsc6417 tp_init: chsc6417 init OK
+[32m[3242] I/TOUCH app_watc: Opened.
+[0m[32m[3265] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+[0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+[32m[5194] I/drv.lcd lcd_task: set brightness 100
+[0m[32m[5201] I/drv.lcd lcd_task: display on
+[0m[32m[5206] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+[0m[5214] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [MainScreen] to gui_app_mbx tick:506.
+[32m[5224] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[5515] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+[32m[5524] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:506
+[0m[32m[5533] I/APP.SCHE app_watc: app[MainScreen] do LOAD, 2004c694
+[0m[32m[5541] I/APP.FWK app_watc: finding MainScreen in builtin apps...
+[0m[5549] D/APP.SCHE app_watc: app[MainScreen] tgt_state [LAUNCHED] -> [RUNNING]
+[32m[5557] I/APP.SCHE app_watc: app[MainScreen] do START, 2004c694
+[0m[32m[5565] I/APP.FWK.INT app_watc: [MainScreen]
+[0m[5571] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x2004c694] to gui_app_mbx tick:543.
+[32m[5581] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:543
+[0m[5590] D/APP.SCHE app_watc: app[MainScreen] create page[root] 2004c760
+[5598] D/APP.SCHE app_watc: page[MainScreen][root] tgt_state [CREATED] -> [RESUMED]
+[5607] D/APP.SCHE app_watc: Pause all app, and resume to MainScreen app
+[32m[5616] I/APP.SCHE app_watc: page[MainScreen][root] do ONSTART, 2004c760
+[0m[Music] Track Set (single): Default Song T - Demo Artist (150 sec)
+[Music] Playing: Default Song T - Demo Artist (pos=0 s, +0 ms, vol=70%)
+[32m[5774] I/APP.SCHE app_watc: page[MainScreen][root] do ONRESUME, 2004c760
+[0m[32m[5783] I/APP.SCHE app_watc: Try setup trans-anim
+[0m[32m[5789] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+[0m[5796] D/APP.SCHE app_watc: app_schedule_task done.
+[Music] Paused at 14 s (+0 ms)
+[Music] Playing: Default Song T - Demo Artist (pos=14 s, +0 ms, vol=70%)

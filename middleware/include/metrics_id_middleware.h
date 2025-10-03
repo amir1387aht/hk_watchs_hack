@@ -1,0 +1,40 @@
+/*
+ * SPDX-FileCopyrightText: 2019-2022 SiFli Technologies(Nanjing) Co., Ltd
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+#ifndef _METRICS_ID_MIDDLEWARE_H_
+#define _METRICS_ID_MIDDLEWARE_H_
+
+#include "metrics_id.h"
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#define METRICS_MW_CPU_USAGE          (METRICS_MIDDLEWARE_ID_START)
+#define METRICS_MW_PM_STAT            (METRICS_MIDDLEWARE_ID_START + 1)
+#define METRICS_MW_PM_DEBUG           (METRICS_MIDDLEWARE_ID_START + 2)
+#define METRICS_MW_BT_CONN            (METRICS_MIDDLEWARE_ID_START + 3)
+#define METRICS_MW_BT_SCAN            (METRICS_MIDDLEWARE_ID_START + 4)
+#define METRICS_MW_BT_ADV             (METRICS_MIDDLEWARE_ID_START + 5)
+#define METRICS_MW_BT_RSSI            (METRICS_MIDDLEWARE_ID_START + 6)
+#define METRICS_MW_GUI_PM_STAT        (METRICS_MIDDLEWARE_ID_START + 7)
+#define METRICS_MW_MOTOR_STAT         (METRICS_MIDDLEWARE_ID_START + 8)
+#define METRICS_MW_BAT_VOL_TEMP_STAT         (METRICS_MIDDLEWARE_ID_START + 9)
+#define METRICS_MW_GS_STAT         (METRICS_MIDDLEWARE_ID_START + 10)
+#define METRICS_MW_HR_STAT         (METRICS_MIDDLEWARE_ID_START + 11)
+#define METRICS_MW_POWER_ON_STAT         (METRICS_MIDDLEWARE_ID_START + 12)
+#define METRICS_MW_SHUTDOWN_STAT         (METRICS_MIDDLEWARE_ID_START + 13)
+
+
+
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#endif /* _METRICS_ID_MIDDLEWARE_H_ */
