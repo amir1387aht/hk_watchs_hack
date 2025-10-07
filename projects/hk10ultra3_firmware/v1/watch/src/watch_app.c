@@ -74,18 +74,7 @@ static void on_crown_btn_callback(button_action_t event)
 {
     if (event == BUTTON_PRESSED)
     {
-        if (gui_app_is_actived(WATCHFACE_APP_NAME))
-        {
-            gui_app_run(MENU_APP_NAME);
-        }
-        else if (gui_app_is_actived(MENU_APP_NAME))
-        {
-            gui_app_run(WATCHFACE_APP_NAME);
-        }
-        else
-        {
-            gui_app_goback();
-        }
+        rt_kprintf("Crown Button Pressed");
     }
 }
 

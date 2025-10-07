@@ -9,13 +9,12 @@ list = os.listdir(cwd)
 objs_ezip = []
 objs_no_ezip = []
 objs_large_ezip = []
+objs_gif = []
 
 objs_ezip += Glob('common/ezip/*.png')
-objs_ezip += Glob('common/ezip/*.gif')
+objs_gif += Glob('common/gif/*.gif')
 objs_no_ezip = Glob('common/no_ezip/*.png')
-objs_no_ezip += Glob('common/no_ezip/*.gif')
 objs_large_ezip += Glob('common/large_ezip/*.png')
-objs_large_ezip += Glob('common/large_ezip/*.gif')
 
 def align_to_power_of_two_and_str(num):
     power = 1
@@ -41,6 +40,7 @@ if GetDepend('BSP_USING_PC_SIMULATOR'):
 else:
     objs = Env.ImgResource(objs_no_ezip, img_flags+' -cfile 1 -dpt 1')
     objs += Env.ImgResource(objs_ezip, img_flags+' -cfile 2 -dpt 1')
+    objs += Env.ImgResource(objs_gif, img_flags+'  -cfile 2 -dpt 1')
     objs += Env.ImgResource(objs_large_ezip, img_flags+' -cfile 2 -dpt 4 -ers '+ers_v)
 
 if GetOption('no_cc'):

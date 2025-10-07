@@ -6,6 +6,7 @@
       ],
       "name": "x86-Debug",
       "includePath": [
+        "${workspaceRoot}\\..\\..\\..\\..\\middleware\\sifli_lib\\lib",
         "${workspaceRoot}\\..\\..\\..\\..\\external\\FlashDB\\inc",
         "${workspaceRoot}\\..\\..\\..\\..\\rtos\\rtthread\\components\\dfs\\include",
         "${workspaceRoot}\\..\\..\\..\\..\\customer\\boards\\eh-lb52xu",
