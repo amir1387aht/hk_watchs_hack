@@ -90,7 +90,7 @@ Save and exit to apply your configuration.
    ```bash
    build_eh-lb525_hcpu\uart_download.bat
    ```
-3. When prompted, choose your **COM port** (e.g., `COM3`, `COM6`).
+3. When prompted, choose your **COM port number** (e.g., `3`, `6`).
 
 > 💡 If flashing fails, check wiring (TX↔RX), COM port, or boot mode.
 
