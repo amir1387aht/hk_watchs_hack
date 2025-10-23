@@ -106,8 +106,8 @@ Typical UART wiring:
 | DBG_RX0        | TX          | Data receive     |
 | GND            | GND         | Ground reference |
 
-⚠️ **Do NOT power the watch from the adapter** unless the guide/video says so — incorrect voltage can destroy the device.
-If your adapter is 3.3 V or 5 V and the watch uses 1.8 V logic, use a **level shifter**.
+⚠️ **Do NOT power the watch from the adapter** incorrect voltage can destroy the device.
+If your adapter is 1.8 V or 5 V, use a 3.3 V **level shifter**.
 
 Some models require entering bootloader mode manually (button press or pin short).
 Refer to the demo video for your specific model.
