@@ -5,7 +5,7 @@
 ---
 
 ## 🎥 Demo
-Watch the full video tutorial: [Click here to watch]() *(url)*
+Watch the full video tutorial: [Click here to watch]()
 
 ---
 
@@ -165,6 +165,6 @@ To contribute:
 
 ## ⚖️ License
 
-MIT
+Apache License 2.0
 
 ---
