@@ -55,7 +55,7 @@ Follow the official SiFli SDK installation guide:
 2. Navigate to the project folder:
    ```bash
    cd projects\hk10ultra3_firmware\v1\watch\project
-````
+```
 
 3. Compile:
 
