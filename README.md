@@ -1,4 +1,3 @@
-````markdown
 # hk-watches-hack
 
 > Reverse-engineering toolkit and project files for HK watches — includes SDK setup, build, and flashing instructions.
