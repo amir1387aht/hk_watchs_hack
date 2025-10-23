@@ -109,9 +109,6 @@ Typical UART wiring:
 ⚠️ **Do NOT power the watch from the adapter** incorrect voltage can destroy the device.
 If your adapter is 1.8 V or 5 V, use a 3.3 V **level shifter**.
 
-Some models require entering bootloader mode manually (button press or pin short).
-Refer to the demo video for your specific model.
-
 ---
 
 ## 🧯 Troubleshooting
@@ -127,13 +124,12 @@ Refer to the demo video for your specific model.
 * Verify correct COM port and close other serial tools.
 * Swap TX/RX if flashing fails.
 * Confirm solid GND and stable power.
-* Some devices must be manually put into bootloader mode.
 
 **Device not responding**
 
 * Ensure proper power and wiring.
 * Retry after entering bootloader mode.
-* Avoid using adapters that output 5 V to 1.8 V lines.
+* Avoid using adapters that output 5 V to 3.3 V lines.
 
 ---
 
