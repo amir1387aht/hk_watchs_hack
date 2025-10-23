@@ -102,9 +102,9 @@ Typical UART wiring:
 
 | Watch Pin | USB Adapter | Description      |
 | --------- | ----------- | ---------------- |
-| TX        | RX          | Data transmit    |
-| RX        | TX          | Data receive     |
-| GND       | GND         | Ground reference |
+| DBG_TX0        | RX          | Data transmit    |
+| DBG_RX0        | TX          | Data receive     |
+| GND            | GND         | Ground reference |
 
 ⚠️ **Do NOT power the watch from the adapter** unless the guide/video says so — incorrect voltage can destroy the device.
 If your adapter is 3.3 V or 5 V and the watch uses 1.8 V logic, use a **level shifter**.
