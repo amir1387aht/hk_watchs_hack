@@ -145,7 +145,7 @@ int kv_get_int(const char *key, int def)
 
     fdb_err_t err = fdb_kv_get_blob(p_kvdb_db, key, &blob);
 
-    if (err != FDB_NO_ERR && err != FDB_KV_NAME_ERR)
+    if (err != FDB_NO_ERR && err != FDB_KV_NAME_ERR && err != FDB_PART_NOT_FOUND)
         rt_kprintf("[KV] Error getting int key '%s': %d\n", key, err);
 
     return v;
@@ -172,7 +172,7 @@ float kv_get_float(const char *key, float def)
 
     fdb_err_t err = fdb_kv_get_blob(p_kvdb_db, key, &blob);
 
-    if (err != FDB_NO_ERR && err != FDB_KV_NAME_ERR)
+    if (err != FDB_NO_ERR && err != FDB_KV_NAME_ERR && err != FDB_PART_NOT_FOUND)
         rt_kprintf("[KV] Error getting float key '%s': %d\n", key, err);
 
     return v;
@@ -199,7 +199,7 @@ bool kv_get_bool(const char *key, bool def)
 
     fdb_err_t err = fdb_kv_get_blob(p_kvdb_db, key, &blob);
 
-    if (err != FDB_NO_ERR && err != FDB_KV_NAME_ERR)
+    if (err != FDB_NO_ERR && err != FDB_KV_NAME_ERR && err != FDB_PART_NOT_FOUND)
         rt_kprintf("[KV] Error getting bool key '%s': %d\n", key, err);
 
     return v;

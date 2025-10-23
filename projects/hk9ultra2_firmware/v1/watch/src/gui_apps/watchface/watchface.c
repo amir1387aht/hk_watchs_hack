@@ -5,6 +5,7 @@
 #include <rtthread.h>
 #include "gui_app_fwk.h"
 #include "littlevgl2rtt.h"
+#include "custom_trans_anim.h"
 
 LV_IMG_DECLARE(img_clock);
 
@@ -19,9 +20,7 @@ typedef enum
 
 static void on_start(void)
 {
-    lv_obj_t *label = lv_label_create(lv_scr_act());
-    lv_label_set_text(label, "Watchface");
-    lv_obj_align(label, LV_ALIGN_CENTER, 0, 0);
+    cust_trans_anim_config(CUST_ANIM_TYPE_3, NULL);
 }
 
 static void on_resume(void)

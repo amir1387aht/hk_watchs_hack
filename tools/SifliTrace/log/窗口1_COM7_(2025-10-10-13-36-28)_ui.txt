@@ -1,0 +1,903 @@
+10-10 13:36:28:342    SFBL
+10-10 13:36:30:678    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+10-10 13:36:30:680    NAND ID 0xd1d13c
+10-10 13:36:30:681    det bbm table with 1, 1, 2
+10-10 13:36:30:682    detect result 2
+10-10 13:36:30:684    V1 1 in block 992, V2 0 in block 994
+10-10 13:36:30:685    Latest version 1
+10-10 13:36:30:685    V1 1 in block 993, V2 0 in block 995
+10-10 13:36:30:686    Latest version 1
+10-10 13:36:30:687    v1 1 in blk 992, v2 1 in block 993
+10-10 13:36:30:687    BBM MEM: ctx 20037adc, map1 200376cc, map2 200378d4 
+10-10 13:36:30:688    sif_bbm_init done
+10-10 13:36:30:689    
+10-10 13:36:30:689     \ | /
+10-10 13:36:30:690    - SiFli Corporation
+10-10 13:36:30:691     / | \     build on Oct 10 2025, 2.4.0 build 917ebeee
+10-10 13:36:30:691     2020 - 2022 Copyright by SiFli team
+10-10 13:36:30:692    cal data cc_mn:12 cc_mp:16 cv_vctrl:40 prog_vlp2:7
+10-10 13:36:30:693    mount /dev sucess
+10-10 13:36:30:693    [32m[431] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+10-10 13:36:30:696    [0m[32m[439] I/drv.rtc main: RC10K Freq=9kHz, cycle=1036394, rtc ppm=0
+10-10 13:36:30:698    
+10-10 13:36:30:698    [0m[32m[447] I/drv.rtc main: DIVA=36, DIVA_FRA=3001, DIVB=256
+10-10 13:36:30:700    
+10-10 13:36:30:700    [0m[32m[454] I/drv.rtc main: Init RTC, wake = 0
+10-10 13:36:30:702    
+10-10 13:36:30:702    [0mNAND factory magic error 0x6e11802 vs 0x53450617
+10-10 13:36:30:703    [32m[510] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+10-10 13:36:30:704    
+10-10 13:36:30:705    [0m[32m[517] I/drv.audprc main: HAL_AUDPRC_Init res 0
+10-10 13:36:30:706    
+10-10 13:36:30:706    [0m[32m[523] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+10-10 13:36:30:707    
+10-10 13:36:30:708    [0m[31m[530] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+10-10 13:36:30:709    [0m[32m[538] I/drv.encoder main: encoder1 init success!!
+10-10 13:36:30:711    [0m[31m[544] E/drv.encoder main: encoder1 register success
+10-10 13:36:30:714    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+10-10 13:36:30:714    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+10-10 13:36:30:715    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+10-10 13:36:30:715    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+10-10 13:36:30:715    [32m[590] I/TOUCH main: Regist touch screen driver, probe=0x100078c5 
+10-10 13:36:30:716    [0mlvsf_font_load: faces 2 ft_cache_size 262500
+10-10 13:36:30:716    call par CFG1(3313)
+10-10 13:36:30:717    fc 9, xtal 2000, pll 2125
+10-10 13:36:30:718    call par CFG1(3313)
+10-10 13:36:30:718    fc 7, xtal 2000, pll 1706
+10-10 13:36:30:718    [32m[652] I/audio audiosvr: audio server run
+10-10 13:36:30:719    [0m[32m[658] I/audio bt_downv: audio_btdownlink run
+10-10 13:36:30:719    [0mmount fs[yaffs] on / failed.
+10-10 13:36:30:719    Register root to mtd device with base addr 0x62580000
+10-10 13:36:30:720    mount dev: 44, 983
+10-10 13:36:30:977    Get phy blk for 992 fail when read
+10-10 13:36:30:978    [32m[3099] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:979    
+10-10 13:36:30:979    [0mGet phy blk for 993 fail when read
+10-10 13:36:30:979    [32m[3109] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:980    
+10-10 13:36:30:981    [0mGet phy blk for 994 fail when read
+10-10 13:36:30:981    [32m[3120] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:981    
+10-10 13:36:30:982    [0mGet phy blk for 995 fail when read
+10-10 13:36:30:983    [32m[3130] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:983    
+10-10 13:36:30:983    [0mGet phy blk for 996 fail when read
+10-10 13:36:30:984    [32m[3140] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:984    
+10-10 13:36:30:984    [0mGet phy blk for 997 fail when read
+10-10 13:36:30:985    [32m[3150] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:985    
+10-10 13:36:30:986    [0mGet phy blk for 998 fail when read
+10-10 13:36:30:986    [32m[3161] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:986    
+10-10 13:36:30:986    [0mGet phy blk for 999 fail when read
+10-10 13:36:30:987    [32m[3171] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:988    
+10-10 13:36:30:988    [0mGet phy blk for 1000 fail when read
+10-10 13:36:30:989    [32m[3181] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:989    
+10-10 13:36:30:989    [0mGet phy blk for 1001 fail when read
+10-10 13:36:30:990    [32m[3192] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:990    
+10-10 13:36:30:990    [0mGet phy blk for 1002 fail when read
+10-10 13:36:30:990    [32m[3202] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:991    
+10-10 13:36:30:991    [0mGet phy blk for 1003 fail when read
+10-10 13:36:30:992    [32m[3213] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:992    
+10-10 13:36:30:992    [0mGet phy blk for 1004 fail when read
+10-10 13:36:30:993    [32m[3223] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:993    
+10-10 13:36:30:993    [0mGet phy blk for 1005 fail when read
+10-10 13:36:30:994    [32m[3234] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:995    
+10-10 13:36:30:995    [0mGet phy blk for 1006 fail when read
+10-10 13:36:30:996    [32m[3244] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:996    
+10-10 13:36:30:996    [0mGet phy blk for 1007 fail when read
+10-10 13:36:30:996    [32m[3254] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:997    
+10-10 13:36:30:997    [0mGet phy blk for 1008 fail when read
+10-10 13:36:30:998    [32m[3265] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:998    
+10-10 13:36:30:999    [0mGet phy blk for 1009 fail when read
+10-10 13:36:30:999    [32m[3275] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:30:999    
+10-10 13:36:30:999    [0mGet phy blk for 1010 fail when read
+10-10 13:36:31:000    [32m[3286] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:001    
+10-10 13:36:31:002    [0mGet phy blk for 1011 fail when read
+10-10 13:36:31:002    [32m[3296] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:002    
+10-10 13:36:31:003    [0mGet phy blk for 1012 fail when read
+10-10 13:36:31:003    [32m[3306] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:003    
+10-10 13:36:31:004    [0mGet phy blk for 1013 fail when read
+10-10 13:36:31:004    [32m[3317] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:005    
+10-10 13:36:31:005    [0mGet phy blk for 1014 fail when read
+10-10 13:36:31:005    [32m[3327] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:005    
+10-10 13:36:31:006    [0mGet phy blk for 1015 fail when read
+10-10 13:36:31:006    [32m[3338] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:006    
+10-10 13:36:31:006    [0mGet phy blk for 1016 fail when read
+10-10 13:36:31:007    [32m[3348] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:007    
+10-10 13:36:31:008    [0mGet phy blk for 1017 fail when read
+10-10 13:36:31:009    [32m[3358] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:009    
+10-10 13:36:31:011    [0mGet phy blk for 1018 fail when read
+10-10 13:36:31:011    [32m[3369] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:011    
+10-10 13:36:31:011    [0mGet phy blk for 1019 fail when read
+10-10 13:36:31:012    [32m[3379] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:012    
+10-10 13:36:31:013    [0mGet phy blk for 1020 fail when read
+10-10 13:36:31:013    [32m[3390] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:014    
+10-10 13:36:31:014    [0mGet phy blk for 1021 fail when read
+10-10 13:36:31:014    [32m[3400] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:014    
+10-10 13:36:31:015    [0mGet phy blk for 1022 fail when read
+10-10 13:36:31:015    [32m[3410] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:016    
+10-10 13:36:31:016    [0mGet phy blk for 1023 fail when read
+10-10 13:36:31:016    [32m[3421] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:017    
+10-10 13:36:31:017    [0mGet phy blk for 1024 fail when read
+10-10 13:36:31:017    [32m[3431] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:018    
+10-10 13:36:31:018    [0mGet phy blk for 1025 fail when read
+10-10 13:36:31:019    [32m[3442] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:034    
+10-10 13:36:31:035    [0mGet phy blk for 1026 fail when read
+10-10 13:36:31:035    [32m[3452] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:035    
+10-10 13:36:31:036    [0mGet phy blk for 1027 fail when read
+10-10 13:36:31:037    [32m[3462] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:037    
+10-10 13:36:31:039    [0m
+10-10 13:36:31:279    Get phy blk for 992 fail when read
+10-10 13:36:31:281    [32m[5904] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:281    
+10-10 13:36:31:282    [0mGet phy blk for 993 fail when read
+10-10 13:36:31:282    [32m[5914] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:282    
+10-10 13:36:31:283    [0mGet phy blk for 994 fail when read
+10-10 13:36:31:283    [32m[5925] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:283    
+10-10 13:36:31:284    [0mGet phy blk for 995 fail when read
+10-10 13:36:31:284    [32m[5935] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:284    
+10-10 13:36:31:285    [0mGet phy blk for 996 fail when read
+10-10 13:36:31:286    [32m[5945] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:286    
+10-10 13:36:31:286    [0mGet phy blk for 997 fail when read
+10-10 13:36:31:287    [32m[5956] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:287    
+10-10 13:36:31:287    [0mGet phy blk for 998 fail when read
+10-10 13:36:31:287    [32m[5966] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:289    
+10-10 13:36:31:289    [0mGet phy blk for 999 fail when read
+10-10 13:36:31:289    [32m[5976] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:290    
+10-10 13:36:31:290    [0mGet phy blk for 1000 fail when read
+10-10 13:36:31:290    [32m[5987] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:291    
+10-10 13:36:31:291    [0mGet phy blk for 1001 fail when read
+10-10 13:36:31:291    [32m[5997] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:292    
+10-10 13:36:31:292    [0mGet phy blk for 1002 fail when read
+10-10 13:36:31:292    [32m[6007] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:293    
+10-10 13:36:31:293    [0mGet phy blk for 1003 fail when read
+10-10 13:36:31:293    [32m[6018] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:294    
+10-10 13:36:31:294    [0mGet phy blk for 1004 fail when read
+10-10 13:36:31:295    [32m[6028] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:295    
+10-10 13:36:31:295    [0mGet phy blk for 1005 fail when read
+10-10 13:36:31:296    [32m[6039] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:296    
+10-10 13:36:31:296    [0mGet phy blk for 1006 fail when read
+10-10 13:36:31:296    [32m[6049] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:298    
+10-10 13:36:31:298    [0mGet phy blk for 1007 fail when read
+10-10 13:36:31:298    [32m[6060] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:299    
+10-10 13:36:31:299    [0mGet phy blk for 1008 fail when read
+10-10 13:36:31:300    [32m[6070] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:300    
+10-10 13:36:31:300    [0mGet phy blk for 1009 fail when read
+10-10 13:36:31:301    [32m[6080] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:301    
+10-10 13:36:31:301    [0mGet phy blk for 1010 fail when read
+10-10 13:36:31:302    [32m[6091] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:302    
+10-10 13:36:31:303    [0mGet phy blk for 1011 fail when read
+10-10 13:36:31:303    [32m[6101] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:303    
+10-10 13:36:31:304    [0mGet phy blk for 1012 fail when read
+10-10 13:36:31:304    [32m[6112] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:305    
+10-10 13:36:31:305    [0mGet phy blk for 1013 fail when read
+10-10 13:36:31:305    [32m[6122] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:306    
+10-10 13:36:31:306    [0mGet phy blk for 1014 fail when read
+10-10 13:36:31:307    [32m[6132] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:307    
+10-10 13:36:31:307    [0mGet phy blk for 1015 fail when read
+10-10 13:36:31:308    [32m[6143] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:308    
+10-10 13:36:31:308    [0mGet phy blk for 1016 fail when read
+10-10 13:36:31:309    [32m[6153] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:309    
+10-10 13:36:31:310    [0mGet phy blk for 1017 fail when read
+10-10 13:36:31:310    [32m[6164] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:310    
+10-10 13:36:31:311    [0mGet phy blk for 1018 fail when read
+10-10 13:36:31:311    [32m[6174] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:312    
+10-10 13:36:31:312    [0mGet phy blk for 1019 fail when read
+10-10 13:36:31:312    [32m[6185] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:313    
+10-10 13:36:31:313    [0mGet phy blk for 1020 fail when read
+10-10 13:36:31:314    [32m[6195] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:314    
+10-10 13:36:31:315    [0mGet phy blk for 1021 fail when read
+10-10 13:36:31:315    [32m[6205] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:315    
+10-10 13:36:31:315    [0mGet phy blk for 1022 fail when read
+10-10 13:36:31:316    [32m[6216] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:316    
+10-10 13:36:31:316    [0mGet phy blk for 1023 fail when read
+10-10 13:36:31:317    [32m[6226] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:317    
+10-10 13:36:31:318    [0mGet phy blk for 1024 fail when read
+10-10 13:36:31:318    [32m[6237] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:318    
+10-10 13:36:31:318    [0mGet phy blk for 1025 fail when read
+10-10 13:36:31:319    [32m[6247] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:338    
+10-10 13:36:31:339    [0mGet phy blk for 1026 fail when read
+10-10 13:36:31:339    [32m[6257] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:340    
+10-10 13:36:31:340    [0mGet phy blk for 1027 fail when read
+10-10 13:36:31:341    [32m[6268] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:36:31:341    
+10-10 13:36:31:342    [0m
+10-10 13:36:31:536    mount:0
+10-10 13:36:31:537    mount fs on flash to root success
+10-10 13:36:31:538    [FlashDB] Starting initialization...
+10-10 13:36:31:538    [FlashDB] Mutex initialized
+10-10 13:36:31:539    [FlashDB] KVDB Config:
+10-10 13:36:31:540      Path: /sys/db/fdb_kvdb
+10-10 13:36:31:540      Sector Size: 4096
+10-10 13:36:31:541      Max Size: 16384 (0x4000)
+10-10 13:36:31:541      File Mode: true
+10-10 13:36:31:549    [FlashDB] KVDB initialized successfully
+10-10 13:36:31:574    [FlashDB] TSDB Config:
+10-10 13:36:31:574      Path: /sys/db/fdb_tsdb
+10-10 13:36:31:575      Max Size: 16384
+10-10 13:36:31:576    [FlashDB] TSDB initialized successfully
+10-10 13:36:31:576    [FlashDB] All initialization complete
+10-10 13:36:31:577    [32m[8440] I/drv.lcd app_watc: [NONE] -> [OPENING]
+10-10 13:36:31:577    [0m[32m[8446] I/drv.lcd lcd_task: open
+10-10 13:36:31:577    [0m[32m[8451] I/drv.epic lcd_task: drv_gpu opened.
+10-10 13:36:31:578    [0m[32m[8456] I/drv.lcd lcd_task: HW open
+10-10 13:36:31:578    [0m[32m[8467] I/drv.lcd lcd_task: Try registered LCD driver...
+10-10 13:36:31:580    [0mmsh />
+10-10 13:36:31:729    [32m[10048] I/NO_TAG lcd_task: SH8603B_Init 
+10-10 13:36:31:730    
+10-10 13:36:31:731    [0m
+10-10 13:36:31:928    SH8603B_Init_Finish
+10-10 13:36:31:941    [32m[12032] I/NO_TAG lcd_task: 
+10-10 13:36:31:943     lcd_error  SH8603B_ReadID 0x0 
+10-10 13:36:31:943    
+10-10 13:36:31:943    [0m[32m[12040] I/drv.lcd lcd_task: Found lcd SH8603B id:9c03h
+10-10 13:36:31:944    [0m[32m[12046] I/drv.lcd lcd_task: HW open done.
+10-10 13:36:31:944    [0m[32m[12052] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+10-10 13:36:31:945    [0m[32m[12058] I/drv.lcd lcd_task: open done.
+10-10 13:36:31:945    [0m[32m[12064] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+10-10 13:36:31:945    [0m[32m[12070] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+10-10 13:36:31:946    [0m[32m[12079] I/TOUCH app_watc: Open
+10-10 13:36:31:947    [0m[32m[12083] I/TOUCH tp_init: Find touch screen driver...
+10-10 13:36:31:947    [0m[32m[12090] I/TOUCH tp_init: Probe 100078c5
+10-10 13:36:31:948    [0m[32m[12095] I/TOUCH tp_init: touch screen found driver  0x20037514, ft3169
+10-10 13:36:31:949    [0m[32m[12104] I/TOUCH app_watc: Opened.
+10-10 13:36:31:951    [0m[32m[12126] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+10-10 13:36:31:952    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+10-10 13:36:31:953    
+10-10 13:36:32:033    [31m[12888] E/drv.ft3169 tp_init: ft3169 id_H=64
+10-10 13:36:32:035    [0m[31m[12895] E/drv.ft3169 tp_init: ft3169 id_L=56
+10-10 13:36:32:036    [0m
+10-10 13:36:32:168    Boot count: 3
+10-10 13:36:32:173    [32m[14172] I/drv.rtc app_watc: Get initial cycles: 1036394 rtc
+10-10 13:36:32:174    =1735689601.0039
+10-10 13:36:32:174    
+10-10 13:36:32:175    [0m
+10-10 13:36:32:179    [32m[14229] I/drv.rtc app_watc: Get initial cycles: 1036394 rtc=1735689600.0039
+10-10 13:36:32:179    
+10-10 13:36:32:180    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+10-10 13:36:32:181    [32m[14249] I/drv.lcd lcd_task: set brightness 100
+10-10 13:36:32:181    [0mlcd_debug run  SH8603B_SetBrightness br = 100, bright = 255
+10-10 13:36:32:182    [32m[14262] I/drv.lcd lcd_task: display on
+10-10 13:36:32:183    [0mlcd_debug  SH8603B_DisplayOn
+10-10 13:36:32:183    [32m[14270] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+10-10 13:36:32:184    [0m[14278] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:1496.
+10-10 13:36:32:186    [32m[14289] I/APP.FWK.INT app_watc: [W
+10-10 13:36:32:186    atchface]
+10-10 13:36:32:187    [0m
+10-10 13:36:32:216    [14574] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+10-10 13:36:32:218    [32m[14583] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1496
+10-10 13:36:32:219    [0m[32m[14592] I/APP.SCHE app_watc: app[Watchface] do LOAD, 2006415c
+10-10 13:36:32:219    [0m[32m[14600] I/APP.FWK app_watc: finding Watchface in builtin apps...
+10-10 13:36:32:220    [0m[14607] D/APP.SCHE app_watc: app[Watchface] tgt_state [LAUNCHED] -> [RUNNING]
+10-10 13:36:32:221    [32m[14616] I/APP.SCHE app_watc: app[Watchface] do START, 2006415c
+10-10 13:36:32:221    [0m[32m[14623] I/APP.FWK.INT app_watc: [Watchface]
+10-10 13:36:32:222    [0m[14629] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x2006415c] to gui_app_mbx tick:1533.
+10-10 13:36:32:223    [32m[14640] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1533
+10-10 13:36:32:224    [0m[14649] D/APP.SCHE app_watc: app[Watchface] create page[root] 20063f48
+10-10 13:36:32:225    [14656] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [CREATED] -> [RESUMED]
+10-10 13:36:32:226    [14665] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+10-10 13:36:32:227    [32m[14674] I/APP.SCHE app_watc: page[Watchface][root] do ONSTART, 20063f48
+10-10 13:36:32:228    [0m[32m[14683] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063f48
+10-10 13:36:32:228    [0m[32m[14692] I/APP.SCHE app_watc: Try setup trans-anim
+10-10 13:36:32:229    [0m[32m[14698] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+10-10 13:36:32:230    [0m[14705] D/APP.SCHE app_watc: app_sched
+10-10 13:36:32:231    ule_task done.
+10-10 13:36:35:949    [49142] D/APP.FWK timer: send msg[GUI_APP_MSG_RUN_APP] [MainMenu] to gui_app_mbx tick:5255.
+10-10 13:36:35:950    [32m[49152] I/APP.FWK.INT timer: [MainMenu]
+10-10 13:36:35:951    [0m
+10-10 13:36:35:965    [49299] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+10-10 13:36:35:966    [32m[49308] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:5255
+10-10 13:36:35:966    [0m[32m[49317] I/APP.SCHE app_watc: app[MainMenu] do LOAD, 200643b4
+10-10 13:36:35:968    [0m[32m[49324] I/APP.FWK app_watc: finding MainMenu in builtin apps...
+10-10 13:36:35:968    [0m[49332] D/APP.SCHE app_watc: app[MainMenu] tgt_state [LAUNCHED] -> [RUNNING]
+10-10 13:36:35:969    [32m[49340] I/APP.SCHE app_watc: app[MainMenu] do START, 200643b4
+10-10 13:36:35:969    [0m[32m[49347] I/APP.FWK.INT app_watc: [MainMenu]
+10-10 13:36:35:971    [0m[49353] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x200643b4] to gui_app_mbx tick:5277.
+10-10 13:36:35:972    [32m[49363] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:5277
+10-10 13:36:35:973    [0m[49372] D/APP.SCHE app_watc: app[MainMenu] create page[root] 20064318
+10-10 13:36:35:973    [49379] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [CREATED] -> [RESUMED]
+10-10 13:36:35:974    [49388] D/APP.SCHE app_watc: Pause all app, and resume to MainMenu app
+10-10 13:36:35:974    [49395] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [RESUMED] -> [PAUSED]
+10-10 13:36:35:976    [32m[49404] I/APP.SCHE app_watc: page[Watchface][root] do ONPAUSE, 20063f48
+10-10 13:36:35:977    [0m[32m[49414] I/APP.SCHE app_watc: page[MainMenu][root] do ONSTART, 20064318
+10-10 13:36:35:978    
+10-10 13:36:35:979    [0m[32m[49437] I/APP.SCHE app_watc: page[MainMenu][root] do ONRESUME, 20064318
+10-10 13:36:35:980    [0m[32m[49446] I/APP.SCHE app_watc: Try setup trans-anim
+10-10 13:36:35:981    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+10-10 13:36:35:982    [32m[49459] I/APP.ANI app_w
+10-10 13:36:35:982    atc: buf = 6052cc30
+10-10 13:36:35:983    [0m[32m[49470] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065484
+10-10 13:36:35:984    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+10-10 13:36:35:985    [32m[49484] I/APP.ANI app_watc: 
+10-10 13:36:35:985    buf = 604c9dd8
+10-10 13:36:35:987    [0m
+10-10 13:36:35:999    [32m[49620] I/APP.ANI app_watc: app_trans_animation_obj_create = 200655fc
+10-10 13:36:36:000    [0m[32m[49628] I/APP.ANI app_watc: Start free run
+10-10 13:36:36:000     animation
+10-10 13:36:36:002    [0m[32m[49646] I/APP.ANI app_watc: app_trans_animation_setup end, cost=21ms
+10-10 13:36:36:002    
+10-10 13:36:36:002    [0m[32m[49655] I/APP.SCHE app_watc: Trans-anim setup done.
+10-10 13:36:36:003    [0m[49662] D/APP.SCHE app_watc: --Pause app_schedule_task--
+10-10 13:36:36:004    [49670] D/APP.SCHE app_watc: app_schedule_task done.
+10-10 13:36:36:005    
+10-10 13:36:36:312    [32m[52512] I/APP.ANI app_watc: free_run_ready 0 
+10-10 13:36:36:314    
+10-10 13:36:36:314    [0m
+10-10 13:36:36:344    [32m[52817] I/APP.ANI app_watc: wait_refr_task_cb 0
+10-10 13:36:36:345    
+10-10 13:36:36:345    [0m[32m[52824] I/APP.ANI app_watc: anim_free_run_ready 0 
+10-10 13:36:36:346    
+10-10 13:36:36:347    [0m[32m[52833] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+10-10 13:36:36:347    
+10-10 13:36:36:348    [0m[32m[52842] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200655fc
+10-10 13:36:36:348    [0mapp_anim_buf_free: 0x604c9dd8
+10-10 13:36:36:348    [32m[52857] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065484
+10-10 13:36:36:350    [0mapp_anim_buf_free: 0x6052cc30
+10-10 13:36:36:352    [32m[52878] I/APP.SCHE app_watc: Trans-anim finish, res=0
+10-10 13:36:36:353    [0m[52885] D/APP.SCHE app_watc: --Resume app_schedule_task--
+10-10 13:36:38:361    [71490] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [Rickroll] to gui_app_mbx tick:7664.
+10-10 13:36:38:363    [32m[71500] I/APP.FWK.INT app_watc: [Rickroll]
+10-10 13:36:38:364    [0m
+10-10 13:36:38:379    [71656] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+10-10 13:36:38:380    [32m[71665] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:7664
+10-10 13:36:38:381    [0m[32m[71674] I/APP.SCHE app_watc: app[Rickroll] do LOAD, 20065240
+10-10 13:36:38:381    [0m[32m[71681] I/APP.FWK app_watc: finding Rickroll in builtin apps...
+10-10 13:36:38:381    [0m[71689] D/APP.SCHE app_watc: app[Rickroll] tgt_state [LAUNCHED] -> [RUNNING]
+10-10 13:36:38:383    [32m[71697] I/APP.SCHE app_watc: app[Rickroll] do START, 20065240
+10-10 13:36:38:384    [0m[32m[71704] I/APP.FWK.INT app_watc: [Rickroll]
+10-10 13:36:38:385    [0m[71710] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x20065240] to gui_app_mbx tick:7687.
+10-10 13:36:38:385    [32m[71720] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:7687
+10-10 13:36:38:386    [0m[71729] D/APP.SCHE app_watc: app[Rickroll] create page[root] 200651a4
+10-10 13:36:38:387    [71736] D/APP.SCHE app_watc: page[Rickroll][root] tgt_state [CREATED] -> [RESUMED]
+10-10 13:36:38:388    [71745] D/APP.SCHE app_watc: Pause all app, and resume to Rickroll app
+10-10 13:36:38:390    [71752] D/APP.SCHE app_watc: page[MainMenu][root] tgt_state [RESUMED] -> [PAUSED]
+10-10 13:36:38:390    [32m[71761] I/APP.SCHE app_watc: page[MainMenu][root] do ONPAUSE, 20064318
+10-10 13:36:38:391    [0m[32m[71771] I/APP.SCHE app_watc: page[Rickroll][root] do ONSTART, 200651a4
+10-10 13:36:38:392    [0magif_dec_create: data 0x100bfe2c @24t
+10-10 13:36:38:392    [32m[71786] I/APP.SCHE app_watc: page[Rickroll][root] do ONRESUME, 200651a4
+10-10 13:36:38:393    [0m[32m[71794] I/APP.SCHE app_watc: Try setup trans-anim
+10-10 13:36:38:394    [0mapp_anim_buf_alloc: 0x6052cc30 index 0 size 405080
+10-10 13:36:38:395    [32m[71807] I/APP.ANI app_watc: buf = 6052cc
+10-10 13:36:38:395    30
+10-10 13:36:38:395    [0m[32m[71818] I/APP.ANI app_watc: app_trans_animation_obj_create = 200655f8
+10-10 13:36:38:397    [0mapp_anim_buf_alloc: 0x604c9dd8 index 1 size 405080
+10-10 13:36:38:397    [32m[71832] I/APP.ANI app_watc: buf = 604c9dd8
+10-10 13:36:38:399    [0m
+10-10 13:36:38:412    [32m[71964] I/APP.ANI app_watc: app_trans_animation_obj_create = 20065770
+10-10 13:36:38:413    [0m[32m[71973] I/APP.ANI app_watc: Start free run animation
+10-10 13:36:38:414    [0m[32m[71985] I/APP.ANI app_watc: app_trans_animation_setup end, cost=20ms
+10-10 13:36:38:414    
+10-10 13:36:38:415    [0m[32m[71994] I/APP.SCHE app_watc: Trans-anim setup done.
+10-10 13:36:38:416    [0m[72001] D/APP.SCHE app_watc: --Pause app_schedule_task--
+10-10 13:36:38:416    [72007] D/APP.SCHE app_watc: app_schedule_task done.
+10-10 13:36:38:723    [32m[74849] I/APP.ANI app_watc:
+10-10 13:36:38:724     free_run_ready 0 
+10-10 13:36:38:725    
+10-10 13:36:38:726    [0m
+10-10 13:36:38:755    [32m[75144] I/APP.ANI app_watc: wait_refr_task_cb 0
+10-10 13:36:38:756    
+10-10 13:36:38:757    [0m[32m[75155] I/APP.ANI app_watc: anim_free_run_ready 0 
+10-10 13:36:38:757    
+10-10 13:36:38:758    [0m[32m[75162] I/APP.ANI app_watc: app_trans_anim_free_run_clean
+10-10 13:36:38:758    
+10-10 13:36:38:759    [0m[32m[75169] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 20065770
+10-10 13:36:38:759    [0mapp_anim_buf_free: 0x604c9dd8
+10-10 13:36:38:759    [32m[75181] I/APP.ANI app_watc: app_trans_animation_obj_destroy = 200655f8
+10-10 13:36:38:760    [0mapp_anim_buf_free: 0x6052cc30
+10-10 13:36:38:761    [32m[75198] I/APP.SCHE app_watc: Trans-anim finish, res=0
+10-10 13:36:38:762    [0m[75207] D/APP.SCHE app_watc: --Resume app_schedule_task--
+10-10 13:36:41:084    Assertion failed at function:gui_app_goback, line number:1122 ,(test_mode || rt_thread_self() == host_rtos_task)
+10-10 13:36:41:085    Previous ISR enable 0
+10-10 13:36:41:086    ===================
+10-10 13:36:41:086    Thread Info        
+10-10 13:36:41:086    ===================
+10-10 13:36:41:087             pri  status      sp      top     stack size max used left tick  error
+10-10 13:36:41:087    -------- ---  ------- ---------- ---------- ----------  ------  ---------- ---
+10-10 13:36:41:088    tpread    10  suspend 0x2001e5a0 0x2001e6b0 0x00000400    44%   0x00000009 000
+10-10 13:36:41:089    lcd_task  12  suspend 0x2001e118 0x2001e2b0 0x00000800    45%   0x00000007 000
+10-10 13:36:41:090    tshell    20  suspend 0x20062520 0x2006269c 0x00001000    16%   0x0000000a 000
+10-10 13:36:41:091    app_watc  19  suspend 0x20041d08 0x20041e08 0x00004000    11%   0x00000009 000
+10-10 13:36:41:092    epic_tas  13  suspend 0x2001f390 0x2001f6b0 0x00001000    59%   0x00000007 000
+10-10 13:36:41:093    bt_downv  11  suspend 0x20038920 0x20038a34 0x000007d0    37%   0x00000009 000
+10-10 13:36:41:094    audiosvr  11  suspend 0x2003acf0 0x2003ae34 0x00002400    08%   0x00000009 000
+10-10 13:36:41:095    tidle     31  ready   0x20042050 0x200420a4 0x00000200    28%   0x00000002 000
+10-10 13:36:41:096    timer      4  ready   0x2002a0d0 0x2002a1d8 0x00000400    96%   0x00000008 000
+10-10 13:36:41:096    ===================
+10-10 13:36:41:097    Mailbox Info       
+10-10 13:36:41:098    ===================
+10-10 13:36:41:098            entry size suspend thread
+10-10 13:36:41:098    ------- ----  ---- --------------
+10-10 13:36:41:099    appfwk  0000  0010 0
+10-10 13:36:41:099    ===================
+10-10 13:36:41:099    MessageQueue Info  
+10-10 13:36:41:100    ===================
+10-10 13:36:41:100             entry suspend thread
+10-10 13:36:41:100    -------- ----  --------------
+10-10 13:36:41:101    drv_lcd  0000  0
+10-10 13:36:41:101    drv_epic 0000  0
+10-10 13:36:41:102    ===================
+10-10 13:36:41:102    Mutex Info         
+10-10 13:36:41:103    ===================
+10-10 13:36:41:103               owner  hold suspend thread
+10-10 13:36:41:103    -------- -------- ---- --------------
+10-10 13:36:41:104    tplck    (null)   0000 0
+10-10 13:36:41:104    kvdb_mtx (null)   0000 0
+10-10 13:36:41:104    audio_sv (null)   0000 0
+10-10 13:36:41:105    ymutex   (null)   0000 0
+10-10 13:36:41:105    rtc      (null)   0000 0
+10-10 13:36:41:105    ulog loc (null)   0000 0
+10-10 13:36:41:106    fslock   (null)   0000 0
+10-10 13:36:41:106    i2c_bus_ (null)   0000 0
+10-10 13:36:41:107    i2c_bus_ (null)   0000 0
+10-10 13:36:41:107    ===================
+10-10 13:36:41:107    Semaphore Info     
+10-10 13:36:41:108    ===================
+10-10 13:36:41:108             v   suspend thread
+10-10 13:36:41:108    -------- --- --------------
+10-10 13:36:41:109    app_sche 001 0
+10-10 13:36:41:109    btn      001 0
+10-10 13:36:41:109    lv_data  001 0
+10-10 13:36:41:110    tp_ctrl  001 0
+10-10 13:36:41:110    lv_lcd   000 0
+10-10 13:36:41:110    lcd_msg  000 0
+10-10 13:36:41:111    lcd_draw 000 1:lcd_task
+10-10 13:36:41:111    drv_lcd  000 0
+10-10 13:36:41:111    shrx     000 0
+10-10 13:36:41:112    epic_rl  001 0
+10-10 13:36:41:113    epic     001 0
+10-10 13:36:41:113    ft3169   000 1:tpread
+10-10 13:36:41:113    app_ft_m 001 0
+10-10 13:36:41:114    app_mess 001 0
+10-10 13:36:41:114    app_imag 001 0
+10-10 13:36:41:114    app_imag 001 0
+10-10 13:36:41:114    aes_drv  001 0
+10-10 13:36:41:115    drv_eDma 001 0
+10-10 13:36:41:115    nandlock 001 0
+10-10 13:36:41:115    gpadc    001 0
+10-10 13:36:41:116    i2c4     000 0
+10-10 13:36:41:116    i2c1     000 0
+10-10 13:36:41:117    pmicos   001 0
+10-10 13:36:41:117    heap     001 0
+10-10 13:36:41:117    ===================
+10-10 13:36:41:118    Memory Info     
+10-10 13:36:41:118    ===================
+10-10 13:36:41:118    total memory: 207912 used memory : 100660 maximum allocated memory: 103020
+10-10 13:36:41:119    ===================
+10-10 13:36:41:119    MemoryHeap Info     
+10-10 13:36:41:119    ===================
+10-10 13:36:41:120              pool size  max used size available size
+10-10 13:36:41:120    -------- ---------- ------------- --------------
+10-10 13:36:41:120    app_ft_m 350000     28624         321780
+10-10 13:36:41:121    app_mess 96000      72            95928
+10-10 13:36:41:121    app_imag 50000      72            49928
+10-10 13:36:41:121    app_imag 500000     72            499928
+10-10 13:36:41:122    =====================
+10-10 13:36:41:122    PSP: 0x0x2002a074, MSP: 0x0x20001fe0
+10-10 13:36:41:123    =====================
+10-10 13:36:41:123     sp: 0x2002a0d0
+10-10 13:36:41:124    psr: 0x40000000
+10-10 13:36:41:124    r00: 0x00000000
+10-10 13:36:41:124    r01: 0x00000017
+10-10 13:36:41:124    r02: 0x0000023c
+10-10 13:36:41:125    r03: 0x30000000
+10-10 13:36:41:125    r12: 0x10071f35
+10-10 13:36:41:125     lr: 0x1005774f
+10-10 13:36:41:126     pc: 0x1005774f
+10-10 13:36:41:126    =====================
+10-10 13:36:41:126    fatal error on thread: timer
+10-10 13:39:29:302    SFBL
+10-10 13:39:31:654    Serial:c2,Chip:4,Package:3,Rev:3  Reason:00000000
+10-10 13:39:31:655    NAND ID 0xd1d13c
+10-10 13:39:31:655    det bbm table with 1, 1, 2
+10-10 13:39:31:657    detect result 2
+10-10 13:39:31:657    V1 1 in block 992, V2 0 in block 994
+10-10 13:39:31:658    Latest versio
+10-10 13:39:31:659    n 1
+10-10 13:39:31:659    V1 1 in block 993, V2 0 in block 995
+10-10 13:39:31:660    Latest version 1
+10-10 13:39:31:660    v1 1 in blk 992, v2 1 in block 993
+10-10 13:39:31:661    BBM MEM: ctx 20037adc, map1 200376cc, map2 200378d4 
+10-10 13:39:31:661    sif_bbm_init done
+10-10 13:39:31:661    
+10-10 13:39:31:662     \ | /
+10-10 13:39:31:662    - SiFli Corporation
+10-10 13:39:31:662     / | \     build on Oct 10 2025, 2.4.0 build 917ebeee
+10-10 13:39:31:663     2020 - 2022 Copyright by SiFli team
+10-10 13:39:31:663    cal data cc_mn:12 cc_mp:16 cv_vctrl:40 prog_vlp2:7
+10-10 13:39:31:664    mount /dev sucess
+10-10 13:39:31:664    [32m[432] I/drv.rtc main: PSCLR=0x80000100 DivAI=128 DivAF=0 B=256
+10-10 13:39:31:665    [0m[32m[440] I/drv.rtc main: RC10K Freq=9kHz, cycle=1036223, rtc ppm=0
+10-10 13:39:31:665    
+10-10 13:39:31:666    [0m[32m[448] I/drv.rtc main: DIVA=36, DIVA_FRA=3099, DIVB=256
+10-10 13:39:31:666    
+10-10 13:39:31:667    [0m[32m[455] I/drv.rtc main: Init RTC, wake = 0
+10-10 13:39:31:667    
+10-10 13:39:31:668    [0m
+10-10 13:39:31:671    NAND factory magic error 0x6e11802 vs 0x53450617
+10-10 13:39:31:672    [32m[510] I/drv.audprc main: init 00 ADC_PATH_CFG0 0x606
+10-10 13:39:31:673    
+10-10 13:39:31:673    [0m[32m[517] I/drv.audprc main: HAL_AUDPRC_Init res 0
+10-10 13:39:31:674    
+10-10 13:39:31:674    [0m[32m[523] I/drv.audcodec main: HAL_AUDCODEC_Init res 0
+10-10 13:39:31:674    
+10-10 13:39:31:675    [0m[31m[530] E/drv.encoder main: HAL_GPT_Encoder_Init encoder1 success
+10-10 13:39:31:675    [0m[32m[538] I/drv.encoder main: encoder1 init success!!
+10-10 13:39:31:676    [0m[31m[544] E/drv.encoder main: encoder1 register success
+10-10 13:39:31:676    [0m[32;22m[I/FAL] Flash Abstraction Layer (V0.5.99) initialize success.[0m
+10-10 13:39:31:678    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+10-10 13:39:31:679    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+10-10 13:39:31:680    [31;22m[E/FAL] (fal_mtd_nor_device_create:496) Error: the flash device name (flash1) is not found.[0m
+10-10 13:39:31:681    [32m[591] I/TOUCH main: Regist touch screen driver, probe=0x100078c5 
+10-10 13:39:31:682    [0mlvsf_font_load: faces 
+10-10 13:39:31:682    2 ft_cache_size 262500
+10-10 13:39:31:685    call par CFG1(3313)
+10-10 13:39:31:686    fc 9, xtal 2000, pll 2132
+10-10 13:39:31:687    call par CFG1(3313)
+10-10 13:39:31:687    fc 7, xtal 2000, pll 1708
+10-10 13:39:31:688    [32m[652] I/audio audiosvr: audio server run
+10-10 13:39:31:688    [0m[32m[658] I/audio bt_downv: audio_btdownlink run
+10-10 13:39:31:689    [0mmount fs[yaffs] on / failed.
+10-10 13:39:31:689    Register root to mtd device with base addr 0x62580
+10-10 13:39:31:690    000
+10-10 13:39:31:690    mount dev: 44, 983
+10-10 13:39:31:951    Get phy blk for 992 fail when read
+10-10 13:39:31:952    [32m[3099] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:953    
+10-10 13:39:31:953    [0mGet phy blk for 993 fail when read
+10-10 13:39:31:954    [32m[3109] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:955    
+10-10 13:39:31:955    [0mGet phy blk for 994 fail when read
+10-10 13:39:31:955    [32m[3120] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:956    
+10-10 13:39:31:956    [0mGet phy blk for 995 fail when read
+10-10 13:39:31:957    [32m[3130] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:957    
+10-10 13:39:31:958    [0mGet phy blk for 996 fail when read
+10-10 13:39:31:958    [32m[3140] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:958    
+10-10 13:39:31:959    [0mGet phy blk for 997 fail when read
+10-10 13:39:31:959    [32m[3151] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:959    
+10-10 13:39:31:960    [0mGet phy blk for 998 fail when read
+10-10 13:39:31:960    [32m[3161] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:960    
+10-10 13:39:31:961    [0mGet phy blk for 999 fail when read
+10-10 13:39:31:961    [32m[3171] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:961    
+10-10 13:39:31:962    [0mGet phy blk for 1000 fail when read
+10-10 13:39:31:962    [32m[3182] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:963    
+10-10 13:39:31:964    [0mGet phy blk for 1001 fail when read
+10-10 13:39:31:964    [32m[3192] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:964    
+10-10 13:39:31:965    [0mGet phy blk for 1002 fail when read
+10-10 13:39:31:965    [32m[3202] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:965    
+10-10 13:39:31:966    [0mGet phy blk for 1003 fail when read
+10-10 13:39:31:966    [32m[3213] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:966    
+10-10 13:39:31:967    [0mGet phy blk for 1004 fail when read
+10-10 13:39:31:967    [32m[3223] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:967    
+10-10 13:39:31:968    [0mGet phy blk for 1005 fail when read
+10-10 13:39:31:968    [32m[3234] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:968    
+10-10 13:39:31:969    [0mGet phy blk for 1006 fail when read
+10-10 13:39:31:970    [32m[3244] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:971    
+10-10 13:39:31:971    [0mGet phy blk for 1007 fail when read
+10-10 13:39:31:971    [32m[3254] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:972    
+10-10 13:39:31:972    [0mGet phy blk for 1008 fail when read
+10-10 13:39:31:972    [32m[3265] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:972    
+10-10 13:39:31:973    [0mGet phy blk for 1009 fail when read
+10-10 13:39:31:973    [32m[3275] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:974    
+10-10 13:39:31:974    [0mGet phy blk for 1010 fail when read
+10-10 13:39:31:974    [32m[3286] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:974    
+10-10 13:39:31:975    [0mGet phy blk for 1011 fail when read
+10-10 13:39:31:975    [32m[3296] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:975    
+10-10 13:39:31:976    [0mGet phy blk for 1012 fail when read
+10-10 13:39:31:976    [32m[3306] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:978    
+10-10 13:39:31:979    [0mGet phy blk for 1013 fail when read
+10-10 13:39:31:979    [32m[3317] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:979    
+10-10 13:39:31:980    [0mGet phy blk for 1014 fail when read
+10-10 13:39:31:980    [32m[3327] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:981    
+10-10 13:39:31:981    [0mGet phy blk for 1015 fail when read
+10-10 13:39:31:981    [32m[3338] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:982    
+10-10 13:39:31:982    [0mGet phy blk for 1016 fail when read
+10-10 13:39:31:982    [32m[3348] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:982    
+10-10 13:39:31:983    [0mGet phy blk for 1017 fail when read
+10-10 13:39:31:983    [32m[3358] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:984    
+10-10 13:39:31:984    [0mGet phy blk for 1018 fail when read
+10-10 13:39:31:984    [32m[3369] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:985    
+10-10 13:39:31:986    [0mGet phy blk for 1019 fail when read
+10-10 13:39:31:987    [32m[3379] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:987    
+10-10 13:39:31:987    [0mGet phy blk for 1020 fail when read
+10-10 13:39:31:988    [32m[3390] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:988    
+10-10 13:39:31:988    [0mGet phy blk for 1021 fail when read
+10-10 13:39:31:989    [32m[3400] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:989    
+10-10 13:39:31:989    [0mGet phy blk for 1022 fail when read
+10-10 13:39:31:990    [32m[3411] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:990    
+10-10 13:39:31:990    [0mGet phy blk for 1023 fail when read
+10-10 13:39:31:990    [32m[3421] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:991    
+10-10 13:39:31:991    [0mGet phy blk for 1024 fail when read
+10-10 13:39:31:992    [32m[3431] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:31:992    
+10-10 13:39:31:993    [0mGet phy blk for 1025 fail when read
+10-10 13:39:31:994    [32m[3442] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:016    
+10-10 13:39:32:017    [0mGet phy blk for 1026 fail when read
+10-10 13:39:32:018    [32m[3452] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:018    
+10-10 13:39:32:019    [0mGet phy blk for 1027 fail when read
+10-10 13:39:32:019    [32m[3463] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:020    
+10-10 13:39:32:020    [0m
+10-10 13:39:32:253    Get phy blk for 992 fail when read
+10-10 13:39:32:255    [32m[5905] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:256    
+10-10 13:39:32:258    [0mGet phy blk for 993 fail when read
+10-10 13:39:32:263    [32m[5915] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:264    
+10-10 13:39:32:265    [0mGet phy blk for 994 fail when read
+10-10 13:39:32:266    [32m[5925] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:269    
+10-10 13:39:32:271    [0mGet phy blk for 995 fail when read
+10-10 13:39:32:272    [32m[5936] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:273    
+10-10 13:39:32:273    [0mGet phy blk for 996 fail when read
+10-10 13:39:32:274    [32m[5946] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:274    
+10-10 13:39:32:274    [0mGet phy blk for 997 fail when read
+10-10 13:39:32:275    [32m[5956] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:275    
+10-10 13:39:32:275    [0mGet phy blk for 998 fail when read
+10-10 13:39:32:275    [32m[5966] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:276    
+10-10 13:39:32:276    [0mGet phy blk for 999 fail when read
+10-10 13:39:32:277    [32m[5977] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:277    
+10-10 13:39:32:277    [0mGet phy blk for 1000 fail when read
+10-10 13:39:32:278    [32m[5987] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:279    
+10-10 13:39:32:279    [0mGet phy blk for 1001 fail when read
+10-10 13:39:32:279    [32m[5998] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:279    
+10-10 13:39:32:280    [0mGet phy blk for 1002 fail when read
+10-10 13:39:32:280    [32m[6008] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:280    
+10-10 13:39:32:281    [0mGet phy blk for 1003 fail when read
+10-10 13:39:32:281    [32m[6018] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:282    
+10-10 13:39:32:282    [0mGet phy blk for 1004 fail when read
+10-10 13:39:32:283    [32m[6029] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:283    
+10-10 13:39:32:283    [0mGet phy blk for 1005 fail when read
+10-10 13:39:32:284    [32m[6039] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:284    
+10-10 13:39:32:284    [0mGet phy blk for 1006 fail when read
+10-10 13:39:32:285    [32m[6050] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:285    
+10-10 13:39:32:285    [0mGet phy blk for 1007 fail when read
+10-10 13:39:32:285    [32m[6060] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:286    
+10-10 13:39:32:286    [0mGet phy blk for 1008 fail when read
+10-10 13:39:32:286    [32m[6070] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:287    
+10-10 13:39:32:287    [0mGet phy blk for 1009 fail when read
+10-10 13:39:32:288    [32m[6081] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:288    
+10-10 13:39:32:288    [0mGet phy blk for 1010 fail when read
+10-10 13:39:32:289    [32m[6091] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:289    
+10-10 13:39:32:289    [0mGet phy blk for 1011 fail when read
+10-10 13:39:32:290    [32m[6102] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:290    
+10-10 13:39:32:290    [0mGet phy blk for 1012 fail when read
+10-10 13:39:32:291    [32m[6112] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:291    
+10-10 13:39:32:292    [0mGet phy blk for 1013 fail when read
+10-10 13:39:32:292    [32m[6123] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:292    
+10-10 13:39:32:293    [0mGet phy blk for 1014 fail when read
+10-10 13:39:32:293    [32m[6133] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:293    
+10-10 13:39:32:293    [0mGet phy blk for 1015 fail when read
+10-10 13:39:32:294    [32m[6143] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:295    
+10-10 13:39:32:295    [0mGet phy blk for 1016 fail when read
+10-10 13:39:32:295    [32m[6154] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:295    
+10-10 13:39:32:296    [0mGet phy blk for 1017 fail when read
+10-10 13:39:32:296    [32m[6164] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:297    
+10-10 13:39:32:297    [0mGet phy blk for 1018 fail when read
+10-10 13:39:32:297    [32m[6175] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:298    
+10-10 13:39:32:298    [0mGet phy blk for 1019 fail when read
+10-10 13:39:32:298    [32m[6185] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:298    
+10-10 13:39:32:299    [0mGet phy blk for 1020 fail when read
+10-10 13:39:32:299    [32m[6195] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:299    
+10-10 13:39:32:299    [0mGet phy blk for 1021 fail when read
+10-10 13:39:32:300    [32m[6206] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:300    
+10-10 13:39:32:300    [0mGet phy blk for 1022 fail when read
+10-10 13:39:32:301    [32m[6216] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:301    
+10-10 13:39:32:301    [0mGet phy blk for 1023 fail when read
+10-10 13:39:32:302    [32m[6227] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:302    
+10-10 13:39:32:302    [0mGet phy blk for 1024 fail when read
+10-10 13:39:32:303    [32m[6237] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:303    
+10-10 13:39:32:304    [0mGet phy blk for 1025 fail when read
+10-10 13:39:32:304    [32m[6248] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:323    
+10-10 13:39:32:324    [0mGet phy blk for 1026 fail when read
+10-10 13:39:32:324    [32m[6258] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:325    
+10-10 13:39:32:325    [0mGet phy blk for 1027 fail when read
+10-10 13:39:32:325    [32m[6268] I/drv.spi_nand main: rt_nand_read_page RES 0
+10-10 13:39:32:326    
+10-10 13:39:32:327    [0m
+10-10 13:39:32:510    mount:0
+10-10 13:39:32:511    mount fs on flash to root success
+10-10 13:39:32:512    [FlashDB] Starting i
+10-10 13:39:32:513    nitialization...
+10-10 13:39:32:514    [FlashDB] Mutex initialized
+10-10 13:39:32:514    [FlashDB] KVDB Config:
+10-10 13:39:32:515      Path: /sys/db/fdb_kvdb
+10-10 13:39:32:515      Sector Size: 4096
+10-10 13:39:32:516      Max Size: 16384 (0x4000)
+10-10 13:39:32:516      File Mode: true
+10-10 13:39:32:522    [FlashDB] KVDB initialized successfully
+10-10 13:39:32:523    [FlashDB] TSDB Config:
+10-10 13:39:32:523      Path: /sys/db/fdb_tsdb
+10-10 13:39:32:524      Max Size: 16384
+10-10 13:39:32:526    [FlashDB] TSDB initialized successfully
+10-10 13:39:32:527    [FlashDB] All initialization complete
+10-10 13:39:32:527    [32m[8439] I/drv.lcd app_watc: [NONE] -> [OPENING]
+10-10 13:39:32:528    [0m[32m[8445] I/drv.lcd lcd_task: open
+10-10 13:39:32:529    [0m[32m[8449] I/drv.epic lcd_task: drv_gpu opened.
+10-10 13:39:32:530    [0m[32m[8455] I/drv.lcd lcd_task: HW open
+10-10 13:39:32:531    [0m[32m[8466] I/drv.lcd lcd_task: Try registered LCD driver...
+10-10 13:39:32:546    [0mmsh />
+10-10 13:39:32:701    [32m[10043] I/NO_TAG lcd_task: 
+10-10 13:39:32:702    SH8603B_Init 
+10-10 13:39:32:702    
+10-10 13:39:32:703    [0m
+10-10 13:39:32:902    SH8603B_Init_Finish
+10-10 13:39:32:915    [32m[12027] I/NO_TAG lcd_task: 
+10-10 13:39:32:916     lcd_error  SH8603B_ReadID 0x0 
+10-10 13:39:32:916    
+10-10 13:39:32:917    [0m[32m[12035] I/drv.lcd lcd_task: Found lcd SH8603B id:9c03h
+10-10 13:39:32:917    [0m[32m[12042] I/drv.lcd lcd_task: HW open done.
+10-10 13:39:32:918    [0m[32m[12047] I/drv.lcd lcd_task: [OPENING] -> [INITIALIZED]
+10-10 13:39:32:919    [0m[32m[12054] I/drv.lcd lcd_task: open done.
+10-10 13:39:32:920    [0m[32m[12059] I/drv.lcd_fb app_watc: drv_lcd_fb_init
+10-10 13:39:32:920    [0m[32m[12066] I/drv.lcd_fb app_watc: drv_lcd_fb_init done.
+10-10 13:39:32:921    [0m[32m[12074] I/TOUCH app_watc: Open
+10-10 13:39:32:921    [0m[32m[12079] I/TOUCH tp_init: Find touch screen driver...
+10-10 13:39:32:922    [0m[32m[12085] I/TOUCH tp_init: Probe 100078c5
+10-10 13:39:32:923    [0m[32m[12091] I/TOUCH tp_init: touch screen found driver  0x20037514, ft3169
+10-10 13:39:32:923    [0m[32m[12099] I/TOUCH app_watc: Opened.
+10-10 13:39:32:925    [0m
+10-10 13:39:32:925    [32m[12122] I/LVGL app_watc: [littlevgl2rtt] Welcome to the littlevgl2rtt lib.
+10-10 13:39:32:927    [0m[vibrator] GPIO ready on PAD_PA20 (pin=20)
+10-10 13:39:33:008    [31m[12884] E/drv.ft3169 tp_init: ft3169 id_H=64
+10-10 13:39:33:009    [0m[31m[12890] E/drv.ft3169 tp_init: ft3169 id_L=56
+10-10 13:39:33:010    [0m
+10-10 13:39:33:142    Boot count: 4
+10-10 13:39:33:185    [32m[14170] I/drv.rtc app_watc: Get initial cycles: 1036223 rtc=1735689601.0039
+10-10 13:39:33:189    
+10-10 13:39:33:190    [0m[32m[14227] I/drv.rtc app_watc: Get initial cycles: 1036223 rtc=1735689600.0039
+10-10 13:39:33:191    
+10-10 13:39:33:191    [0m[datetime_utils] Loaded datetime: 2025-01-01 00:00:00
+10-10 13:39:33:192    [32m[14248] I/drv.lcd lcd_task: set brightness 100
+10-10 13:39:33:192    [0mlcd_debug run  SH8603B_SetBrightness br = 100, bright = 255
+10-10 13:39:33:193    [32m[14261] I/drv.lcd lcd_task: display on
+10-10 13:39:33:194    [0mlcd_debug  SH8603B_DisplayOn
+10-10 13:39:33:194    [32m[14269] I/drv.lcd lcd_task: [INITIALIZED] -> [ON]
+10-10 13:39:33:194    [0m[14277] D/APP.FWK app_watc: send msg[GUI_APP_MSG_RUN_APP] [Watchface] to gui_app_mbx tick:1495.
+10-10 13:39:33:195    [32m[14287] I/APP.FWK.INT app_watc: [Watchface]
+10-10 13:39:33:195    [0m[14571] D/APP.SCHE app_watc: ----------------app_schedule_task---------------start
+10-10 13:39:33:196    [32m[14580] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_RUN_APP] tick:1495
+10-10 13:39:33:196    [0m[32m[14588] I/APP.SCHE app_watc: app[Watchface] do LOAD, 2006415c
+10-10 13:39:33:197    [0m[32m[14596] I/APP.FWK app_watc: finding Watchface in builtin apps...
+10-10 13:39:33:197    [0m[14604] D/APP.SCHE app_watc: app[Watchface] tgt_state [LAUNCHED] -> [RUNNING]
+10-10 13:39:33:197    [32m[14612] I/APP.SCHE app_watc: app[Watchface] do START, 2006415c
+10-10 13:39:33:198    [0m[32m[14620] I/APP.FWK.INT app_watc: [Watchface]
+10-10 13:39:33:198    [0m[14626] D/APP.FWK app_watc: send msg[GUI_APP_MSG_OPEN_PAGE] [0x2006415c] to gui_app_mbx tick:1532.
+10-10 13:39:33:199    [32m[14636] I/APP.SCHE app_watc: >>Execute msg[GUI_APP_MSG_OPEN_PAGE] tick:1532
+10-10 13:39:33:199    [0m[14645] D/APP.SCHE app_watc: app[Watchface] create page[root] 20063f48
+10-10 13:39:33:200    [14653] D/APP.SCHE app_watc: page[Watchface][root] tgt_state [CREATED] -> [RESUMED]
+10-10 13:39:33:200    [14661] D/APP.SCHE app_watc: Pause all app, and resume to Watchface app
+10-10 13:39:33:201    [32m[14671] I/APP.SCHE app_watc: page[Watchface][root] do ONSTART, 20063f48
+10-10 13:39:33:202    [0m[32m[14680] I/APP.SCHE app_watc: page[Watchface][root] do ONRESUME, 20063f48
+10-10 13:39:33:203    [0m[32m[14688] I/APP.SCHE app_watc: Try setup trans-anim
+10-10 13:39:33:204    [0m[32m[14695] I/APP.SCHE app_watc: Trans-anim is OFF, skip.
+10-10 13:39:33:204    [0m[14702] D/APP.SCHE app_watc: app_sched
+10-10 13:39:33:205    ule_task done.

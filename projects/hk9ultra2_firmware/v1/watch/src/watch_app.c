@@ -12,6 +12,9 @@
 #include "utils/datetime_utils.h"
 #include "utils/config_utils.h"
 #include "utils/custom_trans_anim.h"
+#include "perf/vibrator_perf.h"
+#include "perf/crown_pref.h"
+#include "utils/gl_styles.h"
 
 #define APP_WATCH_GUI_TASK_STACK_SIZE 16 * 1024
 #define LCD_DEVICE_NAME "lcd"
@@ -44,22 +47,6 @@ static void on_down_btn_callback(button_action_t event)
 {
     if (event == BUTTON_PRESSED)
     {
-        rt_kprintf("Button Down pressed");
-    }
-}
-
-static void on_left_btn_callback(button_action_t event)
-{
-    if (event == BUTTON_PRESSED)
-    {
-        rt_kprintf("Button Left pressed");
-    }
-}
-
-static void on_crown_btn_callback(button_action_t event)
-{
-    if (event == BUTTON_PRESSED)
-    {
         if (gui_app_is_actived(WATCHFACE_APP_NAME))
         {
             gui_app_run(MENU_APP_NAME);
@@ -75,11 +62,29 @@ static void on_crown_btn_callback(button_action_t event)
     }
 }
 
+static void on_left_btn_callback(button_action_t event)
+{
+    if (event == BUTTON_PRESSED)
+    {
+        rt_kprintf("Button Left pressed");
+    }
+}
+
+static void on_crown_btn_callback(button_action_t event)
+{
+    if (event == BUTTON_PRESSED)
+    {
+        rt_kprintf("Crown Button Pressed");
+    }
+}
+
 static void app_watch_entry()
 {
     lcd_device = rt_device_find(LCD_DEVICE_NAME);
     rt_err_t r = littlevgl2rtt_init(LCD_DEVICE_NAME);
     RT_ASSERT(RT_EOK == r);
+
+    vibrator_buzz(200);
 
     lv_ex_data_pool_init();
     resource_init();
@@ -94,14 +99,12 @@ static void app_watch_entry()
     int left_btn_id = perf_button_register(BSP_KEY3_PIN, LEFT_BUTTON_ACTIVE_POL);
     perf_button_add_trigger(left_btn_id, on_left_btn_callback);
 
+    crown_init();
+    gs_init();
     load_configurations(lcd_device);
 
     gui_app_init();
-
-    //lv_point_t pivot = {.x = LV_HOR_RES / 2, .y = LV_VER_RES / 2};
-    //cust_trans_anim_config(CUST_ANIM_TYPE_0, &pivot);
-
-    gui_app_run(MENU_APP_NAME);
+    gui_app_run(WATCHFACE_APP_NAME);
 
     lv_disp_trig_activity(NULL);
     lvsf_gesture_init(lv_layer_top());

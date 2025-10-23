@@ -63,6 +63,7 @@ static void on_start(void)
 
     lv_obj_t *scr = lv_scr_act();
     gif_init(scr);
+    gif_resume();
 }
 
 static void on_resume(void)
@@ -71,19 +72,16 @@ static void on_resume(void)
 
 static void on_pause(void)
 {
-    gif_deinit();
+
 }
 
 static void on_stop(void)
 {
-    gif_deinit();
+    
 }
 
 static void msg_handler(gui_app_msg_type_t msg, void *param)
 {
-    rt_thread_t self = rt_thread_self();
-    rt_kprintf("--------------------------------------[MSG] %d on thread: %s\n", msg, self ? self->name : "NULL");
-
     switch (msg)
     {
     case GUI_APP_MSG_ONSTART:

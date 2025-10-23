@@ -18,10 +18,10 @@ AddOption(
 # Check SDK
 SIFLI_SDK = os.getenv('SIFLI_SDK')
 if not SIFLI_SDK:
-    print("Please run set_env.bat in root folder of SIFLI SDK to set environment.")
+    print("[ERROR] Please run set_env.bat in root folder of SIFLI SDK to set environment.")
     Exit(1)
 
-# Prepare environment.
+# Prepare environment
 PrepareEnv()
 
 ################################## change rtconfig.xxx to customize build ########################################
@@ -31,22 +31,54 @@ AddBootLoader(SIFLI_SDK, rtconfig.CHIP)
 # Set default compile options
 SifliEnv()
 
+# Prepare target
 TARGET = rtconfig.OUTPUT_DIR + rtconfig.TARGET_NAME + '.' + rtconfig.TARGET_EXT
+
 # Prepare building environment
 objs = PrepareBuilding(None)
 env = GetCurrentEnv()
 
-# Build application.
+# Build application
 DoBuilding(TARGET, objs)
 
-# Add flash table build.
+# Add flash table build
 AddFTAB(SIFLI_SDK, rtconfig.CHIP)
 
 # Optionally add filesystem image when --add-disk is passed
+import os
+
 if GetOption('add_disk'):
-    print("[SConscript] --add-disk flag detected, generating filesystem image...")
-    fs_bin = FileSystemBuild("../../disk", env)
-    AddCustomImg("fs_root", bin=[fs_bin])
+    disk_path = os.path.abspath("../disk")
+    print("[DEBUG] Disk folder absolute path:", disk_path)
+
+    if not os.path.exists(disk_path):
+        print(f"[WARNING] Disk folder does not exist: {disk_path}")
+        print("[INFO] Skipping filesystem image generation.")
+    else:
+        # Recursively gather all files
+        all_files = []
+        for root, dirs, files in os.walk(disk_path):
+            for f in files:
+                full_path = os.path.join(root, f)
+                all_files.append(full_path)
+
+        if not all_files:
+            print("[WARNING] Disk folder contains no files. Skipping filesystem image generation.")
+        else:
+            print("[SConscript] --add-disk flag detected, generating filesystem image recursively...")
+            fs_bins = []
+            for f in all_files:
+                bin_file = FileSystemBuild(f, env)
+                if bin_file:
+                    fs_bins.append(bin_file)
+                else:
+                    print(f"[WARNING] FileSystemBuild ignored file: {f}")
+
+            if fs_bins:
+                AddCustomImg("fs_root", bin=fs_bins)
+                print(f"[INFO] Filesystem image added successfully with {len(fs_bins)} files.")
+            else:
+                print("[ERROR] No files were added. Check file types and env configuration.")
 
 # Generate download .bat script
 GenDownloadScript(env)

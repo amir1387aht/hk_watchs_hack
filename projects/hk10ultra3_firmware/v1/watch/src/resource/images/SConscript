@@ -30,6 +30,9 @@ else:
 
 img_flags = img_flags + '  -section ROM3_IMG '
 
+if GetDepend('EZIP_PAL_SUPPORT'):
+    img_flags += ' -pal_support 1'
+
 if GetDepend('LV_FB_LINE_NUM'):
     ers_v = align_to_power_of_two_and_str(GetConfigValue('LV_FB_LINE_NUM'))
 else:
